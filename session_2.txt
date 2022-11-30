@@ -1,0 +1,529 @@
+Hand #1182041841 - Holdem(No Limit) - $0.01/$0.02 - 2022/04/05 03:37:31 UTC
+Davisboro 6-max Seat #1 is the button
+Seat 1: bkg ($2.00)
+Seat 2: osjaguar1 ($2.01)
+Seat 3: Vermontster100 ($1.15)
+Seat 4: CoachTB ($2.00) is sitting out
+Seat 5: PabloDCab17 ($3.31)
+Seat 6: MezcalMule ($2.00)
+osjaguar1 posts the small blind $0.01
+Vermontster100 posts the big blind $0.02
+MezcalMule posts $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Th Qs]
+PabloDCab17 folds
+MezcalMule checks
+bkg folds
+osjaguar1 raises $0.09 to $0.10
+Vermontster100 folds
+MezcalMule folds
+Uncalled bet ($0.08) returned to osjaguar1
+osjaguar1 does not show
+*** SUMMARY ***
+Total pot $0.06
+Seat 1: bkg (button) folded on the Pre-Flop
+Seat 2: osjaguar1 did not show and won $0.06
+Seat 3: Vermontster100 (big blind) folded on the Pre-Flop
+Seat 5: PabloDCab17 folded on the Pre-Flop and did not bet
+Seat 6: MezcalMule folded on the Pre-Flop and did not bet
+
+Hand #1182042278 - Holdem(No Limit) - $0.01/$0.02 - 2022/04/05 03:37:55 UTC
+Davisboro 6-max Seat #2 is the button
+Seat 1: bkg ($2.00)
+Seat 2: osjaguar1 ($2.05)
+Seat 3: Vermontster100 ($1.13)
+Seat 4: CoachTB ($2.00) is sitting out
+Seat 5: PabloDCab17 ($3.31)
+Seat 6: MezcalMule ($1.98)
+Vermontster100 posts the small blind $0.01
+PabloDCab17 sits out
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [8s Jd]
+bkg folds
+osjaguar1 folds
+Vermontster100 calls $0.01
+MezcalMule checks
+*** FLOP *** [Jh 2h Ks]
+Main pot $0.04 | Rake $0.00
+Vermontster100 bets $0.04
+MezcalMule calls $0.04
+*** TURN *** [Jh 2h Ks] [7s]
+Main pot $0.12 | Rake $0.00
+Vermontster100 bets $0.06
+MezcalMule calls $0.06
+*** RIVER *** [Jh 2h Ks 7s] [3d]
+Main pot $0.23 | Rake $0.01
+Vermontster100 checks
+MezcalMule checks
+*** SHOW DOWN ***
+Main pot $0.23 | Rake $0.01
+Vermontster100 shows [Qh 6h] (a high card, King high [Ks Qh Jh 7s 6h])
+MezcalMule shows [8s Jd] (a pair of Jacks [Jh Jd Ks 8s 7s])
+MezcalMule collected $0.23 from main pot
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01
+Board [Jh 2h Ks 7s 3d]
+Seat 1: bkg folded on the Pre-Flop and did not bet
+Seat 2: osjaguar1 (button) folded on the Pre-Flop
+Seat 3: Vermontster100 (small blind) showed [Qh 6h] and lost with a high card, King high [Ks Qh Jh 7s 6h]
+Seat 6: MezcalMule (big blind) showed [8s Jd] and won $0.23 with a pair of Jacks [Jh Jd Ks 8s 7s]
+
+Hand #1182043069 - Holdem(No Limit) - $0.01/$0.02 - 2022/04/05 03:38:41 UTC
+Davisboro 6-max Seat #3 is the button
+Seat 1: bkg ($2.00)
+Seat 2: osjaguar1 ($2.05)
+Seat 3: Vermontster100 ($1.01)
+Seat 4: CoachTB ($2.00) is sitting out
+Seat 6: MezcalMule ($2.09)
+MezcalMule posts the small blind $0.01
+bkg posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Qh 2h]
+osjaguar1 folds
+Vermontster100 calls $0.02
+MezcalMule calls $0.01
+bkg checks
+*** FLOP *** [8c Jh 2s]
+Main pot $0.06 | Rake $0.00
+MezcalMule checks
+bkg checks
+Vermontster100 checks
+*** TURN *** [8c Jh 2s] [7d]
+Main pot $0.06 | Rake $0.00
+MezcalMule bets $0.03
+bkg calls $0.03
+Vermontster100 folds
+*** RIVER *** [8c Jh 2s 7d] [Qd]
+Main pot $0.12 | Rake $0.00
+MezcalMule bets $0.12
+bkg calls $0.12
+*** SHOW DOWN ***
+Main pot $0.35 | Rake $0.01
+bkg shows [6d Jc] (a pair of Jacks [Jh Jc Qd 8c 7d])
+MezcalMule shows [Qh 2h] (two pair, Queens and Deuces [Qh Qd 2s 2h Jh])
+MezcalMule collected $0.35 from main pot
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.01
+Board [8c Jh 2s 7d Qd]
+Seat 1: bkg (big blind) showed [6d Jc] and lost with a pair of Jacks [Jh Jc Qd 8c 7d]
+Seat 2: osjaguar1 folded on the Pre-Flop and did not bet
+Seat 3: Vermontster100 (button) folded on the Turn
+Seat 6: MezcalMule (small blind) showed [Qh 2h] and won $0.35 with two pair, Queens and Deuces [Qh Qd 2s 2h Jh]
+
+Hand #1182044511 - Holdem(No Limit) - $0.01/$0.02 - 2022/04/05 03:40:02 UTC
+Davisboro 6-max Seat #6 is the button
+Seat 1: bkg ($1.83)
+Seat 2: osjaguar1 ($2.05)
+Seat 3: Vermontster100 ($0.99)
+Seat 4: CoachTB ($2.00) is sitting out
+Seat 5: SanCubAAs ($2.00)
+Seat 6: MezcalMule ($2.27)
+bkg posts the small blind $0.01
+osjaguar1 posts the big blind $0.02
+SanCubAAs waits for big blind
+*** HOLE CARDS ***
+Dealt to MezcalMule [7h 2d]
+Vermontster100 folds
+MezcalMule folds
+bkg raises $0.04 to $0.05
+osjaguar1 folds
+Uncalled bet ($0.03) returned to bkg
+bkg does not show
+*** SUMMARY ***
+Total pot $0.04
+Seat 1: bkg did not show and won $0.04
+Seat 2: osjaguar1 (big blind) folded on the Pre-Flop
+Seat 3: Vermontster100 folded on the Pre-Flop and did not bet
+Seat 6: MezcalMule (button) folded on the Pre-Flop
+
+Hand #1182044785 - Holdem(No Limit) - $0.01/$0.02 - 2022/04/05 03:40:18 UTC
+Davisboro 6-max Seat #1 is the button
+Seat 1: bkg ($1.85)
+Seat 2: osjaguar1 ($2.03)
+Seat 3: Vermontster100 ($0.99)
+Seat 5: SanCubAAs ($2.00)
+Seat 6: MezcalMule ($2.27)
+osjaguar1 posts the small blind $0.01
+Vermontster100 posts the big blind $0.02
+SanCubAAs waits for big blind
+*** HOLE CARDS ***
+Dealt to MezcalMule [3s Th]
+MezcalMule folds
+bkg folds
+osjaguar1 folds
+Vermontster100 does not show
+*** SUMMARY ***
+Total pot $0.03
+Seat 1: bkg (button) folded on the Pre-Flop
+Seat 2: osjaguar1 (small blind) folded on the Pre-Flop
+Seat 3: Vermontster100 did not show and won $0.03
+Seat 6: MezcalMule folded on the Pre-Flop and did not bet
+
+Hand #1182045295 - Holdem(No Limit) - $0.01/$0.02 - 2022/04/05 03:40:45 UTC
+Davisboro 6-max Seat #2 is the button
+Seat 1: bkg ($1.85)
+Seat 2: osjaguar1 ($2.02)
+Seat 3: Vermontster100 ($1.00)
+Seat 5: SanCubAAs ($2.00)
+Seat 6: MezcalMule ($2.27)
+Vermontster100 posts the small blind $0.01
+SanCubAAs posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Kh 3h]
+MezcalMule folds
+bkg folds
+osjaguar1 folds
+Vermontster100 calls $0.01
+SanCubAAs checks
+*** FLOP *** [Td 4d 8h]
+Main pot $0.04 | Rake $0.00
+Vermontster100 checks
+SanCubAAs checks
+*** TURN *** [Td 4d 8h] [Kd]
+Main pot $0.04 | Rake $0.00
+Vermontster100 checks
+SanCubAAs checks
+*** RIVER *** [Td 4d 8h Kd] [2s]
+Main pot $0.04 | Rake $0.00
+Vermontster100 bets $0.04
+SanCubAAs folds
+Uncalled bet ($0.04) returned to Vermontster100
+Vermontster100 does not show
+*** SUMMARY ***
+Total pot $0.04
+Board [Td 4d 8h Kd 2s]
+Seat 1: bkg folded on the Pre-Flop and did not bet
+Seat 2: osjaguar1 (button) folded on the Pre-Flop
+Seat 3: Vermontster100 did not show and won $0.04
+Seat 5: SanCubAAs (big blind) folded on the River
+Seat 6: MezcalMule folded on the Pre-Flop and did not bet
+
+Hand #1182046099 - Holdem(No Limit) - $0.01/$0.02 - 2022/04/05 03:41:32 UTC
+Davisboro 6-max Seat #3 is the button
+Seat 1: bkg ($1.85)
+Seat 2: osjaguar1 ($2.02)
+Seat 3: Vermontster100 ($1.02)
+Seat 4: natalid6819 will be allowed to play after the button
+Seat 5: SanCubAAs ($2.00)
+Seat 6: MezcalMule ($2.27)
+SanCubAAs posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [5s 4d]
+bkg folds
+osjaguar1 folds
+Vermontster100 folds
+SanCubAAs folds
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.03
+Seat 1: bkg folded on the Pre-Flop and did not bet
+Seat 2: osjaguar1 folded on the Pre-Flop and did not bet
+Seat 3: Vermontster100 (button) folded on the Pre-Flop
+Seat 5: SanCubAAs (small blind) folded on the Pre-Flop
+Seat 6: MezcalMule did not show and won $0.03
+
+Hand #1182046461 - Holdem(No Limit) - $0.01/$0.02 - 2022/04/05 03:41:53 UTC
+Davisboro 6-max Seat #5 is the button
+Seat 1: bkg ($1.85)
+Seat 2: osjaguar1 ($2.02)
+Seat 3: Vermontster100 ($1.02)
+Seat 4: natalid6819 ($2.00)
+Seat 5: SanCubAAs ($2.00)
+Seat 6: MezcalMule ($2.28)
+MezcalMule posts the small blind $0.01
+bkg posts the big blind $0.02
+natalid6819 waits for big blind
+*** HOLE CARDS ***
+Dealt to MezcalMule [3c 6c]
+osjaguar1 folds
+Vermontster100 folds
+SanCubAAs folds
+MezcalMule raises $0.04 to $0.05
+bkg folds
+Uncalled bet ($0.03) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.04
+Seat 1: bkg (big blind) folded on the Pre-Flop
+Seat 2: osjaguar1 folded on the Pre-Flop and did not bet
+Seat 3: Vermontster100 folded on the Pre-Flop and did not bet
+Seat 5: SanCubAAs (button) folded on the Pre-Flop
+Seat 6: MezcalMule did not show and won $0.04
+
+Hand #1182047143 - Holdem(No Limit) - $0.01/$0.02 - 2022/04/05 03:42:35 UTC
+Davisboro 6-max Seat #6 is the button
+Seat 1: bkg ($1.83)
+Seat 2: osjaguar1 ($2.02)
+Seat 3: Vermontster100 ($1.02)
+Seat 4: natalid6819 ($2.00)
+Seat 5: SanCubAAs ($2.00)
+Seat 6: MezcalMule ($2.30)
+bkg posts the small blind $0.01
+osjaguar1 posts the big blind $0.02
+natalid6819 waits for big blind
+*** HOLE CARDS ***
+Dealt to MezcalMule [2s 3c]
+Vermontster100 folds
+SanCubAAs folds
+MezcalMule folds
+bkg raises $0.04 to $0.05
+osjaguar1 calls $0.03
+*** FLOP *** [Ad Ah 4s]
+Main pot $0.10 | Rake $0.00
+bkg checks
+osjaguar1 checks
+*** TURN *** [Ad Ah 4s] [Jd]
+Main pot $0.10 | Rake $0.00
+bkg checks
+osjaguar1 bets $0.07
+bkg calls $0.07
+*** RIVER *** [Ad Ah 4s Jd] [8s]
+Main pot $0.23 | Rake $0.01
+bkg checks
+osjaguar1 bets $0.24
+bkg folds
+Uncalled bet ($0.24) returned to osjaguar1
+osjaguar1 does not show
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01
+Board [Ad Ah 4s Jd 8s]
+Seat 1: bkg (small blind) folded on the River
+Seat 2: osjaguar1 did not show and won $0.23
+Seat 3: Vermontster100 folded on the Pre-Flop and did not bet
+Seat 5: SanCubAAs folded on the Pre-Flop and did not bet
+Seat 6: MezcalMule (button) folded on the Pre-Flop
+
+Hand #1182048904 - Holdem(No Limit) - $0.01/$0.02 - 2022/04/05 03:44:15 UTC
+Davisboro 6-max Seat #1 is the button
+Seat 1: bkg ($1.71)
+Seat 2: osjaguar1 ($2.13)
+Seat 3: Vermontster100 ($1.02)
+Seat 4: natalid6819 ($2.00)
+Seat 5: SanCubAAs ($2.00)
+Seat 6: MezcalMule ($2.30)
+osjaguar1 posts the small blind $0.01
+Vermontster100 posts the big blind $0.02
+natalid6819 waits for big blind
+*** HOLE CARDS ***
+Dealt to MezcalMule [5s 8d]
+SanCubAAs folds
+MezcalMule folds
+bkg folds
+osjaguar1 raises $0.05 to $0.06
+Vermontster100 calls $0.04
+*** FLOP *** [Qs Tc Qh]
+Main pot $0.12 | Rake $0.00
+osjaguar1 bets $0.06
+Vermontster100 folds
+Uncalled bet ($0.06) returned to osjaguar1
+osjaguar1 does not show
+*** SUMMARY ***
+Total pot $0.12
+Board [Qs Tc Qh]
+Seat 1: bkg (button) folded on the Pre-Flop
+Seat 2: osjaguar1 did not show and won $0.12
+Seat 3: Vermontster100 (big blind) folded on the Flop
+Seat 5: SanCubAAs folded on the Pre-Flop and did not bet
+Seat 6: MezcalMule folded on the Pre-Flop and did not bet
+
+Hand #1182049588 - Holdem(No Limit) - $0.01/$0.02 - 2022/04/05 03:44:55 UTC
+Davisboro 6-max Seat #2 is the button
+Seat 1: bkg ($1.71)
+Seat 2: osjaguar1 ($2.19)
+Seat 3: Vermontster100 ($0.96)
+Seat 4: natalid6819 ($2.00)
+Seat 5: SanCubAAs ($2.00)
+Seat 6: MezcalMule ($2.30)
+Vermontster100 posts the small blind $0.01
+natalid6819 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Qh 7h]
+SanCubAAs folds
+MezcalMule raises $0.04 to $0.04
+bkg raises $0.15 to $0.15
+osjaguar1 folds
+Vermontster100 folds
+natalid6819 folds
+MezcalMule folds
+Uncalled bet ($0.11) returned to bkg
+bkg does not show
+*** SUMMARY ***
+Total pot $0.11
+Seat 1: bkg did not show and won $0.11
+Seat 2: osjaguar1 (button) folded on the Pre-Flop
+Seat 3: Vermontster100 (small blind) folded on the Pre-Flop
+Seat 4: natalid6819 (big blind) folded on the Pre-Flop
+Seat 5: SanCubAAs folded on the Pre-Flop and did not bet
+Seat 6: MezcalMule folded on the Pre-Flop and did not bet
+
+Hand #1182050701 - Holdem(No Limit) - $0.01/$0.02 - 2022/04/05 03:45:59 UTC
+Davisboro 6-max Seat #3 is the button
+Seat 1: bkg ($1.78)
+Seat 2: osjaguar1 ($2.19)
+Seat 3: Vermontster100 ($0.95)
+Seat 4: natalid6819 ($2.00)
+Seat 5: SanCubAAs ($2.00)
+Seat 6: MezcalMule ($2.26)
+natalid6819 posts the small blind $0.01
+SanCubAAs posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Tc 4d]
+MezcalMule folds
+bkg folds
+osjaguar1 raises $0.06 to $0.06
+Vermontster100 folds
+natalid6819 folds
+SanCubAAs folds
+Uncalled bet ($0.04) returned to osjaguar1
+osjaguar1 does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: bkg folded on the Pre-Flop and did not bet
+Seat 2: osjaguar1 did not show and won $0.05
+Seat 3: Vermontster100 (button) folded on the Pre-Flop
+Seat 4: natalid6819 (small blind) folded on the Pre-Flop
+Seat 5: SanCubAAs (big blind) folded on the Pre-Flop
+Seat 6: MezcalMule folded on the Pre-Flop and did not bet
+
+Hand #1182051278 - Holdem(No Limit) - $0.01/$0.02 - 2022/04/05 03:46:33 UTC
+Davisboro 6-max Seat #4 is the button
+Seat 1: bkg ($1.78)
+Seat 2: osjaguar1 ($2.22)
+Seat 3: Vermontster100 ($0.95)
+Seat 4: natalid6819 ($2.00)
+Seat 5: SanCubAAs ($2.00)
+Seat 6: MezcalMule ($2.26)
+SanCubAAs posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Qc As]
+bkg raises $0.05 to $0.05
+osjaguar1 folds
+Vermontster100 folds
+natalid6819 folds
+SanCubAAs calls $0.04
+MezcalMule calls $0.03
+*** FLOP *** [Kd 8d 7h]
+Main pot $0.15 | Rake $0.00
+SanCubAAs checks
+MezcalMule checks
+bkg checks
+*** TURN *** [Kd 8d 7h] [7c]
+Main pot $0.15 | Rake $0.00
+SanCubAAs checks
+MezcalMule checks
+bkg checks
+*** RIVER *** [Kd 8d 7h 7c] [7d]
+Main pot $0.15 | Rake $0.00
+SanCubAAs checks
+MezcalMule checks
+bkg bets $0.11
+SanCubAAs folds
+MezcalMule calls $0.11
+*** SHOW DOWN ***
+Main pot $0.36 | Rake $0.01
+bkg shows [6s 6h] (a full house, Sevens full of Sixs [7h 7d 7c 6s 6h])
+MezcalMule shows [Qc As] (three of a kind, Set of Sevens [7h 7d 7c As Kd])
+bkg collected $0.36 from main pot
+*** SUMMARY ***
+Total pot $0.36 | Rake $0.01
+Board [Kd 8d 7h 7c 7d]
+Seat 1: bkg showed [6s 6h] and won $0.36 with a full house, Sevens full of Sixs [7h 7d 7c 6s 6h]
+Seat 2: osjaguar1 folded on the Pre-Flop and did not bet
+Seat 3: Vermontster100 folded on the Pre-Flop and did not bet
+Seat 4: natalid6819 (button) folded on the Pre-Flop
+Seat 5: SanCubAAs (small blind) folded on the River
+Seat 6: MezcalMule (big blind) showed [Qc As] and lost with three of a kind, Set of Sevens [7h 7d 7c As Kd]
+
+Hand #1182052927 - Holdem(No Limit) - $0.01/$0.02 - 2022/04/05 03:48:11 UTC
+Davisboro 6-max Seat #5 is the button
+Seat 1: bkg ($1.98)
+Seat 2: osjaguar1 ($2.22)
+Seat 3: Vermontster100 ($0.95)
+Seat 4: natalid6819 ($2.00)
+Seat 5: SanCubAAs ($2.00)
+Seat 6: MezcalMule ($2.10)
+MezcalMule posts the small blind $0.01
+bkg posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Jc Ac]
+osjaguar1 folds
+Vermontster100 calls $0.02
+natalid6819 raises $0.05 to $0.05
+SanCubAAs raises $0.18 to $0.18
+MezcalMule calls $0.17
+bkg folds
+Vermontster100 calls $0.16
+natalid6819 calls $0.13
+*** FLOP *** [3c Ks Qc]
+Main pot $0.71 | Rake $0.03
+MezcalMule checks
+Vermontster100 bets $0.55
+natalid6819 folds
+SanCubAAs folds
+MezcalMule calls $0.55
+*** TURN *** [3c Ks Qc] [9h]
+Main pot $1.75 | Rake $0.09
+MezcalMule checks
+Vermontster100 bets $0.22 and is all-in
+MezcalMule calls $0.22
+*** RIVER *** [3c Ks Qc 9h] [6c]
+Main pot $2.17 | Rake $0.11
+*** SHOW DOWN ***
+Main pot $2.17 | Rake $0.11
+Vermontster100 shows [Qh Tc] (a pair of Queens [Qh Qc Ks Tc 9h])
+MezcalMule shows [Jc Ac] (a flush, Ace high [Ac Qc Jc 6c 3c])
+MezcalMule collected $2.17 from main pot
+*** SUMMARY ***
+Total pot $2.17 | Rake $0.09 | JP Fee $0.02
+Board [3c Ks Qc 9h 6c]
+Seat 1: bkg (big blind) folded on the Pre-Flop
+Seat 2: osjaguar1 folded on the Pre-Flop and did not bet
+Seat 3: Vermontster100 showed [Qh Tc] and lost with a pair of Queens [Qh Qc Ks Tc 9h]
+Seat 4: natalid6819 folded on the Flop
+Seat 5: SanCubAAs (button) folded on the Flop
+Seat 6: MezcalMule (small blind) showed [Jc Ac] and won $2.17 with a flush, Ace high [Ac Qc Jc 6c 3c]
+
+Hand #1182054903 - Holdem(No Limit) - $0.01/$0.02 - 2022/04/05 03:50:11 UTC
+Davisboro 6-max Seat #6 is the button
+Seat 1: bkg ($1.96)
+Seat 2: osjaguar1 ($2.22)
+Seat 3: Vermontster100 ($0.00) is sitting out
+Seat 4: natalid6819 ($2.00)
+Seat 5: SanCubAAs ($2.00)
+Seat 6: MezcalMule ($3.32)
+bkg posts the small blind $0.01
+osjaguar1 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Qc 5c]
+natalid6819 raises $0.06 to $0.06
+SanCubAAs folds
+MezcalMule calls $0.06
+bkg folds
+osjaguar1 folds
+*** FLOP *** [7c 2d 9c]
+Main pot $0.15 | Rake $0.00
+natalid6819 bets $0.11
+MezcalMule calls $0.11
+*** TURN *** [7c 2d 9c] [2c]
+Main pot $0.36 | Rake $0.01
+natalid6819 bets $0.18
+MezcalMule calls $0.18
+*** RIVER *** [7c 2d 9c 2c] [Ts]
+Main pot $0.70 | Rake $0.03
+natalid6819 bets $0.22
+MezcalMule raises $0.80 to $0.80
+natalid6819 folds
+Uncalled bet ($0.58) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $1.12 | Rake $0.05
+Board [7c 2d 9c 2c Ts]
+Seat 1: bkg (small blind) folded on the Pre-Flop
+Seat 2: osjaguar1 (big blind) folded on the Pre-Flop
+Seat 4: natalid6819 folded on the River
+Seat 5: SanCubAAs folded on the Pre-Flop and did not bet
+Seat 6: MezcalMule did not show and won $1.12
+
