@@ -35,7 +35,7 @@ Usage reminders:
 
 1) Program users must edit summ.c to ensure their username is set as the USERNAME macro.
 
-2) Session files must be located in the same directory as summ.c when it is compiled, so that the
+2) Session files must be renamed and located in the same directory as summ.c when it is compiled, so that the
 executables can be run as follows: ./a.out session_[session number].txt (in our case: ./summ session_x.txt).
 
 3) Makefile is prepared. To compile program type 'make' in terminal. To run program type 'make run' into terminal.
