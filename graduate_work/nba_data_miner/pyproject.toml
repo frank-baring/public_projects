@@ -1,0 +1,25 @@
+[tool.poetry]
+name = "nba_data_miner"
+version = "0.1.0"
+description = "A package to help with searching and comparing players and teams in the NBA."
+authors = ["Francis Baring"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+pandas = "^1.5.2"
+numpy = "^1.23.5"
+requests = "^2.28.1"
+html5lib = "^1.1"
+beautifulsoup4 = "^4.11.1"
+helper-functions = "^2.0.11"
+
+[tool.poetry.dev-dependencies]
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^7.2.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
