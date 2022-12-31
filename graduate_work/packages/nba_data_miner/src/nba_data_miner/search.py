@@ -3,8 +3,8 @@ import requests
 import pandas as pd
 import html5lib
 import os
-from helper_functions import abrv_translator
-from helper_functions import get_espn_team,get_espn_player
+from nba_data_miner.helper_functions import abrv_translator
+from nba_data_miner.helper_functions import get_espn_team,get_espn_player
 from json import dumps, loads
 from pandas import json_normalize
 

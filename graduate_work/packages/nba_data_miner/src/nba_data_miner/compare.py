@@ -4,9 +4,9 @@ import pandas as pd
 import numpy as np
 import os
 import html5lib
-import search
-from helper_functions import abrv_translator
-from helper_functions import get_espn_team,get_espn_player
+from nba_data_miner import search
+from nba_data_miner.helper_functions import abrv_translator
+from nba_data_miner.helper_functions import get_espn_team,get_espn_player
 from json import dumps, loads
 from pandas import json_normalize
 
@@ -29,33 +29,36 @@ def teams(team1,team2):
     >>> from nba_data_miner import compare
     >>> compare.teams("Suns","Nets")
           stat  Phoenix Suns  Brooklyn Nets
-    0       GP        28.000          29.00
+    0       GP         28.00          29.00
     1       GS           NaN            NaN
     2      MIN           NaN            NaN
-    3      PTS       115.400         112.50
-    4       OR        12.100           8.10
-    5       DR        31.000          32.70
-    6      REB        43.200          40.80
-    7      AST        27.400          26.10
-    8      STL         7.300           7.00
-    9      BLK         5.500           7.00
-    10      TO        13.000          14.10
-    11      PF        21.800          21.90
-    12  AST/TO         2.100           1.80
-    13     FGM        43.100          41.90
-    14     FGA        91.600          84.00
-    15     FG%        47.000          49.90
-    16     3PM        13.000          11.60
-    17     3PA        34.500          31.40
-    18     3P%        37.600          37.00
-    19     FTM        16.300          17.00
-    20     FTA        20.200          21.40
-    21     FT%        80.700          79.40
-    22     2PM        30.100          30.30
-    23     2PA        57.000          52.60
-    24     2P%        52.700          57.60
-    25  SC-EFF         1.261           1.34
-    26  SH-EFF         0.540           0.57
+    3      PTS        115.40         112.50
+    4       OR         12.10           8.10
+    5       DR         31.00          32.70
+    6      REB         43.20          40.80
+    7      AST         27.40          26.10
+    8      STL          7.30           7.00
+    9      BLK          5.50           7.00
+    10      TO         13.00          14.10
+    11      PF         21.80          21.90
+    12  AST/TO          2.10           1.80
+    13     FGM         43.10          41.90
+    14     FGA         91.60          84.00
+    15     FG%         47.00          49.90
+    16     3PM         13.00          11.60
+    17     3PA         34.50          31.40
+    18     3P%         37.60          37.00
+    19     FTM         16.30          17.00
+    20     FTA         20.20          21.40
+    21     FT%         80.70          79.40
+    22     2PM         30.10          30.30
+    23     2PA         57.00          52.60
+    24     2P%         52.70          57.60
+    25  SC-EFF          1.26           1.34
+    26  SH-EFF          0.54           0.57
+    
+    * Values will be different when used but the returned
+      data frame should match the above structure.
     """
     # Get names for web scraping
     abrv1 = search.team(team1).abrv
@@ -74,10 +77,11 @@ def teams(team1,team2):
 
     # Return final data frame
     df_final = pd.DataFrame({'stat' : team2_dict['metrics'],
-                             search.team(team1).name : team1_dict['values'],
+                             search.team(team1).name : np.round(team1_dict['values'],2),
                              search.team(team2).name : team2_dict['values']})
-    
-    print(df_final)
+
+    return df_final
+   
 
 
 def players(player1,player2):
@@ -99,33 +103,36 @@ def players(player1,player2):
     >>> from nba_data_miner import compare
     >>> compare.players("Al Horford","Lebron James")
           stat  Al Horford  LeBron James
-    0       GP      20.000         20.00
-    1       GS      20.000         20.00
-    2      MIN      31.600         36.30
-    3      PTS      10.200         26.50
-    4       OR       1.000          1.50
-    5       DR       5.300          7.20
-    6      REB       6.300          8.60
-    7      AST       2.800          6.50
-    8      STL       0.500          1.30
-    9      BLK       1.000          0.60
-    10      TO       0.800          3.30
-    11      PF       2.000          2.00
-    12  AST/TO       3.700          2.00
-    13     FGM       4.000         10.40
-    14     FGA       7.400         21.90
-    15     FG%      53.700         47.50
-    16     3PM       2.100          2.40
-    17     3PA       4.400          7.50
-    18     3P%      46.600         31.50
-    19     FTM       0.300          3.40
-    20     FTA       0.400          4.80
-    21     FT%      62.500         70.50
-    22     2PM       1.900          8.10
-    23     2PA       3.000         14.50
-    24     2P%      64.400         55.70
-    25  SC-EFF       1.388          1.21
-    26  SH-EFF       0.680          0.53
+    0       GP       20.00         20.00
+    1       GS       20.00         20.00
+    2      MIN       31.60         36.30
+    3      PTS       10.20         26.50
+    4       OR        1.00          1.50
+    5       DR        5.30          7.20
+    6      REB        6.30          8.60
+    7      AST        2.80          6.50
+    8      STL        0.50          1.30
+    9      BLK        1.00          0.60
+    10      TO        0.80          3.30
+    11      PF        2.00          2.00
+    12  AST/TO        3.70          2.00
+    13     FGM        4.00         10.40
+    14     FGA        7.40         21.90
+    15     FG%       53.70         47.50
+    16     3PM        2.10          2.40
+    17     3PA        4.40          7.50
+    18     3P%       46.60         31.50
+    19     FTM        0.30          3.40
+    20     FTA        0.40          4.80
+    21     FT%       62.50         70.50
+    22     2PM        1.90          8.10
+    23     2PA        3.00         14.50
+    24     2P%       64.40         55.70
+    25  SC-EFF        1.39          1.21
+    26  SH-EFF        0.68          0.53
+    
+    * Values will be different when used but the returned
+      data frame should match the above structure.
     """
     # First check that the user is searching player by first and last name.
     if len(player1.split()) < 2 or len(player2.split()) < 2 :
@@ -169,8 +176,7 @@ def players(player1,player2):
         for i in range(0,len(stats_values)):
             if players_final[i] not in df_final.columns:
                 df_final.insert(loc = df_final.shape[1], column = players_final[i], 
-                                                            value = stats_values[i])
-            
+                                                value = np.round(stats_values[i],2))
         print(df_final)
     
 
