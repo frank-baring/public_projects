@@ -2,12 +2,10 @@
 import requests
 import pandas as pd
 import numpy as np
-import os
 import html5lib
 from nba_data_miner import search
 from nba_data_miner.helper_functions import abrv_translator
 from nba_data_miner.helper_functions import get_espn_team,get_espn_player
-from json import dumps, loads
 from pandas import json_normalize
 
 def teams(team1,team2):
@@ -177,6 +175,6 @@ def players(player1,player2):
             if players_final[i] not in df_final.columns:
                 df_final.insert(loc = df_final.shape[1], column = players_final[i], 
                                                 value = np.round(stats_values[i],2))
-        print(df_final)
+        return(df_final)
     
 

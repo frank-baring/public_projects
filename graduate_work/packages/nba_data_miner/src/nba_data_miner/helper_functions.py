@@ -1,9 +1,7 @@
 # Import libraries
 import requests
 import pandas as pd
-import os
 import html5lib
-from json import dumps, loads
 from pandas import json_normalize
 
 def abrv_translator(abrv_in):

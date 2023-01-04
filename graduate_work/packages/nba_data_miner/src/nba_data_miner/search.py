@@ -2,10 +2,8 @@
 import requests
 import pandas as pd
 import html5lib
-import os
 from nba_data_miner.helper_functions import abrv_translator
 from nba_data_miner.helper_functions import get_espn_team,get_espn_player
-from json import dumps, loads
 from pandas import json_normalize
 
 ###### CLASSES #############
@@ -136,7 +134,7 @@ def team(team = ""):
         espn_players_list = pd.read_html(espn_players,flavor='html5lib')
         espn_players_df = espn_players_list[0]
         espn_players_df.drop('Unnamed: 0', inplace = True, axis = 1)
-        espn_players_df['Name'] = espn_players_df['Name'].str.replace('\d+', '', regex = True)
+        espn_players_df['Name'] = espn_players_df['Name'].str.replace(r'\d+', '', regex = True)
         espn_players_dict = espn_players_df.to_dict('index')
         
         # Make new team object with data
