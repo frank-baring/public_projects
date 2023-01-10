@@ -4,11 +4,11 @@
 int main()
 {
     // Declare Variables	
-	double price = 0.0;
-	double coupon;
-	double timeToMaturity;
-	double YTM;
-	double par;
+    double price = 0.0;
+    double coupon;
+    double timeToMaturity;
+    double YTM;
+    double par;
 
     // Retrieve bond features from user
     printf("\nEnter years to maturity: ");
