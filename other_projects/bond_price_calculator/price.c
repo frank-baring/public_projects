@@ -8,7 +8,7 @@ int main()
 	double coupon;
 	double timeToMaturity;
 	double YTM;
-    double par;
+	double par;
 
     // Retrieve bond features from user
 	printf("\nEnter years to maturity: ");
@@ -37,7 +37,7 @@ int main()
 	price = price + (par / pow(1+YTM, i-1));
 
     // Print price
-	printf("Price: %.2lf\n", price);
+	printf("Price: $%.2lf\n", price);
 
 	return 0;
 }
