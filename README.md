@@ -9,3 +9,4 @@ CONTENTS:
  - Games
  - Undergraduate work
  - Postgraduate work
+ - Other projects
