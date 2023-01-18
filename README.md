@@ -6,7 +6,7 @@ phone: 9292567754
 
 
 CONTENTS:
- - Games
  - Undergraduate work
  - Postgraduate work
+ - Games
  - Other projects
