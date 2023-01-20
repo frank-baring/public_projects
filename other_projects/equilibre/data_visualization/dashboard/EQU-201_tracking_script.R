@@ -19,7 +19,7 @@ status = "DEV"
 setwd("C:/Users/FrankBaring/OneDrive - Equilibre/Documents/EQU-001/EQU-201/subject_seizure_count")
 
 #Function libraries
-source("C:/Users/FrankBaring/OneDrive - Equilibre/Documents/R/functions/EQU201_seizure_tracking/EQU201_seizure_tracking_script[FUNC].R")
+source("./functions/EQU201_seizure_tracking_script[FUNC].R")
 
 #Mend rounding function
 round.off <- function (x, digits=0) 
