@@ -17,29 +17,37 @@ function Resume() {
             />
             <h3 className="font-link">Education: </h3>
             <div align={alignment} className="font-link">
-                ● Master of Arts in Quantitative Methods in the Social Sciences<br/>
+                ● Columbia University, Graduate School of Arts and Sciences<br/>
+                &nbsp;&nbsp;&nbsp;New York, NY, USA<br/>
+                <em>&nbsp;&nbsp;&nbsp;August 2022 - December 2023</em>
                 <ul>
+                    <li>Master of Arts in Quantitative Methods in the Social Sciences</li>
                     <li>Specialization in data science with a focus on sports analytics and machine learning</li>
                 </ul>
-                ● Bachelor of Arts: Major in English Literature, minor in Computer Science
+                ● Columbia University, Columbia College<br/>
+                &nbsp;&nbsp;&nbsp;New York, NY, USA<br/>
+                <em>&nbsp;&nbsp;&nbsp;August 2017 - April 2021</em>
                 <ul>
+                    <li>Bachelor of Arts: Major in English Literature, minor in Computer Science</li>
                     <li>Placement on the Dean’s List for highly commended students</li>
                 </ul>
             </div>
             <h3 className="font-link">Professional Experience: </h3>
             <div align={alignment} className='font-link'>
                 ● Data Analyst Intern: Penelope<br/>
+                &nbsp;&nbsp;&nbsp;New York, NY, USA<br/>
                 <em>&nbsp;&nbsp;&nbsp;February 2023 - Present</em>
                 <ul>
                     <li>Designed and implemented a conversion marketing accelerator in python, with automated data collection
-                    and cleaning. With this new tool, the company achieved 25% growth in client acquisition.</li>
+                    and cleaning. With this new tool, the company achieved 25% growth in client acquisition</li>
                     <li>Provided in-depth analytics reporting on marketing efficacy, using a range of tools such as
-                    A/B testing, generative probability modeling, logistic regression and random forrest. </li>
+                    A/B testing, generative probability modeling, logistic regression and random forrest </li>
                     <li>Built an interactive dashboard in Tableau that provides data insights and live updates on
-                        marketing progress for all company personnel.
+                        marketing progress, to be used by all company personnel
                     </li>
                 </ul>
                 ● Data Analyst: Équilibre Biopharmaceuticals Corp<br/>
+                &nbsp;&nbsp;&nbsp;New York, NY, USA<br/>
                 <em>&nbsp;&nbsp;&nbsp;August 2022 - December 2022</em>
                 <ul>
                     <li>Worked with the biostatistics team to conduct in-depth analysis on various data sets from
@@ -50,6 +58,7 @@ function Resume() {
                         subsequent code testing by 35%</li>
                 </ul>
                 ● Associate Director of Data Management: Équilibre Biopharmaceuticals Corp<br/>
+                &nbsp;&nbsp;&nbsp;New York, NY, USA<br/>
                 <em>&nbsp;&nbsp;&nbsp;August 2021 - August 2022</em>
                 <ul>
                     <li>Built and maintained an in-house database for a series of clinical trials in phases 2 and 3 of drug
@@ -59,6 +68,7 @@ function Resume() {
                         operations by 40%</li>
                 </ul>
                 ● Associate Consultant Intern: Konrad Group<br/>
+                &nbsp;&nbsp;&nbsp;New York, NY, USA<br/>
                 <em>&nbsp;&nbsp;&nbsp;May - August 2020</em>
                 <ul>
                     <li>Worked closely with a team of software developers and cloud computing specialists to create
