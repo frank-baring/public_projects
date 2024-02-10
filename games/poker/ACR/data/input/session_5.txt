@@ -1,0 +1,3809 @@
+Hand #996648557 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 01:04:00 UTC
+Ignacio 6-max Seat #2 is the button
+Seat 1: nickgolf328 ($2.56)
+Seat 2: NoodleDo ($2.00)
+Seat 3: Lillie1313 ($2.14)
+Seat 4: MezcalMule ($2.00)
+Seat 5: FreshMind ($2.01)
+Seat 6: Chaser892 ($2.13)
+Lillie1313 posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Kc Ts]
+FreshMind folds
+Chaser892 folds
+nickgolf328 folds
+NoodleDo folds
+Lillie1313 calls $0.01
+MezcalMule checks
+*** FLOP *** [8c 7s Qs]
+Main pot $0.04 | Rake $0.00
+Lillie1313 checks
+MezcalMule bets $0.03
+Lillie1313 folds
+Lillie1313 shows [Ah -]
+Uncalled bet ($0.03) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.04
+Board [8c 7s Qs]
+Seat 1: nickgolf328 folded on the Pre-Flop and did not bet
+Seat 2: NoodleDo (button) folded on the Pre-Flop
+Seat 3: Lillie1313 (small blind) showed [Ah -] and folded on the Flop
+Seat 4: MezcalMule did not show and won $0.04
+Seat 5: FreshMind folded on the Pre-Flop and did not bet
+Seat 6: Chaser892 folded on the Pre-Flop and did not bet
+
+Hand #996649562 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 01:04:50 UTC
+Ignacio 6-max Seat #3 is the button
+Seat 1: nickgolf328 ($2.56)
+Seat 2: NoodleDo ($2.00)
+Seat 3: Lillie1313 ($2.12)
+Seat 4: MezcalMule ($2.02)
+Seat 5: FreshMind ($2.01)
+Seat 6: Chaser892 ($2.13)
+MezcalMule posts the small blind $0.01
+FreshMind posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [9s 3h]
+Chaser892 folds
+nickgolf328 folds
+NoodleDo calls $0.02
+Lillie1313 folds
+MezcalMule folds
+FreshMind checks
+*** FLOP *** [5d 2s 2c]
+Main pot $0.05 | Rake $0.00
+FreshMind checks
+NoodleDo checks
+*** TURN *** [5d 2s 2c] [Tc]
+Main pot $0.05 | Rake $0.00
+FreshMind bets $0.02
+NoodleDo calls $0.02
+*** RIVER *** [5d 2s 2c Tc] [Ac]
+Main pot $0.09 | Rake $0.00
+FreshMind checks
+NoodleDo checks
+*** SHOW DOWN ***
+Main pot $0.09 | Rake $0.00
+NoodleDo shows [Kd 7d] (a pair of Deuces [2s 2c Ac Kd Tc])
+FreshMind shows [Jh Ts] (two pair, Tens and Deuces [Ts Tc 2s 2c Ac])
+FreshMind collected $0.09 from main pot
+*** SUMMARY ***
+Total pot $0.09
+Board [5d 2s 2c Tc Ac]
+Seat 1: nickgolf328 folded on the Pre-Flop and did not bet
+Seat 2: NoodleDo showed [Kd 7d] and lost with a pair of Deuces [2s 2c Ac Kd Tc]
+Seat 3: Lillie1313 (button) folded on the Pre-Flop
+Seat 4: MezcalMule (small blind) folded on the Pre-Flop
+Seat 5: FreshMind (big blind) showed [Jh Ts] and won $0.09 with two pair, Tens and Deuces [Ts Tc 2s 2c Ac]
+Seat 6: Chaser892 folded on the Pre-Flop and did not bet
+
+Hand #996650516 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 01:05:37 UTC
+Ignacio 6-max Seat #4 is the button
+Seat 1: nickgolf328 ($2.56)
+Seat 2: NoodleDo ($2.00)
+Seat 3: Lillie1313 ($2.12) is sitting out
+Seat 4: MezcalMule ($2.01)
+Seat 5: FreshMind ($2.06)
+Seat 6: Chaser892 ($2.13)
+FreshMind posts the small blind $0.01
+Chaser892 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [6c 4c]
+nickgolf328 folds
+NoodleDo calls $0.02
+MezcalMule raises $0.04 to $0.04
+FreshMind folds
+Chaser892 calls $0.02
+NoodleDo calls $0.02
+*** FLOP *** [6s 2d 7d]
+Main pot $0.13 | Rake $0.00
+Chaser892 checks
+NoodleDo bets $0.06
+MezcalMule calls $0.06
+Chaser892 folds
+*** TURN *** [6s 2d 7d] [Kc]
+Main pot $0.24 | Rake $0.01
+NoodleDo bets $0.06
+MezcalMule folds
+Uncalled bet ($0.06) returned to NoodleDo
+NoodleDo does not show
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01
+Board [6s 2d 7d Kc]
+Seat 1: nickgolf328 folded on the Pre-Flop and did not bet
+Seat 2: NoodleDo did not show and won $0.24
+Seat 4: MezcalMule (button) folded on the Turn
+Seat 5: FreshMind (small blind) folded on the Pre-Flop
+Seat 6: Chaser892 (big blind) folded on the Flop
+
+Hand #996651741 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 01:06:36 UTC
+Ignacio 6-max Seat #5 is the button
+Seat 1: nickgolf328 ($2.56)
+Seat 2: NoodleDo ($2.14)
+Seat 3: Lillie1313 ($2.12) is sitting out
+Seat 4: MezcalMule ($1.91)
+Seat 5: FreshMind ($2.05)
+Seat 6: Chaser892 ($2.09)
+Chaser892 posts the small blind $0.01
+nickgolf328 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Td 9h]
+NoodleDo folds
+MezcalMule raises $0.04 to $0.04
+FreshMind folds
+Chaser892 folds
+nickgolf328 calls $0.02
+*** FLOP *** [Jc 4s Th]
+Main pot $0.09 | Rake $0.00
+nickgolf328 checks
+MezcalMule checks
+*** TURN *** [Jc 4s Th] [2d]
+Main pot $0.09 | Rake $0.00
+nickgolf328 checks
+MezcalMule bets $0.06
+nickgolf328 folds
+Uncalled bet ($0.06) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.09
+Board [Jc 4s Th 2d]
+Seat 1: nickgolf328 (big blind) folded on the Turn
+Seat 2: NoodleDo folded on the Pre-Flop and did not bet
+Seat 4: MezcalMule did not show and won $0.09
+Seat 5: FreshMind (button) folded on the Pre-Flop
+Seat 6: Chaser892 (small blind) folded on the Pre-Flop
+
+Hand #996653140 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 01:07:47 UTC
+Ignacio 6-max Seat #6 is the button
+Seat 1: nickgolf328 ($2.52)
+Seat 2: NoodleDo ($2.14)
+Seat 3: Lillie1313 ($2.12) is sitting out
+Seat 4: MezcalMule ($1.96)
+Seat 5: FreshMind ($2.05)
+Seat 6: Chaser892 ($2.08)
+nickgolf328 posts the small blind $0.01
+NoodleDo posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [4h 2c]
+MezcalMule folds
+FreshMind raises $0.05 to $0.05
+Chaser892 folds
+nickgolf328 folds
+NoodleDo calls $0.03
+*** FLOP *** [8c 4c 7h]
+Main pot $0.11 | Rake $0.00
+NoodleDo checks
+FreshMind checks
+*** TURN *** [8c 4c 7h] [5s]
+Main pot $0.11 | Rake $0.00
+NoodleDo bets $0.08
+FreshMind folds
+Uncalled bet ($0.08) returned to NoodleDo
+NoodleDo does not show
+*** SUMMARY ***
+Total pot $0.11
+Board [8c 4c 7h 5s]
+Seat 1: nickgolf328 (small blind) folded on the Pre-Flop
+Seat 2: NoodleDo did not show and won $0.11
+Seat 4: MezcalMule folded on the Pre-Flop and did not bet
+Seat 5: FreshMind folded on the Turn
+Seat 6: Chaser892 (button) folded on the Pre-Flop
+
+Hand #996653801 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 01:08:20 UTC
+Ignacio 6-max Seat #1 is the button
+Seat 1: nickgolf328 ($2.51)
+Seat 2: NoodleDo ($2.20)
+Seat 3: Lillie1313 ($2.12) is sitting out
+Seat 4: MezcalMule ($1.96)
+Seat 5: FreshMind ($2.00)
+Seat 6: Chaser892 ($2.08)
+NoodleDo posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [8d Jd]
+FreshMind folds
+Chaser892 calls $0.02
+nickgolf328 folds
+NoodleDo calls $0.01
+MezcalMule raises $0.02 to $0.04
+Chaser892 calls $0.02
+NoodleDo calls $0.02
+*** FLOP *** [4c Qh 5d]
+Main pot $0.12 | Rake $0.00
+NoodleDo checks
+MezcalMule checks
+Chaser892 checks
+*** TURN *** [4c Qh 5d] [8s]
+Main pot $0.12 | Rake $0.00
+NoodleDo checks
+MezcalMule checks
+Chaser892 checks
+*** RIVER *** [4c Qh 5d 8s] [3h]
+Main pot $0.12 | Rake $0.00
+NoodleDo checks
+MezcalMule bets $0.09
+Chaser892 folds
+NoodleDo folds
+Uncalled bet ($0.09) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.12
+Board [4c Qh 5d 8s 3h]
+Seat 1: nickgolf328 (button) folded on the Pre-Flop
+Seat 2: NoodleDo (small blind) folded on the River
+Seat 4: MezcalMule did not show and won $0.12
+Seat 5: FreshMind folded on the Pre-Flop and did not bet
+Seat 6: Chaser892 folded on the River
+
+Hand #996655266 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 01:09:35 UTC
+Ignacio 6-max Seat #2 is the button
+Seat 1: nickgolf328 ($2.51)
+Seat 2: NoodleDo ($2.16)
+Seat 3: Lillie1313 ($2.12) is sitting out
+Seat 4: MezcalMule ($2.04)
+Seat 5: FreshMind ($2.00)
+Seat 6: Chaser892 ($2.04)
+MezcalMule posts the small blind $0.01
+FreshMind posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [2d 6h]
+Chaser892 calls $0.02
+nickgolf328 folds
+NoodleDo folds
+MezcalMule folds
+FreshMind checks
+*** FLOP *** [7s Kc 2h]
+Main pot $0.05 | Rake $0.00
+FreshMind checks
+Chaser892 checks
+*** TURN *** [7s Kc 2h] [9c]
+Main pot $0.05 | Rake $0.00
+FreshMind checks
+Chaser892 bets $0.03
+FreshMind calls $0.03
+*** RIVER *** [7s Kc 2h 9c] [Ts]
+Main pot $0.11 | Rake $0.00
+FreshMind checks
+Chaser892 bets $0.04
+FreshMind calls $0.04
+*** SHOW DOWN ***
+Main pot $0.19 | Rake $0.00
+FreshMind shows [4h 9d] (a pair of Nines [9d 9c Kc Ts 7s])
+Chaser892 shows [Th Ac] (a pair of Tens [Ts Th Ac Kc 9c])
+Chaser892 collected $0.19 from main pot
+*** SUMMARY ***
+Total pot $0.19
+Board [7s Kc 2h 9c Ts]
+Seat 1: nickgolf328 folded on the Pre-Flop and did not bet
+Seat 2: NoodleDo (button) folded on the Pre-Flop
+Seat 4: MezcalMule (small blind) folded on the Pre-Flop
+Seat 5: FreshMind (big blind) showed [4h 9d] and lost with a pair of Nines [9d 9c Kc Ts 7s]
+Seat 6: Chaser892 showed [Th Ac] and won $0.19 with a pair of Tens [Ts Th Ac Kc 9c]
+
+Hand #996656472 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 01:10:34 UTC
+Ignacio 6-max Seat #4 is the button
+Seat 1: nickgolf328 ($2.51)
+Seat 2: NoodleDo ($2.16)
+Seat 3: Lillie1313 ($2.12) is sitting out
+Seat 4: MezcalMule ($2.03)
+Seat 5: FreshMind ($1.91)
+Seat 6: Chaser892 ($2.14)
+FreshMind posts the small blind $0.01
+Chaser892 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [5d Jd]
+nickgolf328 folds
+NoodleDo folds
+MezcalMule raises $0.04 to $0.04
+FreshMind folds
+Chaser892 folds
+Uncalled bet ($0.02) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: nickgolf328 folded on the Pre-Flop and did not bet
+Seat 2: NoodleDo folded on the Pre-Flop and did not bet
+Seat 4: MezcalMule did not show and won $0.05
+Seat 5: FreshMind (small blind) folded on the Pre-Flop
+Seat 6: Chaser892 (big blind) folded on the Pre-Flop
+
+Hand #996656933 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 01:10:57 UTC
+Ignacio 6-max Seat #5 is the button
+Seat 1: nickgolf328 ($2.51)
+Seat 2: NoodleDo ($2.16)
+Seat 3: Lillie1313 ($2.12) is sitting out
+Seat 4: MezcalMule ($2.06)
+Seat 5: FreshMind ($1.90)
+Seat 6: Chaser892 ($2.12)
+Chaser892 posts the small blind $0.01
+nickgolf328 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [3s 4s]
+NoodleDo folds
+MezcalMule raises $0.07 to $0.07
+FreshMind folds
+Chaser892 folds
+nickgolf328 calls $0.05
+*** FLOP *** [5s 2h 4c]
+Main pot $0.15 | Rake $0.00
+nickgolf328 checks
+MezcalMule checks
+*** TURN *** [5s 2h 4c] [Th]
+Main pot $0.15 | Rake $0.00
+nickgolf328 checks
+MezcalMule bets $0.11
+nickgolf328 folds
+Uncalled bet ($0.11) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.15
+Board [5s 2h 4c Th]
+Seat 1: nickgolf328 (big blind) folded on the Turn
+Seat 2: NoodleDo folded on the Pre-Flop and did not bet
+Seat 4: MezcalMule did not show and won $0.15
+Seat 5: FreshMind (button) folded on the Pre-Flop
+Seat 6: Chaser892 (small blind) folded on the Pre-Flop
+
+Hand #996657803 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 01:11:39 UTC
+Ignacio 6-max Seat #6 is the button
+Seat 1: nickgolf328 ($2.44)
+Seat 2: NoodleDo ($2.16)
+Seat 3: Lillie1313 ($2.12) is sitting out
+Seat 4: MezcalMule ($2.14)
+Seat 5: FreshMind ($1.90)
+Seat 6: Chaser892 ($2.11)
+nickgolf328 posts the small blind $0.01
+NoodleDo posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Kh 4s]
+MezcalMule folds
+FreshMind folds
+Chaser892 folds
+nickgolf328 folds
+NoodleDo does not show
+*** SUMMARY ***
+Total pot $0.03
+Seat 1: nickgolf328 (small blind) folded on the Pre-Flop
+Seat 2: NoodleDo did not show and won $0.03
+Seat 4: MezcalMule folded on the Pre-Flop and did not bet
+Seat 5: FreshMind folded on the Pre-Flop and did not bet
+Seat 6: Chaser892 (button) folded on the Pre-Flop
+
+Hand #996658128 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 01:11:54 UTC
+Ignacio 6-max Seat #1 is the button
+Seat 1: nickgolf328 ($2.43)
+Seat 2: NoodleDo ($2.17)
+Seat 3: Lillie1313 ($2.12) is sitting out
+Seat 4: MezcalMule ($2.14)
+Seat 5: FreshMind ($1.90)
+Seat 6: Chaser892 ($2.11)
+NoodleDo posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [3h 7s]
+FreshMind folds
+Chaser892 folds
+nickgolf328 raises $0.05 to $0.05
+NoodleDo folds
+MezcalMule folds
+Uncalled bet ($0.03) returned to nickgolf328
+nickgolf328 does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: nickgolf328 did not show and won $0.05
+Seat 2: NoodleDo (small blind) folded on the Pre-Flop
+Seat 4: MezcalMule (big blind) folded on the Pre-Flop
+Seat 5: FreshMind folded on the Pre-Flop and did not bet
+Seat 6: Chaser892 folded on the Pre-Flop and did not bet
+
+Hand #996658613 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 01:12:17 UTC
+Ignacio 6-max Seat #2 is the button
+Seat 1: nickgolf328 ($2.46)
+Seat 2: NoodleDo ($2.16)
+Seat 3: Lillie1313 ($2.12) is sitting out
+Seat 4: MezcalMule ($2.12)
+Seat 5: FreshMind ($1.90)
+Seat 6: Chaser892 ($2.11)
+MezcalMule posts the small blind $0.01
+FreshMind posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [4s Qh]
+Chaser892 folds
+nickgolf328 folds
+NoodleDo folds
+MezcalMule calls $0.01
+FreshMind checks
+*** FLOP *** [Th 4h 2s]
+Main pot $0.04 | Rake $0.00
+MezcalMule checks
+FreshMind checks
+*** TURN *** [Th 4h 2s] [2d]
+Main pot $0.04 | Rake $0.00
+MezcalMule bets $0.03
+FreshMind folds
+Uncalled bet ($0.03) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.04
+Board [Th 4h 2s 2d]
+Seat 1: nickgolf328 folded on the Pre-Flop and did not bet
+Seat 2: NoodleDo (button) folded on the Pre-Flop
+Seat 4: MezcalMule did not show and won $0.04
+Seat 5: FreshMind (big blind) folded on the Turn
+Seat 6: Chaser892 folded on the Pre-Flop and did not bet
+
+Hand #996660284 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 01:13:39 UTC
+Ignacio 6-max Seat #4 is the button
+Seat 1: nickgolf328 ($2.46)
+Seat 2: NoodleDo ($2.16)
+Seat 4: MezcalMule ($2.14)
+Seat 5: FreshMind ($1.88)
+Seat 6: Chaser892 ($2.11)
+FreshMind posts the small blind $0.01
+Chaser892 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [6d Tc]
+nickgolf328 folds
+NoodleDo folds
+MezcalMule folds
+FreshMind raises $0.05 to $0.06
+Chaser892 folds
+Uncalled bet ($0.04) returned to FreshMind
+FreshMind does not show
+*** SUMMARY ***
+Total pot $0.04
+Seat 1: nickgolf328 folded on the Pre-Flop and did not bet
+Seat 2: NoodleDo folded on the Pre-Flop and did not bet
+Seat 4: MezcalMule (button) folded on the Pre-Flop
+Seat 5: FreshMind did not show and won $0.04
+Seat 6: Chaser892 (big blind) folded on the Pre-Flop
+
+Hand #996660980 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 01:14:13 UTC
+Ignacio 6-max Seat #5 is the button
+Seat 1: nickgolf328 ($2.46)
+Seat 2: NoodleDo ($2.16)
+Seat 4: MezcalMule ($2.14)
+Seat 5: FreshMind ($1.90)
+Seat 6: Chaser892 ($2.09)
+Chaser892 posts the small blind $0.01
+nickgolf328 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [4d Kc]
+NoodleDo folds
+MezcalMule folds
+FreshMind raises $0.06 to $0.06
+Chaser892 folds
+nickgolf328 folds
+Uncalled bet ($0.04) returned to FreshMind
+FreshMind does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: nickgolf328 (big blind) folded on the Pre-Flop
+Seat 2: NoodleDo folded on the Pre-Flop and did not bet
+Seat 4: MezcalMule folded on the Pre-Flop and did not bet
+Seat 5: FreshMind did not show and won $0.05
+Seat 6: Chaser892 (small blind) folded on the Pre-Flop
+
+Hand #996661480 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 01:14:37 UTC
+Ignacio 6-max Seat #6 is the button
+Seat 1: nickgolf328 ($2.44)
+Seat 2: NoodleDo ($2.16)
+Seat 4: MezcalMule ($2.14)
+Seat 5: FreshMind ($1.93)
+Seat 6: Chaser892 ($2.08)
+nickgolf328 posts the small blind $0.01
+NoodleDo posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [7s 5d]
+MezcalMule folds
+FreshMind folds
+Chaser892 folds
+nickgolf328 folds
+NoodleDo shows [Ah 3h]
+*** SUMMARY ***
+Total pot $0.03
+Seat 1: nickgolf328 (small blind) folded on the Pre-Flop
+Seat 2: NoodleDo (big blind) showed [Ah 3h] and won $0.03
+Seat 4: MezcalMule folded on the Pre-Flop and did not bet
+Seat 5: FreshMind folded on the Pre-Flop and did not bet
+Seat 6: Chaser892 (button) folded on the Pre-Flop
+
+Hand #996661851 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 01:14:55 UTC
+Ignacio 6-max Seat #1 is the button
+Seat 1: nickgolf328 ($2.43)
+Seat 2: NoodleDo ($2.17)
+Seat 4: MezcalMule ($2.14)
+Seat 5: FreshMind ($1.93)
+Seat 6: Chaser892 ($2.08)
+NoodleDo posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [2s 6s]
+FreshMind folds
+Chaser892 folds
+nickgolf328 folds
+NoodleDo calls $0.01
+MezcalMule checks
+*** FLOP *** [7h 6d 4s]
+Main pot $0.04 | Rake $0.00
+NoodleDo checks
+MezcalMule bets $0.03
+NoodleDo folds
+Uncalled bet ($0.03) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.04
+Board [7h 6d 4s]
+Seat 1: nickgolf328 (button) folded on the Pre-Flop
+Seat 2: NoodleDo (small blind) folded on the Flop
+Seat 4: MezcalMule did not show and won $0.04
+Seat 5: FreshMind folded on the Pre-Flop and did not bet
+Seat 6: Chaser892 folded on the Pre-Flop and did not bet
+
+Hand #996662940 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 01:15:48 UTC
+Ignacio 6-max Seat #2 is the button
+Seat 1: nickgolf328 ($2.43)
+Seat 2: NoodleDo ($2.15)
+Seat 4: MezcalMule ($2.16)
+Seat 5: FreshMind ($1.93)
+Seat 6: Chaser892 ($2.08)
+MezcalMule posts the small blind $0.01
+FreshMind posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Jc Qc]
+Chaser892 folds
+nickgolf328 folds
+NoodleDo calls $0.02
+MezcalMule raises $0.07 to $0.08
+FreshMind folds
+NoodleDo folds
+Uncalled bet ($0.06) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.06
+Seat 1: nickgolf328 folded on the Pre-Flop and did not bet
+Seat 2: NoodleDo (button) folded on the Pre-Flop
+Seat 4: MezcalMule did not show and won $0.06
+Seat 5: FreshMind (big blind) folded on the Pre-Flop
+Seat 6: Chaser892 folded on the Pre-Flop and did not bet
+
+Hand #996663462 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 01:16:14 UTC
+Ignacio 6-max Seat #4 is the button
+Seat 1: nickgolf328 ($2.43)
+Seat 2: NoodleDo ($2.13)
+Seat 3: xin1575 ($2.00)
+Seat 4: MezcalMule ($2.20)
+Seat 5: FreshMind ($1.91)
+Seat 6: Chaser892 ($2.08)
+FreshMind posts the small blind $0.01
+Chaser892 posts the big blind $0.02
+xin1575 waits for big blind
+*** HOLE CARDS ***
+Dealt to MezcalMule [2c 8c]
+nickgolf328 folds
+NoodleDo folds
+MezcalMule folds
+FreshMind folds
+Chaser892 does not show
+*** SUMMARY ***
+Total pot $0.03
+Seat 1: nickgolf328 folded on the Pre-Flop and did not bet
+Seat 2: NoodleDo folded on the Pre-Flop and did not bet
+Seat 4: MezcalMule (button) folded on the Pre-Flop
+Seat 5: FreshMind (small blind) folded on the Pre-Flop
+Seat 6: Chaser892 did not show and won $0.03
+
+Hand #996663949 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 01:16:36 UTC
+Ignacio 6-max Seat #5 is the button
+Seat 1: nickgolf328 ($2.43)
+Seat 2: NoodleDo ($2.13)
+Seat 3: xin1575 ($2.00)
+Seat 4: MezcalMule ($2.20)
+Seat 5: FreshMind ($1.90)
+Seat 6: Chaser892 ($2.09)
+Chaser892 posts the small blind $0.01
+nickgolf328 posts the big blind $0.02
+xin1575 waits for big blind
+*** HOLE CARDS ***
+Dealt to MezcalMule [Kd 5s]
+NoodleDo folds
+MezcalMule folds
+FreshMind folds
+Chaser892 raises $0.03 to $0.04
+nickgolf328 calls $0.02
+*** FLOP *** [Qd 8h 3c]
+Main pot $0.08 | Rake $0.00
+Chaser892 checks
+nickgolf328 checks
+*** TURN *** [Qd 8h 3c] [Kc]
+Main pot $0.08 | Rake $0.00
+Chaser892 checks
+nickgolf328 checks
+*** RIVER *** [Qd 8h 3c Kc] [Ts]
+Main pot $0.08 | Rake $0.00
+Chaser892 bets $0.02
+nickgolf328 folds
+Uncalled bet ($0.02) returned to Chaser892
+Chaser892 does not show
+*** SUMMARY ***
+Total pot $0.08
+Board [Qd 8h 3c Kc Ts]
+Seat 1: nickgolf328 (big blind) folded on the River
+Seat 2: NoodleDo folded on the Pre-Flop and did not bet
+Seat 4: MezcalMule folded on the Pre-Flop and did not bet
+Seat 5: FreshMind (button) folded on the Pre-Flop
+Seat 6: Chaser892 did not show and won $0.08
+
+Hand #996665053 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 01:17:28 UTC
+Ignacio 6-max Seat #6 is the button
+Seat 1: nickgolf328 ($2.39)
+Seat 2: NoodleDo ($2.13)
+Seat 3: xin1575 ($2.00)
+Seat 4: MezcalMule ($2.20)
+Seat 5: FreshMind ($1.90)
+Seat 6: Chaser892 ($2.13)
+nickgolf328 posts the small blind $0.01
+NoodleDo posts the big blind $0.02
+xin1575 waits for big blind
+*** HOLE CARDS ***
+Dealt to MezcalMule [Kh 2s]
+MezcalMule folds
+FreshMind folds
+Chaser892 folds
+nickgolf328 folds
+NoodleDo does not show
+*** SUMMARY ***
+Total pot $0.03
+Seat 1: nickgolf328 (small blind) folded on the Pre-Flop
+Seat 2: NoodleDo did not show and won $0.03
+Seat 4: MezcalMule folded on the Pre-Flop and did not bet
+Seat 5: FreshMind folded on the Pre-Flop and did not bet
+Seat 6: Chaser892 (button) folded on the Pre-Flop
+
+Hand #996665282 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 01:17:39 UTC
+Ignacio 6-max Seat #1 is the button
+Seat 1: nickgolf328 ($2.38)
+Seat 2: NoodleDo ($2.14)
+Seat 3: xin1575 ($2.00)
+Seat 4: MezcalMule ($2.20)
+Seat 5: FreshMind ($1.90)
+Seat 6: Chaser892 ($2.13)
+NoodleDo posts the small blind $0.01
+xin1575 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Jc 6s]
+MezcalMule folds
+FreshMind folds
+Chaser892 folds
+nickgolf328 folds
+NoodleDo calls $0.01
+xin1575 checks
+*** FLOP *** [4d 4c 5h]
+Main pot $0.04 | Rake $0.00
+NoodleDo bets $0.02
+xin1575 raises $0.06 to $0.06
+NoodleDo calls $0.04
+*** TURN *** [4d 4c 5h] [Qd]
+Main pot $0.16 | Rake $0.00
+NoodleDo checks
+xin1575 bets $0.12
+NoodleDo folds
+Uncalled bet ($0.12) returned to xin1575
+xin1575 does not show
+*** SUMMARY ***
+Total pot $0.16
+Board [4d 4c 5h Qd]
+Seat 1: nickgolf328 (button) folded on the Pre-Flop
+Seat 2: NoodleDo (small blind) folded on the Turn
+Seat 3: xin1575 did not show and won $0.16
+Seat 4: MezcalMule folded on the Pre-Flop and did not bet
+Seat 5: FreshMind folded on the Pre-Flop and did not bet
+Seat 6: Chaser892 folded on the Pre-Flop and did not bet
+
+Hand #996666177 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 01:18:21 UTC
+Ignacio 6-max Seat #2 is the button
+Seat 1: nickgolf328 ($2.38)
+Seat 2: NoodleDo ($2.06)
+Seat 3: xin1575 ($2.08)
+Seat 4: MezcalMule ($2.20)
+Seat 5: FreshMind ($1.90)
+Seat 6: Chaser892 ($2.13)
+xin1575 posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [8h As]
+FreshMind folds
+Chaser892 folds
+nickgolf328 folds
+NoodleDo folds
+xin1575 raises $0.05 to $0.06
+MezcalMule calls $0.04
+*** FLOP *** [Kh 7h Ah]
+Main pot $0.12 | Rake $0.00
+xin1575 bets $0.07
+MezcalMule calls $0.07
+*** TURN *** [Kh 7h Ah] [Jh]
+Main pot $0.25 | Rake $0.01
+xin1575 checks
+MezcalMule checks
+*** RIVER *** [Kh 7h Ah Jh] [9c]
+Main pot $0.25 | Rake $0.01
+xin1575 checks
+MezcalMule bets $0.19
+xin1575 folds
+Uncalled bet ($0.19) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01
+Board [Kh 7h Ah Jh 9c]
+Seat 1: nickgolf328 folded on the Pre-Flop and did not bet
+Seat 2: NoodleDo (button) folded on the Pre-Flop
+Seat 3: xin1575 (small blind) folded on the River
+Seat 4: MezcalMule did not show and won $0.25
+Seat 5: FreshMind folded on the Pre-Flop and did not bet
+Seat 6: Chaser892 folded on the Pre-Flop and did not bet
+
+Hand #996667755 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 01:19:37 UTC
+Ignacio 6-max Seat #3 is the button
+Seat 1: nickgolf328 ($2.38)
+Seat 2: NoodleDo ($2.06)
+Seat 3: xin1575 ($2.00)
+Seat 4: MezcalMule ($2.32)
+Seat 5: FreshMind ($1.90)
+Seat 6: Chaser892 ($2.13)
+MezcalMule posts the small blind $0.01
+FreshMind posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [6h 7d]
+Chaser892 folds
+nickgolf328 folds
+NoodleDo folds
+xin1575 folds
+MezcalMule calls $0.01
+FreshMind checks
+*** FLOP *** [7h 8h Ks]
+Main pot $0.04 | Rake $0.00
+MezcalMule checks
+FreshMind bets $0.02
+MezcalMule calls $0.02
+*** TURN *** [7h 8h Ks] [Tc]
+Main pot $0.08 | Rake $0.00
+MezcalMule checks
+FreshMind bets $0.04
+MezcalMule calls $0.04
+*** RIVER *** [7h 8h Ks Tc] [3d]
+Main pot $0.16 | Rake $0.00
+MezcalMule checks
+FreshMind checks
+*** SHOW DOWN ***
+Main pot $0.16 | Rake $0.00
+MezcalMule shows [6h 7d] (a pair of Sevens [7h 7d Ks Tc 8h])
+FreshMind shows [Kh 4h] (a pair of Kings [Ks Kh Tc 8h 7h])
+FreshMind collected $0.16 from main pot
+*** SUMMARY ***
+Total pot $0.16
+Board [7h 8h Ks Tc 3d]
+Seat 1: nickgolf328 folded on the Pre-Flop and did not bet
+Seat 2: NoodleDo folded on the Pre-Flop and did not bet
+Seat 3: xin1575 (button) folded on the Pre-Flop
+Seat 4: MezcalMule (small blind) showed [6h 7d] and lost with a pair of Sevens [7h 7d Ks Tc 8h]
+Seat 5: FreshMind (big blind) showed [Kh 4h] and won $0.16 with a pair of Kings [Ks Kh Tc 8h 7h]
+Seat 6: Chaser892 folded on the Pre-Flop and did not bet
+
+Hand #996669427 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 01:20:57 UTC
+Ignacio 6-max Seat #4 is the button
+Seat 1: nickgolf328 ($2.38)
+Seat 2: NoodleDo ($2.06)
+Seat 3: xin1575 ($2.00)
+Seat 4: MezcalMule ($2.24)
+Seat 5: FreshMind ($1.98)
+Seat 6: Chaser892 ($2.13)
+FreshMind posts the small blind $0.01
+Chaser892 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [6d 6c]
+nickgolf328 folds
+NoodleDo folds
+xin1575 raises $0.05 to $0.05
+MezcalMule calls $0.05
+FreshMind folds
+Chaser892 calls $0.03
+*** FLOP *** [Js 7h 5s]
+Main pot $0.16 | Rake $0.00
+Chaser892 checks
+xin1575 checks
+MezcalMule checks
+*** TURN *** [Js 7h 5s] [Jh]
+Main pot $0.16 | Rake $0.00
+Chaser892 checks
+xin1575 checks
+MezcalMule bets $0.12
+Chaser892 folds
+xin1575 folds
+Uncalled bet ($0.12) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.16
+Board [Js 7h 5s Jh]
+Seat 1: nickgolf328 folded on the Pre-Flop and did not bet
+Seat 2: NoodleDo folded on the Pre-Flop and did not bet
+Seat 3: xin1575 folded on the Turn
+Seat 4: MezcalMule did not show and won $0.16
+Seat 5: FreshMind (small blind) folded on the Pre-Flop
+Seat 6: Chaser892 (big blind) folded on the Turn
+
+Hand #996671170 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 01:22:22 UTC
+Ignacio 6-max Seat #5 is the button
+Seat 1: nickgolf328 ($2.38)
+Seat 2: NoodleDo ($2.06)
+Seat 3: xin1575 ($2.00)
+Seat 4: MezcalMule ($2.35)
+Seat 5: StackedMaverick will be allowed to play after the button
+Seat 6: Chaser892 ($2.08)
+Chaser892 posts the small blind $0.01
+nickgolf328 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [4s 2c]
+NoodleDo folds
+xin1575 folds
+MezcalMule folds
+Chaser892 calls $0.01
+nickgolf328 checks
+*** FLOP *** [9d Tc 9c]
+Main pot $0.04 | Rake $0.00
+Chaser892 checks
+nickgolf328 checks
+*** TURN *** [9d Tc 9c] [Qh]
+Main pot $0.04 | Rake $0.00
+Chaser892 checks
+nickgolf328 checks
+*** RIVER *** [9d Tc 9c Qh] [3h]
+Main pot $0.04 | Rake $0.00
+Chaser892 checks
+nickgolf328 checks
+*** SHOW DOWN ***
+Main pot $0.04 | Rake $0.00
+nickgolf328 shows [7s Ah] (a pair of Nines [9d 9c Ah Qh Tc])
+Chaser892 shows [Ks 6h] (a pair of Nines [9d 9c Ks Qh Tc])
+nickgolf328 collected $0.04 from main pot
+*** SUMMARY ***
+Total pot $0.04
+Board [9d Tc 9c Qh 3h]
+Seat 1: nickgolf328 (big blind) showed [7s Ah] and won $0.04 with a pair of Nines [9d 9c Ah Qh Tc] with the kicker Ace
+Seat 2: NoodleDo folded on the Pre-Flop and did not bet
+Seat 3: xin1575 folded on the Pre-Flop and did not bet
+Seat 4: MezcalMule folded on the Pre-Flop and did not bet
+Seat 6: Chaser892 (small blind) showed [Ks 6h] and lost with a pair of Nines [9d 9c Ks Qh Tc]
+
+Hand #996672644 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 01:23:32 UTC
+Ignacio 6-max Seat #6 is the button
+Seat 1: nickgolf328 ($2.40)
+Seat 2: NoodleDo ($2.06)
+Seat 3: xin1575 ($2.00)
+Seat 4: MezcalMule ($2.35)
+Seat 5: StackedMaverick ($2.00)
+Seat 6: Chaser892 ($2.06)
+nickgolf328 posts the small blind $0.01
+NoodleDo posts the big blind $0.02
+StackedMaverick waits for big blind
+*** HOLE CARDS ***
+Dealt to MezcalMule [3d Ah]
+xin1575 folds
+MezcalMule folds
+Chaser892 folds
+nickgolf328 raises $0.05 to $0.06
+NoodleDo folds
+Uncalled bet ($0.04) returned to nickgolf328
+nickgolf328 does not show
+*** SUMMARY ***
+Total pot $0.04
+Seat 1: nickgolf328 did not show and won $0.04
+Seat 2: NoodleDo (big blind) folded on the Pre-Flop
+Seat 3: xin1575 folded on the Pre-Flop and did not bet
+Seat 4: MezcalMule folded on the Pre-Flop and did not bet
+Seat 6: Chaser892 (button) folded on the Pre-Flop
+
+Hand #996673364 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 01:24:05 UTC
+Ignacio 6-max Seat #1 is the button
+Seat 1: nickgolf328 ($2.42)
+Seat 2: NoodleDo ($2.04)
+Seat 3: xin1575 ($2.00)
+Seat 4: MezcalMule ($2.35)
+Seat 5: StackedMaverick ($2.00)
+Seat 6: Chaser892 ($2.06)
+NoodleDo posts the small blind $0.01
+xin1575 posts the big blind $0.02
+StackedMaverick waits for big blind
+*** HOLE CARDS ***
+Dealt to MezcalMule [9h Qc]
+MezcalMule folds
+Chaser892 folds
+nickgolf328 folds
+NoodleDo calls $0.01
+xin1575 checks
+*** FLOP *** [Jd Qd 3h]
+Main pot $0.04 | Rake $0.00
+NoodleDo checks
+xin1575 checks
+*** TURN *** [Jd Qd 3h] [Ac]
+Main pot $0.04 | Rake $0.00
+NoodleDo checks
+xin1575 checks
+*** RIVER *** [Jd Qd 3h Ac] [Ad]
+Main pot $0.04 | Rake $0.00
+NoodleDo checks
+xin1575 bets $0.04
+NoodleDo folds
+Uncalled bet ($0.04) returned to xin1575
+xin1575 does not show
+*** SUMMARY ***
+Total pot $0.04
+Board [Jd Qd 3h Ac Ad]
+Seat 1: nickgolf328 (button) folded on the Pre-Flop
+Seat 2: NoodleDo (small blind) folded on the River
+Seat 3: xin1575 did not show and won $0.04
+Seat 4: MezcalMule folded on the Pre-Flop and did not bet
+Seat 6: Chaser892 folded on the Pre-Flop and did not bet
+
+Hand #996674861 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 01:25:17 UTC
+Ignacio 6-max Seat #2 is the button
+Seat 1: nickgolf328 ($2.42)
+Seat 2: NoodleDo ($2.02)
+Seat 3: xin1575 ($2.02)
+Seat 4: MezcalMule ($2.35)
+Seat 5: StackedMaverick ($2.00)
+Seat 6: Chaser892 ($2.06)
+xin1575 posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+StackedMaverick waits for big blind
+*** HOLE CARDS ***
+Dealt to MezcalMule [9h 4s]
+Chaser892 folds
+nickgolf328 folds
+NoodleDo folds
+xin1575 raises $0.05 to $0.06
+MezcalMule folds
+Uncalled bet ($0.04) returned to xin1575
+xin1575 does not show
+*** SUMMARY ***
+Total pot $0.04
+Seat 1: nickgolf328 folded on the Pre-Flop and did not bet
+Seat 2: NoodleDo (button) folded on the Pre-Flop
+Seat 3: xin1575 did not show and won $0.04
+Seat 4: MezcalMule (big blind) folded on the Pre-Flop
+Seat 6: Chaser892 folded on the Pre-Flop and did not bet
+
+Hand #996675627 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 01:25:54 UTC
+Ignacio 6-max Seat #3 is the button
+Seat 1: nickgolf328 ($2.42)
+Seat 2: NoodleDo ($2.02)
+Seat 3: xin1575 ($2.04)
+Seat 4: MezcalMule ($2.33)
+Seat 5: StackedMaverick ($2.00)
+Seat 6: Chaser892 ($2.06)
+MezcalMule posts the small blind $0.01
+StackedMaverick posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Kc 3c]
+Chaser892 folds
+nickgolf328 raises $0.05 to $0.05
+NoodleDo folds
+xin1575 folds
+MezcalMule calls $0.04
+StackedMaverick calls $0.03
+*** FLOP *** [Jh 5h Jd]
+Main pot $0.15 | Rake $0.00
+MezcalMule checks
+StackedMaverick checks
+nickgolf328 checks
+*** TURN *** [Jh 5h Jd] [4h]
+Main pot $0.15 | Rake $0.00
+MezcalMule checks
+StackedMaverick checks
+nickgolf328 checks
+*** RIVER *** [Jh 5h Jd 4h] [Jc]
+Main pot $0.15 | Rake $0.00
+MezcalMule bets $0.11
+StackedMaverick calls $0.11
+nickgolf328 folds
+*** SHOW DOWN ***
+Main pot $0.36 | Rake $0.01
+MezcalMule shows [Kc 3c] (three of a kind, Set of Jacks [Jh Jd Jc Kc 5h])
+StackedMaverick shows [5d 4d] (a full house, Jacks full of Fives [Jh Jd Jc 5h 5d])
+StackedMaverick collected $0.36 from main pot
+*** SUMMARY ***
+Total pot $0.36 | Rake $0.01
+Board [Jh 5h Jd 4h Jc]
+Seat 1: nickgolf328 folded on the River
+Seat 2: NoodleDo folded on the Pre-Flop and did not bet
+Seat 3: xin1575 (button) folded on the Pre-Flop
+Seat 4: MezcalMule (small blind) showed [Kc 3c] and lost with three of a kind, Set of Jacks [Jh Jd Jc Kc 5h]
+Seat 5: StackedMaverick (big blind) showed [5d 4d] and won $0.36 with a full house, Jacks full of Fives [Jh Jd Jc 5h 5d]
+Seat 6: Chaser892 folded on the Pre-Flop and did not bet
+
+Hand #996677738 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 01:27:32 UTC
+Ignacio 6-max Seat #4 is the button
+Seat 1: nickgolf328 ($2.37)
+Seat 2: NoodleDo ($2.02)
+Seat 3: xin1575 ($2.04)
+Seat 4: MezcalMule ($2.17)
+Seat 5: StackedMaverick ($2.20)
+Seat 6: TheActuary ($2.00)
+StackedMaverick posts the small blind $0.01
+TheActuary posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [9h Kh]
+nickgolf328 folds
+NoodleDo raises $0.05 to $0.05
+xin1575 folds
+MezcalMule calls $0.05
+StackedMaverick folds
+TheActuary folds
+*** FLOP *** [3d Tc Ah]
+Main pot $0.13 | Rake $0.00
+NoodleDo bets $0.06
+MezcalMule folds
+Uncalled bet ($0.06) returned to NoodleDo
+NoodleDo does not show
+*** SUMMARY ***
+Total pot $0.13
+Board [3d Tc Ah]
+Seat 1: nickgolf328 folded on the Pre-Flop and did not bet
+Seat 2: NoodleDo did not show and won $0.13
+Seat 3: xin1575 folded on the Pre-Flop and did not bet
+Seat 4: MezcalMule (button) folded on the Flop
+Seat 5: StackedMaverick (small blind) folded on the Pre-Flop
+Seat 6: TheActuary (big blind) folded on the Pre-Flop
+
+Hand #996678636 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 01:28:15 UTC
+Ignacio 6-max Seat #5 is the button
+Seat 1: nickgolf328 ($2.37)
+Seat 2: NoodleDo ($2.10)
+Seat 3: xin1575 ($2.04)
+Seat 4: MezcalMule ($2.12)
+Seat 5: StackedMaverick ($2.19)
+Seat 6: TheActuary ($2.00)
+TheActuary posts the small blind $0.01
+nickgolf328 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [4c 8h]
+NoodleDo calls $0.02
+xin1575 folds
+MezcalMule folds
+StackedMaverick folds
+TheActuary folds
+nickgolf328 checks
+*** FLOP *** [7h Td Ks]
+Main pot $0.05 | Rake $0.00
+nickgolf328 checks
+NoodleDo checks
+*** TURN *** [7h Td Ks] [4h]
+Main pot $0.05 | Rake $0.00
+nickgolf328 checks
+NoodleDo bets $0.02
+nickgolf328 folds
+Uncalled bet ($0.02) returned to NoodleDo
+NoodleDo does not show
+*** SUMMARY ***
+Total pot $0.05
+Board [7h Td Ks 4h]
+Seat 1: nickgolf328 (big blind) folded on the Turn
+Seat 2: NoodleDo did not show and won $0.05
+Seat 3: xin1575 folded on the Pre-Flop and did not bet
+Seat 4: MezcalMule folded on the Pre-Flop and did not bet
+Seat 5: StackedMaverick (button) folded on the Pre-Flop
+Seat 6: TheActuary (small blind) folded on the Pre-Flop
+
+Hand #996679892 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 01:29:13 UTC
+Ignacio 6-max Seat #6 is the button
+Seat 1: nickgolf328 ($2.35)
+Seat 2: NoodleDo ($2.13)
+Seat 3: xin1575 ($2.04)
+Seat 4: MezcalMule ($2.12)
+Seat 5: StackedMaverick ($2.19)
+Seat 6: TheActuary ($2.00)
+nickgolf328 posts the small blind $0.01
+NoodleDo posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [2h 9h]
+xin1575 folds
+MezcalMule folds
+StackedMaverick raises $0.06 to $0.06
+TheActuary folds
+nickgolf328 folds
+NoodleDo calls $0.04
+*** FLOP *** [7c Th 5h]
+Main pot $0.13 | Rake $0.00
+NoodleDo checks
+StackedMaverick checks
+*** TURN *** [7c Th 5h] [7d]
+Main pot $0.13 | Rake $0.00
+NoodleDo bets $0.06
+StackedMaverick folds
+Uncalled bet ($0.06) returned to NoodleDo
+NoodleDo does not show
+*** SUMMARY ***
+Total pot $0.13
+Board [7c Th 5h 7d]
+Seat 1: nickgolf328 (small blind) folded on the Pre-Flop
+Seat 2: NoodleDo did not show and won $0.13
+Seat 3: xin1575 folded on the Pre-Flop and did not bet
+Seat 4: MezcalMule folded on the Pre-Flop and did not bet
+Seat 5: StackedMaverick folded on the Turn
+Seat 6: TheActuary (button) folded on the Pre-Flop
+
+Hand #996680839 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 01:29:58 UTC
+Ignacio 6-max Seat #1 is the button
+Seat 1: nickgolf328 ($2.34)
+Seat 2: NoodleDo ($2.20)
+Seat 3: xin1575 ($2.04)
+Seat 4: MezcalMule ($2.12)
+Seat 5: StackedMaverick ($2.13)
+Seat 6: TheActuary ($2.00)
+NoodleDo posts the small blind $0.01
+xin1575 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Jd Qh]
+MezcalMule calls $0.02
+StackedMaverick calls $0.02
+TheActuary folds
+nickgolf328 folds
+NoodleDo calls $0.01
+xin1575 checks
+*** FLOP *** [6h Qc 7s]
+Main pot $0.08 | Rake $0.00
+NoodleDo checks
+xin1575 checks
+MezcalMule bets $0.04
+StackedMaverick folds
+NoodleDo calls $0.04
+xin1575 folds
+*** TURN *** [6h Qc 7s] [9d]
+Main pot $0.16 | Rake $0.00
+NoodleDo checks
+MezcalMule checks
+*** RIVER *** [6h Qc 7s 9d] [9s]
+Main pot $0.16 | Rake $0.00
+NoodleDo checks
+MezcalMule bets $0.12
+NoodleDo calls $0.12
+*** SHOW DOWN ***
+Main pot $0.38 | Rake $0.02
+NoodleDo shows [8h 8s] (two pair, Nines and Eights [9s 9d 8s 8h Qc])
+MezcalMule shows [Jd Qh] (two pair, Queens and Nines [Qh Qc 9s 9d Jd])
+MezcalMule collected $0.38 from main pot
+*** SUMMARY ***
+Total pot $0.38 | Rake $0.02
+Board [6h Qc 7s 9d 9s]
+Seat 1: nickgolf328 (button) folded on the Pre-Flop
+Seat 2: NoodleDo (small blind) showed [8h 8s] and lost with two pair, Nines and Eights [9s 9d 8s 8h Qc]
+Seat 3: xin1575 (big blind) folded on the Flop
+Seat 4: MezcalMule showed [Jd Qh] and won $0.38 with two pair, Queens and Nines [Qh Qc 9s 9d Jd]
+Seat 5: StackedMaverick folded on the Flop
+Seat 6: TheActuary folded on the Pre-Flop and did not bet
+
+Hand #996682321 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 01:31:09 UTC
+Ignacio 6-max Seat #2 is the button
+Seat 1: nickgolf328 ($2.34)
+Seat 2: NoodleDo ($2.02)
+Seat 3: xin1575 ($2.02)
+Seat 4: MezcalMule ($2.32)
+Seat 5: StackedMaverick ($2.11)
+Seat 6: TheActuary ($2.00)
+xin1575 posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Jh 9d]
+StackedMaverick folds
+TheActuary folds
+nickgolf328 raises $0.05 to $0.05
+NoodleDo folds
+xin1575 folds
+MezcalMule calls $0.03
+*** FLOP *** [4s 5c 9h]
+Main pot $0.11 | Rake $0.00
+MezcalMule checks
+nickgolf328 checks
+*** TURN *** [4s 5c 9h] [Jc]
+Main pot $0.11 | Rake $0.00
+MezcalMule bets $0.05
+nickgolf328 folds
+Uncalled bet ($0.05) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.11
+Board [4s 5c 9h Jc]
+Seat 1: nickgolf328 folded on the Turn
+Seat 2: NoodleDo (button) folded on the Pre-Flop
+Seat 3: xin1575 (small blind) folded on the Pre-Flop
+Seat 4: MezcalMule did not show and won $0.11
+Seat 5: StackedMaverick folded on the Pre-Flop and did not bet
+Seat 6: TheActuary folded on the Pre-Flop and did not bet
+
+Hand #996683739 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 01:32:16 UTC
+Ignacio 6-max Seat #3 is the button
+Seat 1: nickgolf328 ($2.29)
+Seat 2: NoodleDo ($2.02)
+Seat 3: xin1575 ($2.01)
+Seat 4: MezcalMule ($2.38)
+Seat 5: StackedMaverick ($2.11)
+Seat 6: TheActuary ($2.00)
+MezcalMule posts the small blind $0.01
+StackedMaverick posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Kh Td]
+TheActuary folds
+nickgolf328 folds
+NoodleDo folds
+xin1575 folds
+MezcalMule calls $0.01
+StackedMaverick checks
+*** FLOP *** [7d 8s 2c]
+Main pot $0.04 | Rake $0.00
+MezcalMule checks
+StackedMaverick checks
+*** TURN *** [7d 8s 2c] [6s]
+Main pot $0.04 | Rake $0.00
+MezcalMule checks
+StackedMaverick checks
+*** RIVER *** [7d 8s 2c 6s] [Kd]
+Main pot $0.04 | Rake $0.00
+MezcalMule bets $0.03
+StackedMaverick calls $0.03
+*** SHOW DOWN ***
+Main pot $0.10 | Rake $0.00
+MezcalMule shows [Kh Td] (a pair of Kings [Kh Kd Td 8s 7d])
+StackedMaverick shows [Ks 4s] (a pair of Kings [Ks Kd 8s 7d 6s])
+MezcalMule collected $0.10 from main pot
+*** SUMMARY ***
+Total pot $0.10
+Board [7d 8s 2c 6s Kd]
+Seat 1: nickgolf328 folded on the Pre-Flop and did not bet
+Seat 2: NoodleDo folded on the Pre-Flop and did not bet
+Seat 3: xin1575 (button) folded on the Pre-Flop
+Seat 4: MezcalMule (small blind) showed [Kh Td] and won $0.10 with a pair of Kings [Kh Kd Td 8s 7d] with the kicker Ten
+Seat 5: StackedMaverick (big blind) showed [Ks 4s] and lost with a pair of Kings [Ks Kd 8s 7d 6s]
+Seat 6: TheActuary folded on the Pre-Flop and did not bet
+
+Hand #996685772 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 01:33:51 UTC
+Ignacio 6-max Seat #4 is the button
+Seat 1: nickgolf328 ($2.29)
+Seat 2: NoodleDo ($2.02)
+Seat 3: xin1575 ($2.01)
+Seat 4: MezcalMule ($2.43)
+Seat 5: StackedMaverick ($2.06)
+Seat 6: TheActuary ($2.00)
+StackedMaverick posts the small blind $0.01
+TheActuary posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [9c 5d]
+nickgolf328 folds
+NoodleDo folds
+xin1575 folds
+MezcalMule folds
+StackedMaverick folds
+TheActuary does not show
+*** SUMMARY ***
+Total pot $0.03
+Seat 1: nickgolf328 folded on the Pre-Flop and did not bet
+Seat 2: NoodleDo folded on the Pre-Flop and did not bet
+Seat 3: xin1575 folded on the Pre-Flop and did not bet
+Seat 4: MezcalMule (button) folded on the Pre-Flop
+Seat 5: StackedMaverick (small blind) folded on the Pre-Flop
+Seat 6: TheActuary did not show and won $0.03
+
+Hand #996686474 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 01:34:25 UTC
+Ignacio 6-max Seat #5 is the button
+Seat 1: nickgolf328 ($2.29)
+Seat 2: NoodleDo ($2.02)
+Seat 3: xin1575 ($2.01)
+Seat 4: MezcalMule ($2.43)
+Seat 5: StackedMaverick ($2.05)
+Seat 6: TheActuary ($2.01)
+TheActuary posts the small blind $0.01
+nickgolf328 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [6c Kc]
+NoodleDo folds
+xin1575 raises $0.05 to $0.05
+MezcalMule folds
+StackedMaverick raises $0.18 to $0.18
+TheActuary folds
+nickgolf328 folds
+xin1575 folds
+Uncalled bet ($0.13) returned to StackedMaverick
+StackedMaverick does not show
+*** SUMMARY ***
+Total pot $0.13
+Seat 1: nickgolf328 (big blind) folded on the Pre-Flop
+Seat 2: NoodleDo folded on the Pre-Flop and did not bet
+Seat 3: xin1575 folded on the Pre-Flop and did not bet
+Seat 4: MezcalMule folded on the Pre-Flop and did not bet
+Seat 5: StackedMaverick did not show and won $0.13
+Seat 6: TheActuary (small blind) folded on the Pre-Flop
+
+Hand #996687561 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 01:35:17 UTC
+Ignacio 6-max Seat #6 is the button
+Seat 1: nickgolf328 ($2.27)
+Seat 2: NoodleDo ($2.02)
+Seat 3: xin1575 ($2.00)
+Seat 4: MezcalMule ($2.43)
+Seat 5: StackedMaverick ($2.13)
+Seat 6: TheActuary ($2.00)
+nickgolf328 posts the small blind $0.01
+NoodleDo posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [3h 6h]
+xin1575 raises $0.05 to $0.05
+MezcalMule folds
+StackedMaverick folds
+TheActuary folds
+nickgolf328 raises $0.19 to $0.20
+NoodleDo folds
+xin1575 calls $0.15
+*** FLOP *** [Jc Th 6c]
+Main pot $0.40 | Rake $0.02
+nickgolf328 bets $0.31
+xin1575 folds
+Uncalled bet ($0.31) returned to nickgolf328
+nickgolf328 does not show
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.02
+Board [Jc Th 6c]
+Seat 1: nickgolf328 did not show and won $0.40
+Seat 2: NoodleDo (big blind) folded on the Pre-Flop
+Seat 3: xin1575 folded on the Flop
+Seat 4: MezcalMule folded on the Pre-Flop and did not bet
+Seat 5: StackedMaverick folded on the Pre-Flop and did not bet
+Seat 6: TheActuary (button) folded on the Pre-Flop
+
+Hand #996689563 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 01:36:51 UTC
+Ignacio 6-max Seat #1 is the button
+Seat 1: nickgolf328 ($2.47)
+Seat 2: NoodleDo ($2.00)
+Seat 3: xin1575 ($2.00)
+Seat 4: MezcalMule ($2.43)
+Seat 5: StackedMaverick ($2.13)
+Seat 6: TheActuary ($2.00)
+NoodleDo posts the small blind $0.01
+xin1575 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Ac 5h]
+MezcalMule calls $0.02
+StackedMaverick folds
+TheActuary folds
+nickgolf328 folds
+NoodleDo raises $0.05 to $0.06
+xin1575 folds
+MezcalMule calls $0.04
+*** FLOP *** [Jh 6h 8h]
+Main pot $0.14 | Rake $0.00
+NoodleDo checks
+MezcalMule checks
+*** TURN *** [Jh 6h 8h] [5c]
+Main pot $0.14 | Rake $0.00
+NoodleDo bets $0.02
+MezcalMule raises $0.15 to $0.15
+NoodleDo folds
+Uncalled bet ($0.13) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.18
+Board [Jh 6h 8h 5c]
+Seat 1: nickgolf328 (button) folded on the Pre-Flop
+Seat 2: NoodleDo (small blind) folded on the Turn
+Seat 3: xin1575 (big blind) folded on the Pre-Flop
+Seat 4: MezcalMule did not show and won $0.18
+Seat 5: StackedMaverick folded on the Pre-Flop and did not bet
+Seat 6: TheActuary folded on the Pre-Flop and did not bet
+
+Hand #996691016 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 01:37:59 UTC
+Ignacio 6-max Seat #2 is the button
+Seat 1: nickgolf328 ($2.47)
+Seat 2: NoodleDo ($2.00)
+Seat 3: xin1575 ($2.00)
+Seat 4: MezcalMule ($2.53)
+Seat 5: StackedMaverick ($2.13)
+Seat 6: TheActuary ($2.00)
+xin1575 posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [9h Ah]
+StackedMaverick raises $0.06 to $0.06
+TheActuary folds
+nickgolf328 raises $0.22 to $0.22
+NoodleDo folds
+xin1575 folds
+MezcalMule folds
+StackedMaverick calls $0.16
+*** FLOP *** [Ac Kh Kc]
+Main pot $0.45 | Rake $0.02
+StackedMaverick checks
+nickgolf328 checks
+*** TURN *** [Ac Kh Kc] [4s]
+Main pot $0.45 | Rake $0.02
+StackedMaverick checks
+nickgolf328 checks
+*** RIVER *** [Ac Kh Kc 4s] [4d]
+Main pot $0.45 | Rake $0.02
+StackedMaverick checks
+nickgolf328 bets $0.20
+StackedMaverick calls $0.20
+*** SHOW DOWN ***
+Main pot $0.83 | Rake $0.04
+nickgolf328 shows [As 5s] (two pair, Aces and Kings [As Ac Kh Kc 5s])
+StackedMaverick shows [Ts Td] (two pair, Kings and Tens [Kh Kc Ts Td Ac])
+nickgolf328 collected $0.83 from main pot
+*** SUMMARY ***
+Total pot $0.83 | Rake $0.04
+Board [Ac Kh Kc 4s 4d]
+Seat 1: nickgolf328 showed [As 5s] and won $0.83 with two pair, Aces and Kings [As Ac Kh Kc 5s]
+Seat 2: NoodleDo (button) folded on the Pre-Flop
+Seat 3: xin1575 (small blind) folded on the Pre-Flop
+Seat 4: MezcalMule (big blind) folded on the Pre-Flop
+Seat 5: StackedMaverick showed [Ts Td] and lost with two pair, Kings and Tens [Kh Kc Ts Td Ac]
+Seat 6: TheActuary folded on the Pre-Flop and did not bet
+
+Hand #996692451 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 01:39:08 UTC
+Ignacio 6-max Seat #3 is the button
+Seat 1: nickgolf328 ($2.88)
+Seat 2: NoodleDo ($2.00)
+Seat 3: xin1575 ($2.00)
+Seat 4: MezcalMule ($2.51)
+Seat 5: StackedMaverick ($2.00)
+Seat 6: TheActuary ($2.00)
+MezcalMule posts the small blind $0.01
+StackedMaverick posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [3s Td]
+TheActuary folds
+nickgolf328 folds
+NoodleDo folds
+xin1575 raises $0.05 to $0.05
+MezcalMule folds
+StackedMaverick calls $0.03
+*** FLOP *** [9c Kc 6s]
+Main pot $0.11 | Rake $0.00
+StackedMaverick checks
+xin1575 checks
+*** TURN *** [9c Kc 6s] [Kh]
+Main pot $0.11 | Rake $0.00
+StackedMaverick checks
+xin1575 bets $0.06
+StackedMaverick folds
+Uncalled bet ($0.06) returned to xin1575
+xin1575 does not show
+*** SUMMARY ***
+Total pot $0.11
+Board [9c Kc 6s Kh]
+Seat 1: nickgolf328 folded on the Pre-Flop and did not bet
+Seat 2: NoodleDo folded on the Pre-Flop and did not bet
+Seat 3: xin1575 did not show and won $0.11
+Seat 4: MezcalMule (small blind) folded on the Pre-Flop
+Seat 5: StackedMaverick (big blind) folded on the Turn
+Seat 6: TheActuary folded on the Pre-Flop and did not bet
+
+Hand #996693894 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 01:40:20 UTC
+Ignacio 6-max Seat #4 is the button
+Seat 1: nickgolf328 ($2.88)
+Seat 2: NoodleDo ($2.00)
+Seat 3: xin1575 ($2.06)
+Seat 4: MezcalMule ($2.50)
+Seat 5: StackedMaverick ($2.00)
+Seat 6: TheActuary ($2.00)
+StackedMaverick posts the small blind $0.01
+TheActuary posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Ks Td]
+nickgolf328 folds
+NoodleDo raises $0.04 to $0.04
+xin1575 folds
+MezcalMule calls $0.04
+StackedMaverick folds
+TheActuary folds
+*** FLOP *** [7d Qs 2s]
+Main pot $0.11 | Rake $0.00
+NoodleDo checks
+MezcalMule checks
+*** TURN *** [7d Qs 2s] [Ac]
+Main pot $0.11 | Rake $0.00
+NoodleDo checks
+MezcalMule checks
+*** RIVER *** [7d Qs 2s Ac] [Th]
+Main pot $0.11 | Rake $0.00
+NoodleDo bets $0.02
+MezcalMule raises $0.09 to $0.09
+NoodleDo calls $0.07
+*** SHOW DOWN ***
+Main pot $0.28 | Rake $0.01
+NoodleDo shows [Ah 8s] (a pair of Aces [Ah Ac Qs Th 8s])
+MezcalMule shows [Ks Td] (a pair of Tens [Th Td Ac Ks Qs])
+NoodleDo collected $0.28 from main pot
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01
+Board [7d Qs 2s Ac Th]
+Seat 1: nickgolf328 folded on the Pre-Flop and did not bet
+Seat 2: NoodleDo showed [Ah 8s] and won $0.28 with a pair of Aces [Ah Ac Qs Th 8s]
+Seat 3: xin1575 folded on the Pre-Flop and did not bet
+Seat 4: MezcalMule (button) showed [Ks Td] and lost with a pair of Tens [Th Td Ac Ks Qs]
+Seat 5: StackedMaverick (small blind) folded on the Pre-Flop
+Seat 6: TheActuary (big blind) folded on the Pre-Flop
+
+Hand #996695565 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 01:41:38 UTC
+Ignacio 6-max Seat #5 is the button
+Seat 1: nickgolf328 ($2.88)
+Seat 2: NoodleDo ($2.15)
+Seat 3: xin1575 ($2.06)
+Seat 4: MezcalMule ($2.37)
+Seat 5: StackedMaverick ($2.00)
+Seat 6: TheActuary ($2.00)
+TheActuary posts the small blind $0.01
+nickgolf328 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [2d 4h]
+NoodleDo folds
+xin1575 raises $0.05 to $0.05
+MezcalMule folds
+StackedMaverick folds
+TheActuary folds
+nickgolf328 raises $0.18 to $0.20
+xin1575 folds
+Uncalled bet ($0.15) returned to nickgolf328
+nickgolf328 does not show
+*** SUMMARY ***
+Total pot $0.11
+Seat 1: nickgolf328 did not show and won $0.11
+Seat 2: NoodleDo folded on the Pre-Flop and did not bet
+Seat 3: xin1575 folded on the Pre-Flop and did not bet
+Seat 4: MezcalMule folded on the Pre-Flop and did not bet
+Seat 5: StackedMaverick (button) folded on the Pre-Flop
+Seat 6: TheActuary (small blind) folded on the Pre-Flop
+
+Hand #996696596 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 01:42:28 UTC
+Ignacio 6-max Seat #6 is the button
+Seat 1: nickgolf328 ($2.94)
+Seat 2: NoodleDo ($2.15)
+Seat 3: xin1575 ($2.01)
+Seat 4: MezcalMule ($2.37)
+Seat 5: StackedMaverick ($2.00)
+Seat 6: TheActuary ($2.00)
+nickgolf328 posts the small blind $0.01
+NoodleDo posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Kd 6s]
+xin1575 folds
+MezcalMule folds
+StackedMaverick raises $0.06 to $0.06
+TheActuary folds
+nickgolf328 raises $0.23 to $0.24
+NoodleDo folds
+StackedMaverick calls $0.18
+*** FLOP *** [2h 3s 4c]
+Main pot $0.48 | Rake $0.02
+nickgolf328 checks
+StackedMaverick checks
+*** TURN *** [2h 3s 4c] [Ac]
+Main pot $0.48 | Rake $0.02
+nickgolf328 checks
+StackedMaverick bets $0.28
+nickgolf328 calls $0.28
+*** RIVER *** [2h 3s 4c Ac] [6h]
+Main pot $1.01 | Rake $0.05
+nickgolf328 checks
+StackedMaverick checks
+*** SHOW DOWN ***
+Main pot $1.01 | Rake $0.05
+nickgolf328 shows [Ad 8d] (a pair of Aces [Ad Ac 8d 6h 4c])
+StackedMaverick shows [Th Qh] (a high card, Ace high [Ac Qh Th 6h 4c])
+nickgolf328 collected $1.01 from main pot
+*** SUMMARY ***
+Total pot $1.01 | Rake $0.05
+Board [2h 3s 4c Ac 6h]
+Seat 1: nickgolf328 (small blind) showed [Ad 8d] and won $1.01 with a pair of Aces [Ad Ac 8d 6h 4c]
+Seat 2: NoodleDo (big blind) folded on the Pre-Flop
+Seat 3: xin1575 folded on the Pre-Flop and did not bet
+Seat 4: MezcalMule folded on the Pre-Flop and did not bet
+Seat 5: StackedMaverick showed [Th Qh] and lost with a high card, Ace high [Ac Qh Th 6h 4c]
+Seat 6: TheActuary (button) folded on the Pre-Flop
+
+Hand #996698106 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 01:43:42 UTC
+Ignacio 6-max Seat #1 is the button
+Seat 1: nickgolf328 ($3.43)
+Seat 2: NoodleDo ($2.13)
+Seat 3: xin1575 ($2.01)
+Seat 4: MezcalMule ($2.37)
+Seat 5: StackedMaverick ($2.00)
+Seat 6: TheActuary ($2.00)
+NoodleDo posts the small blind $0.01
+xin1575 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [8d 2c]
+MezcalMule folds
+StackedMaverick folds
+TheActuary folds
+nickgolf328 raises $0.05 to $0.05
+NoodleDo raises $0.09 to $0.10
+xin1575 folds
+nickgolf328 calls $0.05
+*** FLOP *** [9h 4d 2s]
+Main pot $0.21 | Rake $0.01
+NoodleDo bets $0.02
+nickgolf328 calls $0.02
+*** TURN *** [9h 4d 2s] [Qc]
+Main pot $0.25 | Rake $0.01
+NoodleDo bets $0.13
+nickgolf328 folds
+Uncalled bet ($0.13) returned to NoodleDo
+NoodleDo does not show
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01
+Board [9h 4d 2s Qc]
+Seat 1: nickgolf328 (button) folded on the Turn
+Seat 2: NoodleDo did not show and won $0.25
+Seat 3: xin1575 (big blind) folded on the Pre-Flop
+Seat 4: MezcalMule folded on the Pre-Flop and did not bet
+Seat 5: StackedMaverick folded on the Pre-Flop and did not bet
+Seat 6: TheActuary folded on the Pre-Flop and did not bet
+
+Hand #996699029 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 01:44:26 UTC
+Ignacio 6-max Seat #2 is the button
+Seat 1: nickgolf328 ($3.31)
+Seat 2: NoodleDo ($2.26)
+Seat 3: xin1575 ($2.00)
+Seat 4: MezcalMule ($2.37)
+Seat 5: StackedMaverick ($2.00)
+Seat 6: TheActuary ($2.00)
+xin1575 posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Td 6c]
+StackedMaverick raises $0.06 to $0.06
+TheActuary folds
+nickgolf328 calls $0.06
+NoodleDo folds
+xin1575 folds
+MezcalMule folds
+*** FLOP *** [5d Ad 6s]
+Main pot $0.15 | Rake $0.00
+StackedMaverick bets $0.06
+nickgolf328 calls $0.06
+*** TURN *** [5d Ad 6s] [7c]
+Main pot $0.26 | Rake $0.01
+StackedMaverick bets $0.20
+nickgolf328 calls $0.20
+*** RIVER *** [5d Ad 6s 7c] [7d]
+Main pot $0.64 | Rake $0.03
+StackedMaverick bets $0.50
+nickgolf328 calls $0.50
+*** SHOW DOWN ***
+Main pot $1.59 | Rake $0.08
+nickgolf328 shows [8c Ac] (two pair, Aces and Sevens [Ad Ac 7d 7c 8c])
+StackedMaverick shows [As Kd] (two pair, Aces and Sevens [As Ad 7d 7c Kd])
+StackedMaverick collected $1.59 from main pot
+*** SUMMARY ***
+Total pot $1.59 | Rake $0.06 | JP Fee $0.02
+Board [5d Ad 6s 7c 7d]
+Seat 1: nickgolf328 showed [8c Ac] and lost with two pair, Aces and Sevens [Ad Ac 7d 7c 8c]
+Seat 2: NoodleDo (button) folded on the Pre-Flop
+Seat 3: xin1575 (small blind) folded on the Pre-Flop
+Seat 4: MezcalMule (big blind) folded on the Pre-Flop
+Seat 5: StackedMaverick showed [As Kd] and won $1.59 with two pair, Aces and Sevens [As Ad 7d 7c Kd] with the kicker King
+Seat 6: TheActuary folded on the Pre-Flop and did not bet
+
+Hand #996700520 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 01:45:37 UTC
+Ignacio 6-max Seat #3 is the button
+Seat 1: nickgolf328 ($2.49)
+Seat 2: NoodleDo ($2.26)
+Seat 3: xin1575 ($2.00)
+Seat 4: MezcalMule ($2.35)
+Seat 5: StackedMaverick ($2.77)
+Seat 6: TheActuary ($2.00)
+MezcalMule posts the small blind $0.01
+StackedMaverick posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [4c Qs]
+TheActuary folds
+nickgolf328 folds
+NoodleDo raises $0.05 to $0.05
+xin1575 folds
+MezcalMule folds
+StackedMaverick folds
+Uncalled bet ($0.03) returned to NoodleDo
+NoodleDo shows [Th -]
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: nickgolf328 folded on the Pre-Flop and did not bet
+Seat 2: NoodleDo showed [Th -] and won $0.05
+Seat 3: xin1575 (button) folded on the Pre-Flop
+Seat 4: MezcalMule (small blind) folded on the Pre-Flop
+Seat 5: StackedMaverick (big blind) folded on the Pre-Flop
+Seat 6: TheActuary folded on the Pre-Flop and did not bet
+
+Hand #996707762 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 01:51:32 UTC
+Ignacio 6-max Seat #2 is the button
+Seat 1: nickgolf328 ($2.43)
+Seat 2: uradoodooface ($2.00)
+Seat 3: xin1575 ($2.20)
+Seat 4: MezcalMule ($2.34)
+Seat 5: StackedMaverick ($2.74)
+Seat 6: TheActuary ($2.00)
+xin1575 posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [6c 6d]
+StackedMaverick folds
+TheActuary folds
+nickgolf328 folds
+uradoodooface folds
+xin1575 folds
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.03
+Seat 1: nickgolf328 folded on the Pre-Flop and did not bet
+Seat 2: uradoodooface (button) folded on the Pre-Flop
+Seat 3: xin1575 (small blind) folded on the Pre-Flop
+Seat 4: MezcalMule did not show and won $0.03
+Seat 5: StackedMaverick folded on the Pre-Flop and did not bet
+Seat 6: TheActuary folded on the Pre-Flop and did not bet
+
+Hand #996708023 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 01:51:47 UTC
+Ignacio 6-max Seat #3 is the button
+Seat 1: nickgolf328 ($2.43)
+Seat 2: uradoodooface ($2.00)
+Seat 3: xin1575 ($2.19)
+Seat 4: MezcalMule ($2.35)
+Seat 5: StackedMaverick ($2.74)
+Seat 6: TheActuary ($2.00)
+MezcalMule posts the small blind $0.01
+StackedMaverick posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [5c 5s]
+TheActuary folds
+nickgolf328 folds
+uradoodooface folds
+xin1575 raises $0.05 to $0.05
+MezcalMule calls $0.04
+StackedMaverick folds
+*** FLOP *** [Ks 7h 6s]
+Main pot $0.12 | Rake $0.00
+MezcalMule checks
+xin1575 checks
+*** TURN *** [Ks 7h 6s] [2h]
+Main pot $0.12 | Rake $0.00
+MezcalMule checks
+xin1575 checks
+*** RIVER *** [Ks 7h 6s 2h] [Jh]
+Main pot $0.12 | Rake $0.00
+MezcalMule checks
+xin1575 checks
+*** SHOW DOWN ***
+Main pot $0.12 | Rake $0.00
+xin1575 shows [4h 4c] (a pair of Fours [4h 4c Ks Jh 7h])
+MezcalMule shows [5c 5s] (a pair of Fives [5s 5c Ks Jh 7h])
+MezcalMule collected $0.12 from main pot
+*** SUMMARY ***
+Total pot $0.12
+Board [Ks 7h 6s 2h Jh]
+Seat 1: nickgolf328 folded on the Pre-Flop and did not bet
+Seat 2: uradoodooface folded on the Pre-Flop and did not bet
+Seat 3: xin1575 (button) showed [4h 4c] and lost with a pair of Fours [4h 4c Ks Jh 7h]
+Seat 4: MezcalMule (small blind) showed [5c 5s] and won $0.12 with a pair of Fives [5s 5c Ks Jh 7h]
+Seat 5: StackedMaverick (big blind) folded on the Pre-Flop
+Seat 6: TheActuary folded on the Pre-Flop and did not bet
+
+Hand #996709687 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 01:53:10 UTC
+Ignacio 6-max Seat #4 is the button
+Seat 1: nickgolf328 ($2.43)
+Seat 2: uradoodooface ($2.00)
+Seat 3: xin1575 ($2.14)
+Seat 4: MezcalMule ($2.42)
+Seat 5: StackedMaverick ($2.72)
+Seat 6: TheActuary ($2.00)
+StackedMaverick posts the small blind $0.01
+TheActuary posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Ks Qc]
+nickgolf328 folds
+uradoodooface folds
+xin1575 folds
+MezcalMule raises $0.05 to $0.05
+StackedMaverick folds
+TheActuary folds
+Uncalled bet ($0.03) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: nickgolf328 folded on the Pre-Flop and did not bet
+Seat 2: uradoodooface folded on the Pre-Flop and did not bet
+Seat 3: xin1575 folded on the Pre-Flop and did not bet
+Seat 4: MezcalMule did not show and won $0.05
+Seat 5: StackedMaverick (small blind) folded on the Pre-Flop
+Seat 6: TheActuary (big blind) folded on the Pre-Flop
+
+Hand #996711836 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 01:55:01 UTC
+Ignacio 6-max Seat #5 is the button
+Seat 1: nickgolf328 ($2.43)
+Seat 2: uradoodooface ($2.00) is sitting out
+Seat 3: xin1575 ($2.14)
+Seat 4: MezcalMule ($2.45)
+Seat 5: StackedMaverick ($2.71)
+Seat 6: TheActuary ($2.00) is sitting out
+nickgolf328 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [5d 8d]
+xin1575 folds
+MezcalMule raises $0.05 to $0.05
+StackedMaverick folds
+nickgolf328 raises $0.15 to $0.17
+MezcalMule folds
+Uncalled bet ($0.12) returned to nickgolf328
+nickgolf328 does not show
+*** SUMMARY ***
+Total pot $0.10
+Seat 1: nickgolf328 did not show and won $0.10
+Seat 3: xin1575 folded on the Pre-Flop and did not bet
+Seat 4: MezcalMule folded on the Pre-Flop and did not bet
+Seat 5: StackedMaverick (button) folded on the Pre-Flop
+
+Hand #996712202 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 01:55:37 UTC
+Ignacio 6-max Seat #6 is the button
+Seat 1: nickgolf328 ($2.48)
+Seat 2: uradoodooface ($2.00) is sitting out
+Seat 3: xin1575 ($2.14)
+Seat 4: MezcalMule ($2.40)
+Seat 5: StackedMaverick ($2.71)
+nickgolf328 posts the small blind $0.01
+xin1575 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [8s 6h]
+MezcalMule folds
+StackedMaverick folds
+nickgolf328 raises $0.05 to $0.06
+xin1575 folds
+Uncalled bet ($0.04) returned to nickgolf328
+nickgolf328 does not show
+*** SUMMARY ***
+Total pot $0.04
+Seat 1: nickgolf328 did not show and won $0.04
+Seat 3: xin1575 (big blind) folded on the Pre-Flop
+Seat 4: MezcalMule folded on the Pre-Flop and did not bet
+Seat 5: StackedMaverick folded on the Pre-Flop and did not bet
+
+Hand #996712381 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 01:55:55 UTC
+Ignacio 6-max Seat #1 is the button
+Seat 1: nickgolf328 ($2.50)
+Seat 2: uradoodooface ($2.00) is sitting out
+Seat 3: xin1575 ($2.12)
+Seat 4: MezcalMule ($2.40)
+Seat 5: StackedMaverick ($2.71)
+xin1575 posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [3h 8h]
+StackedMaverick raises $0.06 to $0.06
+nickgolf328 folds
+xin1575 folds
+MezcalMule folds
+Uncalled bet ($0.04) returned to StackedMaverick
+StackedMaverick does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: nickgolf328 (button) folded on the Pre-Flop
+Seat 3: xin1575 (small blind) folded on the Pre-Flop
+Seat 4: MezcalMule (big blind) folded on the Pre-Flop
+Seat 5: StackedMaverick did not show and won $0.05
+
+Hand #996712641 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 01:56:22 UTC
+Ignacio 6-max Seat #3 is the button
+Seat 1: nickgolf328 ($2.50)
+Seat 2: uradoodooface ($2.00) is sitting out
+Seat 3: xin1575 ($2.11)
+Seat 4: MezcalMule ($2.38)
+Seat 5: StackedMaverick ($2.74)
+MezcalMule posts the small blind $0.01
+StackedMaverick posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [8s 2c]
+nickgolf328 folds
+xin1575 folds
+MezcalMule folds
+StackedMaverick does not show
+*** SUMMARY ***
+Total pot $0.03
+Seat 1: nickgolf328 folded on the Pre-Flop and did not bet
+Seat 3: xin1575 (button) folded on the Pre-Flop
+Seat 4: MezcalMule (small blind) folded on the Pre-Flop
+Seat 5: StackedMaverick did not show and won $0.03
+
+Hand #996712853 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 01:56:45 UTC
+Ignacio 6-max Seat #4 is the button
+Seat 1: nickgolf328 ($2.50)
+Seat 2: uradoodooface ($2.00) is sitting out
+Seat 3: xin1575 ($2.11)
+Seat 4: MezcalMule ($2.37)
+Seat 5: StackedMaverick ($2.75)
+Seat 6: swinfos ($2.00)
+StackedMaverick posts the small blind $0.01
+swinfos posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Qs 9s]
+nickgolf328 folds
+xin1575 folds
+MezcalMule raises $0.04 to $0.04
+StackedMaverick folds
+swinfos folds
+Uncalled bet ($0.02) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: nickgolf328 folded on the Pre-Flop and did not bet
+Seat 3: xin1575 folded on the Pre-Flop and did not bet
+Seat 4: MezcalMule did not show and won $0.05
+Seat 5: StackedMaverick (small blind) folded on the Pre-Flop
+Seat 6: swinfos (big blind) folded on the Pre-Flop
+
+Hand #996712984 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 01:56:59 UTC
+Ignacio 6-max Seat #5 is the button
+Seat 1: nickgolf328 ($2.50)
+Seat 2: uradoodooface ($2.00) is sitting out
+Seat 3: xin1575 ($2.11)
+Seat 4: MezcalMule ($2.40)
+Seat 5: StackedMaverick ($2.74)
+Seat 6: swinfos ($2.00)
+swinfos posts the small blind $0.01
+nickgolf328 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [7h 3c]
+xin1575 folds
+MezcalMule folds
+StackedMaverick folds
+swinfos folds
+nickgolf328 does not show
+*** SUMMARY ***
+Total pot $0.03
+Seat 1: nickgolf328 did not show and won $0.03
+Seat 3: xin1575 folded on the Pre-Flop and did not bet
+Seat 4: MezcalMule folded on the Pre-Flop and did not bet
+Seat 5: StackedMaverick (button) folded on the Pre-Flop
+Seat 6: swinfos (small blind) folded on the Pre-Flop
+
+Hand #996713098 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 01:57:12 UTC
+Ignacio 6-max Seat #6 is the button
+Seat 1: nickgolf328 ($2.51)
+Seat 2: uradoodooface ($2.00) is sitting out
+Seat 3: xin1575 ($2.11)
+Seat 4: MezcalMule ($2.40)
+Seat 5: StackedMaverick ($2.74)
+Seat 6: swinfos ($2.00)
+nickgolf328 posts the small blind $0.01
+xin1575 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Kh Qs]
+MezcalMule folds
+StackedMaverick folds
+swinfos folds
+nickgolf328 raises $0.05 to $0.06
+xin1575 folds
+Uncalled bet ($0.04) returned to nickgolf328
+nickgolf328 does not show
+*** SUMMARY ***
+Total pot $0.04
+Seat 1: nickgolf328 did not show and won $0.04
+Seat 3: xin1575 (big blind) folded on the Pre-Flop
+Seat 4: MezcalMule folded on the Pre-Flop and did not bet
+Seat 5: StackedMaverick folded on the Pre-Flop and did not bet
+Seat 6: swinfos (button) folded on the Pre-Flop
+
+Hand #996713284 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 01:57:30 UTC
+Ignacio 6-max Seat #1 is the button
+Seat 1: nickgolf328 ($2.53)
+Seat 2: uradoodooface ($2.00) is sitting out
+Seat 3: xin1575 ($2.09)
+Seat 4: MezcalMule ($2.40)
+Seat 5: StackedMaverick ($2.74)
+Seat 6: swinfos ($2.00)
+xin1575 posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [5c Qs]
+StackedMaverick folds
+swinfos raises $0.05 to $0.05
+nickgolf328 folds
+xin1575 folds
+MezcalMule folds
+Uncalled bet ($0.03) returned to swinfos
+swinfos does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: nickgolf328 (button) folded on the Pre-Flop
+Seat 3: xin1575 (small blind) folded on the Pre-Flop
+Seat 4: MezcalMule (big blind) folded on the Pre-Flop
+Seat 5: StackedMaverick folded on the Pre-Flop and did not bet
+Seat 6: swinfos did not show and won $0.05
+
+Hand #996713616 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 01:58:04 UTC
+Ignacio 6-max Seat #3 is the button
+Seat 1: nickgolf328 ($2.53)
+Seat 2: uradoodooface ($2.00) is sitting out
+Seat 3: xin1575 ($2.08)
+Seat 4: MezcalMule ($2.38)
+Seat 5: StackedMaverick ($2.74)
+Seat 6: swinfos ($2.03)
+MezcalMule posts the small blind $0.01
+StackedMaverick posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Jh 7s]
+swinfos folds
+nickgolf328 raises $0.05 to $0.05
+xin1575 folds
+MezcalMule folds
+StackedMaverick folds
+Uncalled bet ($0.03) returned to nickgolf328
+nickgolf328 does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: nickgolf328 did not show and won $0.05
+Seat 3: xin1575 (button) folded on the Pre-Flop
+Seat 4: MezcalMule (small blind) folded on the Pre-Flop
+Seat 5: StackedMaverick (big blind) folded on the Pre-Flop
+Seat 6: swinfos folded on the Pre-Flop and did not bet
+
+Hand #996713791 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 01:58:23 UTC
+Ignacio 6-max Seat #4 is the button
+Seat 1: nickgolf328 ($2.56)
+Seat 2: uradoodooface ($2.00) is sitting out
+Seat 3: xin1575 ($2.08)
+Seat 4: MezcalMule ($2.37)
+Seat 5: StackedMaverick ($2.72)
+Seat 6: swinfos ($2.03)
+StackedMaverick posts the small blind $0.01
+swinfos posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [5c 4d]
+nickgolf328 folds
+xin1575 folds
+MezcalMule raises $0.04 to $0.04
+StackedMaverick folds
+swinfos calls $0.02
+*** FLOP *** [Js Kh Qs]
+Main pot $0.09 | Rake $0.00
+swinfos checks
+MezcalMule checks
+*** TURN *** [Js Kh Qs] [8d]
+Main pot $0.09 | Rake $0.00
+swinfos checks
+MezcalMule checks
+*** RIVER *** [Js Kh Qs 8d] [As]
+Main pot $0.09 | Rake $0.00
+swinfos checks
+MezcalMule bets $0.25
+swinfos folds
+Uncalled bet ($0.25) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.09
+Board [Js Kh Qs 8d As]
+Seat 1: nickgolf328 folded on the Pre-Flop and did not bet
+Seat 3: xin1575 folded on the Pre-Flop and did not bet
+Seat 4: MezcalMule did not show and won $0.09
+Seat 5: StackedMaverick (small blind) folded on the Pre-Flop
+Seat 6: swinfos (big blind) folded on the River
+
+Hand #996714276 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 01:59:18 UTC
+Ignacio 6-max Seat #5 is the button
+Seat 1: nickgolf328 ($2.56)
+Seat 2: uradoodooface ($2.00) is sitting out
+Seat 3: xin1575 ($2.08)
+Seat 4: MezcalMule ($2.42)
+Seat 5: StackedMaverick ($2.71)
+Seat 6: swinfos ($2.00)
+swinfos posts the small blind $0.01
+nickgolf328 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [7s 3c]
+xin1575 folds
+MezcalMule folds
+StackedMaverick folds
+swinfos raises $0.05 to $0.06
+nickgolf328 folds
+Uncalled bet ($0.04) returned to swinfos
+swinfos does not show
+*** SUMMARY ***
+Total pot $0.04
+Seat 1: nickgolf328 (big blind) folded on the Pre-Flop
+Seat 3: xin1575 folded on the Pre-Flop and did not bet
+Seat 4: MezcalMule folded on the Pre-Flop and did not bet
+Seat 5: StackedMaverick (button) folded on the Pre-Flop
+Seat 6: swinfos did not show and won $0.04
+
+Hand #996714413 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 01:59:32 UTC
+Ignacio 6-max Seat #6 is the button
+Seat 1: nickgolf328 ($2.54)
+Seat 2: uradoodooface ($2.00) is sitting out
+Seat 3: xin1575 ($2.08)
+Seat 4: MezcalMule ($2.42)
+Seat 5: StackedMaverick ($2.71)
+Seat 6: swinfos ($2.02)
+nickgolf328 posts the small blind $0.01
+xin1575 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Qd Jh]
+MezcalMule raises $0.04 to $0.04
+StackedMaverick raises $0.18 to $0.18
+swinfos folds
+nickgolf328 folds
+xin1575 folds
+MezcalMule folds
+Uncalled bet ($0.14) returned to StackedMaverick
+StackedMaverick does not show
+*** SUMMARY ***
+Total pot $0.11
+Seat 1: nickgolf328 (small blind) folded on the Pre-Flop
+Seat 3: xin1575 (big blind) folded on the Pre-Flop
+Seat 4: MezcalMule folded on the Pre-Flop and did not bet
+Seat 5: StackedMaverick did not show and won $0.11
+Seat 6: swinfos (button) folded on the Pre-Flop
+
+Hand #996714766 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 02:00:07 UTC
+Ignacio 6-max Seat #1 is the button
+Seat 1: nickgolf328 ($2.53)
+Seat 2: uradoodooface ($2.00) is sitting out
+Seat 3: xin1575 ($2.06)
+Seat 4: MezcalMule ($2.38)
+Seat 5: StackedMaverick ($2.78)
+Seat 6: swinfos ($2.02)
+xin1575 posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [8s Qs]
+StackedMaverick folds
+swinfos folds
+nickgolf328 folds
+xin1575 raises $0.05 to $0.06
+MezcalMule calls $0.04
+*** FLOP *** [Jh Jd 5h]
+Main pot $0.12 | Rake $0.00
+xin1575 checks
+MezcalMule checks
+*** TURN *** [Jh Jd 5h] [Kd]
+Main pot $0.12 | Rake $0.00
+xin1575 checks
+MezcalMule checks
+*** RIVER *** [Jh Jd 5h Kd] [4s]
+Main pot $0.12 | Rake $0.00
+xin1575 checks
+MezcalMule checks
+*** SHOW DOWN ***
+Main pot $0.12 | Rake $0.00
+xin1575 shows [8h Ac] (a pair of Jacks [Jh Jd Ac Kd 8h])
+MezcalMule shows [8s Qs] (a pair of Jacks [Jh Jd Kd Qs 8s])
+xin1575 collected $0.12 from main pot
+*** SUMMARY ***
+Total pot $0.12
+Board [Jh Jd 5h Kd 4s]
+Seat 1: nickgolf328 (button) folded on the Pre-Flop
+Seat 3: xin1575 (small blind) showed [8h Ac] and won $0.12 with a pair of Jacks [Jh Jd Ac Kd 8h] with the kicker Ace
+Seat 4: MezcalMule (big blind) showed [8s Qs] and lost with a pair of Jacks [Jh Jd Kd Qs 8s]
+Seat 5: StackedMaverick folded on the Pre-Flop and did not bet
+Seat 6: swinfos folded on the Pre-Flop and did not bet
+
+Hand #996715744 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 02:01:16 UTC
+Ignacio 6-max Seat #3 is the button
+Seat 1: nickgolf328 ($2.53)
+Seat 2: uradoodooface ($2.00) is sitting out
+Seat 3: xin1575 ($2.12)
+Seat 4: MezcalMule ($2.32)
+Seat 5: StackedMaverick ($2.78)
+Seat 6: swinfos ($2.02)
+MezcalMule posts the small blind $0.01
+StackedMaverick posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [9d 6s]
+swinfos folds
+nickgolf328 folds
+xin1575 folds
+MezcalMule calls $0.01
+StackedMaverick checks
+*** FLOP *** [Jc Qh 9s]
+Main pot $0.04 | Rake $0.00
+MezcalMule checks
+StackedMaverick checks
+*** TURN *** [Jc Qh 9s] [2s]
+Main pot $0.04 | Rake $0.00
+MezcalMule checks
+StackedMaverick checks
+*** RIVER *** [Jc Qh 9s 2s] [6h]
+Main pot $0.04 | Rake $0.00
+MezcalMule bets $0.02
+StackedMaverick folds
+Uncalled bet ($0.02) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.04
+Board [Jc Qh 9s 2s 6h]
+Seat 1: nickgolf328 folded on the Pre-Flop and did not bet
+Seat 3: xin1575 (button) folded on the Pre-Flop
+Seat 4: MezcalMule did not show and won $0.04
+Seat 5: StackedMaverick (big blind) folded on the River
+Seat 6: swinfos folded on the Pre-Flop and did not bet
+
+Hand #996716717 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 02:02:10 UTC
+Ignacio 6-max Seat #4 is the button
+Seat 1: nickgolf328 ($2.53)
+Seat 2: uradoodooface ($2.00) is sitting out
+Seat 3: xin1575 ($2.12)
+Seat 4: MezcalMule ($2.34)
+Seat 5: StackedMaverick ($2.76)
+Seat 6: swinfos ($2.02)
+StackedMaverick posts the small blind $0.01
+swinfos posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [5h Th]
+nickgolf328 folds
+xin1575 folds
+MezcalMule raises $0.04 to $0.04
+StackedMaverick folds
+swinfos calls $0.02
+*** FLOP *** [Qh 8s 6d]
+Main pot $0.09 | Rake $0.00
+swinfos checks
+MezcalMule checks
+*** TURN *** [Qh 8s 6d] [Ah]
+Main pot $0.09 | Rake $0.00
+swinfos checks
+MezcalMule checks
+*** RIVER *** [Qh 8s 6d Ah] [6h]
+Main pot $0.09 | Rake $0.00
+swinfos checks
+MezcalMule bets $0.06
+swinfos folds
+Uncalled bet ($0.06) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.09
+Board [Qh 8s 6d Ah 6h]
+Seat 1: nickgolf328 folded on the Pre-Flop and did not bet
+Seat 3: xin1575 folded on the Pre-Flop and did not bet
+Seat 4: MezcalMule did not show and won $0.09
+Seat 5: StackedMaverick (small blind) folded on the Pre-Flop
+Seat 6: swinfos (big blind) folded on the River
+
+Hand #996717449 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 02:02:49 UTC
+Ignacio 6-max Seat #5 is the button
+Seat 1: nickgolf328 ($2.53)
+Seat 3: xin1575 ($2.12)
+Seat 4: MezcalMule ($2.39)
+Seat 5: StackedMaverick ($2.75)
+Seat 6: swinfos ($2.00)
+swinfos posts the small blind $0.01
+nickgolf328 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [2s Tc]
+xin1575 folds
+MezcalMule folds
+StackedMaverick folds
+swinfos folds
+nickgolf328 does not show
+*** SUMMARY ***
+Total pot $0.03
+Seat 1: nickgolf328 did not show and won $0.03
+Seat 3: xin1575 folded on the Pre-Flop and did not bet
+Seat 4: MezcalMule folded on the Pre-Flop and did not bet
+Seat 5: StackedMaverick (button) folded on the Pre-Flop
+Seat 6: swinfos (small blind) folded on the Pre-Flop
+
+Hand #996717820 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 02:03:07 UTC
+Ignacio 6-max Seat #6 is the button
+Seat 1: nickgolf328 ($2.54)
+Seat 3: xin1575 ($2.12)
+Seat 4: MezcalMule ($2.39)
+Seat 5: StackedMaverick ($2.75)
+Seat 6: swinfos ($2.00)
+nickgolf328 posts the small blind $0.01
+xin1575 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Jh Qh]
+MezcalMule raises $0.04 to $0.04
+StackedMaverick folds
+swinfos folds
+nickgolf328 calls $0.03
+xin1575 folds
+*** FLOP *** [3h 6s 7c]
+Main pot $0.10 | Rake $0.00
+nickgolf328 checks
+MezcalMule checks
+*** TURN *** [3h 6s 7c] [4h]
+Main pot $0.10 | Rake $0.00
+nickgolf328 checks
+MezcalMule bets $0.02
+nickgolf328 folds
+Uncalled bet ($0.02) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.10
+Board [3h 6s 7c 4h]
+Seat 1: nickgolf328 (small blind) folded on the Turn
+Seat 3: xin1575 (big blind) folded on the Pre-Flop
+Seat 4: MezcalMule did not show and won $0.10
+Seat 5: StackedMaverick folded on the Pre-Flop and did not bet
+Seat 6: swinfos (button) folded on the Pre-Flop
+
+Hand #996719020 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 02:04:09 UTC
+Ignacio 6-max Seat #1 is the button
+Seat 1: nickgolf328 ($2.50)
+Seat 2: JCB77 will be allowed to play after the button
+Seat 3: xin1575 ($2.10)
+Seat 4: MezcalMule ($2.45)
+Seat 5: StackedMaverick ($2.75)
+Seat 6: swinfos ($2.00)
+xin1575 posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [6h 8d]
+StackedMaverick folds
+swinfos folds
+nickgolf328 folds
+xin1575 raises $0.05 to $0.06
+MezcalMule folds
+Uncalled bet ($0.04) returned to xin1575
+xin1575 does not show
+*** SUMMARY ***
+Total pot $0.04
+Seat 1: nickgolf328 (button) folded on the Pre-Flop
+Seat 3: xin1575 did not show and won $0.04
+Seat 4: MezcalMule (big blind) folded on the Pre-Flop
+Seat 5: StackedMaverick folded on the Pre-Flop and did not bet
+Seat 6: swinfos folded on the Pre-Flop and did not bet
+
+Hand #996719470 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 02:04:31 UTC
+Ignacio 6-max Seat #3 is the button
+Seat 1: nickgolf328 ($2.50)
+Seat 2: JCB77 ($2.00)
+Seat 3: xin1575 ($2.12)
+Seat 4: MezcalMule ($2.43)
+Seat 5: StackedMaverick ($2.75)
+Seat 6: swinfos ($2.00)
+MezcalMule posts the small blind $0.01
+StackedMaverick posts the big blind $0.02
+JCB77 waits for big blind
+*** HOLE CARDS ***
+Dealt to MezcalMule [Ks 6d]
+swinfos folds
+nickgolf328 raises $0.05 to $0.05
+xin1575 folds
+MezcalMule folds
+StackedMaverick folds
+Uncalled bet ($0.03) returned to nickgolf328
+nickgolf328 does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: nickgolf328 did not show and won $0.05
+Seat 3: xin1575 (button) folded on the Pre-Flop
+Seat 4: MezcalMule (small blind) folded on the Pre-Flop
+Seat 5: StackedMaverick (big blind) folded on the Pre-Flop
+Seat 6: swinfos folded on the Pre-Flop and did not bet
+
+Hand #996719905 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 02:04:52 UTC
+Ignacio 6-max Seat #4 is the button
+Seat 1: nickgolf328 ($2.53)
+Seat 2: JCB77 ($2.00)
+Seat 3: xin1575 ($2.12)
+Seat 4: MezcalMule ($2.42)
+Seat 5: StackedMaverick ($2.73)
+Seat 6: swinfos ($2.00)
+StackedMaverick posts the small blind $0.01
+swinfos posts the big blind $0.02
+JCB77 waits for big blind
+*** HOLE CARDS ***
+Dealt to MezcalMule [Qc 6s]
+nickgolf328 raises $0.05 to $0.05
+xin1575 folds
+MezcalMule folds
+StackedMaverick folds
+swinfos folds
+Uncalled bet ($0.03) returned to nickgolf328
+nickgolf328 does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: nickgolf328 did not show and won $0.05
+Seat 3: xin1575 folded on the Pre-Flop and did not bet
+Seat 4: MezcalMule (button) folded on the Pre-Flop
+Seat 5: StackedMaverick (small blind) folded on the Pre-Flop
+Seat 6: swinfos (big blind) folded on the Pre-Flop
+
+Hand #996720933 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 02:05:44 UTC
+Ignacio 6-max Seat #5 is the button
+Seat 1: nickgolf328 ($2.56)
+Seat 2: JCB77 ($2.00)
+Seat 3: xin1575 ($2.12)
+Seat 4: MezcalMule ($2.42)
+Seat 5: StackedMaverick ($2.72)
+Seat 6: swinfos ($2.00)
+swinfos posts the small blind $0.01
+nickgolf328 sits out
+JCB77 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [7s 2h]
+xin1575 folds
+MezcalMule folds
+StackedMaverick folds
+swinfos raises $0.05 to $0.06
+JCB77 folds
+Uncalled bet ($0.04) returned to swinfos
+swinfos does not show
+*** SUMMARY ***
+Total pot $0.04
+Seat 2: JCB77 (big blind) folded on the Pre-Flop
+Seat 3: xin1575 folded on the Pre-Flop and did not bet
+Seat 4: MezcalMule folded on the Pre-Flop and did not bet
+Seat 5: StackedMaverick (button) folded on the Pre-Flop
+Seat 6: swinfos did not show and won $0.04
+
+Hand #996721404 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 02:06:08 UTC
+Ignacio 6-max Seat #6 is the button
+Seat 2: JCB77 ($2.00)
+Seat 3: xin1575 ($2.12)
+Seat 4: MezcalMule ($2.42)
+Seat 5: StackedMaverick ($2.72)
+Seat 6: swinfos ($2.02)
+JCB77 posts the small blind $0.01
+xin1575 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [2c Ah]
+MezcalMule folds
+StackedMaverick folds
+swinfos folds
+JCB77 folds
+xin1575 does not show
+*** SUMMARY ***
+Total pot $0.03
+Seat 2: JCB77 (small blind) folded on the Pre-Flop
+Seat 3: xin1575 did not show and won $0.03
+Seat 4: MezcalMule folded on the Pre-Flop and did not bet
+Seat 5: StackedMaverick folded on the Pre-Flop and did not bet
+Seat 6: swinfos (button) folded on the Pre-Flop
+
+Hand #996721778 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 02:06:26 UTC
+Ignacio 6-max Seat #2 is the button
+Seat 2: JCB77 ($2.00)
+Seat 3: xin1575 ($2.13)
+Seat 4: MezcalMule ($2.42)
+Seat 5: StackedMaverick ($2.72)
+Seat 6: swinfos ($2.02) is sitting out
+xin1575 posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [3s 7h]
+StackedMaverick folds
+JCB77 folds
+xin1575 folds
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.03
+Seat 2: JCB77 (button) folded on the Pre-Flop
+Seat 3: xin1575 (small blind) folded on the Pre-Flop
+Seat 4: MezcalMule did not show and won $0.03
+Seat 5: StackedMaverick folded on the Pre-Flop and did not bet
+
+Hand #996722128 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 02:06:44 UTC
+Ignacio 6-max Seat #3 is the button
+Seat 2: JCB77 ($2.00)
+Seat 3: xin1575 ($2.12)
+Seat 4: MezcalMule ($2.43)
+Seat 5: StackedMaverick ($2.72)
+Seat 6: swinfos ($2.02) is sitting out
+MezcalMule posts the small blind $0.01
+StackedMaverick posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [8s Qd]
+JCB77 folds
+xin1575 folds
+MezcalMule folds
+StackedMaverick does not show
+*** SUMMARY ***
+Total pot $0.03
+Seat 2: JCB77 folded on the Pre-Flop and did not bet
+Seat 3: xin1575 (button) folded on the Pre-Flop
+Seat 4: MezcalMule (small blind) folded on the Pre-Flop
+Seat 5: StackedMaverick did not show and won $0.03
+
+Hand #996722549 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 02:07:05 UTC
+Ignacio 6-max Seat #4 is the button
+Seat 2: JCB77 ($2.00)
+Seat 3: xin1575 ($2.12)
+Seat 4: MezcalMule ($2.42)
+Seat 5: StackedMaverick ($2.73)
+Seat 6: swinfos ($2.02) is sitting out
+StackedMaverick posts the small blind $0.01
+JCB77 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [4d 9d]
+xin1575 folds
+MezcalMule raises $0.04 to $0.04
+StackedMaverick folds
+JCB77 calls $0.02
+*** FLOP *** [Qh Jc 2s]
+Main pot $0.09 | Rake $0.00
+JCB77 checks
+MezcalMule checks
+*** TURN *** [Qh Jc 2s] [Ad]
+Main pot $0.09 | Rake $0.00
+JCB77 checks
+MezcalMule checks
+*** RIVER *** [Qh Jc 2s Ad] [8c]
+Main pot $0.09 | Rake $0.00
+JCB77 checks
+MezcalMule bets $0.12
+JCB77 folds
+Uncalled bet ($0.12) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.09
+Board [Qh Jc 2s Ad 8c]
+Seat 2: JCB77 (big blind) folded on the River
+Seat 3: xin1575 folded on the Pre-Flop and did not bet
+Seat 4: MezcalMule did not show and won $0.09
+Seat 5: StackedMaverick (small blind) folded on the Pre-Flop
+
+Hand #996724338 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 02:08:34 UTC
+Ignacio 6-max Seat #5 is the button
+Seat 1: Sportingrock1 will be allowed to play after the button
+Seat 2: JCB77 ($2.00)
+Seat 3: xin1575 ($2.12)
+Seat 4: MezcalMule ($2.47)
+Seat 5: StackedMaverick ($2.72)
+Seat 6: swinfos ($2.02) is sitting out
+JCB77 posts the small blind $0.01
+xin1575 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Ah 4d]
+MezcalMule folds
+StackedMaverick raises $0.04 to $0.04
+JCB77 folds
+xin1575 folds
+Uncalled bet ($0.02) returned to StackedMaverick
+StackedMaverick does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 2: JCB77 (small blind) folded on the Pre-Flop
+Seat 3: xin1575 (big blind) folded on the Pre-Flop
+Seat 4: MezcalMule folded on the Pre-Flop and did not bet
+Seat 5: StackedMaverick did not show and won $0.05
+
+Hand #996724982 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 02:09:06 UTC
+Ignacio 6-max Seat #2 is the button
+Seat 1: Sportingrock1 ($2.00)
+Seat 2: JCB77 ($2.00)
+Seat 3: xin1575 ($2.10)
+Seat 4: MezcalMule ($2.47)
+Seat 5: StackedMaverick ($2.75)
+Seat 6: swinfos ($2.02) is sitting out
+xin1575 posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+Sportingrock1 waits for big blind
+*** HOLE CARDS ***
+Dealt to MezcalMule [7h 8d]
+StackedMaverick folds
+JCB77 folds
+xin1575 raises $0.05 to $0.06
+MezcalMule folds
+Uncalled bet ($0.04) returned to xin1575
+xin1575 does not show
+*** SUMMARY ***
+Total pot $0.04
+Seat 2: JCB77 (button) folded on the Pre-Flop
+Seat 3: xin1575 did not show and won $0.04
+Seat 4: MezcalMule (big blind) folded on the Pre-Flop
+Seat 5: StackedMaverick folded on the Pre-Flop and did not bet
+
+Hand #996725471 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 02:09:31 UTC
+Ignacio 6-max Seat #3 is the button
+Seat 1: Sportingrock1 ($2.00)
+Seat 2: JCB77 ($2.00)
+Seat 3: xin1575 ($2.12)
+Seat 4: MezcalMule ($2.45)
+Seat 5: StackedMaverick ($2.75)
+Seat 6: swinfos ($2.02) is sitting out
+MezcalMule posts the small blind $0.01
+StackedMaverick posts the big blind $0.02
+Sportingrock1 waits for big blind
+*** HOLE CARDS ***
+Dealt to MezcalMule [6h 4h]
+JCB77 folds
+xin1575 folds
+MezcalMule calls $0.01
+StackedMaverick checks
+*** FLOP *** [Td 7d 4d]
+Main pot $0.04 | Rake $0.00
+MezcalMule checks
+StackedMaverick checks
+*** TURN *** [Td 7d 4d] [Kd]
+Main pot $0.04 | Rake $0.00
+MezcalMule checks
+StackedMaverick checks
+*** RIVER *** [Td 7d 4d Kd] [3s]
+Main pot $0.04 | Rake $0.00
+MezcalMule bets $0.03
+StackedMaverick folds
+Uncalled bet ($0.03) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.04
+Board [Td 7d 4d Kd 3s]
+Seat 2: JCB77 folded on the Pre-Flop and did not bet
+Seat 3: xin1575 (button) folded on the Pre-Flop
+Seat 4: MezcalMule did not show and won $0.04
+Seat 5: StackedMaverick (big blind) folded on the River
+
+Hand #996726630 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 02:10:27 UTC
+Ignacio 6-max Seat #4 is the button
+Seat 1: Sportingrock1 ($2.00)
+Seat 2: JCB77 ($2.00)
+Seat 3: xin1575 ($2.12)
+Seat 4: MezcalMule ($2.47)
+Seat 5: StackedMaverick ($2.73)
+Seat 6: swinfos ($2.02)
+StackedMaverick posts the small blind $0.01
+swinfos posts the big blind $0.02
+Sportingrock1 waits for big blind
+*** HOLE CARDS ***
+Dealt to MezcalMule [6c 2d]
+JCB77 folds
+xin1575 raises $0.05 to $0.05
+MezcalMule folds
+StackedMaverick folds
+swinfos folds
+Uncalled bet ($0.03) returned to xin1575
+xin1575 does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 2: JCB77 folded on the Pre-Flop and did not bet
+Seat 3: xin1575 did not show and won $0.05
+Seat 4: MezcalMule (button) folded on the Pre-Flop
+Seat 5: StackedMaverick (small blind) folded on the Pre-Flop
+Seat 6: swinfos (big blind) folded on the Pre-Flop
+
+Hand #996726958 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 02:10:44 UTC
+Ignacio 6-max Seat #5 is the button
+Seat 1: Sportingrock1 ($2.00)
+Seat 2: JCB77 ($2.00)
+Seat 3: xin1575 ($2.15)
+Seat 4: MezcalMule ($2.47)
+Seat 5: StackedMaverick ($2.72)
+Seat 6: swinfos ($2.00)
+swinfos posts the small blind $0.01
+Sportingrock1 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Kh 6d]
+JCB77 raises $0.07 to $0.07
+xin1575 folds
+MezcalMule folds
+StackedMaverick folds
+swinfos calls $0.06
+Sportingrock1 folds
+*** FLOP *** [2c Ac Jh]
+Main pot $0.16 | Rake $0.00
+swinfos checks
+JCB77 bets $0.12
+swinfos folds
+Uncalled bet ($0.12) returned to JCB77
+JCB77 does not show
+*** SUMMARY ***
+Total pot $0.16
+Board [2c Ac Jh]
+Seat 1: Sportingrock1 (big blind) folded on the Pre-Flop
+Seat 2: JCB77 did not show and won $0.16
+Seat 3: xin1575 folded on the Pre-Flop and did not bet
+Seat 4: MezcalMule folded on the Pre-Flop and did not bet
+Seat 5: StackedMaverick (button) folded on the Pre-Flop
+Seat 6: swinfos (small blind) folded on the Flop
+
+Hand #996728128 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 02:11:41 UTC
+Ignacio 6-max Seat #6 is the button
+Seat 1: Sportingrock1 ($2.00)
+Seat 2: JCB77 ($2.09)
+Seat 3: xin1575 ($2.15)
+Seat 4: MezcalMule ($2.47)
+Seat 5: StackedMaverick ($2.72)
+Seat 6: swinfos ($2.00)
+Sportingrock1 posts the small blind $0.01
+JCB77 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [4h Ad]
+xin1575 raises $0.05 to $0.05
+MezcalMule folds
+StackedMaverick folds
+swinfos folds
+Sportingrock1 folds
+JCB77 folds
+Uncalled bet ($0.03) returned to xin1575
+xin1575 does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: Sportingrock1 (small blind) folded on the Pre-Flop
+Seat 2: JCB77 (big blind) folded on the Pre-Flop
+Seat 3: xin1575 did not show and won $0.05
+Seat 4: MezcalMule folded on the Pre-Flop and did not bet
+Seat 5: StackedMaverick folded on the Pre-Flop and did not bet
+Seat 6: swinfos (button) folded on the Pre-Flop
+
+Hand #996728705 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 02:12:08 UTC
+Ignacio 6-max Seat #1 is the button
+Seat 1: Sportingrock1 ($2.00)
+Seat 2: JCB77 ($2.07)
+Seat 3: xin1575 ($2.18)
+Seat 4: MezcalMule ($2.47)
+Seat 5: StackedMaverick ($2.72)
+Seat 6: swinfos ($2.00)
+JCB77 posts the small blind $0.01
+xin1575 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Qd Th]
+MezcalMule folds
+StackedMaverick folds
+swinfos folds
+Sportingrock1 folds
+JCB77 folds
+xin1575 does not show
+*** SUMMARY ***
+Total pot $0.03
+Seat 1: Sportingrock1 (button) folded on the Pre-Flop
+Seat 2: JCB77 (small blind) folded on the Pre-Flop
+Seat 3: xin1575 did not show and won $0.03
+Seat 4: MezcalMule folded on the Pre-Flop and did not bet
+Seat 5: StackedMaverick folded on the Pre-Flop and did not bet
+Seat 6: swinfos folded on the Pre-Flop and did not bet
+
+Hand #996729224 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 02:12:33 UTC
+Ignacio 6-max Seat #2 is the button
+Seat 1: Sportingrock1 ($2.00)
+Seat 2: JCB77 ($2.06)
+Seat 3: xin1575 ($2.19)
+Seat 4: MezcalMule ($2.47)
+Seat 5: StackedMaverick ($2.72)
+Seat 6: swinfos ($2.00)
+xin1575 posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Jc 6h]
+StackedMaverick folds
+swinfos folds
+Sportingrock1 folds
+JCB77 folds
+xin1575 folds
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.03
+Seat 1: Sportingrock1 folded on the Pre-Flop and did not bet
+Seat 2: JCB77 (button) folded on the Pre-Flop
+Seat 3: xin1575 (small blind) folded on the Pre-Flop
+Seat 4: MezcalMule did not show and won $0.03
+Seat 5: StackedMaverick folded on the Pre-Flop and did not bet
+Seat 6: swinfos folded on the Pre-Flop and did not bet
+
+Hand #996729465 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 02:12:47 UTC
+Ignacio 6-max Seat #3 is the button
+Seat 1: Sportingrock1 ($2.00)
+Seat 2: JCB77 ($2.06)
+Seat 3: xin1575 ($2.18)
+Seat 4: MezcalMule ($2.48)
+Seat 5: StackedMaverick ($2.72)
+Seat 6: swinfos ($2.00)
+MezcalMule posts the small blind $0.01
+StackedMaverick posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [6h 4h]
+swinfos folds
+Sportingrock1 folds
+JCB77 raises $0.07 to $0.07
+xin1575 calls $0.07
+MezcalMule folds
+StackedMaverick folds
+*** FLOP *** [Kh 7d Qc]
+Main pot $0.17 | Rake $0.00
+JCB77 bets $0.05
+xin1575 calls $0.05
+*** TURN *** [Kh 7d Qc] [Ts]
+Main pot $0.26 | Rake $0.01
+JCB77 checks
+xin1575 bets $0.17
+JCB77 folds
+Uncalled bet ($0.17) returned to xin1575
+xin1575 does not show
+*** SUMMARY ***
+Total pot $0.26 | Rake $0.01
+Board [Kh 7d Qc Ts]
+Seat 1: Sportingrock1 folded on the Pre-Flop and did not bet
+Seat 2: JCB77 folded on the Turn
+Seat 3: xin1575 did not show and won $0.26
+Seat 4: MezcalMule (small blind) folded on the Pre-Flop
+Seat 5: StackedMaverick (big blind) folded on the Pre-Flop
+Seat 6: swinfos folded on the Pre-Flop and did not bet
+
+Hand #996731104 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 02:14:08 UTC
+Ignacio 6-max Seat #4 is the button
+Seat 1: Sportingrock1 ($2.00)
+Seat 2: JCB77 ($2.00)
+Seat 3: xin1575 ($2.32)
+Seat 4: MezcalMule ($2.47)
+Seat 5: StackedMaverick ($2.70)
+Seat 6: swinfos ($2.00)
+StackedMaverick posts the small blind $0.01
+swinfos posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Kd 6d]
+Sportingrock1 folds
+JCB77 folds
+xin1575 raises $0.05 to $0.05
+MezcalMule calls $0.05
+StackedMaverick raises $0.23 to $0.24
+swinfos folds
+xin1575 folds
+MezcalMule folds
+Uncalled bet ($0.19) returned to StackedMaverick
+StackedMaverick does not show
+*** SUMMARY ***
+Total pot $0.17
+Seat 1: Sportingrock1 folded on the Pre-Flop and did not bet
+Seat 2: JCB77 folded on the Pre-Flop and did not bet
+Seat 3: xin1575 folded on the Pre-Flop and did not bet
+Seat 4: MezcalMule (button) folded on the Pre-Flop
+Seat 5: StackedMaverick did not show and won $0.17
+Seat 6: swinfos (big blind) folded on the Pre-Flop
+
+Hand #996731904 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 02:14:50 UTC
+Ignacio 6-max Seat #5 is the button
+Seat 1: Sportingrock1 ($2.00)
+Seat 2: JCB77 ($2.00)
+Seat 3: xin1575 ($2.27)
+Seat 4: MezcalMule ($2.42)
+Seat 5: StackedMaverick ($2.82)
+Seat 6: swinfos ($2.00)
+swinfos posts the small blind $0.01
+Sportingrock1 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Ah 7d]
+JCB77 folds
+xin1575 folds
+MezcalMule folds
+StackedMaverick folds
+swinfos raises $0.05 to $0.06
+Sportingrock1 raises $0.13 to $0.15
+swinfos calls $0.09
+*** FLOP *** [Ts Qh Th]
+Main pot $0.29 | Rake $0.01
+swinfos checks
+Sportingrock1 checks
+*** TURN *** [Ts Qh Th] [5h]
+Main pot $0.29 | Rake $0.01
+swinfos bets $0.16
+Sportingrock1 calls $0.16
+*** RIVER *** [Ts Qh Th 5h] [Jh]
+Main pot $0.59 | Rake $0.03
+swinfos checks
+Sportingrock1 checks
+*** SHOW DOWN ***
+Main pot $0.59 | Rake $0.03
+Sportingrock1 shows [Kc Kh] (a flush, King high [Kh Qh Jh Th 5h])
+swinfos shows [As Qs] (two pair, Queens and Tens [Qs Qh Ts Th As])
+Sportingrock1 collected $0.59 from main pot
+*** SUMMARY ***
+Total pot $0.59 | Rake $0.03
+Board [Ts Qh Th 5h Jh]
+Seat 1: Sportingrock1 (big blind) showed [Kc Kh] and won $0.59 with a flush, King high [Kh Qh Jh Th 5h]
+Seat 2: JCB77 folded on the Pre-Flop and did not bet
+Seat 3: xin1575 folded on the Pre-Flop and did not bet
+Seat 4: MezcalMule folded on the Pre-Flop and did not bet
+Seat 5: StackedMaverick (button) folded on the Pre-Flop
+Seat 6: swinfos (small blind) showed [As Qs] and lost with two pair, Queens and Tens [Qs Qh Ts Th As]
+
+Hand #996733411 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 02:16:04 UTC
+Ignacio 6-max Seat #6 is the button
+Seat 1: Sportingrock1 ($2.28)
+Seat 2: JCB77 ($2.00)
+Seat 3: xin1575 ($2.27)
+Seat 4: MezcalMule ($2.42)
+Seat 5: StackedMaverick ($2.82)
+Seat 6: swinfos ($2.00)
+Sportingrock1 posts the small blind $0.01
+JCB77 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [4h Jc]
+xin1575 folds
+MezcalMule folds
+StackedMaverick raises $0.05 to $0.05
+swinfos folds
+Sportingrock1 folds
+JCB77 folds
+Uncalled bet ($0.03) returned to StackedMaverick
+StackedMaverick does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: Sportingrock1 (small blind) folded on the Pre-Flop
+Seat 2: JCB77 (big blind) folded on the Pre-Flop
+Seat 3: xin1575 folded on the Pre-Flop and did not bet
+Seat 4: MezcalMule folded on the Pre-Flop and did not bet
+Seat 5: StackedMaverick did not show and won $0.05
+Seat 6: swinfos (button) folded on the Pre-Flop
+
+Hand #996733907 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 02:16:29 UTC
+Ignacio 6-max Seat #1 is the button
+Seat 1: Sportingrock1 ($2.27)
+Seat 2: JCB77 ($1.98)
+Seat 3: xin1575 ($2.27) is sitting out
+Seat 4: MezcalMule ($2.42)
+Seat 5: StackedMaverick ($2.85)
+Seat 6: swinfos ($2.00)
+JCB77 posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Ts 7d]
+StackedMaverick folds
+swinfos raises $0.05 to $0.05
+Sportingrock1 folds
+JCB77 folds
+MezcalMule folds
+Uncalled bet ($0.03) returned to swinfos
+swinfos does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: Sportingrock1 (button) folded on the Pre-Flop
+Seat 2: JCB77 (small blind) folded on the Pre-Flop
+Seat 4: MezcalMule (big blind) folded on the Pre-Flop
+Seat 5: StackedMaverick folded on the Pre-Flop and did not bet
+Seat 6: swinfos did not show and won $0.05
+
+Hand #996734524 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 02:17:01 UTC
+Ignacio 6-max Seat #2 is the button
+Seat 1: Sportingrock1 ($2.27)
+Seat 2: JCB77 ($1.97)
+Seat 4: MezcalMule ($2.40)
+Seat 5: StackedMaverick ($2.85)
+Seat 6: swinfos ($2.03)
+MezcalMule posts the small blind $0.01
+StackedMaverick posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [9d Qs]
+swinfos folds
+Sportingrock1 folds
+JCB77 folds
+MezcalMule calls $0.01
+StackedMaverick raises $0.04 to $0.06
+MezcalMule folds
+Uncalled bet ($0.04) returned to StackedMaverick
+StackedMaverick does not show
+*** SUMMARY ***
+Total pot $0.04
+Seat 1: Sportingrock1 folded on the Pre-Flop and did not bet
+Seat 2: JCB77 (button) folded on the Pre-Flop
+Seat 4: MezcalMule (small blind) folded on the Pre-Flop
+Seat 5: StackedMaverick did not show and won $0.04
+Seat 6: swinfos folded on the Pre-Flop and did not bet
+
+Hand #996735165 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 02:17:34 UTC
+Ignacio 6-max Seat #4 is the button
+Seat 1: Sportingrock1 ($2.27)
+Seat 2: JCB77 ($1.97)
+Seat 3: facedaNcer ($2.00)
+Seat 4: MezcalMule ($2.38)
+Seat 5: StackedMaverick ($2.87)
+Seat 6: swinfos ($2.03)
+StackedMaverick posts the small blind $0.01
+swinfos posts the big blind $0.02
+facedaNcer waits for big blind
+*** HOLE CARDS ***
+Dealt to MezcalMule [4c 5c]
+Sportingrock1 folds
+JCB77 folds
+MezcalMule raises $0.05 to $0.05
+StackedMaverick folds
+swinfos folds
+Uncalled bet ($0.03) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: Sportingrock1 folded on the Pre-Flop and did not bet
+Seat 2: JCB77 folded on the Pre-Flop and did not bet
+Seat 4: MezcalMule did not show and won $0.05
+Seat 5: StackedMaverick (small blind) folded on the Pre-Flop
+Seat 6: swinfos (big blind) folded on the Pre-Flop
+
+Hand #996735602 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 02:17:55 UTC
+Ignacio 6-max Seat #5 is the button
+Seat 1: Sportingrock1 ($2.27)
+Seat 2: JCB77 ($1.97)
+Seat 3: facedaNcer ($2.00)
+Seat 4: MezcalMule ($2.41)
+Seat 5: StackedMaverick ($2.86)
+Seat 6: swinfos ($2.01)
+swinfos posts the small blind $0.01
+Sportingrock1 posts the big blind $0.02
+facedaNcer waits for big blind
+*** HOLE CARDS ***
+Dealt to MezcalMule [8s Qd]
+JCB77 raises $0.07 to $0.07
+MezcalMule folds
+StackedMaverick folds
+swinfos folds
+Sportingrock1 folds
+Uncalled bet ($0.05) returned to JCB77
+JCB77 does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: Sportingrock1 (big blind) folded on the Pre-Flop
+Seat 2: JCB77 did not show and won $0.05
+Seat 4: MezcalMule folded on the Pre-Flop and did not bet
+Seat 5: StackedMaverick (button) folded on the Pre-Flop
+Seat 6: swinfos (small blind) folded on the Pre-Flop
+
+Hand #996735893 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 02:18:10 UTC
+Ignacio 6-max Seat #6 is the button
+Seat 1: Sportingrock1 ($2.25)
+Seat 2: JCB77 ($2.00)
+Seat 3: facedaNcer ($2.00)
+Seat 4: MezcalMule ($2.41)
+Seat 5: StackedMaverick ($2.86)
+Seat 6: swinfos ($2.00)
+Sportingrock1 posts the small blind $0.01
+JCB77 posts the big blind $0.02
+facedaNcer waits for big blind
+*** HOLE CARDS ***
+Dealt to MezcalMule [Ks Ts]
+MezcalMule raises $0.05 to $0.05
+StackedMaverick folds
+swinfos folds
+Sportingrock1 folds
+JCB77 folds
+Uncalled bet ($0.03) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: Sportingrock1 (small blind) folded on the Pre-Flop
+Seat 2: JCB77 (big blind) folded on the Pre-Flop
+Seat 4: MezcalMule did not show and won $0.05
+Seat 5: StackedMaverick folded on the Pre-Flop and did not bet
+Seat 6: swinfos (button) folded on the Pre-Flop
+
+Hand #996736479 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 02:18:41 UTC
+Ignacio 6-max Seat #1 is the button
+Seat 1: Sportingrock1 ($2.24)
+Seat 2: JCB77 ($1.98)
+Seat 3: facedaNcer ($2.00)
+Seat 4: MezcalMule ($2.44)
+Seat 5: StackedMaverick ($2.86)
+Seat 6: swinfos ($2.00)
+JCB77 posts the small blind $0.01
+facedaNcer posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [5h 5d]
+MezcalMule folds
+StackedMaverick folds
+swinfos folds
+Sportingrock1 raises $0.05 to $0.05
+JCB77 raises $0.18 to $0.19
+facedaNcer folds
+Sportingrock1 calls $0.14
+*** FLOP *** [9c Jh 2s]
+Main pot $0.38 | Rake $0.02
+JCB77 bets $0.13
+Sportingrock1 calls $0.13
+*** TURN *** [9c Jh 2s] [6d]
+Main pot $0.63 | Rake $0.03
+JCB77 bets $0.21
+Sportingrock1 calls $0.21
+*** RIVER *** [9c Jh 2s 6d] [6h]
+Main pot $1.03 | Rake $0.05
+JCB77 bets $0.27
+Sportingrock1 calls $0.27
+*** SHOW DOWN ***
+Main pot $1.54 | Rake $0.08
+Sportingrock1 shows [9d Td] (two pair, Nines and Sixs [9d 9c 6h 6d Jh])
+JCB77 shows [Ad Jc] (two pair, Jacks and Sixs [Jh Jc 6h 6d Ad])
+JCB77 collected $1.54 from main pot
+*** SUMMARY ***
+Total pot $1.54 | Rake $0.06 | JP Fee $0.02
+Board [9c Jh 2s 6d 6h]
+Seat 1: Sportingrock1 (button) showed [9d Td] and lost with two pair, Nines and Sixs [9d 9c 6h 6d Jh]
+Seat 2: JCB77 (small blind) showed [Ad Jc] and won $1.54 with two pair, Jacks and Sixs [Jh Jc 6h 6d Ad]
+Seat 3: facedaNcer (big blind) folded on the Pre-Flop
+Seat 4: MezcalMule folded on the Pre-Flop and did not bet
+Seat 5: StackedMaverick folded on the Pre-Flop and did not bet
+Seat 6: swinfos folded on the Pre-Flop and did not bet
+
+Hand #996738464 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 02:20:23 UTC
+Ignacio 6-max Seat #2 is the button
+Seat 1: Sportingrock1 ($2.00)
+Seat 2: JCB77 ($2.72)
+Seat 3: facedaNcer ($1.98)
+Seat 4: MezcalMule ($2.44)
+Seat 5: StackedMaverick ($2.86)
+Seat 6: swinfos ($2.00)
+facedaNcer posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [3h Js]
+StackedMaverick folds
+swinfos folds
+Sportingrock1 raises $0.05 to $0.05
+JCB77 folds
+facedaNcer folds
+MezcalMule folds
+Uncalled bet ($0.03) returned to Sportingrock1
+Sportingrock1 does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: Sportingrock1 did not show and won $0.05
+Seat 2: JCB77 (button) folded on the Pre-Flop
+Seat 3: facedaNcer (small blind) folded on the Pre-Flop
+Seat 4: MezcalMule (big blind) folded on the Pre-Flop
+Seat 5: StackedMaverick folded on the Pre-Flop and did not bet
+Seat 6: swinfos folded on the Pre-Flop and did not bet
+
+Hand #996739274 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 02:21:05 UTC
+Ignacio 6-max Seat #3 is the button
+Seat 1: Sportingrock1 ($2.03)
+Seat 2: JCB77 ($2.72)
+Seat 3: facedaNcer ($1.97)
+Seat 4: MezcalMule ($2.42)
+Seat 5: StackedMaverick ($2.86)
+Seat 6: swinfos ($2.00)
+MezcalMule posts the small blind $0.01
+StackedMaverick posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [5c 9d]
+swinfos folds
+Sportingrock1 folds
+JCB77 folds
+facedaNcer raises $0.05 to $0.05
+MezcalMule folds
+StackedMaverick folds
+Uncalled bet ($0.03) returned to facedaNcer
+facedaNcer does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: Sportingrock1 folded on the Pre-Flop and did not bet
+Seat 2: JCB77 folded on the Pre-Flop and did not bet
+Seat 3: facedaNcer did not show and won $0.05
+Seat 4: MezcalMule (small blind) folded on the Pre-Flop
+Seat 5: StackedMaverick (big blind) folded on the Pre-Flop
+Seat 6: swinfos folded on the Pre-Flop and did not bet
+
+Hand #996739721 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 02:21:28 UTC
+Ignacio 6-max Seat #4 is the button
+Seat 1: Sportingrock1 ($2.03)
+Seat 2: JCB77 ($2.72)
+Seat 3: facedaNcer ($2.00)
+Seat 4: MezcalMule ($2.41)
+Seat 5: StackedMaverick ($2.84)
+Seat 6: swinfos ($2.00)
+StackedMaverick posts the small blind $0.01
+swinfos posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Jc Th]
+Sportingrock1 folds
+JCB77 folds
+facedaNcer folds
+MezcalMule raises $0.04 to $0.04
+StackedMaverick folds
+swinfos folds
+Uncalled bet ($0.02) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: Sportingrock1 folded on the Pre-Flop and did not bet
+Seat 2: JCB77 folded on the Pre-Flop and did not bet
+Seat 3: facedaNcer folded on the Pre-Flop and did not bet
+Seat 4: MezcalMule did not show and won $0.05
+Seat 5: StackedMaverick (small blind) folded on the Pre-Flop
+Seat 6: swinfos (big blind) folded on the Pre-Flop
+
+Hand #996740534 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 02:22:08 UTC
+Ignacio 6-max Seat #5 is the button
+Seat 1: Sportingrock1 ($2.03)
+Seat 2: JCB77 ($2.72)
+Seat 3: facedaNcer ($2.00)
+Seat 4: MezcalMule ($2.44)
+Seat 5: StackedMaverick ($2.83)
+Seat 6: swinfos ($2.00)
+swinfos posts the small blind $0.01
+Sportingrock1 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [4d Qd]
+JCB77 folds
+facedaNcer folds
+MezcalMule folds
+StackedMaverick folds
+swinfos folds
+Sportingrock1 does not show
+*** SUMMARY ***
+Total pot $0.03
+Seat 1: Sportingrock1 did not show and won $0.03
+Seat 2: JCB77 folded on the Pre-Flop and did not bet
+Seat 3: facedaNcer folded on the Pre-Flop and did not bet
+Seat 4: MezcalMule folded on the Pre-Flop and did not bet
+Seat 5: StackedMaverick (button) folded on the Pre-Flop
+Seat 6: swinfos (small blind) folded on the Pre-Flop
+
+Hand #996741131 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 02:22:40 UTC
+Ignacio 6-max Seat #6 is the button
+Seat 1: Sportingrock1 ($2.04)
+Seat 2: JCB77 ($2.72)
+Seat 3: facedaNcer ($2.00)
+Seat 4: MezcalMule ($2.44)
+Seat 5: StackedMaverick ($2.83)
+Seat 6: swinfos ($2.00)
+Sportingrock1 posts the small blind $0.01
+JCB77 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [7c Ks]
+facedaNcer folds
+MezcalMule folds
+StackedMaverick folds
+swinfos folds
+Sportingrock1 folds
+JCB77 does not show
+*** SUMMARY ***
+Total pot $0.03
+Seat 1: Sportingrock1 (small blind) folded on the Pre-Flop
+Seat 2: JCB77 did not show and won $0.03
+Seat 3: facedaNcer folded on the Pre-Flop and did not bet
+Seat 4: MezcalMule folded on the Pre-Flop and did not bet
+Seat 5: StackedMaverick folded on the Pre-Flop and did not bet
+Seat 6: swinfos (button) folded on the Pre-Flop
+
+Hand #996741917 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 02:23:20 UTC
+Ignacio 6-max Seat #1 is the button
+Seat 1: Sportingrock1 ($2.03)
+Seat 2: JCB77 ($2.73)
+Seat 3: facedaNcer ($2.00)
+Seat 4: MezcalMule ($2.44)
+Seat 5: StackedMaverick ($2.83)
+Seat 6: swinfos ($2.00)
+JCB77 posts the small blind $0.01
+facedaNcer posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [8c 9d]
+MezcalMule folds
+StackedMaverick raises $0.06 to $0.06
+swinfos folds
+Sportingrock1 calls $0.06
+JCB77 folds
+facedaNcer folds
+*** FLOP *** [5h Qc Kd]
+Main pot $0.15 | Rake $0.00
+StackedMaverick checks
+Sportingrock1 checks
+*** TURN *** [5h Qc Kd] [Ac]
+Main pot $0.15 | Rake $0.00
+StackedMaverick bets $0.09
+Sportingrock1 folds
+Uncalled bet ($0.09) returned to StackedMaverick
+StackedMaverick does not show
+*** SUMMARY ***
+Total pot $0.15
+Board [5h Qc Kd Ac]
+Seat 1: Sportingrock1 (button) folded on the Turn
+Seat 2: JCB77 (small blind) folded on the Pre-Flop
+Seat 3: facedaNcer (big blind) folded on the Pre-Flop
+Seat 4: MezcalMule folded on the Pre-Flop and did not bet
+Seat 5: StackedMaverick did not show and won $0.15
+Seat 6: swinfos folded on the Pre-Flop and did not bet
+
+Hand #996743070 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 02:24:16 UTC
+Ignacio 6-max Seat #2 is the button
+Seat 1: Sportingrock1 ($2.00)
+Seat 2: JCB77 ($2.72)
+Seat 3: facedaNcer ($1.98)
+Seat 4: MezcalMule ($2.44)
+Seat 5: StackedMaverick ($2.92)
+Seat 6: swinfos ($2.00)
+facedaNcer posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Tc 2s]
+StackedMaverick folds
+swinfos raises $0.05 to $0.05
+Sportingrock1 folds
+JCB77 folds
+facedaNcer folds
+MezcalMule folds
+Uncalled bet ($0.03) returned to swinfos
+swinfos does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: Sportingrock1 folded on the Pre-Flop and did not bet
+Seat 2: JCB77 (button) folded on the Pre-Flop
+Seat 3: facedaNcer (small blind) folded on the Pre-Flop
+Seat 4: MezcalMule (big blind) folded on the Pre-Flop
+Seat 5: StackedMaverick folded on the Pre-Flop and did not bet
+Seat 6: swinfos did not show and won $0.05
+
+Hand #996743484 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 02:24:37 UTC
+Ignacio 6-max Seat #3 is the button
+Seat 1: Sportingrock1 ($2.00)
+Seat 2: JCB77 ($2.72)
+Seat 3: facedaNcer ($1.97)
+Seat 4: MezcalMule ($2.42)
+Seat 5: StackedMaverick ($2.92)
+Seat 6: swinfos ($2.03)
+MezcalMule posts the small blind $0.01
+StackedMaverick posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Kd 9s]
+swinfos folds
+Sportingrock1 folds
+JCB77 folds
+facedaNcer raises $0.05 to $0.05
+MezcalMule folds
+StackedMaverick calls $0.03
+*** FLOP *** [4c Qh 2c]
+Main pot $0.11 | Rake $0.00
+StackedMaverick checks
+facedaNcer bets $0.04
+StackedMaverick folds
+Uncalled bet ($0.04) returned to facedaNcer
+facedaNcer does not show
+*** SUMMARY ***
+Total pot $0.11
+Board [4c Qh 2c]
+Seat 1: Sportingrock1 folded on the Pre-Flop and did not bet
+Seat 2: JCB77 folded on the Pre-Flop and did not bet
+Seat 3: facedaNcer did not show and won $0.11
+Seat 4: MezcalMule (small blind) folded on the Pre-Flop
+Seat 5: StackedMaverick (big blind) folded on the Flop
+Seat 6: swinfos folded on the Pre-Flop and did not bet
+
+Hand #996744574 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 02:25:31 UTC
+Ignacio 6-max Seat #4 is the button
+Seat 1: Sportingrock1 ($2.00)
+Seat 2: JCB77 ($2.72)
+Seat 3: facedaNcer ($2.03)
+Seat 4: MezcalMule ($2.41)
+Seat 5: StackedMaverick ($2.87)
+Seat 6: swinfos ($2.03)
+StackedMaverick posts the small blind $0.01
+swinfos posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [7h 8s]
+Sportingrock1 folds
+JCB77 raises $0.07 to $0.07
+facedaNcer folds
+MezcalMule raises $0.12 to $0.12
+StackedMaverick folds
+swinfos folds
+JCB77 raises $0.34 to $0.41
+MezcalMule folds
+Uncalled bet ($0.29) returned to JCB77
+JCB77 does not show
+*** SUMMARY ***
+Total pot $0.27
+Seat 1: Sportingrock1 folded on the Pre-Flop and did not bet
+Seat 2: JCB77 did not show and won $0.27
+Seat 3: facedaNcer folded on the Pre-Flop and did not bet
+Seat 4: MezcalMule (button) folded on the Pre-Flop
+Seat 5: StackedMaverick (small blind) folded on the Pre-Flop
+Seat 6: swinfos (big blind) folded on the Pre-Flop
+
+Hand #996745618 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 02:26:24 UTC
+Ignacio 6-max Seat #5 is the button
+Seat 1: Sportingrock1 ($2.00)
+Seat 2: JCB77 ($2.87)
+Seat 3: facedaNcer ($2.03)
+Seat 4: MezcalMule ($2.29)
+Seat 5: StackedMaverick ($2.86)
+Seat 6: swinfos ($2.01)
+swinfos posts the small blind $0.01
+Sportingrock1 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [9s 2d]
+JCB77 raises $0.07 to $0.07
+facedaNcer folds
+MezcalMule folds
+StackedMaverick folds
+swinfos folds
+Sportingrock1 raises $0.16 to $0.18
+JCB77 calls $0.11
+*** FLOP *** [Ac Jd 2c]
+Main pot $0.36 | Rake $0.01
+Sportingrock1 bets $0.18
+JCB77 calls $0.18
+*** TURN *** [Ac Jd 2c] [3c]
+Main pot $0.70 | Rake $0.03
+Sportingrock1 checks
+JCB77 checks
+*** RIVER *** [Ac Jd 2c 3c] [5d]
+Main pot $0.70 | Rake $0.03
+Sportingrock1 checks
+JCB77 bets $0.18
+Sportingrock1 calls $0.18
+*** SHOW DOWN ***
+Main pot $1.04 | Rake $0.05
+Sportingrock1 shows [Qc Qd] (a pair of Queens [Qd Qc Ac Jd 5d])
+JCB77 shows [As Ts] (a pair of Aces [As Ac Jd Ts 5d])
+JCB77 collected $1.04 from main pot
+*** SUMMARY ***
+Total pot $1.04 | Rake $0.05
+Board [Ac Jd 2c 3c 5d]
+Seat 1: Sportingrock1 (big blind) showed [Qc Qd] and lost with a pair of Queens [Qd Qc Ac Jd 5d]
+Seat 2: JCB77 showed [As Ts] and won $1.04 with a pair of Aces [As Ac Jd Ts 5d]
+Seat 3: facedaNcer folded on the Pre-Flop and did not bet
+Seat 4: MezcalMule folded on the Pre-Flop and did not bet
+Seat 5: StackedMaverick (button) folded on the Pre-Flop
+Seat 6: swinfos (small blind) folded on the Pre-Flop
+
+Hand #996747435 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 02:27:54 UTC
+Ignacio 6-max Seat #6 is the button
+Seat 1: Sportingrock1 ($2.00)
+Seat 2: JCB77 ($3.37)
+Seat 3: facedaNcer ($2.03)
+Seat 4: MezcalMule ($2.29)
+Seat 5: StackedMaverick ($2.86)
+Seat 6: swinfos ($2.00)
+Sportingrock1 posts the small blind $0.01
+JCB77 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [8d 9d]
+facedaNcer folds
+MezcalMule raises $0.04 to $0.04
+StackedMaverick folds
+swinfos folds
+Sportingrock1 calls $0.03
+JCB77 folds
+*** FLOP *** [5d 6d 6s]
+Main pot $0.10 | Rake $0.00
+Sportingrock1 checks
+MezcalMule bets $0.07
+Sportingrock1 calls $0.07
+*** TURN *** [5d 6d 6s] [2h]
+Main pot $0.23 | Rake $0.01
+Sportingrock1 checks
+MezcalMule checks
+*** RIVER *** [5d 6d 6s 2h] [5s]
+Main pot $0.23 | Rake $0.01
+Sportingrock1 bets $0.06
+MezcalMule folds
+Uncalled bet ($0.06) returned to Sportingrock1
+Sportingrock1 does not show
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01
+Board [5d 6d 6s 2h 5s]
+Seat 1: Sportingrock1 did not show and won $0.23
+Seat 2: JCB77 (big blind) folded on the Pre-Flop
+Seat 3: facedaNcer folded on the Pre-Flop and did not bet
+Seat 4: MezcalMule folded on the River
+Seat 5: StackedMaverick folded on the Pre-Flop and did not bet
+Seat 6: swinfos (button) folded on the Pre-Flop
+
+Hand #996748496 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 02:28:48 UTC
+Ignacio 6-max Seat #1 is the button
+Seat 1: Sportingrock1 ($2.12)
+Seat 2: JCB77 ($3.35)
+Seat 3: facedaNcer ($2.03)
+Seat 4: MezcalMule ($2.18)
+Seat 5: StackedMaverick ($2.86)
+Seat 6: swinfos ($2.00)
+JCB77 posts the small blind $0.01
+facedaNcer posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [7h As]
+MezcalMule folds
+StackedMaverick folds
+swinfos raises $0.05 to $0.05
+Sportingrock1 folds
+JCB77 folds
+facedaNcer folds
+Uncalled bet ($0.03) returned to swinfos
+swinfos does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: Sportingrock1 (button) folded on the Pre-Flop
+Seat 2: JCB77 (small blind) folded on the Pre-Flop
+Seat 3: facedaNcer (big blind) folded on the Pre-Flop
+Seat 4: MezcalMule folded on the Pre-Flop and did not bet
+Seat 5: StackedMaverick folded on the Pre-Flop and did not bet
+Seat 6: swinfos did not show and won $0.05
+
+Hand #996748848 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 02:29:06 UTC
+Ignacio 6-max Seat #2 is the button
+Seat 1: Sportingrock1 ($2.12)
+Seat 2: JCB77 ($3.34)
+Seat 3: facedaNcer ($2.01)
+Seat 4: MezcalMule ($2.18)
+Seat 5: StackedMaverick ($2.86)
+Seat 6: swinfos ($2.03)
+facedaNcer posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [2s 9c]
+StackedMaverick folds
+swinfos folds
+Sportingrock1 folds
+JCB77 folds
+facedaNcer folds
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.03
+Seat 1: Sportingrock1 folded on the Pre-Flop and did not bet
+Seat 2: JCB77 (button) folded on the Pre-Flop
+Seat 3: facedaNcer (small blind) folded on the Pre-Flop
+Seat 4: MezcalMule did not show and won $0.03
+Seat 5: StackedMaverick folded on the Pre-Flop and did not bet
+Seat 6: swinfos folded on the Pre-Flop and did not bet
+
+Hand #996749006 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 02:29:15 UTC
+Ignacio 6-max Seat #3 is the button
+Seat 1: Sportingrock1 ($2.12)
+Seat 2: JCB77 ($3.34)
+Seat 3: facedaNcer ($2.00)
+Seat 4: MezcalMule ($2.19)
+Seat 5: StackedMaverick ($2.86)
+Seat 6: swinfos ($2.03)
+MezcalMule posts the small blind $0.01
+StackedMaverick posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [8d 3s]
+swinfos folds
+Sportingrock1 folds
+JCB77 folds
+facedaNcer raises $0.05 to $0.05
+MezcalMule folds
+StackedMaverick folds
+Uncalled bet ($0.03) returned to facedaNcer
+facedaNcer does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: Sportingrock1 folded on the Pre-Flop and did not bet
+Seat 2: JCB77 folded on the Pre-Flop and did not bet
+Seat 3: facedaNcer did not show and won $0.05
+Seat 4: MezcalMule (small blind) folded on the Pre-Flop
+Seat 5: StackedMaverick (big blind) folded on the Pre-Flop
+Seat 6: swinfos folded on the Pre-Flop and did not bet
+
+Hand #996749474 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 02:29:38 UTC
+Ignacio 6-max Seat #4 is the button
+Seat 1: Sportingrock1 ($2.12)
+Seat 2: JCB77 ($3.34)
+Seat 3: facedaNcer ($2.03)
+Seat 4: MezcalMule ($2.18)
+Seat 5: StackedMaverick ($2.84)
+Seat 6: swinfos ($2.03)
+StackedMaverick posts the small blind $0.01
+swinfos posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [9d Qh]
+Sportingrock1 folds
+JCB77 folds
+facedaNcer folds
+MezcalMule raises $0.04 to $0.04
+StackedMaverick folds
+swinfos calls $0.02
+*** FLOP *** [Ac Kh 5s]
+Main pot $0.09 | Rake $0.00
+swinfos checks
+MezcalMule checks
+*** TURN *** [Ac Kh 5s] [Td]
+Main pot $0.09 | Rake $0.00
+swinfos checks
+MezcalMule checks
+*** RIVER *** [Ac Kh 5s Td] [3s]
+Main pot $0.09 | Rake $0.00
+swinfos checks
+MezcalMule checks
+*** SHOW DOWN ***
+Main pot $0.09 | Rake $0.00
+MezcalMule shows [9d Qh] (a high card, Ace high [Ac Kh Qh Td 9d])
+swinfos shows [5d 8c] (a pair of Fives [5s 5d Ac Kh Td])
+swinfos collected $0.09 from main pot
+*** SUMMARY ***
+Total pot $0.09
+Board [Ac Kh 5s Td 3s]
+Seat 1: Sportingrock1 folded on the Pre-Flop and did not bet
+Seat 2: JCB77 folded on the Pre-Flop and did not bet
+Seat 3: facedaNcer folded on the Pre-Flop and did not bet
+Seat 4: MezcalMule (button) showed [9d Qh] and lost with a high card, Ace high [Ac Kh Qh Td 9d]
+Seat 5: StackedMaverick (small blind) folded on the Pre-Flop
+Seat 6: swinfos (big blind) showed [5d 8c] and won $0.09 with a pair of Fives [5s 5d Ac Kh Td]
+
+Hand #996750604 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 02:30:37 UTC
+Ignacio 6-max Seat #5 is the button
+Seat 1: Sportingrock1 ($2.12)
+Seat 2: JCB77 ($3.34)
+Seat 4: MezcalMule ($2.14)
+Seat 5: StackedMaverick ($2.83)
+Seat 6: swinfos ($2.08)
+swinfos posts the small blind $0.01
+Sportingrock1 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [3d 2c]
+JCB77 folds
+MezcalMule folds
+StackedMaverick folds
+swinfos folds
+Sportingrock1 does not show
+*** SUMMARY ***
+Total pot $0.03
+Seat 1: Sportingrock1 did not show and won $0.03
+Seat 2: JCB77 folded on the Pre-Flop and did not bet
+Seat 4: MezcalMule folded on the Pre-Flop and did not bet
+Seat 5: StackedMaverick (button) folded on the Pre-Flop
+Seat 6: swinfos (small blind) folded on the Pre-Flop
+
+Hand #996750827 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 02:30:48 UTC
+Ignacio 6-max Seat #6 is the button
+Seat 1: Sportingrock1 ($2.13)
+Seat 2: JCB77 ($3.34)
+Seat 4: MezcalMule ($2.14)
+Seat 5: StackedMaverick ($2.83)
+Seat 6: swinfos ($2.07)
+Sportingrock1 posts the small blind $0.01
+JCB77 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Qh Ah]
+MezcalMule raises $0.07 to $0.07
+StackedMaverick folds
+swinfos folds
+Sportingrock1 calls $0.06
+JCB77 folds
+*** FLOP *** [Th Ts Qs]
+Main pot $0.16 | Rake $0.00
+Sportingrock1 checks
+MezcalMule bets $0.08
+Sportingrock1 folds
+Uncalled bet ($0.08) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.16
+Board [Th Ts Qs]
+Seat 1: Sportingrock1 (small blind) folded on the Flop
+Seat 2: JCB77 (big blind) folded on the Pre-Flop
+Seat 4: MezcalMule did not show and won $0.16
+Seat 5: StackedMaverick folded on the Pre-Flop and did not bet
+Seat 6: swinfos (button) folded on the Pre-Flop
+
+Hand #996751597 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 02:31:26 UTC
+Ignacio 6-max Seat #1 is the button
+Seat 1: Sportingrock1 ($2.06)
+Seat 2: JCB77 ($3.32)
+Seat 3: JOKERXAXAXA ($2.00)
+Seat 4: MezcalMule ($2.23)
+Seat 5: StackedMaverick ($2.83)
+Seat 6: swinfos ($2.07)
+JCB77 posts the small blind $0.01
+JOKERXAXAXA posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [4d 8d]
+MezcalMule folds
+StackedMaverick folds
+swinfos folds
+Sportingrock1 raises $0.05 to $0.05
+JCB77 folds
+JOKERXAXAXA folds
+Uncalled bet ($0.03) returned to Sportingrock1
+Sportingrock1 shows [As -]
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: Sportingrock1 (button) showed [As -] and won $0.05
+Seat 2: JCB77 (small blind) folded on the Pre-Flop
+Seat 3: JOKERXAXAXA (big blind) folded on the Pre-Flop
+Seat 4: MezcalMule folded on the Pre-Flop and did not bet
+Seat 5: StackedMaverick folded on the Pre-Flop and did not bet
+Seat 6: swinfos folded on the Pre-Flop and did not bet
+
+Hand #996752138 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 02:31:53 UTC
+Ignacio 6-max Seat #2 is the button
+Seat 1: Sportingrock1 ($2.09)
+Seat 2: JCB77 ($3.31)
+Seat 3: JOKERXAXAXA ($2.00)
+Seat 4: MezcalMule ($2.23)
+Seat 5: StackedMaverick ($2.83)
+Seat 6: swinfos ($2.07)
+JOKERXAXAXA posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [3d Jh]
+StackedMaverick folds
+swinfos folds
+Sportingrock1 folds
+JCB77 folds
+JOKERXAXAXA raises $0.05 to $0.06
+MezcalMule folds
+Uncalled bet ($0.04) returned to JOKERXAXAXA
+JOKERXAXAXA does not show
+*** SUMMARY ***
+Total pot $0.04
+Seat 1: Sportingrock1 folded on the Pre-Flop and did not bet
+Seat 2: JCB77 (button) folded on the Pre-Flop
+Seat 3: JOKERXAXAXA did not show and won $0.04
+Seat 4: MezcalMule (big blind) folded on the Pre-Flop
+Seat 5: StackedMaverick folded on the Pre-Flop and did not bet
+Seat 6: swinfos folded on the Pre-Flop and did not bet
+
+Hand #996752601 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 02:32:17 UTC
+Ignacio 6-max Seat #3 is the button
+Seat 1: Sportingrock1 ($2.09)
+Seat 2: JCB77 ($3.31)
+Seat 3: JOKERXAXAXA ($2.02)
+Seat 4: MezcalMule ($2.21)
+Seat 5: StackedMaverick ($2.83)
+Seat 6: swinfos ($2.07)
+MezcalMule posts the small blind $0.01
+StackedMaverick posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Kh 2s]
+swinfos folds
+Sportingrock1 folds
+JCB77 folds
+JOKERXAXAXA folds
+MezcalMule raises $0.05 to $0.06
+StackedMaverick calls $0.04
+*** FLOP *** [8d 9d Ad]
+Main pot $0.12 | Rake $0.00
+MezcalMule checks
+StackedMaverick checks
+*** TURN *** [8d 9d Ad] [Qh]
+Main pot $0.12 | Rake $0.00
+MezcalMule bets $0.14
+StackedMaverick folds
+Uncalled bet ($0.14) returned to MezcalMule
+MezcalMule shows [- 2s]
+*** SUMMARY ***
+Total pot $0.12
+Board [8d 9d Ad Qh]
+Seat 1: Sportingrock1 folded on the Pre-Flop and did not bet
+Seat 2: JCB77 folded on the Pre-Flop and did not bet
+Seat 3: JOKERXAXAXA (button) folded on the Pre-Flop
+Seat 4: MezcalMule (small blind) showed [- 2s] and won $0.12
+Seat 5: StackedMaverick (big blind) folded on the Turn
+Seat 6: swinfos folded on the Pre-Flop and did not bet
+
+Hand #996753454 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/30 02:33:01 UTC
+Ignacio 6-max Seat #4 is the button
+Seat 1: Sportingrock1 ($2.09)
+Seat 2: JCB77 ($3.31)
+Seat 3: JOKERXAXAXA ($2.02)
+Seat 4: MezcalMule ($2.27)
+Seat 5: StackedMaverick ($2.77)
+Seat 6: swinfos ($2.07)
+StackedMaverick posts the small blind $0.01
+swinfos posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Jc Ad]
+Sportingrock1 folds
+JCB77 raises $0.07 to $0.07
+JOKERXAXAXA folds
+MezcalMule calls $0.07
+StackedMaverick calls $0.06
+swinfos folds
+*** FLOP *** [6s Qd Ks]
+Main pot $0.22 | Rake $0.01
+StackedMaverick checks
+JCB77 checks
+MezcalMule checks
+*** TURN *** [6s Qd Ks] [Qh]
+Main pot $0.22 | Rake $0.01
+StackedMaverick checks
+JCB77 checks
+MezcalMule checks
+*** RIVER *** [6s Qd Ks Qh] [8h]
+Main pot $0.22 | Rake $0.01
+StackedMaverick checks
+JCB77 checks
+MezcalMule checks
+*** SHOW DOWN ***
+Main pot $0.22 | Rake $0.01
+JCB77 shows [5h 5s] (two pair, Queens and Fives [Qh Qd 5s 5h Ks])
+MezcalMule shows [Jc Ad] (a pair of Queens [Qh Qd Ad Ks Jc])
+StackedMaverick shows [9s Ts] (a pair of Queens [Qh Qd Ks Ts 9s])
+JCB77 collected $0.22 from main pot
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01
+Board [6s Qd Ks Qh 8h]
+Seat 1: Sportingrock1 folded on the Pre-Flop and did not bet
+Seat 2: JCB77 showed [5h 5s] and won $0.22 with two pair, Queens and Fives [Qh Qd 5s 5h Ks]
+Seat 3: JOKERXAXAXA folded on the Pre-Flop and did not bet
+Seat 4: MezcalMule (button) showed [Jc Ad] and lost with a pair of Queens [Qh Qd Ad Ks Jc]
+Seat 5: StackedMaverick (small blind) showed [9s Ts] and lost with a pair of Queens [Qh Qd Ks Ts 9s]
+Seat 6: swinfos (big blind) folded on the Pre-Flop
+

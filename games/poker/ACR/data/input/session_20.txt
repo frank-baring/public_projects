@@ -1,0 +1,441 @@
+Hand #1134791034 - Holdem(No Limit) - $0.02/$0.05 - 2022/02/24 04:59:31 UTC
+South Holland 6-max Seat #1 is the button
+Seat 1: bulletsaa9966 ($5.56)
+Seat 2: Victor07 ($8.09)
+Seat 3: franze92 ($10.57)
+Seat 4: MezcalMule ($4.63)
+Seat 5: maxProf1t ($5.00)
+Seat 6: Fish19022022 ($5.00)
+Victor07 posts the small blind $0.02
+franze92 posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to MezcalMule [Ts Jd]
+MezcalMule calls $0.05
+maxProf1t folds
+Fish19022022 folds
+bulletsaa9966 calls $0.05
+Victor07 calls $0.03
+franze92 checks
+*** FLOP *** [3s Qs 3h]
+Main pot $0.19 | Rake $0.01
+Victor07 checks
+franze92 checks
+MezcalMule checks
+bulletsaa9966 checks
+*** TURN *** [3s Qs 3h] [Th]
+Main pot $0.19 | Rake $0.01
+Victor07 checks
+franze92 checks
+MezcalMule checks
+bulletsaa9966 checks
+*** RIVER *** [3s Qs 3h Th] [3d]
+Main pot $0.19 | Rake $0.01
+Victor07 checks
+franze92 checks
+MezcalMule checks
+bulletsaa9966 bets $0.20
+Victor07 folds
+franze92 folds
+MezcalMule calls $0.20
+*** SHOW DOWN ***
+Main pot $0.57 | Rake $0.03
+bulletsaa9966 shows [7c Ah] (three of a kind, Set of Threes [3s 3h 3d Ah Qs])
+MezcalMule shows [Ts Jd] (a full house, Threes full of Tens [3s 3h 3d Ts Th])
+MezcalMule collected $0.57 from main pot
+*** SUMMARY ***
+Total pot $0.57 | Rake $0.03
+Board [3s Qs 3h Th 3d]
+Seat 1: bulletsaa9966 (button) showed [7c Ah] and lost with three of a kind, Set of Threes [3s 3h 3d Ah Qs]
+Seat 2: Victor07 (small blind) folded on the River
+Seat 3: franze92 (big blind) folded on the River
+Seat 4: MezcalMule showed [Ts Jd] and won $0.57 with a full house, Threes full of Tens [3s 3h 3d Ts Th]
+Seat 5: maxProf1t folded on the Pre-Flop and did not bet
+Seat 6: Fish19022022 folded on the Pre-Flop and did not bet
+
+Hand #1134792507 - Holdem(No Limit) - $0.02/$0.05 - 2022/02/24 05:01:23 UTC
+South Holland 6-max Seat #2 is the button
+Seat 1: bulletsaa9966 ($5.31)
+Seat 2: Victor07 ($8.04)
+Seat 3: franze92 ($10.52)
+Seat 4: MezcalMule ($4.95)
+Seat 5: maxProf1t ($5.00)
+Seat 6: Fish19022022 ($5.00)
+franze92 posts the small blind $0.02
+MezcalMule posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to MezcalMule [Ac 8s]
+maxProf1t raises $0.12 to $0.12
+Fish19022022 folds
+bulletsaa9966 raises $0.19 to $0.19
+Victor07 folds
+franze92 folds
+MezcalMule folds
+maxProf1t calls $0.07
+*** FLOP *** [6d Ks Ah]
+Main pot $0.43 | Rake $0.02
+maxProf1t checks
+bulletsaa9966 checks
+*** TURN *** [6d Ks Ah] [Kc]
+Main pot $0.43 | Rake $0.02
+maxProf1t checks
+bulletsaa9966 checks
+*** RIVER *** [6d Ks Ah Kc] [9h]
+Main pot $0.43 | Rake $0.02
+maxProf1t bets $0.20
+bulletsaa9966 calls $0.20
+*** SHOW DOWN ***
+Main pot $0.81 | Rake $0.04
+bulletsaa9966 shows [Jh Js] (two pair, Kings and Jacks [Ks Kc Js Jh Ah])
+maxProf1t shows [As 9s] (two pair, Aces and Kings [As Ah Ks Kc 9s])
+maxProf1t collected $0.81 from main pot
+*** SUMMARY ***
+Total pot $0.81 | Rake $0.04
+Board [6d Ks Ah Kc 9h]
+Seat 1: bulletsaa9966 showed [Jh Js] and lost with two pair, Kings and Jacks [Ks Kc Js Jh Ah]
+Seat 2: Victor07 (button) folded on the Pre-Flop
+Seat 3: franze92 (small blind) folded on the Pre-Flop
+Seat 4: MezcalMule (big blind) folded on the Pre-Flop
+Seat 5: maxProf1t showed [As 9s] and won $0.81 with two pair, Aces and Kings [As Ah Ks Kc 9s]
+Seat 6: Fish19022022 folded on the Pre-Flop and did not bet
+
+Hand #1134793651 - Holdem(No Limit) - $0.02/$0.05 - 2022/02/24 05:02:29 UTC
+South Holland 6-max Seat #3 is the button
+Seat 1: bulletsaa9966 ($4.92)
+Seat 2: Victor07 ($8.04)
+Seat 3: franze92 ($10.50)
+Seat 4: MezcalMule ($4.90)
+Seat 5: maxProf1t ($5.42)
+Seat 6: Fish19022022 ($5.00)
+MezcalMule posts the small blind $0.02
+maxProf1t posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to MezcalMule [6s Ah]
+Fish19022022 raises $0.15 to $0.15
+bulletsaa9966 folds
+Victor07 folds
+franze92 raises $0.45 to $0.45
+MezcalMule folds
+maxProf1t folds
+Fish19022022 folds
+Uncalled bet ($0.30) returned to franze92
+franze92 does not show
+*** SUMMARY ***
+Total pot $0.37
+Seat 1: bulletsaa9966 folded on the Pre-Flop and did not bet
+Seat 2: Victor07 folded on the Pre-Flop and did not bet
+Seat 3: franze92 did not show and won $0.37
+Seat 4: MezcalMule (small blind) folded on the Pre-Flop
+Seat 5: maxProf1t (big blind) folded on the Pre-Flop
+Seat 6: Fish19022022 folded on the Pre-Flop and did not bet
+
+Hand #1134794311 - Holdem(No Limit) - $0.02/$0.05 - 2022/02/24 05:03:08 UTC
+South Holland 6-max Seat #4 is the button
+Seat 1: bulletsaa9966 ($4.92)
+Seat 2: Victor07 ($8.04)
+Seat 3: franze92 ($10.72)
+Seat 4: MezcalMule ($4.88)
+Seat 5: maxProf1t ($5.37)
+Seat 6: Fish19022022 ($5.00)
+maxProf1t posts the small blind $0.02
+Fish19022022 posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to MezcalMule [3c 8h]
+bulletsaa9966 folds
+Victor07 calls $0.05
+franze92 raises $0.25 to $0.25
+MezcalMule folds
+maxProf1t folds
+Fish19022022 folds
+Victor07 calls $0.20
+*** FLOP *** [Ks Jh 3h]
+Main pot $0.55 | Rake $0.02
+Victor07 checks
+franze92 bets $0.28
+Victor07 calls $0.28
+*** TURN *** [Ks Jh 3h] [6d]
+Main pot $1.08 | Rake $0.05
+Victor07 checks
+franze92 checks
+*** RIVER *** [Ks Jh 3h 6d] [5s]
+Main pot $1.08 | Rake $0.05
+Victor07 bets $1.13
+franze92 folds
+Uncalled bet ($1.13) returned to Victor07
+Victor07 does not show
+*** SUMMARY ***
+Total pot $1.08 | Rake $0.05
+Board [Ks Jh 3h 6d 5s]
+Seat 1: bulletsaa9966 folded on the Pre-Flop and did not bet
+Seat 2: Victor07 did not show and won $1.08
+Seat 3: franze92 folded on the River
+Seat 4: MezcalMule (button) folded on the Pre-Flop
+Seat 5: maxProf1t (small blind) folded on the Pre-Flop
+Seat 6: Fish19022022 (big blind) folded on the Pre-Flop
+
+Hand #1134796147 - Holdem(No Limit) - $0.02/$0.05 - 2022/02/24 05:04:51 UTC
+South Holland 6-max Seat #5 is the button
+Seat 1: bulletsaa9966 ($4.92)
+Seat 2: Victor07 ($8.59)
+Seat 3: franze92 ($10.19)
+Seat 4: MezcalMule ($4.88)
+Seat 5: maxProf1t ($5.35)
+Seat 6: Fish19022022 ($5.00)
+Fish19022022 posts the small blind $0.02
+bulletsaa9966 posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to MezcalMule [8d Td]
+Victor07 folds
+franze92 raises $0.10 to $0.10
+MezcalMule raises $0.15 to $0.15
+maxProf1t folds
+Fish19022022 folds
+bulletsaa9966 folds
+franze92 calls $0.05
+*** FLOP *** [6h 2h 8s]
+Main pot $0.36 | Rake $0.01
+franze92 checks
+MezcalMule checks
+*** TURN *** [6h 2h 8s] [2c]
+Main pot $0.36 | Rake $0.01
+franze92 checks
+MezcalMule checks
+*** RIVER *** [6h 2h 8s 2c] [9d]
+Main pot $0.36 | Rake $0.01
+franze92 checks
+MezcalMule checks
+*** SHOW DOWN ***
+Main pot $0.36 | Rake $0.01
+franze92 shows [As 5s] (a pair of Deuces [2h 2c As 9d 8s])
+MezcalMule shows [8d Td] (two pair, Eights and Deuces [8s 8d 2h 2c Td])
+MezcalMule collected $0.36 from main pot
+*** SUMMARY ***
+Total pot $0.36 | Rake $0.01
+Board [6h 2h 8s 2c 9d]
+Seat 1: bulletsaa9966 (big blind) folded on the Pre-Flop
+Seat 2: Victor07 folded on the Pre-Flop and did not bet
+Seat 3: franze92 showed [As 5s] and lost with a pair of Deuces [2h 2c As 9d 8s]
+Seat 4: MezcalMule showed [8d Td] and won $0.36 with two pair, Eights and Deuces [8s 8d 2h 2c Td]
+Seat 5: maxProf1t (button) folded on the Pre-Flop
+Seat 6: Fish19022022 (small blind) folded on the Pre-Flop
+
+Hand #1134798325 - Holdem(No Limit) - $0.02/$0.05 - 2022/02/24 05:06:51 UTC
+South Holland 6-max Seat #6 is the button
+Seat 1: bulletsaa9966 ($4.87)
+Seat 2: Victor07 ($8.59)
+Seat 3: franze92 ($10.04)
+Seat 4: MezcalMule ($5.09)
+Seat 5: maxProf1t ($5.35)
+Seat 6: Fish19022022 ($5.00)
+bulletsaa9966 posts the small blind $0.02
+Victor07 posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to MezcalMule [9d Qc]
+franze92 folds
+MezcalMule folds
+maxProf1t folds
+Fish19022022 raises $0.15 to $0.15
+bulletsaa9966 folds
+Victor07 calls $0.10
+*** FLOP *** [Qs 4d 5h]
+Main pot $0.31 | Rake $0.01
+Victor07 checks
+Fish19022022 bets $0.23
+Victor07 folds
+Uncalled bet ($0.23) returned to Fish19022022
+Fish19022022 does not show
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01
+Board [Qs 4d 5h]
+Seat 1: bulletsaa9966 (small blind) folded on the Pre-Flop
+Seat 2: Victor07 (big blind) folded on the Flop
+Seat 3: franze92 folded on the Pre-Flop and did not bet
+Seat 4: MezcalMule folded on the Pre-Flop and did not bet
+Seat 5: maxProf1t folded on the Pre-Flop and did not bet
+Seat 6: Fish19022022 did not show and won $0.31
+
+Hand #1134799213 - Holdem(No Limit) - $0.02/$0.05 - 2022/02/24 05:07:39 UTC
+South Holland 6-max Seat #1 is the button
+Seat 2: Victor07 ($8.44)
+Seat 3: franze92 ($10.04)
+Seat 4: MezcalMule ($5.09)
+Seat 5: maxProf1t ($5.35)
+Seat 6: Fish19022022 ($5.16)
+Victor07 posts the small blind $0.02
+franze92 posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to MezcalMule [5h 9d]
+MezcalMule folds
+maxProf1t folds
+Fish19022022 folds
+Victor07 calls $0.03
+franze92 checks
+*** FLOP *** [Qc 3h 7h]
+Main pot $0.10 | Rake $0.00
+Victor07 checks
+franze92 checks
+*** TURN *** [Qc 3h 7h] [Ts]
+Main pot $0.10 | Rake $0.00
+Victor07 checks
+franze92 checks
+*** RIVER *** [Qc 3h 7h Ts] [Tc]
+Main pot $0.10 | Rake $0.00
+Victor07 checks
+franze92 checks
+*** SHOW DOWN ***
+Main pot $0.10 | Rake $0.00
+Victor07 shows [2c 5c] (a pair of Tens [Ts Tc Qc 7h 5c])
+franze92 shows [8h Kd] (a pair of Tens [Ts Tc Kd Qc 8h])
+franze92 collected $0.10 from main pot
+*** SUMMARY ***
+Total pot $0.10
+Board [Qc 3h 7h Ts Tc]
+Seat 2: Victor07 (small blind) showed [2c 5c] and lost with a pair of Tens [Ts Tc Qc 7h 5c]
+Seat 3: franze92 (big blind) showed [8h Kd] and won $0.10 with a pair of Tens [Ts Tc Kd Qc 8h] with the kicker King
+Seat 4: MezcalMule folded on the Pre-Flop and did not bet
+Seat 5: maxProf1t folded on the Pre-Flop and did not bet
+Seat 6: Fish19022022 folded on the Pre-Flop and did not bet
+
+Hand #1134800856 - Holdem(No Limit) - $0.02/$0.05 - 2022/02/24 05:09:09 UTC
+South Holland 6-max Seat #2 is the button
+Seat 2: Victor07 ($8.39)
+Seat 3: franze92 ($10.09)
+Seat 4: MezcalMule ($5.09)
+Seat 5: maxProf1t ($5.35)
+Seat 6: Fish19022022 ($5.16)
+franze92 posts the small blind $0.02
+MezcalMule posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to MezcalMule [7d 5d]
+maxProf1t folds
+Fish19022022 folds
+Victor07 calls $0.05
+franze92 folds
+MezcalMule checks
+*** FLOP *** [3s Td 8h]
+Main pot $0.12 | Rake $0.00
+MezcalMule checks
+Victor07 checks
+*** TURN *** [3s Td 8h] [3d]
+Main pot $0.12 | Rake $0.00
+MezcalMule checks
+Victor07 checks
+*** RIVER *** [3s Td 8h 3d] [Ac]
+Main pot $0.12 | Rake $0.00
+MezcalMule checks
+Victor07 checks
+*** SHOW DOWN ***
+Main pot $0.12 | Rake $0.00
+Victor07 shows [6s 4s] (a pair of Threes [3s 3d Ac Td 8h])
+MezcalMule shows [7d 5d] (a pair of Threes [3s 3d Ac Td 8h])
+Victor07 collected $0.06 from main pot
+MezcalMule collected $0.06 from main pot
+*** SUMMARY ***
+Total pot $0.12
+Board [3s Td 8h 3d Ac]
+Seat 2: Victor07 (button) showed [6s 4s] and won $0.06 with a pair of Threes [3s 3d Ac Td 8h]
+Seat 3: franze92 (small blind) folded on the Pre-Flop
+Seat 4: MezcalMule (big blind) showed [7d 5d] and won $0.06 with a pair of Threes [3s 3d Ac Td 8h]
+Seat 5: maxProf1t folded on the Pre-Flop and did not bet
+Seat 6: Fish19022022 folded on the Pre-Flop and did not bet
+
+Hand #1134802327 - Holdem(No Limit) - $0.02/$0.05 - 2022/02/24 05:10:28 UTC
+South Holland 6-max Seat #3 is the button
+Seat 1: AJHPoker ($2.00)
+Seat 2: Victor07 ($8.40)
+Seat 3: franze92 ($10.07)
+Seat 4: MezcalMule ($5.10)
+Seat 5: maxProf1t ($5.35)
+Seat 6: Fish19022022 ($5.16)
+MezcalMule posts the small blind $0.02
+maxProf1t posts the big blind $0.05
+AJHPoker posts $0.05
+*** HOLE CARDS ***
+Dealt to MezcalMule [5c 9d]
+Fish19022022 folds
+AJHPoker checks
+Victor07 folds
+franze92 folds
+MezcalMule calls $0.03
+maxProf1t checks
+*** FLOP *** [Tc 2c Jc]
+Main pot $0.15 | Rake $0.00
+MezcalMule checks
+maxProf1t checks
+AJHPoker bets $0.05
+MezcalMule calls $0.05
+maxProf1t folds
+*** TURN *** [Tc 2c Jc] [4h]
+Main pot $0.24 | Rake $0.01
+MezcalMule checks
+AJHPoker bets $0.08
+MezcalMule folds
+Uncalled bet ($0.08) returned to AJHPoker
+AJHPoker does not show
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01
+Board [Tc 2c Jc 4h]
+Seat 1: AJHPoker did not show and won $0.24
+Seat 2: Victor07 folded on the Pre-Flop and did not bet
+Seat 3: franze92 (button) folded on the Pre-Flop
+Seat 4: MezcalMule (small blind) folded on the Turn
+Seat 5: maxProf1t (big blind) folded on the Flop
+Seat 6: Fish19022022 folded on the Pre-Flop and did not bet
+
+Hand #1134803743 - Holdem(No Limit) - $0.02/$0.05 - 2022/02/24 05:11:45 UTC
+South Holland 6-max Seat #4 is the button
+Seat 1: AJHPoker ($2.14)
+Seat 2: Victor07 ($8.40)
+Seat 3: franze92 ($10.07)
+Seat 4: MezcalMule ($5.00)
+Seat 5: maxProf1t ($5.30)
+Seat 6: Fish19022022 ($5.16)
+maxProf1t posts the small blind $0.02
+Fish19022022 posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to MezcalMule [Js 2d]
+AJHPoker raises $0.10 to $0.10
+Victor07 folds
+franze92 folds
+MezcalMule folds
+maxProf1t folds
+Fish19022022 folds
+Uncalled bet ($0.05) returned to AJHPoker
+AJHPoker does not show
+*** SUMMARY ***
+Total pot $0.12
+Seat 1: AJHPoker did not show and won $0.12
+Seat 2: Victor07 folded on the Pre-Flop and did not bet
+Seat 3: franze92 folded on the Pre-Flop and did not bet
+Seat 4: MezcalMule (button) folded on the Pre-Flop
+Seat 5: maxProf1t (small blind) folded on the Pre-Flop
+Seat 6: Fish19022022 (big blind) folded on the Pre-Flop
+
+Hand #1134804161 - Holdem(No Limit) - $0.02/$0.05 - 2022/02/24 05:12:08 UTC
+South Holland 6-max Seat #5 is the button
+Seat 1: AJHPoker ($2.21)
+Seat 2: Victor07 ($8.40)
+Seat 3: franze92 ($10.07)
+Seat 4: MezcalMule ($5.00)
+Seat 5: maxProf1t ($5.28)
+Seat 6: Fish19022022 ($5.11)
+Fish19022022 posts the small blind $0.02
+AJHPoker posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to MezcalMule [2d Ks]
+Victor07 folds
+franze92 folds
+MezcalMule folds
+maxProf1t folds
+Fish19022022 raises $0.13 to $0.15
+AJHPoker folds
+Uncalled bet ($0.10) returned to Fish19022022
+Fish19022022 does not show
+*** SUMMARY ***
+Total pot $0.10
+Seat 1: AJHPoker (big blind) folded on the Pre-Flop
+Seat 2: Victor07 folded on the Pre-Flop and did not bet
+Seat 3: franze92 folded on the Pre-Flop and did not bet
+Seat 4: MezcalMule folded on the Pre-Flop and did not bet
+Seat 5: maxProf1t (button) folded on the Pre-Flop
+Seat 6: Fish19022022 did not show and won $0.10
+

@@ -1,0 +1,1141 @@
+Hand #1103833992 - Holdem(No Limit) - $0.01/$0.02 - 2022/01/30 01:14:36 UTC
+Buckhorn 6-max Seat #1 is the button
+Seat 1: miyam0t0 ($0.00) is sitting out
+Seat 2: Nsig ($1.05)
+Seat 3: MezcalMule ($2.00)
+Seat 4: wvandy ($4.59)
+Seat 5: istayirie ($2.13)
+Seat 6: Bulldog_777 ($3.66)
+Nsig posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+istayirie waits for big blind
+*** HOLE CARDS ***
+Dealt to MezcalMule [3c Ks]
+wvandy folds
+Bulldog_777 folds
+Nsig calls $0.01
+MezcalMule checks
+*** FLOP *** [2d 4c Kd]
+Main pot $0.04 | Rake $0.00
+Nsig checks
+MezcalMule checks
+*** TURN *** [2d 4c Kd] [2c]
+Main pot $0.04 | Rake $0.00
+Nsig checks
+MezcalMule bets $0.02
+Nsig folds
+Uncalled bet ($0.02) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.04
+Board [2d 4c Kd 2c]
+Seat 2: Nsig (small blind) folded on the Turn
+Seat 3: MezcalMule did not show and won $0.04
+Seat 4: wvandy folded on the Pre-Flop and did not bet
+Seat 6: Bulldog_777 folded on the Pre-Flop and did not bet
+
+Hand #1103834995 - Holdem(No Limit) - $0.01/$0.02 - 2022/01/30 01:15:18 UTC
+Buckhorn 6-max Seat #2 is the button
+Seat 1: miyam0t0 ($0.80)
+Seat 2: Nsig ($1.03)
+Seat 3: MezcalMule ($2.02)
+Seat 4: wvandy ($4.59)
+Seat 5: istayirie ($2.13)
+Seat 6: Bulldog_777 ($3.66)
+MezcalMule posts the small blind $0.01
+wvandy posts the big blind $0.02
+istayirie waits for big blind
+*** HOLE CARDS ***
+Dealt to MezcalMule [Ah 8h]
+Bulldog_777 folds
+miyam0t0 calls $0.02
+Nsig calls $0.02
+MezcalMule calls $0.01
+wvandy checks
+*** FLOP *** [2s Td Jh]
+Main pot $0.08 | Rake $0.00
+MezcalMule checks
+wvandy bets $0.02
+miyam0t0 calls $0.02
+Nsig calls $0.02
+MezcalMule calls $0.02
+*** TURN *** [2s Td Jh] [Jc]
+Main pot $0.16 | Rake $0.00
+MezcalMule bets $0.12
+wvandy folds
+miyam0t0 folds
+Nsig folds
+Uncalled bet ($0.12) returned to MezcalMule
+MezcalMule shows [Ah 8h]
+*** SUMMARY ***
+Total pot $0.16
+Board [2s Td Jh Jc]
+Seat 1: miyam0t0 folded on the Turn
+Seat 2: Nsig (button) folded on the Turn
+Seat 3: MezcalMule (small blind) showed [Ah 8h] and won $0.16
+Seat 4: wvandy (big blind) folded on the Turn
+Seat 6: Bulldog_777 folded on the Pre-Flop and did not bet
+
+Hand #1103836973 - Holdem(No Limit) - $0.01/$0.02 - 2022/01/30 01:16:39 UTC
+Buckhorn 6-max Seat #3 is the button
+Seat 1: miyam0t0 ($0.76)
+Seat 2: Nsig ($0.99)
+Seat 3: MezcalMule ($2.14)
+Seat 4: wvandy ($4.55)
+Seat 5: istayirie ($2.13)
+Seat 6: Bulldog_777 ($3.66)
+wvandy posts the small blind $0.01
+istayirie posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [3c 2c]
+Bulldog_777 folds
+miyam0t0 raises $0.76 to $0.76 and is all-in
+Nsig folds
+MezcalMule folds
+wvandy folds
+istayirie folds
+Uncalled bet ($0.74) returned to miyam0t0
+miyam0t0 does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: miyam0t0 did not show and won $0.05
+Seat 2: Nsig folded on the Pre-Flop and did not bet
+Seat 3: MezcalMule (button) folded on the Pre-Flop
+Seat 4: wvandy (small blind) folded on the Pre-Flop
+Seat 5: istayirie (big blind) folded on the Pre-Flop
+Seat 6: Bulldog_777 folded on the Pre-Flop and did not bet
+
+Hand #1103837581 - Holdem(No Limit) - $0.01/$0.02 - 2022/01/30 01:17:04 UTC
+Buckhorn 6-max Seat #4 is the button
+Seat 1: miyam0t0 ($0.79)
+Seat 2: Nsig ($0.99)
+Seat 3: MezcalMule ($2.14)
+Seat 4: wvandy ($4.54)
+Seat 5: istayirie ($2.11)
+Seat 6: Bulldog_777 ($3.66)
+istayirie posts the small blind $0.01
+Bulldog_777 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [2s Ts]
+miyam0t0 calls $0.02
+Nsig folds
+MezcalMule folds
+wvandy folds
+istayirie calls $0.01
+Bulldog_777 checks
+*** FLOP *** [4c 7s Jd]
+Main pot $0.06 | Rake $0.00
+istayirie checks
+Bulldog_777 checks
+miyam0t0 checks
+*** TURN *** [4c 7s Jd] [2c]
+Main pot $0.06 | Rake $0.00
+istayirie checks
+Bulldog_777 checks
+miyam0t0 checks
+*** RIVER *** [4c 7s Jd 2c] [7d]
+Main pot $0.06 | Rake $0.00
+istayirie checks
+Bulldog_777 checks
+miyam0t0 bets $0.77 and is all-in
+istayirie folds
+Bulldog_777 folds
+Uncalled bet ($0.77) returned to miyam0t0
+miyam0t0 shows [As -]
+*** SUMMARY ***
+Total pot $0.06
+Board [4c 7s Jd 2c 7d]
+Seat 1: miyam0t0 showed [As -] and won $0.06
+Seat 2: Nsig folded on the Pre-Flop and did not bet
+Seat 3: MezcalMule folded on the Pre-Flop and did not bet
+Seat 4: wvandy (button) folded on the Pre-Flop
+Seat 5: istayirie (small blind) folded on the River
+Seat 6: Bulldog_777 (big blind) folded on the River
+
+Hand #1103839072 - Holdem(No Limit) - $0.01/$0.02 - 2022/01/30 01:18:03 UTC
+Buckhorn 6-max Seat #5 is the button
+Seat 1: miyam0t0 ($0.83)
+Seat 2: Nsig ($0.99)
+Seat 3: MezcalMule ($2.14)
+Seat 4: wvandy ($4.54)
+Seat 5: istayirie ($2.09)
+Seat 6: Bulldog_777 ($3.64)
+Bulldog_777 posts the small blind $0.01
+miyam0t0 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Qh 3s]
+Nsig folds
+MezcalMule folds
+wvandy raises $0.08 to $0.08
+istayirie calls $0.08
+Bulldog_777 calls $0.07
+miyam0t0 folds
+*** FLOP *** [8h 7c 3h]
+Main pot $0.25 | Rake $0.01
+Bulldog_777 bets $0.26
+wvandy folds
+istayirie calls $0.26
+*** TURN *** [8h 7c 3h] [3d]
+Main pot $0.75 | Rake $0.03
+Bulldog_777 bets $0.78
+istayirie folds
+Uncalled bet ($0.78) returned to Bulldog_777
+Bulldog_777 does not show
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03
+Board [8h 7c 3h 3d]
+Seat 1: miyam0t0 (big blind) folded on the Pre-Flop
+Seat 2: Nsig folded on the Pre-Flop and did not bet
+Seat 3: MezcalMule folded on the Pre-Flop and did not bet
+Seat 4: wvandy folded on the Flop
+Seat 5: istayirie (button) folded on the Turn
+Seat 6: Bulldog_777 did not show and won $0.75
+
+Hand #1103840607 - Holdem(No Limit) - $0.01/$0.02 - 2022/01/30 01:19:03 UTC
+Buckhorn 6-max Seat #6 is the button
+Seat 1: miyam0t0 ($0.81)
+Seat 2: Nsig ($0.99)
+Seat 3: MezcalMule ($2.14)
+Seat 4: wvandy ($4.46)
+Seat 5: istayirie ($2.00)
+Seat 6: Bulldog_777 ($4.05)
+miyam0t0 posts the small blind $0.01
+Nsig posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [8h 3c]
+MezcalMule folds
+wvandy folds
+istayirie raises $0.06 to $0.06
+Bulldog_777 folds
+miyam0t0 folds
+Nsig calls $0.04
+*** FLOP *** [Ks 3s Jd]
+Main pot $0.13 | Rake $0.00
+Nsig checks
+istayirie bets $0.06
+Nsig calls $0.06
+*** TURN *** [Ks 3s Jd] [2s]
+Main pot $0.24 | Rake $0.01
+Nsig checks
+istayirie checks
+*** RIVER *** [Ks 3s Jd 2s] [5c]
+Main pot $0.24 | Rake $0.01
+Nsig checks
+istayirie checks
+*** SHOW DOWN ***
+Main pot $0.24 | Rake $0.01
+Nsig shows [Ad 5d] (a pair of Fives [5d 5c Ad Ks Jd])
+istayirie shows [Qs Ah] (a high card, Ace high [Ah Ks Qs Jd 5c])
+Nsig collected $0.24 from main pot
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01
+Board [Ks 3s Jd 2s 5c]
+Seat 1: miyam0t0 (small blind) folded on the Pre-Flop
+Seat 2: Nsig (big blind) showed [Ad 5d] and won $0.24 with a pair of Fives [5d 5c Ad Ks Jd]
+Seat 3: MezcalMule folded on the Pre-Flop and did not bet
+Seat 4: wvandy folded on the Pre-Flop and did not bet
+Seat 5: istayirie showed [Qs Ah] and lost with a high card, Ace high [Ah Ks Qs Jd 5c]
+Seat 6: Bulldog_777 (button) folded on the Pre-Flop
+
+Hand #1103841716 - Holdem(No Limit) - $0.01/$0.02 - 2022/01/30 01:19:48 UTC
+Buckhorn 6-max Seat #1 is the button
+Seat 1: miyam0t0 ($0.80)
+Seat 2: Nsig ($1.11)
+Seat 3: MezcalMule ($2.14)
+Seat 4: wvandy ($4.46)
+Seat 5: istayirie ($2.00)
+Seat 6: Bulldog_777 ($4.05)
+Nsig posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Jc 3h]
+wvandy folds
+istayirie raises $0.06 to $0.06
+Bulldog_777 folds
+miyam0t0 calls $0.06
+Nsig folds
+MezcalMule folds
+*** FLOP *** [2h 8c Ad]
+Main pot $0.15 | Rake $0.00
+istayirie checks
+miyam0t0 checks
+*** TURN *** [2h 8c Ad] [8h]
+Main pot $0.15 | Rake $0.00
+istayirie bets $0.07
+miyam0t0 calls $0.07
+*** RIVER *** [2h 8c Ad 8h] [Ks]
+Main pot $0.28 | Rake $0.01
+istayirie checks
+miyam0t0 bets $0.67 and is all-in
+istayirie calls $0.67
+*** SHOW DOWN ***
+Main pot $1.55 | Rake $0.08
+miyam0t0 shows [Qs 9d] (a pair of Eights [8h 8c Ad Ks Qs])
+istayirie shows [Ah Th] (two pair, Aces and Eights [Ah Ad 8h 8c Ks])
+istayirie collected $1.55 from main pot
+*** SUMMARY ***
+Total pot $1.55 | Rake $0.06 | JP Fee $0.02
+Board [2h 8c Ad 8h Ks]
+Seat 1: miyam0t0 (button) showed [Qs 9d] and lost with a pair of Eights [8h 8c Ad Ks Qs]
+Seat 2: Nsig (small blind) folded on the Pre-Flop
+Seat 3: MezcalMule (big blind) folded on the Pre-Flop
+Seat 4: wvandy folded on the Pre-Flop and did not bet
+Seat 5: istayirie showed [Ah Th] and won $1.55 with two pair, Aces and Eights [Ah Ad 8h 8c Ks]
+Seat 6: Bulldog_777 folded on the Pre-Flop and did not bet
+
+Hand #1103846185 - Holdem(No Limit) - $0.01/$0.02 - 2022/01/30 01:22:41 UTC
+Buckhorn 6-max Seat #4 is the button
+Seat 1: Logical Nick ($2.00)
+Seat 2: Nsig ($1.01)
+Seat 3: MezcalMule ($2.11)
+Seat 4: VolleyUpperV ($2.00)
+Seat 5: istayirie ($2.92)
+Seat 6: Bulldog_777 ($4.00)
+istayirie posts the small blind $0.01
+Bulldog_777 posts the big blind $0.02
+Logical Nick waits for big blind
+*** HOLE CARDS ***
+Dealt to MezcalMule [2h 8d]
+Nsig folds
+MezcalMule folds
+VolleyUpperV folds
+istayirie folds
+Bulldog_777 does not show
+*** SUMMARY ***
+Total pot $0.03
+Seat 2: Nsig folded on the Pre-Flop and did not bet
+Seat 3: MezcalMule folded on the Pre-Flop and did not bet
+Seat 4: VolleyUpperV (button) folded on the Pre-Flop
+Seat 5: istayirie (small blind) folded on the Pre-Flop
+Seat 6: Bulldog_777 did not show and won $0.03
+
+Hand #1103846622 - Holdem(No Limit) - $0.01/$0.02 - 2022/01/30 01:22:58 UTC
+Buckhorn 6-max Seat #5 is the button
+Seat 1: Logical Nick ($2.00)
+Seat 2: Nsig ($1.01)
+Seat 3: MezcalMule ($2.11)
+Seat 4: VolleyUpperV ($2.00)
+Seat 5: istayirie ($2.91)
+Seat 6: Bulldog_777 ($4.01)
+Bulldog_777 posts the small blind $0.01
+Logical Nick posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [2d Ks]
+Nsig calls $0.02
+MezcalMule folds
+VolleyUpperV folds
+istayirie folds
+Bulldog_777 folds
+Logical Nick checks
+*** FLOP *** [7d 6s 4s]
+Main pot $0.05 | Rake $0.00
+Logical Nick checks
+Nsig checks
+*** TURN *** [7d 6s 4s] [5c]
+Main pot $0.05 | Rake $0.00
+Logical Nick bets $0.02
+Nsig raises $0.11 to $0.11
+Logical Nick calls $0.09
+*** RIVER *** [7d 6s 4s 5c] [9h]
+Main pot $0.26 | Rake $0.01
+Logical Nick bets $0.20
+Nsig calls $0.20
+*** SHOW DOWN ***
+Main pot $0.64 | Rake $0.03
+Logical Nick shows [8c Tc] (a straight, Ten high [Tc 9h 8c 7d 6s])
+Nsig shows [8d Kc] (a straight, Nine high [9h 8d 7d 6s 5c])
+Logical Nick collected $0.64 from main pot
+*** SUMMARY ***
+Total pot $0.64 | Rake $0.03
+Board [7d 6s 4s 5c 9h]
+Seat 1: Logical Nick (big blind) showed [8c Tc] and won $0.64 with a straight, Ten high [Tc 9h 8c 7d 6s]
+Seat 2: Nsig showed [8d Kc] and lost with a straight, Nine high [9h 8d 7d 6s 5c]
+Seat 3: MezcalMule folded on the Pre-Flop and did not bet
+Seat 4: VolleyUpperV folded on the Pre-Flop and did not bet
+Seat 5: istayirie (button) folded on the Pre-Flop
+Seat 6: Bulldog_777 (small blind) folded on the Pre-Flop
+
+Hand #1103848067 - Holdem(No Limit) - $0.01/$0.02 - 2022/01/30 01:23:56 UTC
+Buckhorn 6-max Seat #6 is the button
+Seat 1: Logical Nick ($2.31)
+Seat 2: Nsig ($0.68)
+Seat 3: MezcalMule ($2.11)
+Seat 4: VolleyUpperV ($2.00)
+Seat 5: istayirie ($2.91)
+Seat 6: Bulldog_777 ($4.00)
+Logical Nick posts the small blind $0.01
+Nsig posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [7c 7s]
+MezcalMule calls $0.02
+VolleyUpperV folds
+istayirie folds
+Bulldog_777 folds
+Logical Nick folds
+Nsig raises $0.02 to $0.04
+MezcalMule calls $0.02
+*** FLOP *** [Th Qh 5s]
+Main pot $0.09 | Rake $0.00
+Nsig bets $0.06
+MezcalMule folds
+Uncalled bet ($0.06) returned to Nsig
+Nsig does not show
+*** SUMMARY ***
+Total pot $0.09
+Board [Th Qh 5s]
+Seat 1: Logical Nick (small blind) folded on the Pre-Flop
+Seat 2: Nsig did not show and won $0.09
+Seat 3: MezcalMule folded on the Flop
+Seat 4: VolleyUpperV folded on the Pre-Flop and did not bet
+Seat 5: istayirie folded on the Pre-Flop and did not bet
+Seat 6: Bulldog_777 (button) folded on the Pre-Flop
+
+Hand #1103849620 - Holdem(No Limit) - $0.01/$0.02 - 2022/01/30 01:24:58 UTC
+Buckhorn 6-max Seat #1 is the button
+Seat 1: Logical Nick ($2.30)
+Seat 2: Nsig ($0.80)
+Seat 3: MezcalMule ($2.07)
+Seat 4: VolleyUpperV ($2.00)
+Seat 5: istayirie ($2.91)
+Seat 6: Bulldog_777 ($4.00)
+Nsig posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [7s Kd]
+VolleyUpperV folds
+istayirie folds
+Bulldog_777 folds
+Logical Nick raises $0.06 to $0.06
+Nsig folds
+MezcalMule folds
+Uncalled bet ($0.04) returned to Logical Nick
+Logical Nick does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: Logical Nick did not show and won $0.05
+Seat 2: Nsig (small blind) folded on the Pre-Flop
+Seat 3: MezcalMule (big blind) folded on the Pre-Flop
+Seat 4: VolleyUpperV folded on the Pre-Flop and did not bet
+Seat 5: istayirie folded on the Pre-Flop and did not bet
+Seat 6: Bulldog_777 folded on the Pre-Flop and did not bet
+
+Hand #1103850292 - Holdem(No Limit) - $0.01/$0.02 - 2022/01/30 01:25:23 UTC
+Buckhorn 6-max Seat #2 is the button
+Seat 1: Logical Nick ($2.33)
+Seat 2: Nsig ($0.79)
+Seat 3: MezcalMule ($2.05)
+Seat 4: VolleyUpperV ($2.00)
+Seat 5: istayirie ($2.91)
+Seat 6: Bulldog_777 ($4.00)
+MezcalMule posts the small blind $0.01
+VolleyUpperV posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Td Kc]
+istayirie folds
+Bulldog_777 raises $0.07 to $0.07
+Logical Nick folds
+Nsig folds
+MezcalMule raises $0.11 to $0.12
+VolleyUpperV folds
+Bulldog_777 calls $0.05
+*** FLOP *** [5s 3s 3c]
+Main pot $0.25 | Rake $0.01
+MezcalMule bets $0.30
+Bulldog_777 calls $0.30
+*** TURN *** [5s 3s 3c] [Ah]
+Main pot $0.82 | Rake $0.04
+MezcalMule bets $0.64
+Bulldog_777 raises $3.58 to $3.58 and is all-in
+MezcalMule folds
+Uncalled bet ($2.94) returned to Bulldog_777
+Bulldog_777 does not show
+*** SUMMARY ***
+Total pot $2.04 | Rake $0.08 | JP Fee $0.02
+Board [5s 3s 3c Ah]
+Seat 1: Logical Nick folded on the Pre-Flop and did not bet
+Seat 2: Nsig (button) folded on the Pre-Flop
+Seat 3: MezcalMule (small blind) folded on the Turn
+Seat 4: VolleyUpperV (big blind) folded on the Pre-Flop
+Seat 5: istayirie folded on the Pre-Flop and did not bet
+Seat 6: Bulldog_777 did not show and won $2.04
+
+Hand #1103851903 - Holdem(No Limit) - $0.01/$0.02 - 2022/01/30 01:26:27 UTC
+Buckhorn 6-max Seat #3 is the button
+Seat 1: Logical Nick ($2.33)
+Seat 2: Nsig ($0.79)
+Seat 3: MezcalMule ($0.99)
+Seat 4: VolleyUpperV ($2.00)
+Seat 5: istayirie ($2.91)
+Seat 6: Bulldog_777 ($4.98)
+VolleyUpperV posts the small blind $0.01
+istayirie posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [8s Kc]
+Bulldog_777 folds
+Logical Nick folds
+Nsig folds
+MezcalMule calls $0.02
+VolleyUpperV folds
+istayirie checks
+*** FLOP *** [5h 7d 6h]
+Main pot $0.05 | Rake $0.00
+istayirie checks
+MezcalMule checks
+*** TURN *** [5h 7d 6h] [4h]
+Main pot $0.05 | Rake $0.00
+istayirie checks
+MezcalMule bets $0.02
+istayirie folds
+Uncalled bet ($0.02) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.05
+Board [5h 7d 6h 4h]
+Seat 1: Logical Nick folded on the Pre-Flop and did not bet
+Seat 2: Nsig folded on the Pre-Flop and did not bet
+Seat 3: MezcalMule did not show and won $0.05
+Seat 4: VolleyUpperV (small blind) folded on the Pre-Flop
+Seat 5: istayirie (big blind) folded on the Turn
+Seat 6: Bulldog_777 folded on the Pre-Flop and did not bet
+
+Hand #1103853290 - Holdem(No Limit) - $0.01/$0.02 - 2022/01/30 01:27:22 UTC
+Buckhorn 6-max Seat #4 is the button
+Seat 1: PYRATE73 ($2.00)
+Seat 2: Nsig ($0.79)
+Seat 3: MezcalMule ($1.02)
+Seat 4: VolleyUpperV ($2.00)
+Seat 5: istayirie ($2.89)
+Seat 6: Bulldog_777 ($4.98)
+istayirie posts the small blind $0.01
+Bulldog_777 posts the big blind $0.02
+PYRATE73 waits for big blind
+*** HOLE CARDS ***
+Dealt to MezcalMule [Js Ts]
+Nsig raises $0.04 to $0.04
+MezcalMule calls $0.04
+VolleyUpperV folds
+istayirie calls $0.03
+Bulldog_777 folds
+*** FLOP *** [7s Qd 6c]
+Main pot $0.14 | Rake $0.00
+istayirie checks
+Nsig bets $0.14
+MezcalMule folds
+istayirie folds
+Uncalled bet ($0.14) returned to Nsig
+Nsig does not show
+*** SUMMARY ***
+Total pot $0.14
+Board [7s Qd 6c]
+Seat 2: Nsig did not show and won $0.14
+Seat 3: MezcalMule folded on the Flop
+Seat 4: VolleyUpperV (button) folded on the Pre-Flop
+Seat 5: istayirie (small blind) folded on the Flop
+Seat 6: Bulldog_777 (big blind) folded on the Pre-Flop
+
+Hand #1103854318 - Holdem(No Limit) - $0.01/$0.02 - 2022/01/30 01:28:03 UTC
+Buckhorn 6-max Seat #5 is the button
+Seat 1: PYRATE73 ($2.00)
+Seat 2: Nsig ($0.89)
+Seat 3: MezcalMule ($0.98)
+Seat 4: VolleyUpperV ($2.00)
+Seat 5: istayirie ($2.85)
+Seat 6: Bulldog_777 ($4.96)
+Bulldog_777 posts the small blind $0.01
+PYRATE73 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [8s 9h]
+Nsig folds
+MezcalMule raises $0.05 to $0.05
+VolleyUpperV folds
+istayirie folds
+Bulldog_777 folds
+PYRATE73 folds
+Uncalled bet ($0.03) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: PYRATE73 (big blind) folded on the Pre-Flop
+Seat 2: Nsig folded on the Pre-Flop and did not bet
+Seat 3: MezcalMule did not show and won $0.05
+Seat 4: VolleyUpperV folded on the Pre-Flop and did not bet
+Seat 5: istayirie (button) folded on the Pre-Flop
+Seat 6: Bulldog_777 (small blind) folded on the Pre-Flop
+
+Hand #1103855265 - Holdem(No Limit) - $0.01/$0.02 - 2022/01/30 01:28:41 UTC
+Buckhorn 6-max Seat #6 is the button
+Seat 1: PYRATE73 ($2.00)
+Seat 2: Nsig ($0.89)
+Seat 3: MezcalMule ($1.01)
+Seat 4: VolleyUpperV ($2.00)
+Seat 5: istayirie ($2.85)
+Seat 6: Bulldog_777 ($4.95)
+PYRATE73 posts the small blind $0.01
+Nsig posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Kd 9h]
+MezcalMule folds
+VolleyUpperV folds
+istayirie folds
+Bulldog_777 folds
+PYRATE73 raises $0.04 to $0.05
+Nsig calls $0.03
+*** FLOP *** [2d 6h Tc]
+Main pot $0.10 | Rake $0.00
+PYRATE73 bets $0.06
+Nsig calls $0.06
+*** TURN *** [2d 6h Tc] [Ac]
+Main pot $0.21 | Rake $0.01
+PYRATE73 bets $0.13
+Nsig folds
+Uncalled bet ($0.13) returned to PYRATE73
+PYRATE73 does not show
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01
+Board [2d 6h Tc Ac]
+Seat 1: PYRATE73 did not show and won $0.21
+Seat 2: Nsig (big blind) folded on the Turn
+Seat 3: MezcalMule folded on the Pre-Flop and did not bet
+Seat 4: VolleyUpperV folded on the Pre-Flop and did not bet
+Seat 5: istayirie folded on the Pre-Flop and did not bet
+Seat 6: Bulldog_777 (button) folded on the Pre-Flop
+
+Hand #1103856509 - Holdem(No Limit) - $0.01/$0.02 - 2022/01/30 01:29:32 UTC
+Buckhorn 6-max Seat #1 is the button
+Seat 1: PYRATE73 ($2.10)
+Seat 2: Nsig ($0.78)
+Seat 3: MezcalMule ($1.01)
+Seat 4: VolleyUpperV ($2.00)
+Seat 5: istayirie ($2.85)
+Seat 6: Bulldog_777 ($4.95)
+Nsig posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [2s Ad]
+VolleyUpperV folds
+istayirie raises $0.06 to $0.06
+Bulldog_777 folds
+PYRATE73 calls $0.06
+Nsig calls $0.05
+MezcalMule folds
+*** FLOP *** [5s Qc 7d]
+Main pot $0.19 | Rake $0.01
+Nsig checks
+istayirie checks
+PYRATE73 checks
+*** TURN *** [5s Qc 7d] [Jc]
+Main pot $0.19 | Rake $0.01
+Nsig bets $0.10
+istayirie folds
+PYRATE73 folds
+Uncalled bet ($0.10) returned to Nsig
+Nsig does not show
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01
+Board [5s Qc 7d Jc]
+Seat 1: PYRATE73 (button) folded on the Turn
+Seat 2: Nsig did not show and won $0.19
+Seat 3: MezcalMule (big blind) folded on the Pre-Flop
+Seat 4: VolleyUpperV folded on the Pre-Flop and did not bet
+Seat 5: istayirie folded on the Turn
+Seat 6: Bulldog_777 folded on the Pre-Flop and did not bet
+
+Hand #1103857623 - Holdem(No Limit) - $0.01/$0.02 - 2022/01/30 01:30:16 UTC
+Buckhorn 6-max Seat #2 is the button
+Seat 1: PYRATE73 ($2.04)
+Seat 2: Nsig ($0.91)
+Seat 3: MezcalMule ($0.99)
+Seat 4: VolleyUpperV ($2.00)
+Seat 5: istayirie ($2.79)
+Seat 6: Bulldog_777 ($4.95)
+MezcalMule posts the small blind $0.01
+VolleyUpperV posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [3s Kc]
+istayirie folds
+Bulldog_777 raises $0.07 to $0.07
+PYRATE73 folds
+Nsig folds
+MezcalMule folds
+VolleyUpperV folds
+Uncalled bet ($0.05) returned to Bulldog_777
+Bulldog_777 does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: PYRATE73 folded on the Pre-Flop and did not bet
+Seat 2: Nsig (button) folded on the Pre-Flop
+Seat 3: MezcalMule (small blind) folded on the Pre-Flop
+Seat 4: VolleyUpperV (big blind) folded on the Pre-Flop
+Seat 5: istayirie folded on the Pre-Flop and did not bet
+Seat 6: Bulldog_777 did not show and won $0.05
+
+Hand #1103858009 - Holdem(No Limit) - $0.01/$0.02 - 2022/01/30 01:30:31 UTC
+Buckhorn 6-max Seat #3 is the button
+Seat 1: PYRATE73 ($2.04)
+Seat 2: Nsig ($0.91)
+Seat 3: MezcalMule ($0.98)
+Seat 4: VolleyUpperV ($2.00)
+Seat 5: istayirie ($2.79)
+Seat 6: Bulldog_777 ($4.98)
+VolleyUpperV posts the small blind $0.01
+istayirie posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [3c 2c]
+Bulldog_777 raises $0.05 to $0.05
+PYRATE73 folds
+Nsig raises $0.08 to $0.08
+MezcalMule calls $0.08
+VolleyUpperV folds
+istayirie folds
+Bulldog_777 calls $0.03
+*** FLOP *** [Ac 3s 7c]
+Main pot $0.26 | Rake $0.01
+Bulldog_777 checks
+Nsig bets $0.20
+MezcalMule raises $0.90 to $0.90 and is all-in
+Bulldog_777 folds
+Nsig calls $0.63 and is all-in
+Uncalled bet ($0.07) returned to MezcalMule
+*** TURN *** [Ac 3s 7c] [4c]
+Main pot $1.84 | Rake $0.09
+*** RIVER *** [Ac 3s 7c 4c] [7s]
+Main pot $1.84 | Rake $0.09
+*** SHOW DOWN ***
+Main pot $1.84 | Rake $0.09
+Nsig shows [6h Ah] (two pair, Aces and Sevens [Ah Ac 7s 7c 6h])
+MezcalMule shows [3c 2c] (a flush, Ace high [Ac 7c 4c 3c 2c])
+MezcalMule collected $1.84 from main pot
+*** SUMMARY ***
+Total pot $1.84 | Rake $0.07 | JP Fee $0.02
+Board [Ac 3s 7c 4c 7s]
+Seat 1: PYRATE73 folded on the Pre-Flop and did not bet
+Seat 2: Nsig showed [6h Ah] and lost with two pair, Aces and Sevens [Ah Ac 7s 7c 6h]
+Seat 3: MezcalMule (button) showed [3c 2c] and won $1.84 with a flush, Ace high [Ac 7c 4c 3c 2c]
+Seat 4: VolleyUpperV (small blind) folded on the Pre-Flop
+Seat 5: istayirie (big blind) folded on the Pre-Flop
+Seat 6: Bulldog_777 folded on the Flop
+
+Hand #1103859610 - Holdem(No Limit) - $0.01/$0.02 - 2022/01/30 01:31:32 UTC
+Buckhorn 6-max Seat #4 is the button
+Seat 1: PYRATE73 ($2.04)
+Seat 2: Nsig ($0.00) is sitting out
+Seat 3: MezcalMule ($1.91)
+Seat 4: VolleyUpperV ($2.00)
+Seat 5: istayirie ($2.77)
+Seat 6: Bulldog_777 ($4.90)
+istayirie posts the small blind $0.01
+Bulldog_777 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [8h Ah]
+PYRATE73 folds
+MezcalMule raises $0.04 to $0.04
+VolleyUpperV folds
+istayirie folds
+Bulldog_777 folds
+Uncalled bet ($0.02) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: PYRATE73 folded on the Pre-Flop and did not bet
+Seat 3: MezcalMule did not show and won $0.05
+Seat 4: VolleyUpperV (button) folded on the Pre-Flop
+Seat 5: istayirie (small blind) folded on the Pre-Flop
+Seat 6: Bulldog_777 (big blind) folded on the Pre-Flop
+
+Hand #1103860521 - Holdem(No Limit) - $0.01/$0.02 - 2022/01/30 01:32:08 UTC
+Buckhorn 6-max Seat #5 is the button
+Seat 1: PYRATE73 ($2.04)
+Seat 3: MezcalMule ($1.94)
+Seat 4: VolleyUpperV ($2.00)
+Seat 5: istayirie ($2.76)
+Seat 6: Bulldog_777 ($4.88)
+Bulldog_777 posts the small blind $0.01
+PYRATE73 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [2c Ac]
+MezcalMule raises $0.07 to $0.07
+VolleyUpperV folds
+istayirie folds
+Bulldog_777 folds
+PYRATE73 calls $0.05
+*** FLOP *** [5d Js 6h]
+Main pot $0.15 | Rake $0.00
+PYRATE73 checks
+MezcalMule checks
+*** TURN *** [5d Js 6h] [Ts]
+Main pot $0.15 | Rake $0.00
+PYRATE73 checks
+MezcalMule checks
+*** RIVER *** [5d Js 6h Ts] [3h]
+Main pot $0.15 | Rake $0.00
+PYRATE73 checks
+MezcalMule checks
+*** SHOW DOWN ***
+Main pot $0.15 | Rake $0.00
+PYRATE73 shows [Ah 8c] (a high card, Ace high [Ah Js Ts 8c 6h])
+MezcalMule shows [2c Ac] (a high card, Ace high [Ac Js Ts 6h 5d])
+PYRATE73 collected $0.15 from main pot
+*** SUMMARY ***
+Total pot $0.15
+Board [5d Js 6h Ts 3h]
+Seat 1: PYRATE73 (big blind) showed [Ah 8c] and won $0.15 with a high card, Ace high [Ah Js Ts 8c 6h] with the kicker Eight
+Seat 3: MezcalMule showed [2c Ac] and lost with a high card, Ace high [Ac Js Ts 6h 5d]
+Seat 4: VolleyUpperV folded on the Pre-Flop and did not bet
+Seat 5: istayirie (button) folded on the Pre-Flop
+Seat 6: Bulldog_777 (small blind) folded on the Pre-Flop
+
+Hand #1103861703 - Holdem(No Limit) - $0.01/$0.02 - 2022/01/30 01:32:54 UTC
+Buckhorn 6-max Seat #6 is the button
+Seat 1: PYRATE73 ($2.12)
+Seat 2: prireich53 ($2.00)
+Seat 3: MezcalMule ($1.87)
+Seat 4: VolleyUpperV ($2.00)
+Seat 5: istayirie ($2.76)
+Seat 6: Bulldog_777 ($4.87)
+PYRATE73 posts the small blind $0.01
+prireich53 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [7c 2s]
+MezcalMule folds
+VolleyUpperV folds
+istayirie raises $0.06 to $0.06
+Bulldog_777 folds
+PYRATE73 folds
+prireich53 calls $0.04
+*** FLOP *** [3h 4s 9s]
+Main pot $0.13 | Rake $0.00
+prireich53 checks
+istayirie bets $0.07
+prireich53 folds
+Uncalled bet ($0.07) returned to istayirie
+istayirie does not show
+*** SUMMARY ***
+Total pot $0.13
+Board [3h 4s 9s]
+Seat 1: PYRATE73 (small blind) folded on the Pre-Flop
+Seat 2: prireich53 (big blind) folded on the Flop
+Seat 3: MezcalMule folded on the Pre-Flop and did not bet
+Seat 4: VolleyUpperV folded on the Pre-Flop and did not bet
+Seat 5: istayirie did not show and won $0.13
+Seat 6: Bulldog_777 (button) folded on the Pre-Flop
+
+Hand #1103862493 - Holdem(No Limit) - $0.01/$0.02 - 2022/01/30 01:33:25 UTC
+Buckhorn 6-max Seat #1 is the button
+Seat 1: PYRATE73 ($2.11)
+Seat 2: prireich53 ($1.94)
+Seat 3: MezcalMule ($1.87)
+Seat 4: VolleyUpperV ($2.00)
+Seat 5: istayirie ($2.83)
+Seat 6: Bulldog_777 ($4.87)
+prireich53 posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Ad 5s]
+VolleyUpperV raises $0.05 to $0.05
+istayirie folds
+Bulldog_777 folds
+PYRATE73 calls $0.05
+prireich53 folds
+MezcalMule calls $0.03
+*** FLOP *** [2s Jc 5c]
+Main pot $0.16 | Rake $0.00
+MezcalMule bets $0.08
+VolleyUpperV folds
+PYRATE73 folds
+Uncalled bet ($0.08) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.16
+Board [2s Jc 5c]
+Seat 1: PYRATE73 (button) folded on the Flop
+Seat 2: prireich53 (small blind) folded on the Pre-Flop
+Seat 3: MezcalMule did not show and won $0.16
+Seat 4: VolleyUpperV folded on the Flop
+Seat 5: istayirie folded on the Pre-Flop and did not bet
+Seat 6: Bulldog_777 folded on the Pre-Flop and did not bet
+
+Hand #1103863890 - Holdem(No Limit) - $0.01/$0.02 - 2022/01/30 01:34:19 UTC
+Buckhorn 6-max Seat #2 is the button
+Seat 1: PYRATE73 ($2.06)
+Seat 2: prireich53 ($1.93)
+Seat 3: MezcalMule ($1.98)
+Seat 4: VolleyUpperV ($2.00)
+Seat 5: istayirie ($2.83)
+Seat 6: Bulldog_777 ($4.87)
+MezcalMule posts the small blind $0.01
+VolleyUpperV posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [5c 4d]
+istayirie folds
+Bulldog_777 folds
+PYRATE73 folds
+prireich53 folds
+MezcalMule folds
+VolleyUpperV does not show
+*** SUMMARY ***
+Total pot $0.03
+Seat 1: PYRATE73 folded on the Pre-Flop and did not bet
+Seat 2: prireich53 (button) folded on the Pre-Flop
+Seat 3: MezcalMule (small blind) folded on the Pre-Flop
+Seat 4: VolleyUpperV did not show and won $0.03
+Seat 5: istayirie folded on the Pre-Flop and did not bet
+Seat 6: Bulldog_777 folded on the Pre-Flop and did not bet
+
+Hand #1103864706 - Holdem(No Limit) - $0.01/$0.02 - 2022/01/30 01:34:51 UTC
+Buckhorn 6-max Seat #3 is the button
+Seat 1: PYRATE73 ($2.06)
+Seat 2: prireich53 ($1.93)
+Seat 3: MezcalMule ($1.97)
+Seat 4: VolleyUpperV ($2.01)
+Seat 5: istayirie ($2.83)
+Seat 6: Bulldog_777 ($4.87)
+VolleyUpperV posts the small blind $0.01
+istayirie posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [2c 3s]
+Bulldog_777 folds
+PYRATE73 folds
+prireich53 folds
+MezcalMule folds
+VolleyUpperV raises $0.04 to $0.05
+istayirie raises $0.13 to $0.15
+VolleyUpperV folds
+Uncalled bet ($0.10) returned to istayirie
+istayirie does not show
+*** SUMMARY ***
+Total pot $0.10
+Seat 1: PYRATE73 folded on the Pre-Flop and did not bet
+Seat 2: prireich53 folded on the Pre-Flop and did not bet
+Seat 3: MezcalMule (button) folded on the Pre-Flop
+Seat 4: VolleyUpperV (small blind) folded on the Pre-Flop
+Seat 5: istayirie did not show and won $0.10
+Seat 6: Bulldog_777 folded on the Pre-Flop and did not bet
+
+Hand #1103865477 - Holdem(No Limit) - $0.01/$0.02 - 2022/01/30 01:35:21 UTC
+Buckhorn 6-max Seat #4 is the button
+Seat 1: PYRATE73 ($2.06)
+Seat 2: prireich53 ($1.93)
+Seat 3: MezcalMule ($1.97)
+Seat 4: VolleyUpperV ($2.00)
+Seat 5: istayirie ($2.88)
+Seat 6: Bulldog_777 ($4.87)
+istayirie posts the small blind $0.01
+Bulldog_777 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [7c Js]
+PYRATE73 folds
+prireich53 folds
+MezcalMule folds
+VolleyUpperV folds
+istayirie raises $0.05 to $0.06
+Bulldog_777 calls $0.04
+*** FLOP *** [9d Ad Kd]
+Main pot $0.12 | Rake $0.00
+istayirie bets $0.06
+Bulldog_777 calls $0.06
+*** TURN *** [9d Ad Kd] [Qh]
+Main pot $0.23 | Rake $0.01
+istayirie checks
+Bulldog_777 checks
+*** RIVER *** [9d Ad Kd Qh] [8d]
+Main pot $0.23 | Rake $0.01
+istayirie checks
+Bulldog_777 checks
+*** SHOW DOWN ***
+Main pot $0.23 | Rake $0.01
+istayirie shows [Ks 8s] (two pair, Kings and Eights [Ks Kd 8s 8d Ad])
+Bulldog_777 shows [As 8h] (two pair, Aces and Eights [As Ad 8h 8d Kd])
+Bulldog_777 collected $0.23 from main pot
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01
+Board [9d Ad Kd Qh 8d]
+Seat 1: PYRATE73 folded on the Pre-Flop and did not bet
+Seat 2: prireich53 folded on the Pre-Flop and did not bet
+Seat 3: MezcalMule folded on the Pre-Flop and did not bet
+Seat 4: VolleyUpperV (button) folded on the Pre-Flop
+Seat 5: istayirie (small blind) showed [Ks 8s] and lost with two pair, Kings and Eights [Ks Kd 8s 8d Ad]
+Seat 6: Bulldog_777 (big blind) showed [As 8h] and won $0.23 with two pair, Aces and Eights [As Ad 8h 8d Kd]
+
+Hand #1103866423 - Holdem(No Limit) - $0.01/$0.02 - 2022/01/30 01:35:57 UTC
+Buckhorn 6-max Seat #5 is the button
+Seat 1: PYRATE73 ($2.06)
+Seat 2: prireich53 ($1.93)
+Seat 3: MezcalMule ($1.97)
+Seat 4: VolleyUpperV ($2.00)
+Seat 5: istayirie ($2.76)
+Seat 6: Bulldog_777 ($4.98)
+Bulldog_777 posts the small blind $0.01
+PYRATE73 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Qd 5d]
+prireich53 folds
+MezcalMule folds
+VolleyUpperV folds
+istayirie raises $0.06 to $0.06
+Bulldog_777 folds
+PYRATE73 folds
+Uncalled bet ($0.04) returned to istayirie
+istayirie does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: PYRATE73 (big blind) folded on the Pre-Flop
+Seat 2: prireich53 folded on the Pre-Flop and did not bet
+Seat 3: MezcalMule folded on the Pre-Flop and did not bet
+Seat 4: VolleyUpperV folded on the Pre-Flop and did not bet
+Seat 5: istayirie did not show and won $0.05
+Seat 6: Bulldog_777 (small blind) folded on the Pre-Flop
+
+Hand #1103866881 - Holdem(No Limit) - $0.01/$0.02 - 2022/01/30 01:36:15 UTC
+Buckhorn 6-max Seat #6 is the button
+Seat 1: PYRATE73 ($2.04)
+Seat 2: prireich53 ($1.93)
+Seat 3: MezcalMule ($1.97)
+Seat 4: VolleyUpperV ($2.00)
+Seat 5: istayirie ($2.79)
+Seat 6: Bulldog_777 ($4.97)
+PYRATE73 posts the small blind $0.01
+prireich53 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Kd Js]
+MezcalMule raises $0.07 to $0.07
+VolleyUpperV folds
+istayirie calls $0.07
+Bulldog_777 folds
+PYRATE73 folds
+prireich53 folds
+*** FLOP *** [Ad Jd 5c]
+Main pot $0.17 | Rake $0.00
+MezcalMule checks
+istayirie checks
+*** TURN *** [Ad Jd 5c] [7c]
+Main pot $0.17 | Rake $0.00
+MezcalMule checks
+istayirie bets $0.08
+MezcalMule calls $0.08
+*** RIVER *** [Ad Jd 5c 7c] [Kh]
+Main pot $0.32 | Rake $0.01
+MezcalMule checks
+istayirie checks
+*** SHOW DOWN ***
+Main pot $0.32 | Rake $0.01
+MezcalMule shows [Kd Js] (two pair, Kings and Jacks [Kh Kd Js Jd Ad])
+istayirie shows [Qh Jh] (a pair of Jacks [Jh Jd Ad Kh Qh])
+MezcalMule collected $0.32 from main pot
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01
+Board [Ad Jd 5c 7c Kh]
+Seat 1: PYRATE73 (small blind) folded on the Pre-Flop
+Seat 2: prireich53 (big blind) folded on the Pre-Flop
+Seat 3: MezcalMule showed [Kd Js] and won $0.32 with two pair, Kings and Jacks [Kh Kd Js Jd Ad]
+Seat 4: VolleyUpperV folded on the Pre-Flop and did not bet
+Seat 5: istayirie showed [Qh Jh] and lost with a pair of Jacks [Jh Jd Ad Kh Qh]
+Seat 6: Bulldog_777 (button) folded on the Pre-Flop
+
+Hand #1103868392 - Holdem(No Limit) - $0.01/$0.02 - 2022/01/30 01:37:15 UTC
+Buckhorn 6-max Seat #1 is the button
+Seat 1: PYRATE73 ($2.03)
+Seat 2: prireich53 ($1.91)
+Seat 3: MezcalMule ($2.14)
+Seat 4: VolleyUpperV ($2.00)
+Seat 5: istayirie ($2.64)
+Seat 6: Bulldog_777 ($4.97)
+prireich53 posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [3c Ah]
+VolleyUpperV folds
+istayirie folds
+Bulldog_777 folds
+PYRATE73 raises $0.04 to $0.04
+prireich53 calls $0.03
+MezcalMule folds
+*** FLOP *** [Jd Ts 8c]
+Main pot $0.10 | Rake $0.00
+prireich53 bets $0.10
+PYRATE73 calls $0.10
+*** TURN *** [Jd Ts 8c] [3d]
+Main pot $0.29 | Rake $0.01
+prireich53 bets $0.35
+PYRATE73 folds
+Uncalled bet ($0.35) returned to prireich53
+prireich53 does not show
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01
+Board [Jd Ts 8c 3d]
+Seat 1: PYRATE73 (button) folded on the Turn
+Seat 2: prireich53 did not show and won $0.29
+Seat 3: MezcalMule (big blind) folded on the Pre-Flop
+Seat 4: VolleyUpperV folded on the Pre-Flop and did not bet
+Seat 5: istayirie folded on the Pre-Flop and did not bet
+Seat 6: Bulldog_777 folded on the Pre-Flop and did not bet
+
+Hand #1103870584 - Holdem(No Limit) - $0.01/$0.02 - 2022/01/30 01:38:40 UTC
+Buckhorn 6-max Seat #2 is the button
+Seat 1: PYRATE73 ($2.00)
+Seat 2: prireich53 ($2.06)
+Seat 3: MezcalMule ($2.12)
+Seat 4: VolleyUpperV ($2.00)
+Seat 5: istayirie ($2.64)
+Seat 6: Bulldog_777 ($4.97)
+MezcalMule posts the small blind $0.01
+VolleyUpperV posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [2s 8d]
+istayirie folds
+Bulldog_777 folds
+PYRATE73 folds
+prireich53 folds
+MezcalMule folds
+VolleyUpperV does not show
+*** SUMMARY ***
+Total pot $0.03
+Seat 1: PYRATE73 folded on the Pre-Flop and did not bet
+Seat 2: prireich53 (button) folded on the Pre-Flop
+Seat 3: MezcalMule (small blind) folded on the Pre-Flop
+Seat 4: VolleyUpperV did not show and won $0.03
+Seat 5: istayirie folded on the Pre-Flop and did not bet
+Seat 6: Bulldog_777 folded on the Pre-Flop and did not bet
+
+Hand #1103871048 - Holdem(No Limit) - $0.01/$0.02 - 2022/01/30 01:38:59 UTC
+Buckhorn 6-max Seat #3 is the button
+Seat 1: PYRATE73 ($2.00)
+Seat 2: prireich53 ($2.06)
+Seat 3: MezcalMule ($2.11)
+Seat 4: VolleyUpperV ($2.01)
+Seat 5: istayirie ($2.64)
+Seat 6: Bulldog_777 ($4.97)
+VolleyUpperV posts the small blind $0.01
+istayirie posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [3d Ad]
+Bulldog_777 folds
+PYRATE73 raises $0.04 to $0.04
+prireich53 folds
+MezcalMule calls $0.04
+VolleyUpperV folds
+istayirie folds
+*** FLOP *** [Qh 6c 8h]
+Main pot $0.11 | Rake $0.00
+PYRATE73 checks
+MezcalMule checks
+*** TURN *** [Qh 6c 8h] [2h]
+Main pot $0.11 | Rake $0.00
+PYRATE73 checks
+MezcalMule checks
+*** RIVER *** [Qh 6c 8h 2h] [8s]
+Main pot $0.11 | Rake $0.00
+PYRATE73 checks
+MezcalMule bets $0.05
+PYRATE73 folds
+Uncalled bet ($0.05) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.11
+Board [Qh 6c 8h 2h 8s]
+Seat 1: PYRATE73 folded on the River
+Seat 2: prireich53 folded on the Pre-Flop and did not bet
+Seat 3: MezcalMule did not show and won $0.11
+Seat 4: VolleyUpperV (small blind) folded on the Pre-Flop
+Seat 5: istayirie (big blind) folded on the Pre-Flop
+Seat 6: Bulldog_777 folded on the Pre-Flop and did not bet
+

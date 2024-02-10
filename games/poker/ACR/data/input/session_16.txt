@@ -1,0 +1,967 @@
+Hand #1103833466 - Holdem(No Limit) - $0.02/$0.05 - 2022/01/30 01:14:15 UTC
+Eskridge 6-max Seat #6 is the button
+Seat 1: mikemann97 ($4.89)
+Seat 2: MezcalMule ($5.00)
+Seat 3: rakcash23 ($5.29)
+Seat 5: donkmeoff ($5.00)
+Seat 6: FsamuelgironC1 ($13.75)
+mikemann97 posts the small blind $0.02
+MezcalMule posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to MezcalMule [Kh 5s]
+rakcash23 folds
+donkmeoff raises $0.14 to $0.14
+FsamuelgironC1 folds
+mikemann97 folds
+MezcalMule folds
+Uncalled bet ($0.09) returned to donkmeoff
+donkmeoff does not show
+*** SUMMARY ***
+Total pot $0.12
+Seat 1: mikemann97 (small blind) folded on the Pre-Flop
+Seat 2: MezcalMule (big blind) folded on the Pre-Flop
+Seat 3: rakcash23 folded on the Pre-Flop and did not bet
+Seat 5: donkmeoff did not show and won $0.12
+Seat 6: FsamuelgironC1 (button) folded on the Pre-Flop
+
+Hand #1103833988 - Holdem(No Limit) - $0.02/$0.05 - 2022/01/30 01:14:36 UTC
+Eskridge 6-max Seat #1 is the button
+Seat 1: mikemann97 ($4.87)
+Seat 2: MezcalMule ($4.95)
+Seat 3: rakcash23 ($5.29)
+Seat 5: donkmeoff ($5.07)
+Seat 6: FsamuelgironC1 ($13.75)
+MezcalMule posts the small blind $0.02
+rakcash23 posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to MezcalMule [Jc 6d]
+donkmeoff folds
+FsamuelgironC1 folds
+mikemann97 calls $0.05
+MezcalMule calls $0.03
+rakcash23 checks
+*** FLOP *** [Kd 4h 9c]
+Main pot $0.15 | Rake $0.00
+MezcalMule checks
+rakcash23 bets $0.11
+mikemann97 folds
+MezcalMule folds
+Uncalled bet ($0.11) returned to rakcash23
+rakcash23 does not show
+*** SUMMARY ***
+Total pot $0.15
+Board [Kd 4h 9c]
+Seat 1: mikemann97 (button) folded on the Flop
+Seat 2: MezcalMule (small blind) folded on the Flop
+Seat 3: rakcash23 did not show and won $0.15
+Seat 5: donkmeoff folded on the Pre-Flop and did not bet
+Seat 6: FsamuelgironC1 folded on the Pre-Flop and did not bet
+
+Hand #1103834863 - Holdem(No Limit) - $0.02/$0.05 - 2022/01/30 01:15:13 UTC
+Eskridge 6-max Seat #2 is the button
+Seat 1: mikemann97 ($4.82)
+Seat 2: MezcalMule ($4.90)
+Seat 3: rakcash23 ($5.39)
+Seat 5: donkmeoff ($5.07)
+Seat 6: FsamuelgironC1 ($13.75)
+rakcash23 posts the small blind $0.02
+donkmeoff posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to MezcalMule [4s 8h]
+FsamuelgironC1 folds
+mikemann97 raises $0.12 to $0.12
+MezcalMule folds
+rakcash23 calls $0.10
+donkmeoff folds
+*** FLOP *** [Th 9h Jd]
+Main pot $0.28 | Rake $0.01
+rakcash23 bets $0.11
+mikemann97 calls $0.11
+*** TURN *** [Th 9h Jd] [Qc]
+Main pot $0.49 | Rake $0.02
+rakcash23 bets $0.53
+mikemann97 raises $1.52 to $1.52
+rakcash23 calls $0.99
+*** RIVER *** [Th 9h Jd Qc] [8c]
+Main pot $3.38 | Rake $0.17
+rakcash23 bets $0.15
+mikemann97 raises $0.62 to $0.62
+rakcash23 calls $0.47
+*** SHOW DOWN ***
+Main pot $4.56 | Rake $0.23
+mikemann97 shows [9s Kc] (a straight, King high [Kc Qc Jd Th 9s])
+rakcash23 shows [6d 7d] (a straight, Queen high [Qc Jd Th 9h 8c])
+mikemann97 collected $4.56 from main pot
+*** SUMMARY ***
+Total pot $4.56 | Rake $0.17 | JP Fee $0.06
+Board [Th 9h Jd Qc 8c]
+Seat 1: mikemann97 showed [9s Kc] and won $4.56 with a straight, King high [Kc Qc Jd Th 9s]
+Seat 2: MezcalMule (button) folded on the Pre-Flop
+Seat 3: rakcash23 (small blind) showed [6d 7d] and lost with a straight, Queen high [Qc Jd Th 9h 8c]
+Seat 5: donkmeoff (big blind) folded on the Pre-Flop
+Seat 6: FsamuelgironC1 folded on the Pre-Flop and did not bet
+
+Hand #1103836856 - Holdem(No Limit) - $0.02/$0.05 - 2022/01/30 01:16:34 UTC
+Eskridge 6-max Seat #3 is the button
+Seat 1: mikemann97 ($7.01)
+Seat 2: MezcalMule ($4.90)
+Seat 3: rakcash23 ($3.02)
+Seat 5: donkmeoff ($5.02)
+Seat 6: FsamuelgironC1 ($13.75)
+donkmeoff posts the small blind $0.02
+FsamuelgironC1 posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to MezcalMule [Kc 5d]
+mikemann97 folds
+MezcalMule folds
+rakcash23 folds
+donkmeoff raises $0.08 to $0.10
+FsamuelgironC1 folds
+Uncalled bet ($0.05) returned to donkmeoff
+donkmeoff does not show
+*** SUMMARY ***
+Total pot $0.10
+Seat 1: mikemann97 folded on the Pre-Flop and did not bet
+Seat 2: MezcalMule folded on the Pre-Flop and did not bet
+Seat 3: rakcash23 (button) folded on the Pre-Flop
+Seat 5: donkmeoff did not show and won $0.10
+Seat 6: FsamuelgironC1 (big blind) folded on the Pre-Flop
+
+Hand #1103837241 - Holdem(No Limit) - $0.02/$0.05 - 2022/01/30 01:16:51 UTC
+Eskridge 6-max Seat #5 is the button
+Seat 1: mikemann97 ($7.01)
+Seat 2: MezcalMule ($4.90)
+Seat 3: rakcash23 ($3.02)
+Seat 5: donkmeoff ($5.07)
+Seat 6: FsamuelgironC1 ($13.70)
+FsamuelgironC1 posts the small blind $0.02
+mikemann97 posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to MezcalMule [Ts 4d]
+MezcalMule folds
+rakcash23 calls $0.05
+donkmeoff folds
+FsamuelgironC1 folds
+mikemann97 checks
+*** FLOP *** [Jc Td Th]
+Main pot $0.12 | Rake $0.00
+mikemann97 checks
+rakcash23 checks
+*** TURN *** [Jc Td Th] [4h]
+Main pot $0.12 | Rake $0.00
+mikemann97 checks
+rakcash23 bets $0.13
+mikemann97 folds
+Uncalled bet ($0.13) returned to rakcash23
+rakcash23 does not show
+*** SUMMARY ***
+Total pot $0.12
+Board [Jc Td Th 4h]
+Seat 1: mikemann97 (big blind) folded on the Turn
+Seat 2: MezcalMule folded on the Pre-Flop and did not bet
+Seat 3: rakcash23 did not show and won $0.12
+Seat 5: donkmeoff (button) folded on the Pre-Flop
+Seat 6: FsamuelgironC1 (small blind) folded on the Pre-Flop
+
+Hand #1103838073 - Holdem(No Limit) - $0.02/$0.05 - 2022/01/30 01:17:23 UTC
+Eskridge 6-max Seat #6 is the button
+Seat 1: mikemann97 ($6.96)
+Seat 2: MezcalMule ($4.90)
+Seat 3: rakcash23 ($3.09)
+Seat 5: donkmeoff ($5.07)
+Seat 6: FsamuelgironC1 ($13.68)
+mikemann97 posts the small blind $0.02
+MezcalMule posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to MezcalMule [Jh 6d]
+rakcash23 raises $0.16 to $0.16
+donkmeoff folds
+FsamuelgironC1 calls $0.16
+mikemann97 calls $0.14
+MezcalMule folds
+*** FLOP *** [6s Th Ac]
+Main pot $0.51 | Rake $0.02
+mikemann97 checks
+rakcash23 bets $0.25
+FsamuelgironC1 folds
+mikemann97 folds
+Uncalled bet ($0.25) returned to rakcash23
+rakcash23 does not show
+*** SUMMARY ***
+Total pot $0.51 | Rake $0.02
+Board [6s Th Ac]
+Seat 1: mikemann97 (small blind) folded on the Flop
+Seat 2: MezcalMule (big blind) folded on the Pre-Flop
+Seat 3: rakcash23 did not show and won $0.51
+Seat 5: donkmeoff folded on the Pre-Flop and did not bet
+Seat 6: FsamuelgironC1 (button) folded on the Flop
+
+Hand #1103839327 - Holdem(No Limit) - $0.02/$0.05 - 2022/01/30 01:18:13 UTC
+Eskridge 6-max Seat #1 is the button
+Seat 1: mikemann97 ($6.80)
+Seat 2: MezcalMule ($4.85)
+Seat 3: rakcash23 ($3.44)
+Seat 5: donkmeoff ($5.07)
+Seat 6: FsamuelgironC1 ($13.52)
+MezcalMule posts the small blind $0.02
+rakcash23 posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to MezcalMule [9h Tc]
+donkmeoff calls $0.05
+FsamuelgironC1 raises $0.25 to $0.25
+mikemann97 folds
+MezcalMule calls $0.23
+rakcash23 folds
+donkmeoff calls $0.20
+*** FLOP *** [7h Jh 6h]
+Main pot $0.76 | Rake $0.04
+MezcalMule checks
+donkmeoff checks
+FsamuelgironC1 checks
+*** TURN *** [7h Jh 6h] [5d]
+Main pot $0.76 | Rake $0.04
+MezcalMule bets $0.60
+donkmeoff folds
+FsamuelgironC1 folds
+Uncalled bet ($0.60) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.76 | Rake $0.04
+Board [7h Jh 6h 5d]
+Seat 1: mikemann97 (button) folded on the Pre-Flop
+Seat 2: MezcalMule did not show and won $0.76
+Seat 3: rakcash23 (big blind) folded on the Pre-Flop
+Seat 5: donkmeoff folded on the Turn
+Seat 6: FsamuelgironC1 folded on the Turn
+
+Hand #1103840814 - Holdem(No Limit) - $0.02/$0.05 - 2022/01/30 01:19:12 UTC
+Eskridge 6-max Seat #2 is the button
+Seat 1: mikemann97 ($6.80)
+Seat 2: MezcalMule ($5.36)
+Seat 3: rakcash23 ($3.39)
+Seat 5: donkmeoff ($5.00)
+Seat 6: FsamuelgironC1 ($13.27)
+rakcash23 posts the small blind $0.02
+donkmeoff posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to MezcalMule [Kh Qc]
+FsamuelgironC1 raises $0.15 to $0.15
+mikemann97 folds
+MezcalMule calls $0.15
+rakcash23 calls $0.13
+donkmeoff folds
+*** FLOP *** [Ah Ac 2d]
+Main pot $0.48 | Rake $0.02
+rakcash23 bets $0.13
+FsamuelgironC1 calls $0.13
+MezcalMule folds
+*** TURN *** [Ah Ac 2d] [3s]
+Main pot $0.73 | Rake $0.03
+rakcash23 checks
+FsamuelgironC1 bets $0.76
+rakcash23 folds
+Uncalled bet ($0.76) returned to FsamuelgironC1
+FsamuelgironC1 does not show
+*** SUMMARY ***
+Total pot $0.73 | Rake $0.03
+Board [Ah Ac 2d 3s]
+Seat 1: mikemann97 folded on the Pre-Flop and did not bet
+Seat 2: MezcalMule (button) folded on the Flop
+Seat 3: rakcash23 (small blind) folded on the Turn
+Seat 5: donkmeoff (big blind) folded on the Pre-Flop
+Seat 6: FsamuelgironC1 did not show and won $0.73
+
+Hand #1103842607 - Holdem(No Limit) - $0.02/$0.05 - 2022/01/30 01:20:22 UTC
+Eskridge 6-max Seat #3 is the button
+Seat 1: mikemann97 ($6.80)
+Seat 2: MezcalMule ($5.21)
+Seat 3: rakcash23 ($3.11)
+Seat 5: donkmeoff ($5.00)
+Seat 6: FsamuelgironC1 ($13.72)
+donkmeoff posts the small blind $0.02
+FsamuelgironC1 posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to MezcalMule [6d 5c]
+mikemann97 folds
+MezcalMule folds
+rakcash23 folds
+donkmeoff folds
+FsamuelgironC1 does not show
+*** SUMMARY ***
+Total pot $0.07
+Seat 1: mikemann97 folded on the Pre-Flop and did not bet
+Seat 2: MezcalMule folded on the Pre-Flop and did not bet
+Seat 3: rakcash23 (button) folded on the Pre-Flop
+Seat 5: donkmeoff (small blind) folded on the Pre-Flop
+Seat 6: FsamuelgironC1 did not show and won $0.07
+
+Hand #1103842999 - Holdem(No Limit) - $0.02/$0.05 - 2022/01/30 01:20:38 UTC
+Eskridge 6-max Seat #5 is the button
+Seat 1: mikemann97 ($6.80)
+Seat 2: MezcalMule ($5.21)
+Seat 5: donkmeoff ($5.00)
+Seat 6: FsamuelgironC1 ($13.74)
+FsamuelgironC1 posts the small blind $0.02
+mikemann97 posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to MezcalMule [6d 5c]
+MezcalMule folds
+donkmeoff folds
+FsamuelgironC1 raises $0.13 to $0.15
+mikemann97 folds
+Uncalled bet ($0.10) returned to FsamuelgironC1
+FsamuelgironC1 does not show
+*** SUMMARY ***
+Total pot $0.10
+Seat 1: mikemann97 (big blind) folded on the Pre-Flop
+Seat 2: MezcalMule folded on the Pre-Flop and did not bet
+Seat 5: donkmeoff (button) folded on the Pre-Flop
+Seat 6: FsamuelgironC1 did not show and won $0.10
+
+Hand #1103847991 - Holdem(No Limit) - $0.02/$0.05 - 2022/01/30 01:23:53 UTC
+Eskridge 6-max Seat #6 is the button
+Seat 1: mikemann97 ($6.56)
+Seat 2: MezcalMule ($5.16)
+Seat 3: jhanalte ($5.03)
+Seat 5: donkmeoff ($5.00)
+Seat 6: FsamuelgironC1 ($13.98)
+mikemann97 posts the small blind $0.02
+MezcalMule posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to MezcalMule [8s Jd]
+jhanalte folds
+donkmeoff folds
+FsamuelgironC1 folds
+mikemann97 calls $0.03
+MezcalMule checks
+*** FLOP *** [Qd 7d Th]
+Main pot $0.10 | Rake $0.00
+mikemann97 bets $0.07
+MezcalMule calls $0.07
+*** TURN *** [Qd 7d Th] [Ah]
+Main pot $0.23 | Rake $0.01
+mikemann97 bets $0.07
+MezcalMule calls $0.07
+*** RIVER *** [Qd 7d Th Ah] [3d]
+Main pot $0.37 | Rake $0.01
+mikemann97 bets $0.15
+MezcalMule folds
+Uncalled bet ($0.15) returned to mikemann97
+mikemann97 does not show
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.01
+Board [Qd 7d Th Ah 3d]
+Seat 1: mikemann97 did not show and won $0.37
+Seat 2: MezcalMule (big blind) folded on the River
+Seat 3: jhanalte folded on the Pre-Flop and did not bet
+Seat 5: donkmeoff folded on the Pre-Flop and did not bet
+Seat 6: FsamuelgironC1 (button) folded on the Pre-Flop
+
+Hand #1103850043 - Holdem(No Limit) - $0.02/$0.05 - 2022/01/30 01:25:14 UTC
+Eskridge 6-max Seat #1 is the button
+Seat 1: mikemann97 ($6.74)
+Seat 2: MezcalMule ($4.97)
+Seat 3: jhanalte ($5.03)
+Seat 5: donkmeoff ($5.00)
+Seat 6: FsamuelgironC1 ($13.98)
+MezcalMule posts the small blind $0.02
+jhanalte posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to MezcalMule [Ad Qs]
+donkmeoff folds
+FsamuelgironC1 folds
+mikemann97 calls $0.05
+MezcalMule calls $0.03
+jhanalte checks
+*** FLOP *** [7d Kh Ts]
+Main pot $0.15 | Rake $0.00
+MezcalMule checks
+jhanalte checks
+mikemann97 bets $0.05
+MezcalMule raises $0.47 to $0.47
+jhanalte folds
+mikemann97 folds
+Uncalled bet ($0.42) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01
+Board [7d Kh Ts]
+Seat 1: mikemann97 (button) folded on the Flop
+Seat 2: MezcalMule did not show and won $0.24
+Seat 3: jhanalte (big blind) folded on the Flop
+Seat 5: donkmeoff folded on the Pre-Flop and did not bet
+Seat 6: FsamuelgironC1 folded on the Pre-Flop and did not bet
+
+Hand #1103851835 - Holdem(No Limit) - $0.02/$0.05 - 2022/01/30 01:26:25 UTC
+Eskridge 6-max Seat #2 is the button
+Seat 1: mikemann97 ($6.64)
+Seat 2: MezcalMule ($5.11)
+Seat 3: jhanalte ($5.00)
+Seat 5: donkmeoff ($5.00)
+Seat 6: FsamuelgironC1 ($13.98)
+jhanalte posts the small blind $0.02
+donkmeoff posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to MezcalMule [Kd Td]
+FsamuelgironC1 folds
+mikemann97 folds
+MezcalMule calls $0.05
+jhanalte folds
+donkmeoff checks
+*** FLOP *** [8d 9s Qh]
+Main pot $0.12 | Rake $0.00
+donkmeoff checks
+MezcalMule checks
+*** TURN *** [8d 9s Qh] [5s]
+Main pot $0.12 | Rake $0.00
+donkmeoff checks
+MezcalMule checks
+*** RIVER *** [8d 9s Qh 5s] [3s]
+Main pot $0.12 | Rake $0.00
+donkmeoff checks
+MezcalMule checks
+*** SHOW DOWN ***
+Main pot $0.12 | Rake $0.00
+MezcalMule shows [Kd Td] (a high card, King high [Kd Qh Td 9s 8d])
+donkmeoff shows [7c Ks] (a high card, King high [Ks Qh 9s 8d 7c])
+MezcalMule collected $0.12 from main pot
+*** SUMMARY ***
+Total pot $0.12
+Board [8d 9s Qh 5s 3s]
+Seat 1: mikemann97 folded on the Pre-Flop and did not bet
+Seat 2: MezcalMule (button) showed [Kd Td] and won $0.12 with a high card, King high [Kd Qh Td 9s 8d] with the kicker Ten
+Seat 3: jhanalte (small blind) folded on the Pre-Flop
+Seat 5: donkmeoff (big blind) showed [7c Ks] and lost with a high card, King high [Ks Qh 9s 8d 7c]
+Seat 6: FsamuelgironC1 folded on the Pre-Flop and did not bet
+
+Hand #1103853152 - Holdem(No Limit) - $0.02/$0.05 - 2022/01/30 01:27:17 UTC
+Eskridge 6-max Seat #3 is the button
+Seat 1: mikemann97 ($6.64)
+Seat 2: MezcalMule ($5.18)
+Seat 3: jhanalte ($5.00)
+Seat 5: donkmeoff ($5.00)
+Seat 6: FsamuelgironC1 ($13.98)
+donkmeoff posts the small blind $0.02
+FsamuelgironC1 posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to MezcalMule [Ad 5h]
+mikemann97 raises $0.12 to $0.12
+MezcalMule folds
+jhanalte folds
+donkmeoff folds
+FsamuelgironC1 folds
+Uncalled bet ($0.07) returned to mikemann97
+mikemann97 does not show
+*** SUMMARY ***
+Total pot $0.12
+Seat 1: mikemann97 did not show and won $0.12
+Seat 2: MezcalMule folded on the Pre-Flop and did not bet
+Seat 3: jhanalte (button) folded on the Pre-Flop
+Seat 5: donkmeoff (small blind) folded on the Pre-Flop
+Seat 6: FsamuelgironC1 (big blind) folded on the Pre-Flop
+
+Hand #1103853613 - Holdem(No Limit) - $0.02/$0.05 - 2022/01/30 01:27:34 UTC
+Eskridge 6-max Seat #5 is the button
+Seat 1: mikemann97 ($6.71)
+Seat 2: MezcalMule ($5.18)
+Seat 3: jhanalte ($5.00)
+Seat 5: donkmeoff ($5.00)
+Seat 6: FsamuelgironC1 ($13.93)
+FsamuelgironC1 posts the small blind $0.02
+mikemann97 posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to MezcalMule [Jd Th]
+MezcalMule folds
+jhanalte folds
+donkmeoff raises $0.14 to $0.14
+FsamuelgironC1 folds
+mikemann97 raises $0.28 to $0.33
+donkmeoff calls $0.19
+*** FLOP *** [4h Jh 7c]
+Main pot $0.65 | Rake $0.03
+mikemann97 checks
+donkmeoff checks
+*** TURN *** [4h Jh 7c] [6s]
+Main pot $0.65 | Rake $0.03
+mikemann97 bets $0.21
+donkmeoff calls $0.21
+*** RIVER *** [4h Jh 7c 6s] [6d]
+Main pot $1.05 | Rake $0.05
+mikemann97 bets $0.27
+donkmeoff folds
+Uncalled bet ($0.27) returned to mikemann97
+mikemann97 does not show
+*** SUMMARY ***
+Total pot $1.05 | Rake $0.05
+Board [4h Jh 7c 6s 6d]
+Seat 1: mikemann97 did not show and won $1.05
+Seat 2: MezcalMule folded on the Pre-Flop and did not bet
+Seat 3: jhanalte folded on the Pre-Flop and did not bet
+Seat 5: donkmeoff (button) folded on the River
+Seat 6: FsamuelgironC1 (small blind) folded on the Pre-Flop
+
+Hand #1103855463 - Holdem(No Limit) - $0.02/$0.05 - 2022/01/30 01:28:49 UTC
+Eskridge 6-max Seat #6 is the button
+Seat 1: mikemann97 ($7.22)
+Seat 2: MezcalMule ($5.18)
+Seat 3: jhanalte ($5.00)
+Seat 5: donkmeoff ($5.00)
+Seat 6: FsamuelgironC1 ($13.91)
+mikemann97 posts the small blind $0.02
+MezcalMule posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to MezcalMule [5d 4d]
+jhanalte folds
+donkmeoff folds
+FsamuelgironC1 folds
+mikemann97 calls $0.03
+MezcalMule checks
+*** FLOP *** [2c Tc 4c]
+Main pot $0.10 | Rake $0.00
+mikemann97 checks
+MezcalMule checks
+*** TURN *** [2c Tc 4c] [Js]
+Main pot $0.10 | Rake $0.00
+mikemann97 bets $0.05
+MezcalMule folds
+Uncalled bet ($0.05) returned to mikemann97
+mikemann97 does not show
+*** SUMMARY ***
+Total pot $0.10
+Board [2c Tc 4c Js]
+Seat 1: mikemann97 did not show and won $0.10
+Seat 2: MezcalMule (big blind) folded on the Turn
+Seat 3: jhanalte folded on the Pre-Flop and did not bet
+Seat 5: donkmeoff folded on the Pre-Flop and did not bet
+Seat 6: FsamuelgironC1 (button) folded on the Pre-Flop
+
+Hand #1103856580 - Holdem(No Limit) - $0.02/$0.05 - 2022/01/30 01:29:35 UTC
+Eskridge 6-max Seat #1 is the button
+Seat 1: mikemann97 ($7.27)
+Seat 2: MezcalMule ($5.13)
+Seat 3: jhanalte ($5.00)
+Seat 5: donkmeoff ($5.00)
+Seat 6: FsamuelgironC1 ($13.91)
+MezcalMule posts the small blind $0.02
+jhanalte posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to MezcalMule [8d 2c]
+donkmeoff folds
+FsamuelgironC1 raises $0.15 to $0.15
+mikemann97 folds
+MezcalMule folds
+jhanalte folds
+Uncalled bet ($0.10) returned to FsamuelgironC1
+FsamuelgironC1 does not show
+*** SUMMARY ***
+Total pot $0.12
+Seat 1: mikemann97 (button) folded on the Pre-Flop
+Seat 2: MezcalMule (small blind) folded on the Pre-Flop
+Seat 3: jhanalte (big blind) folded on the Pre-Flop
+Seat 5: donkmeoff folded on the Pre-Flop and did not bet
+Seat 6: FsamuelgironC1 did not show and won $0.12
+
+Hand #1103857222 - Holdem(No Limit) - $0.02/$0.05 - 2022/01/30 01:30:00 UTC
+Eskridge 6-max Seat #2 is the button
+Seat 1: mikemann97 ($7.27)
+Seat 2: MezcalMule ($5.11)
+Seat 3: jhanalte ($5.00)
+Seat 5: donkmeoff ($5.00)
+Seat 6: FsamuelgironC1 ($13.98)
+jhanalte sits out
+donkmeoff posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to MezcalMule [6h 2h]
+FsamuelgironC1 folds
+mikemann97 folds
+MezcalMule folds
+donkmeoff does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: mikemann97 folded on the Pre-Flop and did not bet
+Seat 2: MezcalMule (button) folded on the Pre-Flop
+Seat 5: donkmeoff did not show and won $0.05
+Seat 6: FsamuelgironC1 folded on the Pre-Flop and did not bet
+
+Hand #1103857841 - Holdem(No Limit) - $0.02/$0.05 - 2022/01/30 01:30:23 UTC
+Eskridge 6-max Seat #3 is the button
+Seat 1: mikemann97 ($7.27)
+Seat 2: MezcalMule ($5.11)
+Seat 3: jhanalte ($5.00) is sitting out
+Seat 5: donkmeoff ($5.00)
+Seat 6: FsamuelgironC1 ($13.98)
+donkmeoff posts the small blind $0.02
+FsamuelgironC1 posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to MezcalMule [3d 4c]
+mikemann97 raises $0.12 to $0.12
+MezcalMule folds
+donkmeoff folds
+FsamuelgironC1 folds
+Uncalled bet ($0.07) returned to mikemann97
+mikemann97 does not show
+*** SUMMARY ***
+Total pot $0.12
+Seat 1: mikemann97 did not show and won $0.12
+Seat 2: MezcalMule folded on the Pre-Flop and did not bet
+Seat 5: donkmeoff (small blind) folded on the Pre-Flop
+Seat 6: FsamuelgironC1 (big blind) folded on the Pre-Flop
+
+Hand #1103858578 - Holdem(No Limit) - $0.02/$0.05 - 2022/01/30 01:30:52 UTC
+Eskridge 6-max Seat #5 is the button
+Seat 1: mikemann97 ($7.34)
+Seat 2: MezcalMule ($5.11)
+Seat 3: jhanalte ($5.00) is sitting out
+Seat 5: donkmeoff ($5.00)
+Seat 6: FsamuelgironC1 ($13.93)
+FsamuelgironC1 posts the small blind $0.02
+mikemann97 posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to MezcalMule [7d 4s]
+MezcalMule folds
+donkmeoff folds
+FsamuelgironC1 folds
+mikemann97 does not show
+*** SUMMARY ***
+Total pot $0.07
+Seat 1: mikemann97 did not show and won $0.07
+Seat 2: MezcalMule folded on the Pre-Flop and did not bet
+Seat 5: donkmeoff (button) folded on the Pre-Flop
+Seat 6: FsamuelgironC1 (small blind) folded on the Pre-Flop
+
+Hand #1103859017 - Holdem(No Limit) - $0.02/$0.05 - 2022/01/30 01:31:08 UTC
+Eskridge 6-max Seat #6 is the button
+Seat 1: mikemann97 ($7.36)
+Seat 2: MezcalMule ($5.11)
+Seat 3: jhanalte ($5.00) is sitting out
+Seat 5: donkmeoff ($5.00)
+Seat 6: FsamuelgironC1 ($13.91)
+mikemann97 posts the small blind $0.02
+MezcalMule posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to MezcalMule [5h 5s]
+donkmeoff folds
+FsamuelgironC1 folds
+mikemann97 calls $0.03
+MezcalMule checks
+*** FLOP *** [Qh 8d 6s]
+Main pot $0.10 | Rake $0.00
+mikemann97 checks
+MezcalMule checks
+*** TURN *** [Qh 8d 6s] [2d]
+Main pot $0.10 | Rake $0.00
+mikemann97 checks
+MezcalMule checks
+*** RIVER *** [Qh 8d 6s 2d] [4c]
+Main pot $0.10 | Rake $0.00
+mikemann97 checks
+MezcalMule bets $0.07
+mikemann97 folds
+Uncalled bet ($0.07) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.10
+Board [Qh 8d 6s 2d 4c]
+Seat 1: mikemann97 (small blind) folded on the River
+Seat 2: MezcalMule did not show and won $0.10
+Seat 5: donkmeoff folded on the Pre-Flop and did not bet
+Seat 6: FsamuelgironC1 (button) folded on the Pre-Flop
+
+Hand #1103860683 - Holdem(No Limit) - $0.02/$0.05 - 2022/01/30 01:32:14 UTC
+Eskridge 6-max Seat #1 is the button
+Seat 1: mikemann97 ($7.31)
+Seat 2: MezcalMule ($5.16)
+Seat 3: jhanalte ($5.00)
+Seat 5: donkmeoff ($5.00)
+Seat 6: FsamuelgironC1 ($13.91)
+MezcalMule posts the small blind $0.02
+jhanalte posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to MezcalMule [5h 4s]
+donkmeoff folds
+FsamuelgironC1 folds
+mikemann97 raises $0.12 to $0.12
+MezcalMule folds
+jhanalte folds
+Uncalled bet ($0.07) returned to mikemann97
+mikemann97 does not show
+*** SUMMARY ***
+Total pot $0.12
+Seat 1: mikemann97 did not show and won $0.12
+Seat 2: MezcalMule (small blind) folded on the Pre-Flop
+Seat 3: jhanalte (big blind) folded on the Pre-Flop
+Seat 5: donkmeoff folded on the Pre-Flop and did not bet
+Seat 6: FsamuelgironC1 folded on the Pre-Flop and did not bet
+
+Hand #1103861267 - Holdem(No Limit) - $0.02/$0.05 - 2022/01/30 01:32:38 UTC
+Eskridge 6-max Seat #2 is the button
+Seat 1: mikemann97 ($7.38)
+Seat 2: MezcalMule ($5.14)
+Seat 3: jhanalte ($5.00)
+Seat 5: donkmeoff ($5.00)
+Seat 6: FsamuelgironC1 ($13.91)
+jhanalte posts the small blind $0.02
+donkmeoff posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to MezcalMule [7s Qc]
+FsamuelgironC1 raises $0.15 to $0.15
+mikemann97 folds
+MezcalMule folds
+jhanalte folds
+donkmeoff calls $0.10
+*** FLOP *** [7h Ah Jd]
+Main pot $0.31 | Rake $0.01
+donkmeoff checks
+FsamuelgironC1 checks
+*** TURN *** [7h Ah Jd] [7c]
+Main pot $0.31 | Rake $0.01
+donkmeoff checks
+FsamuelgironC1 checks
+*** RIVER *** [7h Ah Jd 7c] [Js]
+Main pot $0.31 | Rake $0.01
+donkmeoff checks
+FsamuelgironC1 checks
+*** SHOW DOWN ***
+Main pot $0.31 | Rake $0.01
+donkmeoff shows [Qh Td] (two pair, Jacks and Sevens [Js Jd 7h 7c Ah])
+FsamuelgironC1 shows [5c 5h] (two pair, Jacks and Sevens [Js Jd 7h 7c Ah])
+donkmeoff collected $0.16 from main pot
+FsamuelgironC1 collected $0.15 from main pot
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01
+Board [7h Ah Jd 7c Js]
+Seat 1: mikemann97 folded on the Pre-Flop and did not bet
+Seat 2: MezcalMule (button) folded on the Pre-Flop
+Seat 3: jhanalte (small blind) folded on the Pre-Flop
+Seat 5: donkmeoff (big blind) showed [Qh Td] and won $0.16 with two pair, Jacks and Sevens [Js Jd 7h 7c Ah]
+Seat 6: FsamuelgironC1 showed [5c 5h] and won $0.15 with two pair, Jacks and Sevens [Js Jd 7h 7c Ah]
+
+Hand #1103862782 - Holdem(No Limit) - $0.02/$0.05 - 2022/01/30 01:33:37 UTC
+Eskridge 6-max Seat #3 is the button
+Seat 1: mikemann97 ($7.38)
+Seat 2: MezcalMule ($5.14)
+Seat 3: jhanalte ($5.00)
+Seat 5: donkmeoff ($5.01)
+Seat 6: FsamuelgironC1 ($13.91)
+donkmeoff posts the small blind $0.02
+FsamuelgironC1 posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to MezcalMule [Ks 6s]
+mikemann97 calls $0.05
+MezcalMule calls $0.05
+jhanalte folds
+donkmeoff folds
+FsamuelgironC1 checks
+*** FLOP *** [9h 5d 2d]
+Main pot $0.17 | Rake $0.00
+FsamuelgironC1 checks
+mikemann97 bets $0.07
+MezcalMule folds
+FsamuelgironC1 folds
+Uncalled bet ($0.07) returned to mikemann97
+mikemann97 does not show
+*** SUMMARY ***
+Total pot $0.17
+Board [9h 5d 2d]
+Seat 1: mikemann97 did not show and won $0.17
+Seat 2: MezcalMule folded on the Flop
+Seat 3: jhanalte (button) folded on the Pre-Flop
+Seat 5: donkmeoff (small blind) folded on the Pre-Flop
+Seat 6: FsamuelgironC1 (big blind) folded on the Flop
+
+Hand #1103864682 - Holdem(No Limit) - $0.02/$0.05 - 2022/01/30 01:34:50 UTC
+Eskridge 6-max Seat #5 is the button
+Seat 1: mikemann97 ($7.50)
+Seat 2: MezcalMule ($5.09)
+Seat 3: jhanalte ($5.00)
+Seat 5: donkmeoff ($5.00)
+Seat 6: FsamuelgironC1 ($13.86)
+FsamuelgironC1 posts the small blind $0.02
+mikemann97 posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to MezcalMule [7h Qc]
+MezcalMule folds
+jhanalte folds
+donkmeoff folds
+FsamuelgironC1 folds
+mikemann97 does not show
+*** SUMMARY ***
+Total pot $0.07
+Seat 1: mikemann97 did not show and won $0.07
+Seat 2: MezcalMule folded on the Pre-Flop and did not bet
+Seat 3: jhanalte folded on the Pre-Flop and did not bet
+Seat 5: donkmeoff (button) folded on the Pre-Flop
+Seat 6: FsamuelgironC1 (small blind) folded on the Pre-Flop
+
+Hand #1103865352 - Holdem(No Limit) - $0.02/$0.05 - 2022/01/30 01:35:16 UTC
+Eskridge 6-max Seat #6 is the button
+Seat 1: mikemann97 ($7.52)
+Seat 2: MezcalMule ($5.09)
+Seat 3: jhanalte ($5.00)
+Seat 5: donkmeoff ($5.00)
+Seat 6: FsamuelgironC1 ($13.84)
+mikemann97 posts the small blind $0.02
+MezcalMule posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to MezcalMule [Tc 6d]
+jhanalte folds
+donkmeoff folds
+FsamuelgironC1 raises $0.10 to $0.10
+mikemann97 folds
+MezcalMule folds
+Uncalled bet ($0.05) returned to FsamuelgironC1
+FsamuelgironC1 does not show
+*** SUMMARY ***
+Total pot $0.12
+Seat 1: mikemann97 (small blind) folded on the Pre-Flop
+Seat 2: MezcalMule (big blind) folded on the Pre-Flop
+Seat 3: jhanalte folded on the Pre-Flop and did not bet
+Seat 5: donkmeoff folded on the Pre-Flop and did not bet
+Seat 6: FsamuelgironC1 did not show and won $0.12
+
+Hand #1103866308 - Holdem(No Limit) - $0.02/$0.05 - 2022/01/30 01:35:52 UTC
+Eskridge 6-max Seat #1 is the button
+Seat 2: MezcalMule ($5.04)
+Seat 3: jhanalte ($5.00)
+Seat 5: donkmeoff ($5.00)
+Seat 6: FsamuelgironC1 ($13.91)
+MezcalMule posts the small blind $0.02
+jhanalte posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to MezcalMule [2s Ah]
+donkmeoff folds
+FsamuelgironC1 raises $0.15 to $0.15
+MezcalMule folds
+jhanalte folds
+Uncalled bet ($0.10) returned to FsamuelgironC1
+FsamuelgironC1 does not show
+*** SUMMARY ***
+Total pot $0.12
+Seat 2: MezcalMule (small blind) folded on the Pre-Flop
+Seat 3: jhanalte (big blind) folded on the Pre-Flop
+Seat 5: donkmeoff folded on the Pre-Flop and did not bet
+Seat 6: FsamuelgironC1 did not show and won $0.12
+
+Hand #1103867000 - Holdem(No Limit) - $0.02/$0.05 - 2022/01/30 01:36:20 UTC
+Eskridge 6-max Seat #2 is the button
+Seat 2: MezcalMule ($5.02)
+Seat 3: jhanalte ($5.00)
+Seat 5: donkmeoff ($5.00)
+Seat 6: FsamuelgironC1 ($13.98)
+jhanalte posts the small blind $0.02
+donkmeoff posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to MezcalMule [8h 3c]
+FsamuelgironC1 folds
+MezcalMule folds
+jhanalte folds
+donkmeoff does not show
+*** SUMMARY ***
+Total pot $0.07
+Seat 2: MezcalMule (button) folded on the Pre-Flop
+Seat 3: jhanalte (small blind) folded on the Pre-Flop
+Seat 5: donkmeoff did not show and won $0.07
+Seat 6: FsamuelgironC1 folded on the Pre-Flop and did not bet
+
+Hand #1103867394 - Holdem(No Limit) - $0.02/$0.05 - 2022/01/30 01:36:36 UTC
+Eskridge 6-max Seat #3 is the button
+Seat 2: MezcalMule ($5.02)
+Seat 3: jhanalte ($5.00)
+Seat 5: donkmeoff ($5.02)
+Seat 6: FsamuelgironC1 ($13.98)
+donkmeoff posts the small blind $0.02
+FsamuelgironC1 posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to MezcalMule [Qd Td]
+MezcalMule raises $0.11 to $0.11
+jhanalte folds
+donkmeoff folds
+FsamuelgironC1 calls $0.06
+*** FLOP *** [9d Qc 2s]
+Main pot $0.23 | Rake $0.01
+FsamuelgironC1 checks
+MezcalMule bets $0.12
+FsamuelgironC1 raises $0.78 to $0.78
+MezcalMule calls $0.66
+*** TURN *** [9d Qc 2s] [6d]
+Main pot $1.71 | Rake $0.09
+FsamuelgironC1 bets $1.45
+MezcalMule calls $1.45
+*** RIVER *** [9d Qc 2s 6d] [3h]
+Main pot $4.47 | Rake $0.23
+FsamuelgironC1 bets $11.64 and is all-in
+MezcalMule folds
+Uncalled bet ($11.64) returned to FsamuelgironC1
+FsamuelgironC1 does not show
+*** SUMMARY ***
+Total pot $4.47 | Rake $0.17 | JP Fee $0.06
+Board [9d Qc 2s 6d 3h]
+Seat 2: MezcalMule folded on the River
+Seat 3: jhanalte (button) folded on the Pre-Flop
+Seat 5: donkmeoff (small blind) folded on the Pre-Flop
+Seat 6: FsamuelgironC1 did not show and won $4.47
+
+Hand #1103869640 - Holdem(No Limit) - $0.02/$0.05 - 2022/01/30 01:38:03 UTC
+Eskridge 6-max Seat #5 is the button
+Seat 2: MezcalMule ($2.68)
+Seat 3: jhanalte ($5.00)
+Seat 5: donkmeoff ($5.00)
+Seat 6: FsamuelgironC1 ($16.11)
+FsamuelgironC1 posts the small blind $0.02
+MezcalMule posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to MezcalMule [6c 9c]
+jhanalte raises $0.15 to $0.15
+donkmeoff calls $0.15
+FsamuelgironC1 folds
+MezcalMule calls $0.10
+*** FLOP *** [3d Qc 7c]
+Main pot $0.45 | Rake $0.02
+MezcalMule checks
+jhanalte checks
+donkmeoff checks
+*** TURN *** [3d Qc 7c] [Kc]
+Main pot $0.45 | Rake $0.02
+MezcalMule checks
+jhanalte checks
+donkmeoff checks
+*** RIVER *** [3d Qc 7c Kc] [7s]
+Main pot $0.45 | Rake $0.02
+MezcalMule bets $0.35
+jhanalte folds
+donkmeoff folds
+Uncalled bet ($0.35) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02
+Board [3d Qc 7c Kc 7s]
+Seat 2: MezcalMule did not show and won $0.45
+Seat 3: jhanalte folded on the River
+Seat 5: donkmeoff (button) folded on the River
+Seat 6: FsamuelgironC1 (small blind) folded on the Pre-Flop
+
+Hand #1103871312 - Holdem(No Limit) - $0.02/$0.05 - 2022/01/30 01:39:11 UTC
+Eskridge 6-max Seat #6 is the button
+Seat 1: Six9ineZooted will be allowed to play after the button
+Seat 2: MezcalMule ($2.98)
+Seat 3: jhanalte ($5.00)
+Seat 5: donkmeoff ($5.00)
+Seat 6: FsamuelgironC1 ($16.09)
+MezcalMule posts the small blind $0.02
+jhanalte posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to MezcalMule [Qh Qs]
+donkmeoff folds
+FsamuelgironC1 raises $0.10 to $0.10
+MezcalMule raises $2.96 to $2.98 and is all-in
+jhanalte folds
+FsamuelgironC1 folds
+Uncalled bet ($2.88) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.25
+Seat 2: MezcalMule did not show and won $0.25
+Seat 3: jhanalte (big blind) folded on the Pre-Flop
+Seat 5: donkmeoff folded on the Pre-Flop and did not bet
+Seat 6: FsamuelgironC1 (button) folded on the Pre-Flop
+

@@ -1,0 +1,1313 @@
+Hand #1000621355 - Holdem(No Limit) - $0.01/$0.02 - 2021/11/02 23:15:01 UTC
+Wilton Manors 6-max Seat #4 is the button
+Seat 1: DogSchool ($2.73)
+Seat 2: Paisting ($5.77)
+Seat 3: Ronnieaakk ($0.77)
+Seat 4: Dijodijo1 ($2.38)
+Seat 5: gimmierake ($1.94)
+Seat 6: MezcalMule ($2.00)
+gimmierake posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [6c Kc]
+DogSchool folds
+Paisting folds
+Ronnieaakk folds
+Dijodijo1 folds
+gimmierake raises $0.06 to $0.07
+MezcalMule calls $0.05
+*** FLOP *** [Qs 5c Ah]
+Main pot $0.14 | Rake $0.00
+gimmierake bets $0.06
+MezcalMule folds
+Uncalled bet ($0.06) returned to gimmierake
+gimmierake shows [- Ac]
+*** SUMMARY ***
+Total pot $0.14
+Board [Qs 5c Ah]
+Seat 1: DogSchool folded on the Pre-Flop and did not bet
+Seat 2: Paisting folded on the Pre-Flop and did not bet
+Seat 3: Ronnieaakk folded on the Pre-Flop and did not bet
+Seat 4: Dijodijo1 (button) folded on the Pre-Flop
+Seat 5: gimmierake (small blind) showed [- Ac] and won $0.14
+Seat 6: MezcalMule (big blind) folded on the Flop
+
+Hand #1000622560 - Holdem(No Limit) - $0.01/$0.02 - 2021/11/02 23:15:55 UTC
+Wilton Manors 6-max Seat #5 is the button
+Seat 1: DogSchool ($2.73)
+Seat 2: Paisting ($5.77)
+Seat 3: Ronnieaakk ($0.77)
+Seat 4: Dijodijo1 ($2.38)
+Seat 5: gimmierake ($2.01)
+Seat 6: MezcalMule ($1.93)
+MezcalMule posts the small blind $0.01
+DogSchool posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Ad 7s]
+Paisting folds
+Ronnieaakk raises $0.05 to $0.05
+Dijodijo1 folds
+gimmierake folds
+MezcalMule folds
+DogSchool folds
+Uncalled bet ($0.03) returned to Ronnieaakk
+Ronnieaakk does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: DogSchool (big blind) folded on the Pre-Flop
+Seat 2: Paisting folded on the Pre-Flop and did not bet
+Seat 3: Ronnieaakk did not show and won $0.05
+Seat 4: Dijodijo1 folded on the Pre-Flop and did not bet
+Seat 5: gimmierake (button) folded on the Pre-Flop
+Seat 6: MezcalMule (small blind) folded on the Pre-Flop
+
+Hand #1000623612 - Holdem(No Limit) - $0.01/$0.02 - 2021/11/02 23:16:40 UTC
+Wilton Manors 6-max Seat #6 is the button
+Seat 1: DogSchool ($2.71)
+Seat 2: Paisting ($5.77)
+Seat 3: Ronnieaakk ($0.80)
+Seat 4: Dijodijo1 ($2.38)
+Seat 5: gimmierake ($2.01)
+Seat 6: MezcalMule ($1.92)
+DogSchool posts the small blind $0.01
+Paisting posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [4c Qc]
+Ronnieaakk folds
+Dijodijo1 folds
+gimmierake folds
+MezcalMule raises $0.05 to $0.05
+DogSchool folds
+Paisting calls $0.03
+*** FLOP *** [8c 4s Qs]
+Main pot $0.11 | Rake $0.00
+Paisting checks
+MezcalMule bets $0.09
+Paisting calls $0.09
+*** TURN *** [8c 4s Qs] [3s]
+Main pot $0.28 | Rake $0.01
+Paisting checks
+MezcalMule bets $0.29
+Paisting folds
+Uncalled bet ($0.29) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01
+Board [8c 4s Qs 3s]
+Seat 1: DogSchool (small blind) folded on the Pre-Flop
+Seat 2: Paisting (big blind) folded on the Turn
+Seat 3: Ronnieaakk folded on the Pre-Flop and did not bet
+Seat 4: Dijodijo1 folded on the Pre-Flop and did not bet
+Seat 5: gimmierake folded on the Pre-Flop and did not bet
+Seat 6: MezcalMule did not show and won $0.28
+
+Hand #1000626036 - Holdem(No Limit) - $0.01/$0.02 - 2021/11/02 23:18:26 UTC
+Wilton Manors 6-max Seat #1 is the button
+Seat 1: DogSchool ($2.70)
+Seat 2: Paisting ($5.63)
+Seat 3: Ronnieaakk ($0.80)
+Seat 4: Dijodijo1 ($2.38)
+Seat 5: gimmierake ($2.01)
+Seat 6: MezcalMule ($2.06)
+Paisting posts the small blind $0.01
+Ronnieaakk posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [8c 3h]
+Dijodijo1 folds
+gimmierake folds
+MezcalMule folds
+DogSchool folds
+Paisting raises $0.07 to $0.08
+Ronnieaakk folds
+Uncalled bet ($0.06) returned to Paisting
+Paisting does not show
+*** SUMMARY ***
+Total pot $0.04
+Seat 1: DogSchool (button) folded on the Pre-Flop
+Seat 2: Paisting did not show and won $0.04
+Seat 3: Ronnieaakk (big blind) folded on the Pre-Flop
+Seat 4: Dijodijo1 folded on the Pre-Flop and did not bet
+Seat 5: gimmierake folded on the Pre-Flop and did not bet
+Seat 6: MezcalMule folded on the Pre-Flop and did not bet
+
+Hand #1000626643 - Holdem(No Limit) - $0.01/$0.02 - 2021/11/02 23:18:53 UTC
+Wilton Manors 6-max Seat #2 is the button
+Seat 1: DogSchool ($2.70)
+Seat 2: Paisting ($5.65)
+Seat 3: Ronnieaakk ($0.78)
+Seat 4: Dijodijo1 ($2.38)
+Seat 5: gimmierake ($2.01)
+Seat 6: MezcalMule ($2.06)
+Ronnieaakk posts the small blind $0.01
+Dijodijo1 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Tc Jh]
+gimmierake folds
+MezcalMule raises $0.06 to $0.06
+DogSchool folds
+Paisting folds
+Ronnieaakk folds
+Dijodijo1 calls $0.04
+*** FLOP *** [6h Ts Ac]
+Main pot $0.13 | Rake $0.00
+Dijodijo1 checks
+MezcalMule checks
+*** TURN *** [6h Ts Ac] [4h]
+Main pot $0.13 | Rake $0.00
+Dijodijo1 checks
+MezcalMule bets $0.03
+Dijodijo1 calls $0.03
+*** RIVER *** [6h Ts Ac 4h] [7c]
+Main pot $0.19 | Rake $0.00
+Dijodijo1 checks
+MezcalMule bets $0.14
+Dijodijo1 folds
+Uncalled bet ($0.14) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.19
+Board [6h Ts Ac 4h 7c]
+Seat 1: DogSchool folded on the Pre-Flop and did not bet
+Seat 2: Paisting (button) folded on the Pre-Flop
+Seat 3: Ronnieaakk (small blind) folded on the Pre-Flop
+Seat 4: Dijodijo1 (big blind) folded on the River
+Seat 5: gimmierake folded on the Pre-Flop and did not bet
+Seat 6: MezcalMule did not show and won $0.19
+
+Hand #1000628019 - Holdem(No Limit) - $0.01/$0.02 - 2021/11/02 23:19:55 UTC
+Wilton Manors 6-max Seat #3 is the button
+Seat 1: DogSchool ($2.70)
+Seat 2: Paisting ($5.65)
+Seat 3: Ronnieaakk ($0.77)
+Seat 4: Dijodijo1 ($2.29)
+Seat 5: gimmierake ($2.01)
+Seat 6: MezcalMule ($2.16)
+Dijodijo1 posts the small blind $0.01
+gimmierake posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [8c 2s]
+MezcalMule folds
+DogSchool folds
+Paisting folds
+Ronnieaakk raises $0.05 to $0.05
+Dijodijo1 calls $0.04
+gimmierake calls $0.03
+*** FLOP *** [Ad 8d 5h]
+Main pot $0.15 | Rake $0.00
+Dijodijo1 bets $0.04
+gimmierake folds
+Ronnieaakk folds
+Uncalled bet ($0.04) returned to Dijodijo1
+Dijodijo1 does not show
+*** SUMMARY ***
+Total pot $0.15
+Board [Ad 8d 5h]
+Seat 1: DogSchool folded on the Pre-Flop and did not bet
+Seat 2: Paisting folded on the Pre-Flop and did not bet
+Seat 3: Ronnieaakk (button) folded on the Flop
+Seat 4: Dijodijo1 did not show and won $0.15
+Seat 5: gimmierake (big blind) folded on the Flop
+Seat 6: MezcalMule folded on the Pre-Flop and did not bet
+
+Hand #1000628791 - Holdem(No Limit) - $0.01/$0.02 - 2021/11/02 23:20:31 UTC
+Wilton Manors 6-max Seat #4 is the button
+Seat 1: DogSchool ($2.70)
+Seat 2: Paisting ($5.65)
+Seat 3: Ronnieaakk ($0.72)
+Seat 4: Dijodijo1 ($2.39)
+Seat 5: gimmierake ($1.96)
+Seat 6: MezcalMule ($2.16)
+gimmierake posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [2h As]
+DogSchool folds
+Paisting folds
+Ronnieaakk raises $0.04 to $0.04
+Dijodijo1 folds
+gimmierake folds
+MezcalMule calls $0.02
+*** FLOP *** [6h 5h 3d]
+Main pot $0.09 | Rake $0.00
+MezcalMule checks
+Ronnieaakk bets $0.02
+MezcalMule calls $0.02
+*** TURN *** [6h 5h 3d] [8c]
+Main pot $0.13 | Rake $0.00
+MezcalMule checks
+Ronnieaakk checks
+*** RIVER *** [6h 5h 3d 8c] [7s]
+Main pot $0.13 | Rake $0.00
+MezcalMule bets $0.09
+Ronnieaakk calls $0.09
+*** SHOW DOWN ***
+Main pot $0.30 | Rake $0.01
+Ronnieaakk shows [Ad 5c] (a pair of Fives [5h 5c Ad 8c 7s])
+MezcalMule shows [2h As] (a high card, Ace high [As 8c 7s 6h 5h])
+Ronnieaakk collected $0.30 from main pot
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01
+Board [6h 5h 3d 8c 7s]
+Seat 1: DogSchool folded on the Pre-Flop and did not bet
+Seat 2: Paisting folded on the Pre-Flop and did not bet
+Seat 3: Ronnieaakk showed [Ad 5c] and won $0.30 with a pair of Fives [5h 5c Ad 8c 7s]
+Seat 4: Dijodijo1 (button) folded on the Pre-Flop
+Seat 5: gimmierake (small blind) folded on the Pre-Flop
+Seat 6: MezcalMule (big blind) showed [2h As] and lost with a high card, Ace high [As 8c 7s 6h 5h]
+
+Hand #1000629945 - Holdem(No Limit) - $0.01/$0.02 - 2021/11/02 23:21:25 UTC
+Wilton Manors 6-max Seat #5 is the button
+Seat 1: osjaguar1 ($2.00)
+Seat 2: Paisting ($5.65)
+Seat 3: Ronnieaakk ($0.87)
+Seat 4: Dijodijo1 ($2.39)
+Seat 5: gimmierake ($2.00)
+Seat 6: MezcalMule ($2.01)
+MezcalMule posts the small blind $0.01
+osjaguar1 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [8s Ac]
+Paisting folds
+Ronnieaakk folds
+Dijodijo1 folds
+gimmierake folds
+MezcalMule raises $0.03 to $0.04
+osjaguar1 folds
+Uncalled bet ($0.02) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.04
+Seat 1: osjaguar1 (big blind) folded on the Pre-Flop
+Seat 2: Paisting folded on the Pre-Flop and did not bet
+Seat 3: Ronnieaakk folded on the Pre-Flop and did not bet
+Seat 4: Dijodijo1 folded on the Pre-Flop and did not bet
+Seat 5: gimmierake (button) folded on the Pre-Flop
+Seat 6: MezcalMule did not show and won $0.04
+
+Hand #1000630344 - Holdem(No Limit) - $0.01/$0.02 - 2021/11/02 23:21:43 UTC
+Wilton Manors 6-max Seat #6 is the button
+Seat 1: osjaguar1 ($2.00)
+Seat 2: Paisting ($5.65)
+Seat 3: Ronnieaakk ($0.87)
+Seat 4: Dijodijo1 ($2.39)
+Seat 5: gimmierake ($2.00)
+Seat 6: MezcalMule ($2.03)
+osjaguar1 posts the small blind $0.01
+Paisting posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Qh 8d]
+Ronnieaakk folds
+Dijodijo1 folds
+gimmierake folds
+MezcalMule folds
+osjaguar1 folds
+Paisting does not show
+*** SUMMARY ***
+Total pot $0.03
+Seat 1: osjaguar1 (small blind) folded on the Pre-Flop
+Seat 2: Paisting did not show and won $0.03
+Seat 3: Ronnieaakk folded on the Pre-Flop and did not bet
+Seat 4: Dijodijo1 folded on the Pre-Flop and did not bet
+Seat 5: gimmierake folded on the Pre-Flop and did not bet
+Seat 6: MezcalMule (button) folded on the Pre-Flop
+
+Hand #1000630825 - Holdem(No Limit) - $0.01/$0.02 - 2021/11/02 23:22:05 UTC
+Wilton Manors 6-max Seat #1 is the button
+Seat 1: osjaguar1 ($2.00)
+Seat 2: Paisting ($5.66)
+Seat 3: Ronnieaakk ($0.87)
+Seat 4: Dijodijo1 ($2.39)
+Seat 5: gimmierake ($2.00)
+Seat 6: MezcalMule ($2.03)
+Paisting posts the small blind $0.01
+Ronnieaakk posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [5c 4d]
+Dijodijo1 folds
+gimmierake folds
+MezcalMule folds
+osjaguar1 folds
+Paisting raises $0.07 to $0.08
+Ronnieaakk folds
+Uncalled bet ($0.06) returned to Paisting
+Paisting does not show
+*** SUMMARY ***
+Total pot $0.04
+Seat 1: osjaguar1 (button) folded on the Pre-Flop
+Seat 2: Paisting did not show and won $0.04
+Seat 3: Ronnieaakk (big blind) folded on the Pre-Flop
+Seat 4: Dijodijo1 folded on the Pre-Flop and did not bet
+Seat 5: gimmierake folded on the Pre-Flop and did not bet
+Seat 6: MezcalMule folded on the Pre-Flop and did not bet
+
+Hand #1000631629 - Holdem(No Limit) - $0.01/$0.02 - 2021/11/02 23:22:41 UTC
+Wilton Manors 6-max Seat #2 is the button
+Seat 1: osjaguar1 ($2.00)
+Seat 2: Paisting ($5.68)
+Seat 3: Ronnieaakk ($0.85)
+Seat 4: Dijodijo1 ($2.39)
+Seat 5: gimmierake ($2.00)
+Seat 6: MezcalMule ($2.03)
+Ronnieaakk posts the small blind $0.01
+Dijodijo1 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [7h Kd]
+gimmierake folds
+MezcalMule folds
+osjaguar1 folds
+Paisting folds
+Ronnieaakk raises $0.04 to $0.05
+Dijodijo1 raises $2.37 to $2.39 and is all-in
+Ronnieaakk folds
+Uncalled bet ($2.34) returned to Dijodijo1
+Dijodijo1 does not show
+*** SUMMARY ***
+Total pot $0.10
+Seat 1: osjaguar1 folded on the Pre-Flop and did not bet
+Seat 2: Paisting (button) folded on the Pre-Flop
+Seat 3: Ronnieaakk (small blind) folded on the Pre-Flop
+Seat 4: Dijodijo1 did not show and won $0.10
+Seat 5: gimmierake folded on the Pre-Flop and did not bet
+Seat 6: MezcalMule folded on the Pre-Flop and did not bet
+
+Hand #1000632533 - Holdem(No Limit) - $0.01/$0.02 - 2021/11/02 23:23:24 UTC
+Wilton Manors 6-max Seat #3 is the button
+Seat 1: osjaguar1 ($2.00)
+Seat 2: Paisting ($5.68)
+Seat 3: Ronnieaakk ($0.80)
+Seat 4: Dijodijo1 ($2.44)
+Seat 5: gimmierake ($2.00)
+Seat 6: MezcalMule ($2.03)
+Dijodijo1 posts the small blind $0.01
+gimmierake posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Qd Js]
+MezcalMule raises $0.04 to $0.04
+osjaguar1 folds
+Paisting folds
+Ronnieaakk folds
+Dijodijo1 folds
+gimmierake folds
+Uncalled bet ($0.02) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: osjaguar1 folded on the Pre-Flop and did not bet
+Seat 2: Paisting folded on the Pre-Flop and did not bet
+Seat 3: Ronnieaakk (button) folded on the Pre-Flop
+Seat 4: Dijodijo1 (small blind) folded on the Pre-Flop
+Seat 5: gimmierake (big blind) folded on the Pre-Flop
+Seat 6: MezcalMule did not show and won $0.05
+
+Hand #1000633104 - Holdem(No Limit) - $0.01/$0.02 - 2021/11/02 23:23:52 UTC
+Wilton Manors 6-max Seat #4 is the button
+Seat 1: osjaguar1 ($2.00)
+Seat 2: Paisting ($5.68)
+Seat 3: Ronnieaakk ($0.80)
+Seat 4: Dijodijo1 ($2.43)
+Seat 5: gimmierake ($1.98)
+Seat 6: MezcalMule ($2.06)
+gimmierake posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [8s 3c]
+osjaguar1 raises $0.08 to $0.08
+Paisting calls $0.08
+Ronnieaakk folds
+Dijodijo1 folds
+gimmierake folds
+MezcalMule folds
+*** FLOP *** [Ah 9d 5d]
+Main pot $0.19 | Rake $0.00
+osjaguar1 bets $0.14
+Paisting calls $0.14
+*** TURN *** [Ah 9d 5d] [Td]
+Main pot $0.45 | Rake $0.02
+osjaguar1 checks
+Paisting bets $0.35
+osjaguar1 calls $0.35
+*** RIVER *** [Ah 9d 5d Td] [As]
+Main pot $1.12 | Rake $0.05
+osjaguar1 checks
+Paisting checks
+*** SHOW DOWN ***
+Main pot $1.12 | Rake $0.05
+osjaguar1 shows [Qh Ad] (three of a kind, Set of Aces [As Ah Ad Qh Td])
+Paisting shows [Jd Jh] (two pair, Aces and Jacks [As Ah Jh Jd Td])
+osjaguar1 collected $1.12 from main pot
+*** SUMMARY ***
+Total pot $1.12 | Rake $0.05
+Board [Ah 9d 5d Td As]
+Seat 1: osjaguar1 showed [Qh Ad] and won $1.12 with three of a kind, Set of Aces [As Ah Ad Qh Td]
+Seat 2: Paisting showed [Jd Jh] and lost with two pair, Aces and Jacks [As Ah Jh Jd Td]
+Seat 3: Ronnieaakk folded on the Pre-Flop and did not bet
+Seat 4: Dijodijo1 (button) folded on the Pre-Flop
+Seat 5: gimmierake (small blind) folded on the Pre-Flop
+Seat 6: MezcalMule (big blind) folded on the Pre-Flop
+
+Hand #1000634484 - Holdem(No Limit) - $0.01/$0.02 - 2021/11/02 23:24:55 UTC
+Wilton Manors 6-max Seat #5 is the button
+Seat 1: osjaguar1 ($2.55)
+Seat 2: Paisting ($5.11)
+Seat 3: Ronnieaakk ($0.80)
+Seat 4: Dijodijo1 ($2.43)
+Seat 5: gimmierake ($1.97)
+Seat 6: MezcalMule ($2.04)
+MezcalMule posts the small blind $0.01
+osjaguar1 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Td 7h]
+Paisting folds
+Ronnieaakk folds
+Dijodijo1 raises $0.06 to $0.06
+gimmierake folds
+MezcalMule folds
+osjaguar1 folds
+Uncalled bet ($0.04) returned to Dijodijo1
+Dijodijo1 does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: osjaguar1 (big blind) folded on the Pre-Flop
+Seat 2: Paisting folded on the Pre-Flop and did not bet
+Seat 3: Ronnieaakk folded on the Pre-Flop and did not bet
+Seat 4: Dijodijo1 did not show and won $0.05
+Seat 5: gimmierake (button) folded on the Pre-Flop
+Seat 6: MezcalMule (small blind) folded on the Pre-Flop
+
+Hand #1000635447 - Holdem(No Limit) - $0.01/$0.02 - 2021/11/02 23:25:40 UTC
+Wilton Manors 6-max Seat #6 is the button
+Seat 1: osjaguar1 ($2.53)
+Seat 2: Paisting ($5.11)
+Seat 3: Ronnieaakk ($0.80)
+Seat 4: Dijodijo1 ($2.46)
+Seat 5: gimmierake ($1.97)
+Seat 6: MezcalMule ($2.03)
+osjaguar1 posts the small blind $0.01
+Paisting posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Qs 2s]
+Ronnieaakk folds
+Dijodijo1 folds
+gimmierake folds
+MezcalMule raises $0.05 to $0.05
+osjaguar1 folds
+Paisting calls $0.03
+*** FLOP *** [Th Js 5s]
+Main pot $0.11 | Rake $0.00
+Paisting checks
+MezcalMule bets $0.13
+Paisting calls $0.13
+*** TURN *** [Th Js 5s] [8h]
+Main pot $0.36 | Rake $0.01
+Paisting checks
+MezcalMule checks
+*** RIVER *** [Th Js 5s 8h] [8d]
+Main pot $0.36 | Rake $0.01
+Paisting checks
+MezcalMule bets $0.37
+Paisting calls $0.37
+*** SHOW DOWN ***
+Main pot $1.06 | Rake $0.05
+Paisting shows [7d Td] (two pair, Tens and Eights [Th Td 8h 8d Js])
+MezcalMule shows [Qs 2s] (a pair of Eights [8h 8d Qs Js Th])
+Paisting collected $1.06 from main pot
+*** SUMMARY ***
+Total pot $1.06 | Rake $0.05
+Board [Th Js 5s 8h 8d]
+Seat 1: osjaguar1 (small blind) folded on the Pre-Flop
+Seat 2: Paisting (big blind) showed [7d Td] and won $1.06 with two pair, Tens and Eights [Th Td 8h 8d Js]
+Seat 3: Ronnieaakk folded on the Pre-Flop and did not bet
+Seat 4: Dijodijo1 folded on the Pre-Flop and did not bet
+Seat 5: gimmierake folded on the Pre-Flop and did not bet
+Seat 6: MezcalMule (button) showed [Qs 2s] and lost with a pair of Eights [8h 8d Qs Js Th]
+
+Hand #1000636942 - Holdem(No Limit) - $0.01/$0.02 - 2021/11/02 23:26:50 UTC
+Wilton Manors 6-max Seat #1 is the button
+Seat 1: osjaguar1 ($2.52)
+Seat 2: Paisting ($5.62)
+Seat 3: Ronnieaakk ($0.80)
+Seat 4: Dijodijo1 ($2.46)
+Seat 5: gimmierake ($1.97)
+Seat 6: MezcalMule ($1.48)
+Paisting posts the small blind $0.01
+Ronnieaakk posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Ac 5c]
+Dijodijo1 folds
+gimmierake folds
+MezcalMule raises $0.07 to $0.07
+osjaguar1 folds
+Paisting folds
+Ronnieaakk calls $0.05
+*** FLOP *** [8h 3c Kh]
+Main pot $0.15 | Rake $0.00
+Ronnieaakk checks
+MezcalMule checks
+*** TURN *** [8h 3c Kh] [8c]
+Main pot $0.15 | Rake $0.00
+Ronnieaakk checks
+MezcalMule bets $0.11
+Ronnieaakk folds
+Uncalled bet ($0.11) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.15
+Board [8h 3c Kh 8c]
+Seat 1: osjaguar1 (button) folded on the Pre-Flop
+Seat 2: Paisting (small blind) folded on the Pre-Flop
+Seat 3: Ronnieaakk (big blind) folded on the Turn
+Seat 4: Dijodijo1 folded on the Pre-Flop and did not bet
+Seat 5: gimmierake folded on the Pre-Flop and did not bet
+Seat 6: MezcalMule did not show and won $0.15
+
+Hand #1000638022 - Holdem(No Limit) - $0.01/$0.02 - 2021/11/02 23:27:40 UTC
+Wilton Manors 6-max Seat #2 is the button
+Seat 1: osjaguar1 ($2.52)
+Seat 2: Paisting ($5.61)
+Seat 3: Ronnieaakk ($0.73)
+Seat 4: Dijodijo1 ($2.46)
+Seat 5: gimmierake ($2.00)
+Seat 6: MezcalMule ($1.56)
+Ronnieaakk posts the small blind $0.01
+Dijodijo1 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [7d 5h]
+gimmierake folds
+MezcalMule folds
+osjaguar1 raises $0.08 to $0.08
+Paisting folds
+Ronnieaakk calls $0.07
+Dijodijo1 folds
+*** FLOP *** [4h 2s 5d]
+Main pot $0.18 | Rake $0.00
+Ronnieaakk checks
+osjaguar1 checks
+*** TURN *** [4h 2s 5d] [9s]
+Main pot $0.18 | Rake $0.00
+Ronnieaakk checks
+osjaguar1 bets $0.13
+Ronnieaakk folds
+Uncalled bet ($0.13) returned to osjaguar1
+osjaguar1 does not show
+*** SUMMARY ***
+Total pot $0.18
+Board [4h 2s 5d 9s]
+Seat 1: osjaguar1 did not show and won $0.18
+Seat 2: Paisting (button) folded on the Pre-Flop
+Seat 3: Ronnieaakk (small blind) folded on the Turn
+Seat 4: Dijodijo1 (big blind) folded on the Pre-Flop
+Seat 5: gimmierake folded on the Pre-Flop and did not bet
+Seat 6: MezcalMule folded on the Pre-Flop and did not bet
+
+Hand #1000639613 - Holdem(No Limit) - $0.01/$0.02 - 2021/11/02 23:28:51 UTC
+Wilton Manors 6-max Seat #3 is the button
+Seat 1: osjaguar1 ($2.62)
+Seat 2: Paisting ($5.61)
+Seat 3: Ronnieaakk ($0.65)
+Seat 4: Dijodijo1 ($2.44)
+Seat 5: gimmierake ($2.00)
+Seat 6: MezcalMule ($1.56)
+Dijodijo1 posts the small blind $0.01
+gimmierake posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Th Ad]
+MezcalMule raises $0.05 to $0.05
+osjaguar1 folds
+Paisting calls $0.05
+Ronnieaakk folds
+Dijodijo1 folds
+gimmierake folds
+*** FLOP *** [Jh 8c 9d]
+Main pot $0.13 | Rake $0.00
+MezcalMule checks
+Paisting checks
+*** TURN *** [Jh 8c 9d] [Ks]
+Main pot $0.13 | Rake $0.00
+MezcalMule checks
+Paisting checks
+*** RIVER *** [Jh 8c 9d Ks] [Qs]
+Main pot $0.13 | Rake $0.00
+MezcalMule checks
+Paisting checks
+*** SHOW DOWN ***
+Main pot $0.13 | Rake $0.00
+Paisting shows [6s 5s] (a high card, King high [Ks Qs Jh 9d 8c])
+MezcalMule shows [Th Ad] (a straight, Ace high [Ad Ks Qs Jh Th])
+MezcalMule collected $0.13 from main pot
+*** SUMMARY ***
+Total pot $0.13
+Board [Jh 8c 9d Ks Qs]
+Seat 1: osjaguar1 folded on the Pre-Flop and did not bet
+Seat 2: Paisting showed [6s 5s] and lost with a high card, King high [Ks Qs Jh 9d 8c]
+Seat 3: Ronnieaakk (button) folded on the Pre-Flop
+Seat 4: Dijodijo1 (small blind) folded on the Pre-Flop
+Seat 5: gimmierake (big blind) folded on the Pre-Flop
+Seat 6: MezcalMule showed [Th Ad] and won $0.13 with a straight, Ace high [Ad Ks Qs Jh Th]
+
+Hand #1000641546 - Holdem(No Limit) - $0.01/$0.02 - 2021/11/02 23:30:19 UTC
+Wilton Manors 6-max Seat #4 is the button
+Seat 1: osjaguar1 ($2.62)
+Seat 2: Paisting ($5.56)
+Seat 3: Ronnieaakk ($0.65)
+Seat 4: Dijodijo1 ($2.43)
+Seat 5: gimmierake ($1.98)
+Seat 6: MezcalMule ($1.64)
+gimmierake posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [7d Jh]
+osjaguar1 raises $0.08 to $0.08
+Paisting folds
+Ronnieaakk folds
+Dijodijo1 folds
+gimmierake folds
+MezcalMule folds
+Uncalled bet ($0.06) returned to osjaguar1
+osjaguar1 does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: osjaguar1 did not show and won $0.05
+Seat 2: Paisting folded on the Pre-Flop and did not bet
+Seat 3: Ronnieaakk folded on the Pre-Flop and did not bet
+Seat 4: Dijodijo1 (button) folded on the Pre-Flop
+Seat 5: gimmierake (small blind) folded on the Pre-Flop
+Seat 6: MezcalMule (big blind) folded on the Pre-Flop
+
+Hand #1000642207 - Holdem(No Limit) - $0.01/$0.02 - 2021/11/02 23:30:49 UTC
+Wilton Manors 6-max Seat #5 is the button
+Seat 1: osjaguar1 ($2.65)
+Seat 2: Paisting ($5.56)
+Seat 3: Ronnieaakk ($0.65)
+Seat 4: Dijodijo1 ($2.43)
+Seat 5: gimmierake ($1.97)
+Seat 6: MezcalMule ($1.62)
+MezcalMule posts the small blind $0.01
+osjaguar1 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [8h 4h]
+Paisting folds
+Ronnieaakk raises $0.04 to $0.04
+Dijodijo1 folds
+gimmierake folds
+MezcalMule folds
+osjaguar1 calls $0.02
+*** FLOP *** [3c Ad Js]
+Main pot $0.09 | Rake $0.00
+osjaguar1 checks
+Ronnieaakk bets $0.02
+osjaguar1 folds
+Uncalled bet ($0.02) returned to Ronnieaakk
+Ronnieaakk does not show
+*** SUMMARY ***
+Total pot $0.09
+Board [3c Ad Js]
+Seat 1: osjaguar1 (big blind) folded on the Flop
+Seat 2: Paisting folded on the Pre-Flop and did not bet
+Seat 3: Ronnieaakk did not show and won $0.09
+Seat 4: Dijodijo1 folded on the Pre-Flop and did not bet
+Seat 5: gimmierake (button) folded on the Pre-Flop
+Seat 6: MezcalMule (small blind) folded on the Pre-Flop
+
+Hand #1000642933 - Holdem(No Limit) - $0.01/$0.02 - 2021/11/02 23:31:22 UTC
+Wilton Manors 6-max Seat #6 is the button
+Seat 1: osjaguar1 ($2.61)
+Seat 2: Paisting ($5.56)
+Seat 3: Ronnieaakk ($0.70)
+Seat 4: Dijodijo1 ($2.43)
+Seat 5: gimmierake ($1.97)
+Seat 6: MezcalMule ($1.61)
+osjaguar1 posts the small blind $0.01
+Paisting posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Jh 6s]
+Ronnieaakk folds
+Dijodijo1 folds
+gimmierake folds
+MezcalMule folds
+osjaguar1 raises $0.13 to $0.14
+Paisting folds
+Uncalled bet ($0.12) returned to osjaguar1
+osjaguar1 does not show
+*** SUMMARY ***
+Total pot $0.04
+Seat 1: osjaguar1 did not show and won $0.04
+Seat 2: Paisting (big blind) folded on the Pre-Flop
+Seat 3: Ronnieaakk folded on the Pre-Flop and did not bet
+Seat 4: Dijodijo1 folded on the Pre-Flop and did not bet
+Seat 5: gimmierake folded on the Pre-Flop and did not bet
+Seat 6: MezcalMule (button) folded on the Pre-Flop
+
+Hand #1000643655 - Holdem(No Limit) - $0.01/$0.02 - 2021/11/02 23:31:56 UTC
+Wilton Manors 6-max Seat #1 is the button
+Seat 1: osjaguar1 ($2.63)
+Seat 2: Paisting ($5.54)
+Seat 4: Dijodijo1 ($2.43)
+Seat 5: gimmierake ($1.97)
+Seat 6: MezcalMule ($1.61)
+Paisting posts the small blind $0.01
+Dijodijo1 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [9h 4d]
+gimmierake folds
+MezcalMule folds
+osjaguar1 folds
+Paisting raises $0.07 to $0.08
+Dijodijo1 raises $2.41 to $2.43 and is all-in
+Paisting folds
+Uncalled bet ($2.35) returned to Dijodijo1
+Dijodijo1 does not show
+*** SUMMARY ***
+Total pot $0.16
+Seat 1: osjaguar1 (button) folded on the Pre-Flop
+Seat 2: Paisting (small blind) folded on the Pre-Flop
+Seat 4: Dijodijo1 did not show and won $0.16
+Seat 5: gimmierake folded on the Pre-Flop and did not bet
+Seat 6: MezcalMule folded on the Pre-Flop and did not bet
+
+Hand #1000644406 - Holdem(No Limit) - $0.01/$0.02 - 2021/11/02 23:32:31 UTC
+Wilton Manors 6-max Seat #2 is the button
+Seat 1: osjaguar1 ($2.63)
+Seat 2: Paisting ($5.46)
+Seat 3: lockjaw57 will be allowed to play after the button
+Seat 4: Dijodijo1 ($2.51)
+Seat 5: gimmierake ($1.97)
+Seat 6: MezcalMule ($1.61)
+Dijodijo1 posts the small blind $0.01
+gimmierake posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [4h 4s]
+MezcalMule raises $0.05 to $0.05
+osjaguar1 calls $0.05
+Paisting folds
+Dijodijo1 folds
+gimmierake calls $0.03
+*** FLOP *** [7d Kh 8c]
+Main pot $0.16 | Rake $0.00
+gimmierake checks
+MezcalMule bets $0.06
+osjaguar1 folds
+gimmierake folds
+Uncalled bet ($0.06) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.16
+Board [7d Kh 8c]
+Seat 1: osjaguar1 folded on the Flop
+Seat 2: Paisting (button) folded on the Pre-Flop
+Seat 4: Dijodijo1 (small blind) folded on the Pre-Flop
+Seat 5: gimmierake (big blind) folded on the Flop
+Seat 6: MezcalMule did not show and won $0.16
+
+Hand #1000645667 - Holdem(No Limit) - $0.01/$0.02 - 2021/11/02 23:33:30 UTC
+Wilton Manors 6-max Seat #4 is the button
+Seat 1: osjaguar1 ($2.58)
+Seat 2: Paisting ($5.46)
+Seat 3: lockjaw57 ($2.00)
+Seat 4: Dijodijo1 ($2.50)
+Seat 5: gimmierake ($1.92)
+Seat 6: MezcalMule ($1.72)
+gimmierake posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+lockjaw57 waits for big blind
+*** HOLE CARDS ***
+Dealt to MezcalMule [Ks Qs]
+osjaguar1 folds
+Paisting folds
+Dijodijo1 folds
+gimmierake calls $0.01
+MezcalMule raises $0.03 to $0.05
+gimmierake calls $0.03
+*** FLOP *** [Qd 7c 4h]
+Main pot $0.10 | Rake $0.00
+gimmierake checks
+MezcalMule checks
+*** TURN *** [Qd 7c 4h] [4c]
+Main pot $0.10 | Rake $0.00
+gimmierake checks
+MezcalMule bets $0.04
+gimmierake folds
+Uncalled bet ($0.04) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.10
+Board [Qd 7c 4h 4c]
+Seat 1: osjaguar1 folded on the Pre-Flop and did not bet
+Seat 2: Paisting folded on the Pre-Flop and did not bet
+Seat 4: Dijodijo1 (button) folded on the Pre-Flop
+Seat 5: gimmierake (small blind) folded on the Turn
+Seat 6: MezcalMule did not show and won $0.10
+
+Hand #1000647111 - Holdem(No Limit) - $0.01/$0.02 - 2021/11/02 23:34:34 UTC
+Wilton Manors 6-max Seat #5 is the button
+Seat 1: osjaguar1 ($2.58)
+Seat 2: Paisting ($5.46)
+Seat 3: lockjaw57 ($2.00)
+Seat 4: Dijodijo1 ($2.50)
+Seat 5: gimmierake ($1.87)
+Seat 6: MezcalMule ($1.77)
+MezcalMule posts the small blind $0.01
+osjaguar1 posts the big blind $0.02
+lockjaw57 waits for big blind
+*** HOLE CARDS ***
+Dealt to MezcalMule [9s 3d]
+Paisting folds
+Dijodijo1 folds
+gimmierake folds
+MezcalMule folds
+osjaguar1 does not show
+*** SUMMARY ***
+Total pot $0.03
+Seat 1: osjaguar1 did not show and won $0.03
+Seat 2: Paisting folded on the Pre-Flop and did not bet
+Seat 4: Dijodijo1 folded on the Pre-Flop and did not bet
+Seat 5: gimmierake (button) folded on the Pre-Flop
+Seat 6: MezcalMule (small blind) folded on the Pre-Flop
+
+Hand #1000647742 - Holdem(No Limit) - $0.01/$0.02 - 2021/11/02 23:35:02 UTC
+Wilton Manors 6-max Seat #6 is the button
+Seat 1: osjaguar1 ($2.59)
+Seat 2: Paisting ($5.46)
+Seat 3: lockjaw57 ($2.00)
+Seat 4: Dijodijo1 ($2.50)
+Seat 5: gimmierake ($2.00)
+Seat 6: MezcalMule ($1.76)
+osjaguar1 posts the small blind $0.01
+Paisting posts the big blind $0.02
+lockjaw57 waits for big blind
+*** HOLE CARDS ***
+Dealt to MezcalMule [Th 2s]
+Dijodijo1 folds
+gimmierake folds
+MezcalMule folds
+osjaguar1 raises $0.05 to $0.06
+Paisting calls $0.04
+*** FLOP *** [Jh 5d 7h]
+Main pot $0.12 | Rake $0.00
+osjaguar1 bets $0.04
+Paisting calls $0.04
+*** TURN *** [Jh 5d 7h] [2c]
+Main pot $0.19 | Rake $0.01
+osjaguar1 checks
+Paisting bets $0.15
+osjaguar1 folds
+Uncalled bet ($0.15) returned to Paisting
+Paisting does not show
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01
+Board [Jh 5d 7h 2c]
+Seat 1: osjaguar1 (small blind) folded on the Turn
+Seat 2: Paisting did not show and won $0.19
+Seat 4: Dijodijo1 folded on the Pre-Flop and did not bet
+Seat 5: gimmierake folded on the Pre-Flop and did not bet
+Seat 6: MezcalMule (button) folded on the Pre-Flop
+
+Hand #1000649501 - Holdem(No Limit) - $0.01/$0.02 - 2021/11/02 23:36:24 UTC
+Wilton Manors 6-max Seat #1 is the button
+Seat 1: osjaguar1 ($2.49)
+Seat 2: Paisting ($5.55)
+Seat 3: lockjaw57 ($2.00)
+Seat 4: Dijodijo1 ($2.50)
+Seat 5: gimmierake ($2.00)
+Seat 6: MezcalMule ($1.76)
+Paisting posts the small blind $0.01
+lockjaw57 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [2c 7d]
+Dijodijo1 folds
+gimmierake folds
+MezcalMule folds
+osjaguar1 raises $0.07 to $0.07
+Paisting folds
+lockjaw57 folds
+Uncalled bet ($0.05) returned to osjaguar1
+osjaguar1 does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: osjaguar1 did not show and won $0.05
+Seat 2: Paisting (small blind) folded on the Pre-Flop
+Seat 3: lockjaw57 (big blind) folded on the Pre-Flop
+Seat 4: Dijodijo1 folded on the Pre-Flop and did not bet
+Seat 5: gimmierake folded on the Pre-Flop and did not bet
+Seat 6: MezcalMule folded on the Pre-Flop and did not bet
+
+Hand #1000650419 - Holdem(No Limit) - $0.01/$0.02 - 2021/11/02 23:37:06 UTC
+Wilton Manors 6-max Seat #2 is the button
+Seat 1: osjaguar1 ($2.52)
+Seat 2: Paisting ($5.54)
+Seat 3: lockjaw57 ($2.00)
+Seat 4: Dijodijo1 ($2.50)
+Seat 5: gimmierake ($2.00)
+Seat 6: MezcalMule ($1.76)
+lockjaw57 posts the small blind $0.01
+Dijodijo1 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [5c Kh]
+gimmierake folds
+MezcalMule folds
+osjaguar1 folds
+Paisting raises $0.08 to $0.08
+lockjaw57 raises $0.30 to $0.31
+Dijodijo1 folds
+Paisting folds
+Uncalled bet ($0.23) returned to lockjaw57
+lockjaw57 does not show
+*** SUMMARY ***
+Total pot $0.18
+Seat 1: osjaguar1 folded on the Pre-Flop and did not bet
+Seat 2: Paisting (button) folded on the Pre-Flop
+Seat 3: lockjaw57 did not show and won $0.18
+Seat 4: Dijodijo1 (big blind) folded on the Pre-Flop
+Seat 5: gimmierake folded on the Pre-Flop and did not bet
+Seat 6: MezcalMule folded on the Pre-Flop and did not bet
+
+Hand #1000651366 - Holdem(No Limit) - $0.01/$0.02 - 2021/11/02 23:37:50 UTC
+Wilton Manors 6-max Seat #3 is the button
+Seat 1: osjaguar1 ($2.52)
+Seat 2: Paisting ($5.46)
+Seat 3: lockjaw57 ($2.10)
+Seat 4: Dijodijo1 ($2.48)
+Seat 5: gimmierake ($2.00)
+Seat 6: MezcalMule ($1.76)
+Dijodijo1 posts the small blind $0.01
+gimmierake posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Qd Ac]
+MezcalMule raises $0.05 to $0.05
+osjaguar1 folds
+Paisting calls $0.05
+lockjaw57 folds
+Dijodijo1 folds
+gimmierake folds
+*** FLOP *** [Jc 7d 6s]
+Main pot $0.13 | Rake $0.00
+MezcalMule bets $0.06
+Paisting raises $0.24 to $0.24
+MezcalMule folds
+Uncalled bet ($0.18) returned to Paisting
+Paisting does not show
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01
+Board [Jc 7d 6s]
+Seat 1: osjaguar1 folded on the Pre-Flop and did not bet
+Seat 2: Paisting did not show and won $0.24
+Seat 3: lockjaw57 (button) folded on the Pre-Flop
+Seat 4: Dijodijo1 (small blind) folded on the Pre-Flop
+Seat 5: gimmierake (big blind) folded on the Pre-Flop
+Seat 6: MezcalMule folded on the Flop
+
+Hand #1000652729 - Holdem(No Limit) - $0.01/$0.02 - 2021/11/02 23:38:53 UTC
+Wilton Manors 6-max Seat #4 is the button
+Seat 1: osjaguar1 ($2.52)
+Seat 2: Paisting ($5.59)
+Seat 3: lockjaw57 ($2.10)
+Seat 4: Dijodijo1 ($2.47)
+Seat 5: gimmierake ($1.98)
+Seat 6: MezcalMule ($1.65)
+gimmierake posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [2d 4s]
+osjaguar1 folds
+Paisting raises $0.08 to $0.08
+lockjaw57 folds
+Dijodijo1 folds
+gimmierake folds
+MezcalMule folds
+Uncalled bet ($0.06) returned to Paisting
+Paisting does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: osjaguar1 folded on the Pre-Flop and did not bet
+Seat 2: Paisting did not show and won $0.05
+Seat 3: lockjaw57 folded on the Pre-Flop and did not bet
+Seat 4: Dijodijo1 (button) folded on the Pre-Flop
+Seat 5: gimmierake (small blind) folded on the Pre-Flop
+Seat 6: MezcalMule (big blind) folded on the Pre-Flop
+
+Hand #1000654130 - Holdem(No Limit) - $0.01/$0.02 - 2021/11/02 23:39:58 UTC
+Wilton Manors 6-max Seat #5 is the button
+Seat 1: osjaguar1 ($2.52)
+Seat 2: Paisting ($5.62)
+Seat 3: lockjaw57 ($2.10)
+Seat 4: Dijodijo1 ($2.47)
+Seat 5: gimmierake ($2.00)
+Seat 6: MezcalMule ($1.63)
+MezcalMule posts the small blind $0.01
+osjaguar1 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [4c 7d]
+Paisting folds
+lockjaw57 folds
+Dijodijo1 folds
+gimmierake raises $0.06 to $0.06
+MezcalMule folds
+osjaguar1 calls $0.04
+*** FLOP *** [2h 2s 4s]
+Main pot $0.13 | Rake $0.00
+osjaguar1 checks
+gimmierake checks
+*** TURN *** [2h 2s 4s] [5c]
+Main pot $0.13 | Rake $0.00
+osjaguar1 bets $0.09
+gimmierake calls $0.09
+*** RIVER *** [2h 2s 4s 5c] [Qd]
+Main pot $0.30 | Rake $0.01
+osjaguar1 checks
+gimmierake bets $0.20
+osjaguar1 folds
+Uncalled bet ($0.20) returned to gimmierake
+gimmierake does not show
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01
+Board [2h 2s 4s 5c Qd]
+Seat 1: osjaguar1 (big blind) folded on the River
+Seat 2: Paisting folded on the Pre-Flop and did not bet
+Seat 3: lockjaw57 folded on the Pre-Flop and did not bet
+Seat 4: Dijodijo1 folded on the Pre-Flop and did not bet
+Seat 5: gimmierake did not show and won $0.30
+Seat 6: MezcalMule (small blind) folded on the Pre-Flop
+
+Hand #1000656829 - Holdem(No Limit) - $0.01/$0.02 - 2021/11/02 23:42:01 UTC
+Wilton Manors 6-max Seat #6 is the button
+Seat 1: osjaguar1 ($2.37)
+Seat 2: Paisting ($5.62)
+Seat 3: lockjaw57 ($2.10)
+Seat 4: Dijodijo1 ($2.47)
+Seat 5: gimmierake ($2.15)
+Seat 6: MezcalMule ($1.62)
+osjaguar1 posts the small blind $0.01
+Paisting posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [6c 7c]
+lockjaw57 raises $0.06 to $0.06
+Dijodijo1 folds
+gimmierake raises $2.15 to $2.15 and is all-in
+MezcalMule folds
+osjaguar1 folds
+Paisting folds
+lockjaw57 folds
+Uncalled bet ($2.09) returned to gimmierake
+gimmierake does not show
+*** SUMMARY ***
+Total pot $0.15
+Seat 1: osjaguar1 (small blind) folded on the Pre-Flop
+Seat 2: Paisting (big blind) folded on the Pre-Flop
+Seat 3: lockjaw57 folded on the Pre-Flop and did not bet
+Seat 4: Dijodijo1 folded on the Pre-Flop and did not bet
+Seat 5: gimmierake did not show and won $0.15
+Seat 6: MezcalMule (button) folded on the Pre-Flop
+
+Hand #1000658019 - Holdem(No Limit) - $0.01/$0.02 - 2021/11/02 23:42:58 UTC
+Wilton Manors 6-max Seat #1 is the button
+Seat 1: osjaguar1 ($2.36)
+Seat 2: Paisting ($5.60)
+Seat 3: lockjaw57 ($2.04)
+Seat 4: Dijodijo1 ($2.47)
+Seat 5: gimmierake ($2.24)
+Seat 6: MezcalMule ($1.62)
+Paisting posts the small blind $0.01
+lockjaw57 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Qd Ac]
+Dijodijo1 folds
+gimmierake folds
+MezcalMule raises $0.05 to $0.05
+osjaguar1 folds
+Paisting folds
+lockjaw57 folds
+Uncalled bet ($0.03) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: osjaguar1 (button) folded on the Pre-Flop
+Seat 2: Paisting (small blind) folded on the Pre-Flop
+Seat 3: lockjaw57 (big blind) folded on the Pre-Flop
+Seat 4: Dijodijo1 folded on the Pre-Flop and did not bet
+Seat 5: gimmierake folded on the Pre-Flop and did not bet
+Seat 6: MezcalMule did not show and won $0.05
+
+Hand #1000659009 - Holdem(No Limit) - $0.01/$0.02 - 2021/11/02 23:43:45 UTC
+Wilton Manors 6-max Seat #2 is the button
+Seat 1: osjaguar1 ($2.36)
+Seat 2: Paisting ($5.59)
+Seat 3: lockjaw57 ($2.02)
+Seat 4: Dijodijo1 ($2.47)
+Seat 5: gimmierake ($2.24)
+Seat 6: MezcalMule ($1.65)
+lockjaw57 posts the small blind $0.01
+Dijodijo1 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Ad 4h]
+gimmierake calls $0.02
+MezcalMule raises $0.06 to $0.06
+osjaguar1 folds
+Paisting folds
+lockjaw57 folds
+Dijodijo1 folds
+gimmierake raises $0.22 to $0.24
+MezcalMule folds
+Uncalled bet ($0.18) returned to gimmierake
+gimmierake shows [Ac As]
+*** SUMMARY ***
+Total pot $0.15
+Seat 1: osjaguar1 folded on the Pre-Flop and did not bet
+Seat 2: Paisting (button) folded on the Pre-Flop
+Seat 3: lockjaw57 (small blind) folded on the Pre-Flop
+Seat 4: Dijodijo1 (big blind) folded on the Pre-Flop
+Seat 5: gimmierake showed [Ac As] and won $0.15
+Seat 6: MezcalMule folded on the Pre-Flop and did not bet
+
+Hand #1000660440 - Holdem(No Limit) - $0.01/$0.02 - 2021/11/02 23:44:56 UTC
+Wilton Manors 6-max Seat #3 is the button
+Seat 1: osjaguar1 ($2.36)
+Seat 2: Paisting ($5.59)
+Seat 3: lockjaw57 ($2.01)
+Seat 4: Dijodijo1 ($2.45)
+Seat 5: gimmierake ($2.33)
+Seat 6: MezcalMule ($1.59)
+Dijodijo1 posts the small blind $0.01
+gimmierake posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [9d 7h]
+MezcalMule folds
+osjaguar1 folds
+Paisting folds
+lockjaw57 raises $0.05 to $0.05
+Dijodijo1 calls $0.04
+gimmierake raises $0.18 to $0.20
+lockjaw57 calls $0.15
+Dijodijo1 folds
+*** FLOP *** [Ac 7c Jd]
+Main pot $0.43 | Rake $0.02
+gimmierake bets $0.22
+lockjaw57 folds
+Uncalled bet ($0.22) returned to gimmierake
+gimmierake shows [Kd Kh]
+*** SUMMARY ***
+Total pot $0.43 | Rake $0.02
+Board [Ac 7c Jd]
+Seat 1: osjaguar1 folded on the Pre-Flop and did not bet
+Seat 2: Paisting folded on the Pre-Flop and did not bet
+Seat 3: lockjaw57 (button) folded on the Flop
+Seat 4: Dijodijo1 (small blind) folded on the Pre-Flop
+Seat 5: gimmierake (big blind) showed [Kd Kh] and won $0.43
+Seat 6: MezcalMule folded on the Pre-Flop and did not bet
+
+Hand #1000661961 - Holdem(No Limit) - $0.01/$0.02 - 2021/11/02 23:46:06 UTC
+Wilton Manors 6-max Seat #4 is the button
+Seat 1: osjaguar1 ($2.36)
+Seat 2: Paisting ($5.59)
+Seat 3: lockjaw57 ($2.00)
+Seat 4: Dijodijo1 ($2.40)
+Seat 5: gimmierake ($2.56)
+Seat 6: MezcalMule ($1.59)
+gimmierake posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [8c 3s]
+osjaguar1 folds
+Paisting folds
+lockjaw57 folds
+Dijodijo1 folds
+gimmierake calls $0.01
+MezcalMule checks
+*** FLOP *** [3h 8s 8d]
+Main pot $0.04 | Rake $0.00
+gimmierake checks
+MezcalMule bets $0.03
+gimmierake folds
+Uncalled bet ($0.03) returned to MezcalMule
+MezcalMule shows [8c 3s]
+*** SUMMARY ***
+Total pot $0.04
+Board [3h 8s 8d]
+Seat 1: osjaguar1 folded on the Pre-Flop and did not bet
+Seat 2: Paisting folded on the Pre-Flop and did not bet
+Seat 3: lockjaw57 folded on the Pre-Flop and did not bet
+Seat 4: Dijodijo1 (button) folded on the Pre-Flop
+Seat 5: gimmierake (small blind) folded on the Flop
+Seat 6: MezcalMule (big blind) showed [8c 3s] and won $0.04
+
+Hand #1000663816 - Holdem(No Limit) - $0.01/$0.02 - 2021/11/02 23:47:33 UTC
+Wilton Manors 6-max Seat #5 is the button
+Seat 1: osjaguar1 ($2.36)
+Seat 2: Paisting ($5.59)
+Seat 3: lockjaw57 ($2.00)
+Seat 4: Dijodijo1 ($2.40)
+Seat 6: MezcalMule ($1.61)
+MezcalMule posts the small blind $0.01
+osjaguar1 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Th Ks]
+Paisting folds
+lockjaw57 raises $0.05 to $0.05
+Dijodijo1 calls $0.05
+MezcalMule calls $0.04
+osjaguar1 folds
+*** FLOP *** [7d 7s Tc]
+Main pot $0.17 | Rake $0.00
+MezcalMule checks
+lockjaw57 checks
+Dijodijo1 checks
+*** TURN *** [7d 7s Tc] [5c]
+Main pot $0.17 | Rake $0.00
+MezcalMule bets $0.03
+lockjaw57 folds
+Dijodijo1 calls $0.03
+*** RIVER *** [7d 7s Tc 5c] [2s]
+Main pot $0.22 | Rake $0.01
+MezcalMule checks
+Dijodijo1 checks
+*** SHOW DOWN ***
+Main pot $0.22 | Rake $0.01
+Dijodijo1 shows [Kc Jc] (a pair of Sevens [7s 7d Kc Jc Tc])
+MezcalMule shows [Th Ks] (two pair, Tens and Sevens [Th Tc 7s 7d Ks])
+MezcalMule collected $0.22 from main pot
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01
+Board [7d 7s Tc 5c 2s]
+Seat 1: osjaguar1 (big blind) folded on the Pre-Flop
+Seat 2: Paisting folded on the Pre-Flop and did not bet
+Seat 3: lockjaw57 folded on the Turn
+Seat 4: Dijodijo1 showed [Kc Jc] and lost with a pair of Sevens [7s 7d Kc Jc Tc]
+Seat 6: MezcalMule (small blind) showed [Th Ks] and won $0.22 with two pair, Tens and Sevens [Th Tc 7s 7d Ks]
+
+Hand #1000666192 - Holdem(No Limit) - $0.01/$0.02 - 2021/11/02 23:49:26 UTC
+Wilton Manors 6-max Seat #6 is the button
+Seat 1: osjaguar1 ($2.34)
+Seat 2: Paisting ($5.59)
+Seat 3: lockjaw57 ($2.00)
+Seat 4: Dijodijo1 ($2.32)
+Seat 6: MezcalMule ($1.75)
+osjaguar1 posts the small blind $0.01
+Paisting posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [8s 8d]
+lockjaw57 folds
+Dijodijo1 raises $0.06 to $0.06
+MezcalMule raises $0.11 to $0.11
+osjaguar1 folds
+Paisting folds
+Dijodijo1 raises $0.30 to $0.36
+MezcalMule raises $1.64 to $1.75 and is all-in
+Dijodijo1 calls $1.39
+*** FLOP *** [Kc Jh 5c]
+Main pot $3.36 | Rake $0.17
+*** TURN *** [Kc Jh 5c] [4h]
+Main pot $3.36 | Rake $0.17
+*** RIVER *** [Kc Jh 5c 4h] [3s]
+Main pot $3.36 | Rake $0.17
+*** SHOW DOWN ***
+Main pot $3.36 | Rake $0.17
+Dijodijo1 shows [Ad Ah] (a pair of Aces [Ah Ad Kc Jh 5c])
+MezcalMule shows [8s 8d] (a pair of Eights [8s 8d Kc Jh 5c])
+Dijodijo1 collected $3.36 from main pot
+*** SUMMARY ***
+Total pot $3.36 | Rake $0.13 | JP Fee $0.04
+Board [Kc Jh 5c 4h 3s]
+Seat 1: osjaguar1 (small blind) folded on the Pre-Flop
+Seat 2: Paisting (big blind) folded on the Pre-Flop
+Seat 3: lockjaw57 folded on the Pre-Flop and did not bet
+Seat 4: Dijodijo1 showed [Ad Ah] and won $3.36 with a pair of Aces [Ah Ad Kc Jh 5c]
+Seat 6: MezcalMule (button) showed [8s 8d] and lost with a pair of Eights [8s 8d Kc Jh 5c]
+

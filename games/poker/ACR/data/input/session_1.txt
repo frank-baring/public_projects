@@ -1,0 +1,1284 @@
+Hand #982039953 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/16 04:23:02 UTC
+Kersey 6-max Seat #2 is the button
+Seat 1: 3sC4NoRaISe ($1.65)
+Seat 2: NewPoQuer ($2.32)
+Seat 3: lap1as ($2.07)
+Seat 4: MezcalMule ($2.00)
+Seat 5: TXbriii ($0.75)
+Seat 6: facedaNcer ($0.68)
+lap1as posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Qc Ah]
+TXbriii folds
+facedaNcer calls $0.02
+3sC4NoRaISe folds
+NewPoQuer folds
+lap1as folds
+MezcalMule raises $0.02 to $0.04
+facedaNcer calls $0.02
+*** FLOP *** [Th 9c Ks]
+Main pot $0.09 | Rake $0.00
+MezcalMule checks
+facedaNcer checks
+*** TURN *** [Th 9c Ks] [6s]
+Main pot $0.09 | Rake $0.00
+MezcalMule bets $0.06
+facedaNcer calls $0.06
+*** RIVER *** [Th 9c Ks 6s] [9d]
+Main pot $0.20 | Rake $0.01
+MezcalMule checks
+facedaNcer checks
+*** SHOW DOWN ***
+Main pot $0.20 | Rake $0.01
+MezcalMule shows [Qc Ah] (a pair of Nines [9d 9c Ah Ks Qc])
+facedaNcer shows [2d 2s] (two pair, Nines and Deuces [9d 9c 2s 2d Ks])
+facedaNcer collected $0.20 from main pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01
+Board [Th 9c Ks 6s 9d]
+Seat 1: 3sC4NoRaISe folded on the Pre-Flop and did not bet
+Seat 2: NewPoQuer (button) folded on the Pre-Flop
+Seat 3: lap1as (small blind) folded on the Pre-Flop
+Seat 4: MezcalMule (big blind) showed [Qc Ah] and lost with a pair of Nines [9d 9c Ah Ks Qc]
+Seat 5: TXbriii folded on the Pre-Flop and did not bet
+Seat 6: facedaNcer showed [2d 2s] and won $0.20 with two pair, Nines and Deuces [9d 9c 2s 2d Ks]
+
+Hand #982041293 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/16 04:24:30 UTC
+Kersey 6-max Seat #3 is the button
+Seat 1: 3sC4NoRaISe ($1.65)
+Seat 2: NewPoQuer ($2.32)
+Seat 3: lap1as ($2.06)
+Seat 4: MezcalMule ($1.90)
+Seat 5: TXbriii ($0.75)
+Seat 6: facedaNcer ($0.78)
+MezcalMule posts the small blind $0.01
+TXbriii posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [7h 3h]
+facedaNcer folds
+3sC4NoRaISe folds
+NewPoQuer folds
+lap1as folds
+MezcalMule calls $0.01
+TXbriii checks
+*** FLOP *** [8c 4s 3s]
+Main pot $0.04 | Rake $0.00
+MezcalMule checks
+TXbriii checks
+*** TURN *** [8c 4s 3s] [9h]
+Main pot $0.04 | Rake $0.00
+MezcalMule bets $0.03
+TXbriii calls $0.03
+*** RIVER *** [8c 4s 3s 9h] [9c]
+Main pot $0.10 | Rake $0.00
+MezcalMule bets $0.10
+TXbriii calls $0.10
+*** SHOW DOWN ***
+Main pot $0.29 | Rake $0.01
+MezcalMule shows [7h 3h] (two pair, Nines and Threes [9h 9c 3s 3h 8c])
+TXbriii shows [Qs 4d] (two pair, Nines and Fours [9h 9c 4s 4d Qs])
+TXbriii collected $0.29 from main pot
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01
+Board [8c 4s 3s 9h 9c]
+Seat 1: 3sC4NoRaISe folded on the Pre-Flop and did not bet
+Seat 2: NewPoQuer folded on the Pre-Flop and did not bet
+Seat 3: lap1as (button) folded on the Pre-Flop
+Seat 4: MezcalMule (small blind) showed [7h 3h] and lost with two pair, Nines and Threes [9h 9c 3s 3h 8c]
+Seat 5: TXbriii (big blind) showed [Qs 4d] and won $0.29 with two pair, Nines and Fours [9h 9c 4s 4d Qs]
+Seat 6: facedaNcer folded on the Pre-Flop and did not bet
+
+Hand #982042200 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/16 04:25:27 UTC
+Kersey 6-max Seat #4 is the button
+Seat 1: 3sC4NoRaISe ($1.65)
+Seat 2: NewPoQuer ($2.32)
+Seat 3: lap1as ($2.06)
+Seat 4: MezcalMule ($1.75)
+Seat 5: TXbriii ($0.89)
+Seat 6: facedaNcer ($0.78)
+TXbriii posts the small blind $0.01
+facedaNcer posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [5s 9c]
+3sC4NoRaISe folds
+NewPoQuer folds
+lap1as folds
+MezcalMule folds
+TXbriii calls $0.01
+facedaNcer checks
+*** FLOP *** [8s 8h 8c]
+Main pot $0.04 | Rake $0.00
+TXbriii checks
+facedaNcer checks
+*** TURN *** [8s 8h 8c] [6d]
+Main pot $0.04 | Rake $0.00
+TXbriii checks
+facedaNcer checks
+*** RIVER *** [8s 8h 8c 6d] [5c]
+Main pot $0.04 | Rake $0.00
+TXbriii checks
+facedaNcer checks
+*** SHOW DOWN ***
+Main pot $0.04 | Rake $0.00
+TXbriii shows [2c 4s] (three of a kind, Set of Eights [8s 8h 8c 6d 5c])
+facedaNcer shows [Td 7d] (three of a kind, Set of Eights [8s 8h 8c Td 7d])
+facedaNcer collected $0.04 from main pot
+*** SUMMARY ***
+Total pot $0.04
+Board [8s 8h 8c 6d 5c]
+Seat 1: 3sC4NoRaISe folded on the Pre-Flop and did not bet
+Seat 2: NewPoQuer folded on the Pre-Flop and did not bet
+Seat 3: lap1as folded on the Pre-Flop and did not bet
+Seat 4: MezcalMule (button) folded on the Pre-Flop
+Seat 5: TXbriii (small blind) showed [2c 4s] and lost with three of a kind, Set of Eights [8s 8h 8c 6d 5c]
+Seat 6: facedaNcer (big blind) showed [Td 7d] and won $0.04 with three of a kind, Set of Eights [8s 8h 8c Td 7d] with the kicker Ten
+
+Hand #982043173 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/16 04:26:29 UTC
+Kersey 6-max Seat #5 is the button
+Seat 1: 3sC4NoRaISe ($1.65)
+Seat 2: NewPoQuer ($2.32)
+Seat 3: lap1as ($2.06)
+Seat 4: MezcalMule ($1.75)
+Seat 5: TXbriii ($0.87)
+Seat 6: facedaNcer ($0.80)
+facedaNcer posts the small blind $0.01
+3sC4NoRaISe posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [5s 4d]
+NewPoQuer folds
+lap1as folds
+MezcalMule folds
+TXbriii raises $0.04 to $0.04
+facedaNcer folds
+3sC4NoRaISe calls $0.02
+*** FLOP *** [Kc Qs 2s]
+Main pot $0.09 | Rake $0.00
+3sC4NoRaISe checks
+TXbriii checks
+*** TURN *** [Kc Qs 2s] [8c]
+Main pot $0.09 | Rake $0.00
+3sC4NoRaISe checks
+TXbriii bets $0.02
+3sC4NoRaISe folds
+Uncalled bet ($0.02) returned to TXbriii
+TXbriii does not show
+*** SUMMARY ***
+Total pot $0.09
+Board [Kc Qs 2s 8c]
+Seat 1: 3sC4NoRaISe (big blind) folded on the Turn
+Seat 2: NewPoQuer folded on the Pre-Flop and did not bet
+Seat 3: lap1as folded on the Pre-Flop and did not bet
+Seat 4: MezcalMule folded on the Pre-Flop and did not bet
+Seat 5: TXbriii did not show and won $0.09
+Seat 6: facedaNcer (small blind) folded on the Pre-Flop
+
+Hand #982044275 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/16 04:27:41 UTC
+Kersey 6-max Seat #6 is the button
+Seat 1: 3sC4NoRaISe ($1.61)
+Seat 2: NewPoQuer ($2.32)
+Seat 3: lap1as ($2.06)
+Seat 4: MezcalMule ($1.75)
+Seat 5: TXbriii ($0.92)
+Seat 6: facedaNcer ($0.79)
+3sC4NoRaISe posts the small blind $0.01
+NewPoQuer posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Kd 6d]
+lap1as raises $0.05 to $0.05
+MezcalMule folds
+TXbriii folds
+facedaNcer folds
+3sC4NoRaISe folds
+NewPoQuer folds
+Uncalled bet ($0.03) returned to lap1as
+lap1as does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: 3sC4NoRaISe (small blind) folded on the Pre-Flop
+Seat 2: NewPoQuer (big blind) folded on the Pre-Flop
+Seat 3: lap1as did not show and won $0.05
+Seat 4: MezcalMule folded on the Pre-Flop and did not bet
+Seat 5: TXbriii folded on the Pre-Flop and did not bet
+Seat 6: facedaNcer (button) folded on the Pre-Flop
+
+Hand #982044569 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/16 04:28:00 UTC
+Kersey 6-max Seat #1 is the button
+Seat 1: 3sC4NoRaISe ($1.60)
+Seat 2: NewPoQuer ($2.30)
+Seat 3: lap1as ($2.09)
+Seat 4: MezcalMule ($1.75)
+Seat 5: TXbriii ($0.92)
+Seat 6: facedaNcer ($0.79)
+NewPoQuer posts the small blind $0.01
+lap1as posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [6s Kd]
+MezcalMule folds
+TXbriii folds
+facedaNcer raises $0.05 to $0.05
+3sC4NoRaISe folds
+NewPoQuer folds
+lap1as calls $0.03
+*** FLOP *** [2h Ac 9d]
+Main pot $0.11 | Rake $0.00
+lap1as checks
+facedaNcer bets $0.03
+lap1as folds
+Uncalled bet ($0.03) returned to facedaNcer
+facedaNcer does not show
+*** SUMMARY ***
+Total pot $0.11
+Board [2h Ac 9d]
+Seat 1: 3sC4NoRaISe (button) folded on the Pre-Flop
+Seat 2: NewPoQuer (small blind) folded on the Pre-Flop
+Seat 3: lap1as (big blind) folded on the Flop
+Seat 4: MezcalMule folded on the Pre-Flop and did not bet
+Seat 5: TXbriii folded on the Pre-Flop and did not bet
+Seat 6: facedaNcer did not show and won $0.11
+
+Hand #982045215 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/16 04:28:45 UTC
+Kersey 6-max Seat #2 is the button
+Seat 1: 3sC4NoRaISe ($1.60)
+Seat 2: NewPoQuer ($2.29)
+Seat 3: lap1as ($2.04)
+Seat 4: MezcalMule ($1.75)
+Seat 5: TXbriii ($0.92)
+Seat 6: facedaNcer ($0.85)
+lap1as posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Ah 6c]
+TXbriii calls $0.02
+facedaNcer folds
+3sC4NoRaISe folds
+NewPoQuer folds
+lap1as folds
+MezcalMule checks
+*** FLOP *** [Kh Qs 8h]
+Main pot $0.05 | Rake $0.00
+MezcalMule checks
+TXbriii bets $0.02
+MezcalMule calls $0.02
+*** TURN *** [Kh Qs 8h] [9c]
+Main pot $0.09 | Rake $0.00
+MezcalMule checks
+TXbriii bets $0.02
+MezcalMule calls $0.02
+*** RIVER *** [Kh Qs 8h 9c] [3c]
+Main pot $0.13 | Rake $0.00
+MezcalMule checks
+TXbriii bets $0.06
+MezcalMule folds
+Uncalled bet ($0.06) returned to TXbriii
+TXbriii does not show
+*** SUMMARY ***
+Total pot $0.13
+Board [Kh Qs 8h 9c 3c]
+Seat 1: 3sC4NoRaISe folded on the Pre-Flop and did not bet
+Seat 2: NewPoQuer (button) folded on the Pre-Flop
+Seat 3: lap1as (small blind) folded on the Pre-Flop
+Seat 4: MezcalMule (big blind) folded on the River
+Seat 5: TXbriii did not show and won $0.13
+Seat 6: facedaNcer folded on the Pre-Flop and did not bet
+
+Hand #982046539 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/16 04:30:14 UTC
+Kersey 6-max Seat #3 is the button
+Seat 1: 3sC4NoRaISe ($1.60)
+Seat 2: NewPoQuer ($2.29)
+Seat 3: lap1as ($2.03)
+Seat 4: MezcalMule ($1.69)
+Seat 5: TXbriii ($0.99)
+Seat 6: facedaNcer ($0.85)
+MezcalMule posts the small blind $0.01
+TXbriii posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Ks Jh]
+facedaNcer folds
+3sC4NoRaISe folds
+NewPoQuer folds
+lap1as folds
+MezcalMule raises $0.03 to $0.04
+TXbriii calls $0.02
+*** FLOP *** [8h As Ac]
+Main pot $0.08 | Rake $0.00
+MezcalMule bets $0.06
+TXbriii folds
+Uncalled bet ($0.06) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.08
+Board [8h As Ac]
+Seat 1: 3sC4NoRaISe folded on the Pre-Flop and did not bet
+Seat 2: NewPoQuer folded on the Pre-Flop and did not bet
+Seat 3: lap1as (button) folded on the Pre-Flop
+Seat 4: MezcalMule did not show and won $0.08
+Seat 5: TXbriii (big blind) folded on the Flop
+Seat 6: facedaNcer folded on the Pre-Flop and did not bet
+
+Hand #982047405 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/16 04:31:13 UTC
+Kersey 6-max Seat #4 is the button
+Seat 1: 3sC4NoRaISe ($1.60)
+Seat 2: NewPoQuer ($2.29)
+Seat 3: lap1as ($2.03)
+Seat 4: MezcalMule ($1.73)
+Seat 5: TXbriii ($0.95)
+Seat 6: facedaNcer ($0.85)
+TXbriii posts the small blind $0.01
+facedaNcer posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [6h 7c]
+3sC4NoRaISe folds
+NewPoQuer folds
+lap1as folds
+MezcalMule folds
+TXbriii calls $0.01
+facedaNcer checks
+*** FLOP *** [3s 3h Ah]
+Main pot $0.04 | Rake $0.00
+TXbriii checks
+facedaNcer checks
+*** TURN *** [3s 3h Ah] [6s]
+Main pot $0.04 | Rake $0.00
+TXbriii checks
+facedaNcer checks
+*** RIVER *** [3s 3h Ah 6s] [5d]
+Main pot $0.04 | Rake $0.00
+TXbriii checks
+facedaNcer checks
+*** SHOW DOWN ***
+Main pot $0.04 | Rake $0.00
+TXbriii shows [Jh Ks] (a pair of Threes [3s 3h Ah Ks Jh])
+facedaNcer shows [Qs Td] (a pair of Threes [3s 3h Ah Qs Td])
+TXbriii collected $0.04 from main pot
+*** SUMMARY ***
+Total pot $0.04
+Board [3s 3h Ah 6s 5d]
+Seat 1: 3sC4NoRaISe folded on the Pre-Flop and did not bet
+Seat 2: NewPoQuer folded on the Pre-Flop and did not bet
+Seat 3: lap1as folded on the Pre-Flop and did not bet
+Seat 4: MezcalMule (button) folded on the Pre-Flop
+Seat 5: TXbriii (small blind) showed [Jh Ks] and won $0.04 with a pair of Threes [3s 3h Ah Ks Jh] with the kicker King
+Seat 6: facedaNcer (big blind) showed [Qs Td] and lost with a pair of Threes [3s 3h Ah Qs Td]
+
+Hand #982048629 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/16 04:32:35 UTC
+Kersey 6-max Seat #5 is the button
+Seat 1: 3sC4NoRaISe ($1.60)
+Seat 2: NewPoQuer ($2.29)
+Seat 3: lap1as ($2.03)
+Seat 4: MezcalMule ($1.73)
+Seat 5: TXbriii ($0.97)
+Seat 6: facedaNcer ($0.83)
+facedaNcer posts the small blind $0.01
+3sC4NoRaISe posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [2s Qs]
+NewPoQuer folds
+lap1as folds
+MezcalMule folds
+TXbriii calls $0.02
+facedaNcer folds
+3sC4NoRaISe raises $0.05 to $0.07
+TXbriii folds
+Uncalled bet ($0.05) returned to 3sC4NoRaISe
+3sC4NoRaISe does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: 3sC4NoRaISe did not show and won $0.05
+Seat 2: NewPoQuer folded on the Pre-Flop and did not bet
+Seat 3: lap1as folded on the Pre-Flop and did not bet
+Seat 4: MezcalMule folded on the Pre-Flop and did not bet
+Seat 5: TXbriii (button) folded on the Pre-Flop
+Seat 6: facedaNcer (small blind) folded on the Pre-Flop
+
+Hand #982049353 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/16 04:33:24 UTC
+Kersey 6-max Seat #6 is the button
+Seat 1: 3sC4NoRaISe ($1.63)
+Seat 2: NewPoQuer ($2.29)
+Seat 3: lap1as ($2.03)
+Seat 4: MezcalMule ($1.73)
+Seat 5: TXbriii ($0.95)
+Seat 6: facedaNcer ($0.82)
+3sC4NoRaISe posts the small blind $0.01
+NewPoQuer posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [6s Jd]
+lap1as raises $0.05 to $0.05
+MezcalMule folds
+TXbriii folds
+facedaNcer folds
+3sC4NoRaISe folds
+NewPoQuer folds
+Uncalled bet ($0.03) returned to lap1as
+lap1as does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: 3sC4NoRaISe (small blind) folded on the Pre-Flop
+Seat 2: NewPoQuer (big blind) folded on the Pre-Flop
+Seat 3: lap1as did not show and won $0.05
+Seat 4: MezcalMule folded on the Pre-Flop and did not bet
+Seat 5: TXbriii folded on the Pre-Flop and did not bet
+Seat 6: facedaNcer (button) folded on the Pre-Flop
+
+Hand #982049842 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/16 04:33:58 UTC
+Kersey 6-max Seat #1 is the button
+Seat 1: 3sC4NoRaISe ($1.62)
+Seat 2: NewPoQuer ($2.27)
+Seat 3: lap1as ($2.06)
+Seat 4: MezcalMule ($1.73)
+Seat 5: TXbriii ($0.95)
+Seat 6: facedaNcer ($0.82)
+NewPoQuer posts the small blind $0.01
+lap1as posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Ks Ts]
+MezcalMule raises $0.04 to $0.04
+TXbriii folds
+facedaNcer folds
+3sC4NoRaISe folds
+NewPoQuer folds
+lap1as folds
+Uncalled bet ($0.02) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: 3sC4NoRaISe (button) folded on the Pre-Flop
+Seat 2: NewPoQuer (small blind) folded on the Pre-Flop
+Seat 3: lap1as (big blind) folded on the Pre-Flop
+Seat 4: MezcalMule did not show and won $0.05
+Seat 5: TXbriii folded on the Pre-Flop and did not bet
+Seat 6: facedaNcer folded on the Pre-Flop and did not bet
+
+Hand #982050272 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/16 04:34:28 UTC
+Kersey 6-max Seat #2 is the button
+Seat 1: 3sC4NoRaISe ($1.62)
+Seat 2: NewPoQuer ($2.26)
+Seat 3: lap1as ($2.04)
+Seat 4: MezcalMule ($1.76)
+Seat 5: TXbriii ($0.95)
+Seat 6: facedaNcer ($0.82)
+lap1as posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [6s 5s]
+TXbriii calls $0.02
+facedaNcer folds
+3sC4NoRaISe folds
+NewPoQuer folds
+lap1as folds
+MezcalMule checks
+*** FLOP *** [Ts As 9h]
+Main pot $0.05 | Rake $0.00
+MezcalMule checks
+TXbriii bets $0.02
+MezcalMule calls $0.02
+*** TURN *** [Ts As 9h] [8c]
+Main pot $0.09 | Rake $0.00
+MezcalMule bets $0.06
+TXbriii calls $0.06
+*** RIVER *** [Ts As 9h 8c] [2h]
+Main pot $0.20 | Rake $0.01
+MezcalMule checks
+TXbriii checks
+*** SHOW DOWN ***
+Main pot $0.20 | Rake $0.01
+MezcalMule shows [6s 5s] (a high card, Ace high [As Ts 9h 8c 6s])
+TXbriii shows [6d Td] (a pair of Tens [Ts Td As 9h 8c])
+TXbriii collected $0.20 from main pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01
+Board [Ts As 9h 8c 2h]
+Seat 1: 3sC4NoRaISe folded on the Pre-Flop and did not bet
+Seat 2: NewPoQuer (button) folded on the Pre-Flop
+Seat 3: lap1as (small blind) folded on the Pre-Flop
+Seat 4: MezcalMule (big blind) showed [6s 5s] and lost with a high card, Ace high [As Ts 9h 8c 6s]
+Seat 5: TXbriii showed [6d Td] and won $0.20 with a pair of Tens [Ts Td As 9h 8c]
+Seat 6: facedaNcer folded on the Pre-Flop and did not bet
+
+Hand #982051289 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/16 04:35:38 UTC
+Kersey 6-max Seat #3 is the button
+Seat 1: 3sC4NoRaISe ($1.62)
+Seat 2: NewPoQuer ($2.26)
+Seat 3: lap1as ($2.03)
+Seat 4: MezcalMule ($1.66)
+Seat 5: TXbriii ($1.05)
+Seat 6: facedaNcer ($0.82)
+MezcalMule posts the small blind $0.01
+TXbriii posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [8h Ac]
+facedaNcer folds
+3sC4NoRaISe folds
+NewPoQuer folds
+lap1as folds
+MezcalMule calls $0.01
+TXbriii checks
+*** FLOP *** [4h 9c Ks]
+Main pot $0.04 | Rake $0.00
+MezcalMule checks
+TXbriii bets $0.02
+MezcalMule folds
+Uncalled bet ($0.02) returned to TXbriii
+TXbriii does not show
+*** SUMMARY ***
+Total pot $0.04
+Board [4h 9c Ks]
+Seat 1: 3sC4NoRaISe folded on the Pre-Flop and did not bet
+Seat 2: NewPoQuer folded on the Pre-Flop and did not bet
+Seat 3: lap1as (button) folded on the Pre-Flop
+Seat 4: MezcalMule (small blind) folded on the Flop
+Seat 5: TXbriii did not show and won $0.04
+Seat 6: facedaNcer folded on the Pre-Flop and did not bet
+
+Hand #982052067 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/16 04:36:33 UTC
+Kersey 6-max Seat #4 is the button
+Seat 1: 3sC4NoRaISe ($1.62)
+Seat 2: NewPoQuer ($2.26)
+Seat 3: lap1as ($2.03)
+Seat 4: MezcalMule ($1.64)
+Seat 5: TXbriii ($1.07)
+Seat 6: facedaNcer ($0.82)
+TXbriii posts the small blind $0.01
+facedaNcer posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [8c 6d]
+3sC4NoRaISe folds
+NewPoQuer folds
+lap1as folds
+MezcalMule folds
+TXbriii calls $0.01
+facedaNcer checks
+*** FLOP *** [Kc Js 4c]
+Main pot $0.04 | Rake $0.00
+TXbriii bets $0.02
+facedaNcer calls $0.02
+*** TURN *** [Kc Js 4c] [Qd]
+Main pot $0.08 | Rake $0.00
+TXbriii bets $0.02
+facedaNcer calls $0.02
+*** RIVER *** [Kc Js 4c Qd] [Th]
+Main pot $0.12 | Rake $0.00
+TXbriii bets $0.03
+facedaNcer calls $0.03
+*** SHOW DOWN ***
+Main pot $0.18 | Rake $0.00
+TXbriii shows [Kd 8h] (a pair of Kings [Kd Kc Qd Js Th])
+facedaNcer shows [Jd 7d] (a pair of Jacks [Js Jd Kc Qd Th])
+TXbriii collected $0.18 from main pot
+*** SUMMARY ***
+Total pot $0.18
+Board [Kc Js 4c Qd Th]
+Seat 1: 3sC4NoRaISe folded on the Pre-Flop and did not bet
+Seat 2: NewPoQuer folded on the Pre-Flop and did not bet
+Seat 3: lap1as folded on the Pre-Flop and did not bet
+Seat 4: MezcalMule (button) folded on the Pre-Flop
+Seat 5: TXbriii (small blind) showed [Kd 8h] and won $0.18 with a pair of Kings [Kd Kc Qd Js Th]
+Seat 6: facedaNcer (big blind) showed [Jd 7d] and lost with a pair of Jacks [Js Jd Kc Qd Th]
+
+Hand #982053080 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/16 04:37:45 UTC
+Kersey 6-max Seat #5 is the button
+Seat 1: 3sC4NoRaISe ($1.62)
+Seat 2: NewPoQuer ($2.26)
+Seat 3: lap1as ($2.03)
+Seat 4: MezcalMule ($1.64)
+Seat 5: TXbriii ($1.16)
+Seat 6: facedaNcer ($0.73)
+facedaNcer posts the small blind $0.01
+3sC4NoRaISe posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [As 3c]
+NewPoQuer folds
+lap1as folds
+MezcalMule folds
+TXbriii calls $0.02
+facedaNcer calls $0.01
+3sC4NoRaISe checks
+*** FLOP *** [Ks 6c 6s]
+Main pot $0.06 | Rake $0.00
+facedaNcer checks
+3sC4NoRaISe checks
+TXbriii checks
+*** TURN *** [Ks 6c 6s] [Jc]
+Main pot $0.06 | Rake $0.00
+facedaNcer checks
+3sC4NoRaISe checks
+TXbriii checks
+*** RIVER *** [Ks 6c 6s Jc] [4s]
+Main pot $0.06 | Rake $0.00
+facedaNcer checks
+3sC4NoRaISe checks
+TXbriii bets $0.06
+facedaNcer folds
+3sC4NoRaISe folds
+Uncalled bet ($0.06) returned to TXbriii
+TXbriii shows [8s 7s]
+*** SUMMARY ***
+Total pot $0.06
+Board [Ks 6c 6s Jc 4s]
+Seat 1: 3sC4NoRaISe (big blind) folded on the River
+Seat 2: NewPoQuer folded on the Pre-Flop and did not bet
+Seat 3: lap1as folded on the Pre-Flop and did not bet
+Seat 4: MezcalMule folded on the Pre-Flop and did not bet
+Seat 5: TXbriii (button) showed [8s 7s] and won $0.06
+Seat 6: facedaNcer (small blind) folded on the River
+
+Hand #982054444 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/16 04:39:21 UTC
+Kersey 6-max Seat #6 is the button
+Seat 1: 3sC4NoRaISe ($1.60)
+Seat 2: NewPoQuer ($2.26)
+Seat 3: lap1as ($2.03)
+Seat 4: MezcalMule ($1.64)
+Seat 5: TXbriii ($1.20)
+Seat 6: facedaNcer ($0.71)
+3sC4NoRaISe posts the small blind $0.01
+NewPoQuer posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [3h 5h]
+lap1as folds
+MezcalMule folds
+TXbriii folds
+facedaNcer folds
+3sC4NoRaISe folds
+NewPoQuer does not show
+*** SUMMARY ***
+Total pot $0.03
+Seat 1: 3sC4NoRaISe (small blind) folded on the Pre-Flop
+Seat 2: NewPoQuer did not show and won $0.03
+Seat 3: lap1as folded on the Pre-Flop and did not bet
+Seat 4: MezcalMule folded on the Pre-Flop and did not bet
+Seat 5: TXbriii folded on the Pre-Flop and did not bet
+Seat 6: facedaNcer (button) folded on the Pre-Flop
+
+Hand #982054700 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/16 04:39:40 UTC
+Kersey 6-max Seat #1 is the button
+Seat 1: 3sC4NoRaISe ($1.59)
+Seat 2: NewPoQuer ($2.27)
+Seat 3: lap1as ($2.03)
+Seat 4: MezcalMule ($1.64)
+Seat 5: TXbriii ($1.20)
+Seat 6: facedaNcer ($0.71)
+NewPoQuer posts the small blind $0.01
+lap1as posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [6c Jh]
+MezcalMule folds
+TXbriii calls $0.02
+facedaNcer raises $0.07 to $0.07
+3sC4NoRaISe folds
+NewPoQuer folds
+lap1as folds
+TXbriii folds
+Uncalled bet ($0.05) returned to facedaNcer
+facedaNcer does not show
+*** SUMMARY ***
+Total pot $0.07
+Seat 1: 3sC4NoRaISe (button) folded on the Pre-Flop
+Seat 2: NewPoQuer (small blind) folded on the Pre-Flop
+Seat 3: lap1as (big blind) folded on the Pre-Flop
+Seat 4: MezcalMule folded on the Pre-Flop and did not bet
+Seat 5: TXbriii folded on the Pre-Flop and did not bet
+Seat 6: facedaNcer did not show and won $0.07
+
+Hand #982055077 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/16 04:40:05 UTC
+Kersey 6-max Seat #2 is the button
+Seat 1: 3sC4NoRaISe ($1.59)
+Seat 2: NewPoQuer ($2.26)
+Seat 3: lap1as ($2.01)
+Seat 4: MezcalMule ($1.64)
+Seat 5: TXbriii ($1.18)
+Seat 6: facedaNcer ($0.76)
+lap1as posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [8d 3s]
+TXbriii folds
+facedaNcer raises $0.05 to $0.05
+3sC4NoRaISe calls $0.05
+NewPoQuer folds
+lap1as folds
+MezcalMule folds
+*** FLOP *** [7s Qc Ah]
+Main pot $0.13 | Rake $0.00
+facedaNcer checks
+3sC4NoRaISe checks
+*** TURN *** [7s Qc Ah] [4s]
+Main pot $0.13 | Rake $0.00
+facedaNcer checks
+3sC4NoRaISe bets $0.08
+facedaNcer calls $0.08
+*** RIVER *** [7s Qc Ah 4s] [2s]
+Main pot $0.28 | Rake $0.01
+facedaNcer bets $0.28
+3sC4NoRaISe calls $0.28
+*** SHOW DOWN ***
+Main pot $0.81 | Rake $0.04
+3sC4NoRaISe shows [Ac Tc] (a pair of Aces [Ah Ac Qc Tc 7s])
+facedaNcer shows [Kd Td] (a high card, Ace high [Ah Kd Qc Td 7s])
+3sC4NoRaISe collected $0.81 from main pot
+*** SUMMARY ***
+Total pot $0.81 | Rake $0.04
+Board [7s Qc Ah 4s 2s]
+Seat 1: 3sC4NoRaISe showed [Ac Tc] and won $0.81 with a pair of Aces [Ah Ac Qc Tc 7s]
+Seat 2: NewPoQuer (button) folded on the Pre-Flop
+Seat 3: lap1as (small blind) folded on the Pre-Flop
+Seat 4: MezcalMule (big blind) folded on the Pre-Flop
+Seat 5: TXbriii folded on the Pre-Flop and did not bet
+Seat 6: facedaNcer showed [Kd Td] and lost with a high card, Ace high [Ah Kd Qc Td 7s]
+
+Hand #982056574 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/16 04:41:51 UTC
+Kersey 6-max Seat #3 is the button
+Seat 1: 3sC4NoRaISe ($1.99)
+Seat 2: NewPoQuer ($2.26)
+Seat 3: lap1as ($2.00)
+Seat 4: MezcalMule ($1.62)
+Seat 5: 1NMB1 ($1.50)
+Seat 6: facedaNcer ($0.35)
+MezcalMule posts the small blind $0.01
+1NMB1 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [3d 2h]
+facedaNcer raises $0.05 to $0.05
+3sC4NoRaISe folds
+NewPoQuer raises $0.15 to $0.15
+lap1as folds
+MezcalMule folds
+1NMB1 folds
+facedaNcer calls $0.10
+*** FLOP *** [Th 3c Kd]
+Main pot $0.32 | Rake $0.01
+facedaNcer checks
+NewPoQuer checks
+*** TURN *** [Th 3c Kd] [9s]
+Main pot $0.32 | Rake $0.01
+facedaNcer bets $0.20 and is all-in
+NewPoQuer calls $0.20
+*** RIVER *** [Th 3c Kd 9s] [7d]
+Main pot $0.70 | Rake $0.03
+*** SHOW DOWN ***
+Main pot $0.70 | Rake $0.03
+NewPoQuer shows [Qs Qc] (a pair of Queens [Qs Qc Kd Th 9s])
+facedaNcer shows [6s 5s] (a high card, King high [Kd Th 9s 7d 6s])
+NewPoQuer collected $0.70 from main pot
+*** SUMMARY ***
+Total pot $0.70 | Rake $0.03
+Board [Th 3c Kd 9s 7d]
+Seat 1: 3sC4NoRaISe folded on the Pre-Flop and did not bet
+Seat 2: NewPoQuer showed [Qs Qc] and won $0.70 with a pair of Queens [Qs Qc Kd Th 9s]
+Seat 3: lap1as (button) folded on the Pre-Flop
+Seat 4: MezcalMule (small blind) folded on the Pre-Flop
+Seat 5: 1NMB1 (big blind) folded on the Pre-Flop
+Seat 6: facedaNcer showed [6s 5s] and lost with a high card, King high [Kd Th 9s 7d 6s]
+
+Hand #982058008 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/16 04:43:30 UTC
+Kersey 6-max Seat #4 is the button
+Seat 1: 3sC4NoRaISe ($1.99)
+Seat 2: NewPoQuer ($2.61)
+Seat 3: lap1as ($2.00)
+Seat 4: MezcalMule ($1.61)
+Seat 5: 1NMB1 ($1.50)
+Seat 6: facedaNcer ($0.00) is sitting out
+1NMB1 posts the small blind $0.01
+3sC4NoRaISe posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [As 7c]
+NewPoQuer folds
+lap1as raises $0.05 to $0.05
+MezcalMule calls $0.05
+1NMB1 folds
+3sC4NoRaISe calls $0.03
+*** FLOP *** [Jh 6d 3h]
+Main pot $0.16 | Rake $0.00
+3sC4NoRaISe checks
+lap1as bets $0.10
+MezcalMule folds
+3sC4NoRaISe folds
+Uncalled bet ($0.10) returned to lap1as
+lap1as does not show
+*** SUMMARY ***
+Total pot $0.16
+Board [Jh 6d 3h]
+Seat 1: 3sC4NoRaISe (big blind) folded on the Flop
+Seat 2: NewPoQuer folded on the Pre-Flop and did not bet
+Seat 3: lap1as did not show and won $0.16
+Seat 4: MezcalMule (button) folded on the Flop
+Seat 5: 1NMB1 (small blind) folded on the Pre-Flop
+
+Hand #982058793 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/16 04:44:26 UTC
+Kersey 6-max Seat #5 is the button
+Seat 1: 3sC4NoRaISe ($1.94)
+Seat 2: NewPoQuer ($2.61)
+Seat 3: lap1as ($2.11)
+Seat 4: MezcalMule ($1.56)
+Seat 5: 1NMB1 ($1.50)
+Seat 6: facedaNcer ($0.00) is sitting out
+3sC4NoRaISe posts the small blind $0.01
+NewPoQuer posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [7s 2h]
+lap1as folds
+MezcalMule folds
+1NMB1 folds
+3sC4NoRaISe raises $0.04 to $0.05
+NewPoQuer calls $0.03
+*** FLOP *** [8c 8d Ad]
+Main pot $0.10 | Rake $0.00
+3sC4NoRaISe bets $0.04
+NewPoQuer folds
+Uncalled bet ($0.04) returned to 3sC4NoRaISe
+3sC4NoRaISe shows [7c 2s]
+*** SUMMARY ***
+Total pot $0.10
+Board [8c 8d Ad]
+Seat 1: 3sC4NoRaISe (small blind) showed [7c 2s] and won $0.10
+Seat 2: NewPoQuer (big blind) folded on the Flop
+Seat 3: lap1as folded on the Pre-Flop and did not bet
+Seat 4: MezcalMule folded on the Pre-Flop and did not bet
+Seat 5: 1NMB1 (button) folded on the Pre-Flop
+
+Hand #982059629 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/16 04:45:22 UTC
+Kersey 6-max Seat #1 is the button
+Seat 1: 3sC4NoRaISe ($1.99)
+Seat 2: NewPoQuer ($2.56)
+Seat 3: lap1as ($2.11)
+Seat 4: MezcalMule ($1.56)
+Seat 5: 1NMB1 ($1.50)
+Seat 6: zeroworker ($2.00)
+NewPoQuer posts the small blind $0.01
+lap1as posts the big blind $0.02
+zeroworker waits for big blind
+*** HOLE CARDS ***
+Dealt to MezcalMule [6s 2h]
+MezcalMule folds
+1NMB1 raises $0.05 to $0.05
+3sC4NoRaISe folds
+NewPoQuer folds
+lap1as calls $0.03
+*** FLOP *** [7d 9s 4s]
+Main pot $0.11 | Rake $0.00
+lap1as checks
+1NMB1 checks
+*** TURN *** [7d 9s 4s] [3d]
+Main pot $0.11 | Rake $0.00
+lap1as bets $0.07
+1NMB1 calls $0.07
+*** RIVER *** [7d 9s 4s 3d] [5c]
+Main pot $0.24 | Rake $0.01
+lap1as checks
+1NMB1 checks
+*** SHOW DOWN ***
+Main pot $0.24 | Rake $0.01
+lap1as shows [2d 9d] (a pair of Nines [9s 9d 7d 5c 4s])
+1NMB1 shows [8h 7h] (a pair of Sevens [7h 7d 9s 8h 5c])
+lap1as collected $0.24 from main pot
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01
+Board [7d 9s 4s 3d 5c]
+Seat 1: 3sC4NoRaISe (button) folded on the Pre-Flop
+Seat 2: NewPoQuer (small blind) folded on the Pre-Flop
+Seat 3: lap1as (big blind) showed [2d 9d] and won $0.24 with a pair of Nines [9s 9d 7d 5c 4s]
+Seat 4: MezcalMule folded on the Pre-Flop and did not bet
+Seat 5: 1NMB1 showed [8h 7h] and lost with a pair of Sevens [7h 7d 9s 8h 5c]
+
+Hand #982060589 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/16 04:46:29 UTC
+Kersey 6-max Seat #2 is the button
+Seat 1: 3sC4NoRaISe ($1.99)
+Seat 2: NewPoQuer ($2.55)
+Seat 3: lap1as ($2.23)
+Seat 4: MezcalMule ($1.56)
+Seat 5: 1NMB1 ($1.50)
+Seat 6: zeroworker ($2.00)
+lap1as posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+zeroworker waits for big blind
+*** HOLE CARDS ***
+Dealt to MezcalMule [Ac Ts]
+1NMB1 raises $0.06 to $0.06
+3sC4NoRaISe folds
+NewPoQuer raises $0.18 to $0.18
+lap1as folds
+MezcalMule folds
+1NMB1 folds
+Uncalled bet ($0.12) returned to NewPoQuer
+NewPoQuer does not show
+*** SUMMARY ***
+Total pot $0.15
+Seat 1: 3sC4NoRaISe folded on the Pre-Flop and did not bet
+Seat 2: NewPoQuer did not show and won $0.15
+Seat 3: lap1as (small blind) folded on the Pre-Flop
+Seat 4: MezcalMule (big blind) folded on the Pre-Flop
+Seat 5: 1NMB1 folded on the Pre-Flop and did not bet
+
+Hand #982061160 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/16 04:47:09 UTC
+Kersey 6-max Seat #3 is the button
+Seat 1: 3sC4NoRaISe ($1.99)
+Seat 2: NewPoQuer ($2.64)
+Seat 3: lap1as ($2.22)
+Seat 4: MezcalMule ($1.54)
+Seat 5: 1NMB1 ($1.50)
+Seat 6: zeroworker ($2.00)
+MezcalMule posts the small blind $0.01
+1NMB1 posts the big blind $0.02
+zeroworker waits for big blind
+*** HOLE CARDS ***
+Dealt to MezcalMule [Ts 4h]
+3sC4NoRaISe folds
+NewPoQuer folds
+lap1as raises $0.05 to $0.05
+MezcalMule folds
+1NMB1 calls $0.03
+*** FLOP *** [Ah 8c 4c]
+Main pot $0.11 | Rake $0.00
+1NMB1 checks
+lap1as bets $0.05
+1NMB1 calls $0.05
+*** TURN *** [Ah 8c 4c] [Js]
+Main pot $0.20 | Rake $0.01
+1NMB1 bets $0.12
+lap1as calls $0.12
+*** RIVER *** [Ah 8c 4c Js] [Kd]
+Main pot $0.43 | Rake $0.02
+1NMB1 checks
+lap1as bets $0.21
+1NMB1 folds
+Uncalled bet ($0.21) returned to lap1as
+lap1as does not show
+*** SUMMARY ***
+Total pot $0.43 | Rake $0.02
+Board [Ah 8c 4c Js Kd]
+Seat 1: 3sC4NoRaISe folded on the Pre-Flop and did not bet
+Seat 2: NewPoQuer folded on the Pre-Flop and did not bet
+Seat 3: lap1as did not show and won $0.43
+Seat 4: MezcalMule (small blind) folded on the Pre-Flop
+Seat 5: 1NMB1 (big blind) folded on the River
+
+Hand #982062172 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/16 04:48:22 UTC
+Kersey 6-max Seat #4 is the button
+Seat 1: 3sC4NoRaISe ($1.99)
+Seat 2: NewPoQuer ($2.64)
+Seat 3: lap1as ($2.43)
+Seat 4: MezcalMule ($1.53)
+Seat 5: 1NMB1 ($1.50)
+Seat 6: zeroworker ($2.00)
+1NMB1 posts the small blind $0.01
+zeroworker posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [8h 8s]
+3sC4NoRaISe folds
+NewPoQuer folds
+lap1as folds
+MezcalMule raises $0.08 to $0.08
+1NMB1 folds
+zeroworker folds
+Uncalled bet ($0.06) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: 3sC4NoRaISe folded on the Pre-Flop and did not bet
+Seat 2: NewPoQuer folded on the Pre-Flop and did not bet
+Seat 3: lap1as folded on the Pre-Flop and did not bet
+Seat 4: MezcalMule did not show and won $0.05
+Seat 5: 1NMB1 (small blind) folded on the Pre-Flop
+Seat 6: zeroworker (big blind) folded on the Pre-Flop
+
+Hand #982062603 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/16 04:48:54 UTC
+Kersey 6-max Seat #5 is the button
+Seat 1: 3sC4NoRaISe ($1.99)
+Seat 2: NewPoQuer ($2.64)
+Seat 3: lap1as ($2.43)
+Seat 4: MezcalMule ($1.56)
+Seat 5: 1NMB1 ($1.50)
+Seat 6: zeroworker ($2.00)
+zeroworker posts the small blind $0.01
+3sC4NoRaISe posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [7s 8h]
+NewPoQuer folds
+lap1as folds
+MezcalMule folds
+1NMB1 folds
+zeroworker raises $0.04 to $0.05
+3sC4NoRaISe folds
+Uncalled bet ($0.03) returned to zeroworker
+zeroworker does not show
+*** SUMMARY ***
+Total pot $0.04
+Seat 1: 3sC4NoRaISe (big blind) folded on the Pre-Flop
+Seat 2: NewPoQuer folded on the Pre-Flop and did not bet
+Seat 3: lap1as folded on the Pre-Flop and did not bet
+Seat 4: MezcalMule folded on the Pre-Flop and did not bet
+Seat 5: 1NMB1 (button) folded on the Pre-Flop
+Seat 6: zeroworker did not show and won $0.04
+
+Hand #982063412 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/16 04:49:51 UTC
+Kersey 6-max Seat #6 is the button
+Seat 1: 3sC4NoRaISe ($1.97)
+Seat 2: NewPoQuer ($2.64)
+Seat 3: lap1as ($2.43)
+Seat 4: MezcalMule ($1.56)
+Seat 5: 1NMB1 ($1.50)
+Seat 6: zeroworker ($2.02)
+3sC4NoRaISe posts the small blind $0.01
+NewPoQuer posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Tc Ks]
+lap1as raises $0.05 to $0.05
+MezcalMule calls $0.05
+1NMB1 folds
+zeroworker calls $0.05
+3sC4NoRaISe folds
+NewPoQuer folds
+*** FLOP *** [5c Qc 8h]
+Main pot $0.18 | Rake $0.00
+lap1as bets $0.06
+MezcalMule calls $0.06
+zeroworker calls $0.06
+*** TURN *** [5c Qc 8h] [4h]
+Main pot $0.35 | Rake $0.01
+lap1as checks
+MezcalMule bets $0.36
+zeroworker folds
+lap1as folds
+Uncalled bet ($0.36) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.01
+Board [5c Qc 8h 4h]
+Seat 1: 3sC4NoRaISe (small blind) folded on the Pre-Flop
+Seat 2: NewPoQuer (big blind) folded on the Pre-Flop
+Seat 3: lap1as folded on the Turn
+Seat 4: MezcalMule did not show and won $0.35
+Seat 5: 1NMB1 folded on the Pre-Flop and did not bet
+Seat 6: zeroworker (button) folded on the Turn
+
+Hand #982064462 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/16 04:51:06 UTC
+Kersey 6-max Seat #1 is the button
+Seat 1: 3sC4NoRaISe ($1.96)
+Seat 2: NewPoQuer ($2.62)
+Seat 3: lap1as ($2.32)
+Seat 4: MezcalMule ($1.80)
+Seat 5: 1NMB1 ($1.50)
+Seat 6: zeroworker ($2.00)
+NewPoQuer posts the small blind $0.01
+lap1as posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [4s 5h]
+MezcalMule folds
+1NMB1 folds
+zeroworker folds
+3sC4NoRaISe raises $0.05 to $0.05
+NewPoQuer folds
+lap1as calls $0.03
+*** FLOP *** [8s As 2h]
+Main pot $0.11 | Rake $0.00
+lap1as checks
+3sC4NoRaISe checks
+*** TURN *** [8s As 2h] [Kd]
+Main pot $0.11 | Rake $0.00
+lap1as checks
+3sC4NoRaISe bets $0.05
+lap1as folds
+Uncalled bet ($0.05) returned to 3sC4NoRaISe
+3sC4NoRaISe does not show
+*** SUMMARY ***
+Total pot $0.11
+Board [8s As 2h Kd]
+Seat 1: 3sC4NoRaISe did not show and won $0.11
+Seat 2: NewPoQuer (small blind) folded on the Pre-Flop
+Seat 3: lap1as (big blind) folded on the Turn
+Seat 4: MezcalMule folded on the Pre-Flop and did not bet
+Seat 5: 1NMB1 folded on the Pre-Flop and did not bet
+Seat 6: zeroworker folded on the Pre-Flop and did not bet
+
+Hand #982065177 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/16 04:51:59 UTC
+Kersey 6-max Seat #2 is the button
+Seat 1: 3sC4NoRaISe ($2.02)
+Seat 2: NewPoQuer ($2.61)
+Seat 3: lap1as ($2.27)
+Seat 4: MezcalMule ($1.80)
+Seat 5: 1NMB1 ($1.50) is sitting out
+Seat 6: zeroworker ($2.00)
+lap1as posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [2s 2c]
+zeroworker folds
+3sC4NoRaISe folds
+NewPoQuer folds
+lap1as raises $0.05 to $0.06
+MezcalMule calls $0.04
+*** FLOP *** [3s 9s 4h]
+Main pot $0.12 | Rake $0.00
+lap1as bets $0.06
+MezcalMule calls $0.06
+*** TURN *** [3s 9s 4h] [Js]
+Main pot $0.23 | Rake $0.01
+lap1as bets $0.11
+MezcalMule folds
+Uncalled bet ($0.11) returned to lap1as
+lap1as does not show
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01
+Board [3s 9s 4h Js]
+Seat 1: 3sC4NoRaISe folded on the Pre-Flop and did not bet
+Seat 2: NewPoQuer (button) folded on the Pre-Flop
+Seat 3: lap1as did not show and won $0.23
+Seat 4: MezcalMule (big blind) folded on the Turn
+Seat 6: zeroworker folded on the Pre-Flop and did not bet
+
+Hand #982066230 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/16 04:53:16 UTC
+Kersey 6-max Seat #3 is the button
+Seat 1: 3sC4NoRaISe ($2.02)
+Seat 2: NewPoQuer ($2.61)
+Seat 3: lap1as ($2.38)
+Seat 4: MezcalMule ($1.68)
+Seat 5: 1NMB1 ($1.50) is sitting out
+Seat 6: zeroworker ($2.00)
+MezcalMule posts the small blind $0.01
+zeroworker posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [7s Ks]
+3sC4NoRaISe folds
+NewPoQuer folds
+lap1as raises $0.05 to $0.05
+MezcalMule calls $0.04
+zeroworker folds
+*** FLOP *** [9c 6c 2s]
+Main pot $0.12 | Rake $0.00
+MezcalMule bets $0.09
+lap1as raises $0.30 to $0.30
+MezcalMule folds
+Uncalled bet ($0.21) returned to lap1as
+lap1as does not show
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01
+Board [9c 6c 2s]
+Seat 1: 3sC4NoRaISe folded on the Pre-Flop and did not bet
+Seat 2: NewPoQuer folded on the Pre-Flop and did not bet
+Seat 3: lap1as did not show and won $0.29
+Seat 4: MezcalMule (small blind) folded on the Flop
+Seat 6: zeroworker (big blind) folded on the Pre-Flop
+
+Hand #982067235 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/16 04:54:28 UTC
+Kersey 6-max Seat #4 is the button
+Seat 1: Ded54 ($2.00)
+Seat 2: NewPoQuer ($2.61)
+Seat 3: lap1as ($2.53)
+Seat 4: MezcalMule ($1.54)
+Seat 5: 1NMB1 ($1.50) is sitting out
+Seat 6: zeroworker ($2.00)
+zeroworker posts the small blind $0.01
+Ded54 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Jd 8h]
+NewPoQuer folds
+lap1as raises $0.05 to $0.05
+MezcalMule calls $0.05
+zeroworker folds
+Ded54 folds
+*** FLOP *** [4s Th 5d]
+Main pot $0.13 | Rake $0.00
+lap1as bets $0.06
+MezcalMule folds
+Uncalled bet ($0.06) returned to lap1as
+lap1as does not show
+*** SUMMARY ***
+Total pot $0.13
+Board [4s Th 5d]
+Seat 1: Ded54 (big blind) folded on the Pre-Flop
+Seat 2: NewPoQuer folded on the Pre-Flop and did not bet
+Seat 3: lap1as did not show and won $0.13
+Seat 4: MezcalMule (button) folded on the Flop
+Seat 6: zeroworker (small blind) folded on the Pre-Flop
+
+Hand #982067756 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/16 04:55:12 UTC
+Kersey 6-max Seat #6 is the button
+Seat 1: Ded54 ($2.00)
+Seat 2: NewPoQuer ($2.61)
+Seat 3: lap1as ($2.61)
+Seat 4: MezcalMule ($1.49)
+Seat 5: 1NMB1 ($1.50) is sitting out
+Seat 6: zeroworker ($2.00)
+Ded54 posts the small blind $0.01
+NewPoQuer posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Kc 9d]
+lap1as folds
+MezcalMule folds
+zeroworker folds
+Ded54 raises $0.05 to $0.06
+NewPoQuer calls $0.04
+*** FLOP *** [7d Td 3c]
+Main pot $0.12 | Rake $0.00
+Ded54 bets $0.08
+NewPoQuer calls $0.08
+*** TURN *** [7d Td 3c] [2h]
+Main pot $0.27 | Rake $0.01
+Ded54 bets $0.18
+NewPoQuer calls $0.18
+*** RIVER *** [7d Td 3c 2h] [8s]
+Main pot $0.61 | Rake $0.03
+Ded54 bets $0.42
+NewPoQuer folds
+Uncalled bet ($0.42) returned to Ded54
+Ded54 does not show
+*** SUMMARY ***
+Total pot $0.61 | Rake $0.03
+Board [7d Td 3c 2h 8s]
+Seat 1: Ded54 did not show and won $0.61
+Seat 2: NewPoQuer (big blind) folded on the River
+Seat 3: lap1as folded on the Pre-Flop and did not bet
+Seat 4: MezcalMule folded on the Pre-Flop and did not bet
+Seat 6: zeroworker (button) folded on the Pre-Flop
+
+Hand #982068389 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/16 04:56:37 UTC
+Kersey 6-max Seat #1 is the button
+Seat 1: Ded54 ($2.29)
+Seat 2: NewPoQuer ($2.29)
+Seat 3: lap1as ($2.61)
+Seat 4: MezcalMule ($1.49)
+Seat 5: 1NMB1 ($1.50) is sitting out
+Seat 6: zeroworker ($2.00)
+NewPoQuer posts the small blind $0.01
+lap1as posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Ah 7d]
+MezcalMule folds
+zeroworker folds
+Ded54 raises $0.05 to $0.05
+NewPoQuer folds
+lap1as folds
+Uncalled bet ($0.03) returned to Ded54
+Ded54 does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: Ded54 did not show and won $0.05
+Seat 2: NewPoQuer (small blind) folded on the Pre-Flop
+Seat 3: lap1as (big blind) folded on the Pre-Flop
+Seat 4: MezcalMule folded on the Pre-Flop and did not bet
+Seat 6: zeroworker folded on the Pre-Flop and did not bet
+
+Hand #982068716 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/16 04:57:19 UTC
+Kersey 6-max Seat #2 is the button
+Seat 1: Ded54 ($2.32)
+Seat 2: NewPoQuer ($2.28)
+Seat 3: lap1as ($2.59)
+Seat 4: MezcalMule ($1.49)
+Seat 5: 1NMB1 ($1.50) is sitting out
+Seat 6: zeroworker ($2.00)
+lap1as posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Td 9c]
+zeroworker folds
+Ded54 folds
+NewPoQuer folds
+lap1as folds
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.03
+Seat 1: Ded54 folded on the Pre-Flop and did not bet
+Seat 2: NewPoQuer (button) folded on the Pre-Flop
+Seat 3: lap1as (small blind) folded on the Pre-Flop
+Seat 4: MezcalMule did not show and won $0.03
+Seat 6: zeroworker folded on the Pre-Flop and did not bet
+

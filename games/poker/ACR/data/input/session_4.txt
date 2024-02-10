@@ -1,0 +1,1147 @@
+Hand #995852092 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/29 04:35:57 UTC
+Englewood 6-max Seat #6 is the button
+Seat 1: Leee288 ($2.01)
+Seat 2: MezcalMule ($2.00)
+Seat 3: notGentle ($2.19)
+Seat 4: VoorFeller ($2.03)
+Seat 5: uradoodooface ($2.00)
+Seat 6: Sureal55 ($1.97)
+Leee288 posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Qh 9d]
+notGentle raises $0.10 to $0.10
+VoorFeller folds
+uradoodooface folds
+Sureal55 folds
+Leee288 folds
+MezcalMule folds
+Uncalled bet ($0.08) returned to notGentle
+notGentle does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: Leee288 (small blind) folded on the Pre-Flop
+Seat 2: MezcalMule (big blind) folded on the Pre-Flop
+Seat 3: notGentle did not show and won $0.05
+Seat 4: VoorFeller folded on the Pre-Flop and did not bet
+Seat 5: uradoodooface folded on the Pre-Flop and did not bet
+Seat 6: Sureal55 (button) folded on the Pre-Flop
+
+Hand #995852619 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/29 04:36:33 UTC
+Englewood 6-max Seat #1 is the button
+Seat 1: Leee288 ($2.00)
+Seat 2: MezcalMule ($1.98)
+Seat 3: notGentle ($2.22)
+Seat 4: VoorFeller ($2.03)
+Seat 5: uradoodooface ($2.00)
+Seat 6: Sureal55 ($1.97)
+MezcalMule posts the small blind $0.01
+notGentle posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [7s 6s]
+VoorFeller folds
+uradoodooface folds
+Sureal55 folds
+Leee288 raises $0.06 to $0.06
+MezcalMule calls $0.05
+notGentle calls $0.04
+*** FLOP *** [Td Qd Qc]
+Main pot $0.18 | Rake $0.00
+MezcalMule checks
+notGentle checks
+Leee288 checks
+*** TURN *** [Td Qd Qc] [8d]
+Main pot $0.18 | Rake $0.00
+MezcalMule checks
+notGentle checks
+Leee288 checks
+*** RIVER *** [Td Qd Qc 8d] [2c]
+Main pot $0.18 | Rake $0.00
+MezcalMule checks
+notGentle checks
+Leee288 checks
+*** SHOW DOWN ***
+Main pot $0.18 | Rake $0.00
+Leee288 shows [3h 3d] (two pair, Queens and Threes [Qd Qc 3h 3d Td])
+MezcalMule shows [7s 6s] (a pair of Queens [Qd Qc Td 8d 7s])
+notGentle shows [3s Ac] (a pair of Queens [Qd Qc Ac Td 8d])
+Leee288 collected $0.18 from main pot
+*** SUMMARY ***
+Total pot $0.18
+Board [Td Qd Qc 8d 2c]
+Seat 1: Leee288 (button) showed [3h 3d] and won $0.18 with two pair, Queens and Threes [Qd Qc 3h 3d Td]
+Seat 2: MezcalMule (small blind) showed [7s 6s] and lost with a pair of Queens [Qd Qc Td 8d 7s]
+Seat 3: notGentle (big blind) showed [3s Ac] and lost with a pair of Queens [Qd Qc Ac Td 8d]
+Seat 4: VoorFeller folded on the Pre-Flop and did not bet
+Seat 5: uradoodooface folded on the Pre-Flop and did not bet
+Seat 6: Sureal55 folded on the Pre-Flop and did not bet
+
+Hand #995853857 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/29 04:38:04 UTC
+Englewood 6-max Seat #2 is the button
+Seat 1: Leee288 ($2.12)
+Seat 2: MezcalMule ($1.92)
+Seat 3: notGentle ($2.16)
+Seat 4: VoorFeller ($2.03)
+Seat 5: uradoodooface ($2.00)
+Seat 6: Sureal55 ($1.97)
+notGentle posts the small blind $0.01
+VoorFeller posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [7d 4s]
+uradoodooface folds
+Sureal55 folds
+Leee288 folds
+MezcalMule folds
+notGentle folds
+VoorFeller does not show
+*** SUMMARY ***
+Total pot $0.03
+Seat 1: Leee288 folded on the Pre-Flop and did not bet
+Seat 2: MezcalMule (button) folded on the Pre-Flop
+Seat 3: notGentle (small blind) folded on the Pre-Flop
+Seat 4: VoorFeller did not show and won $0.03
+Seat 5: uradoodooface folded on the Pre-Flop and did not bet
+Seat 6: Sureal55 folded on the Pre-Flop and did not bet
+
+Hand #995854091 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/29 04:38:22 UTC
+Englewood 6-max Seat #3 is the button
+Seat 1: Leee288 ($2.12)
+Seat 2: MezcalMule ($1.92)
+Seat 3: notGentle ($2.15)
+Seat 4: VoorFeller ($2.04)
+Seat 5: uradoodooface ($2.00)
+Seat 6: Sureal55 ($1.97)
+VoorFeller posts the small blind $0.01
+uradoodooface posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [2d Th]
+Sureal55 folds
+Leee288 folds
+MezcalMule folds
+notGentle raises $0.05 to $0.05
+VoorFeller folds
+uradoodooface raises $0.21 to $0.23
+notGentle raises $2.10 to $2.15 and is all-in
+uradoodooface calls $1.77 and is all-in
+Uncalled bet ($0.15) returned to notGentle
+*** FLOP *** [8c 6h Js]
+Main pot $3.81 | Rake $0.20
+*** TURN *** [8c 6h Js] [6s]
+Main pot $3.81 | Rake $0.20
+*** RIVER *** [8c 6h Js 6s] [Qh]
+Main pot $3.81 | Rake $0.20
+*** SHOW DOWN ***
+Main pot $3.81 | Rake $0.20
+notGentle shows [3c 3h] (two pair, Sixs and Threes [6s 6h 3h 3c Qh])
+uradoodooface shows [Qd Qc] (a full house, Queens full of Sixs [Qh Qd Qc 6s 6h])
+uradoodooface collected $3.81 from main pot
+*** SUMMARY ***
+Total pot $3.81 | Rake $0.14 | JP Fee $0.06
+Board [8c 6h Js 6s Qh]
+Seat 1: Leee288 folded on the Pre-Flop and did not bet
+Seat 2: MezcalMule folded on the Pre-Flop and did not bet
+Seat 3: notGentle (button) showed [3c 3h] and lost with two pair, Sixs and Threes [6s 6h 3h 3c Qh]
+Seat 4: VoorFeller (small blind) folded on the Pre-Flop
+Seat 5: uradoodooface (big blind) showed [Qd Qc] and won $3.81 with a full house, Queens full of Sixs [Qh Qd Qc 6s 6h]
+Seat 6: Sureal55 folded on the Pre-Flop and did not bet
+
+Hand #995854879 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/29 04:39:19 UTC
+Englewood 6-max Seat #4 is the button
+Seat 1: Leee288 ($2.12)
+Seat 2: MezcalMule ($1.92)
+Seat 3: notGentle ($0.15)
+Seat 4: VoorFeller ($2.03)
+Seat 5: uradoodooface ($3.81)
+Seat 6: Sureal55 ($1.97)
+uradoodooface posts the small blind $0.01
+Sureal55 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Js Qd]
+Leee288 folds
+MezcalMule raises $0.04 to $0.04
+notGentle folds
+VoorFeller folds
+uradoodooface folds
+Sureal55 folds
+Uncalled bet ($0.02) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: Leee288 folded on the Pre-Flop and did not bet
+Seat 2: MezcalMule did not show and won $0.05
+Seat 3: notGentle folded on the Pre-Flop and did not bet
+Seat 4: VoorFeller (button) folded on the Pre-Flop
+Seat 5: uradoodooface (small blind) folded on the Pre-Flop
+Seat 6: Sureal55 (big blind) folded on the Pre-Flop
+
+Hand #995855462 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/29 04:40:01 UTC
+Englewood 6-max Seat #5 is the button
+Seat 1: Leee288 ($2.12)
+Seat 2: MezcalMule ($1.95)
+Seat 3: notGentle ($0.15)
+Seat 4: VoorFeller ($2.03)
+Seat 5: uradoodooface ($3.80)
+Seat 6: Sureal55 ($1.95)
+Sureal55 posts the small blind $0.01
+Leee288 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Ac Ts]
+MezcalMule raises $0.04 to $0.04
+notGentle raises $0.12 to $0.12
+VoorFeller calls $0.12
+uradoodooface folds
+Sureal55 folds
+Leee288 folds
+MezcalMule folds
+*** FLOP *** [7s 5s 7d]
+Main pot $0.30 | Rake $0.01
+notGentle checks
+VoorFeller checks
+*** TURN *** [7s 5s 7d] [3d]
+Main pot $0.30 | Rake $0.01
+notGentle checks
+VoorFeller checks
+*** RIVER *** [7s 5s 7d 3d] [Th]
+Main pot $0.30 | Rake $0.01
+notGentle bets $0.03 and is all-in
+VoorFeller folds
+Uncalled bet ($0.03) returned to notGentle
+notGentle does not show
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01
+Board [7s 5s 7d 3d Th]
+Seat 1: Leee288 (big blind) folded on the Pre-Flop
+Seat 2: MezcalMule folded on the Pre-Flop and did not bet
+Seat 3: notGentle did not show and won $0.30
+Seat 4: VoorFeller folded on the River
+Seat 5: uradoodooface (button) folded on the Pre-Flop
+Seat 6: Sureal55 (small blind) folded on the Pre-Flop
+
+Hand #995856422 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/29 04:41:11 UTC
+Englewood 6-max Seat #6 is the button
+Seat 1: Leee288 ($2.10)
+Seat 2: MezcalMule ($1.91)
+Seat 3: notGentle ($0.33)
+Seat 4: VoorFeller ($2.00)
+Seat 5: uradoodooface ($3.80)
+Seat 6: Sureal55 ($1.94)
+Leee288 posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Td Kd]
+notGentle folds
+VoorFeller folds
+uradoodooface folds
+Sureal55 folds
+Leee288 raises $0.05 to $0.06
+MezcalMule calls $0.04
+*** FLOP *** [Qh 3c Ad]
+Main pot $0.12 | Rake $0.00
+Leee288 checks
+MezcalMule bets $0.09
+Leee288 calls $0.09
+*** TURN *** [Qh 3c Ad] [6c]
+Main pot $0.29 | Rake $0.01
+Leee288 checks
+MezcalMule checks
+*** RIVER *** [Qh 3c Ad 6c] [3h]
+Main pot $0.29 | Rake $0.01
+Leee288 checks
+MezcalMule checks
+*** SHOW DOWN ***
+Main pot $0.29 | Rake $0.01
+Leee288 shows [Js Ah] (two pair, Aces and Threes [Ah Ad 3h 3c Qh])
+MezcalMule shows [Td Kd] (a pair of Threes [3h 3c Ad Kd Qh])
+Leee288 collected $0.29 from main pot
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01
+Board [Qh 3c Ad 6c 3h]
+Seat 1: Leee288 (small blind) showed [Js Ah] and won $0.29 with two pair, Aces and Threes [Ah Ad 3h 3c Qh]
+Seat 2: MezcalMule (big blind) showed [Td Kd] and lost with a pair of Threes [3h 3c Ad Kd Qh]
+Seat 3: notGentle folded on the Pre-Flop and did not bet
+Seat 4: VoorFeller folded on the Pre-Flop and did not bet
+Seat 5: uradoodooface folded on the Pre-Flop and did not bet
+Seat 6: Sureal55 (button) folded on the Pre-Flop
+
+Hand #995857647 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/29 04:42:42 UTC
+Englewood 6-max Seat #1 is the button
+Seat 1: Leee288 ($2.24)
+Seat 2: MezcalMule ($1.76)
+Seat 3: notGentle ($0.33)
+Seat 4: VoorFeller ($2.00)
+Seat 5: uradoodooface ($3.80)
+Seat 6: Sureal55 ($1.94)
+MezcalMule posts the small blind $0.01
+notGentle posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Kh 9s]
+VoorFeller folds
+uradoodooface raises $0.06 to $0.06
+Sureal55 raises $0.21 to $0.21
+Leee288 folds
+MezcalMule folds
+notGentle folds
+uradoodooface folds
+Uncalled bet ($0.15) returned to Sureal55
+Sureal55 does not show
+*** SUMMARY ***
+Total pot $0.15
+Seat 1: Leee288 (button) folded on the Pre-Flop
+Seat 2: MezcalMule (small blind) folded on the Pre-Flop
+Seat 3: notGentle (big blind) folded on the Pre-Flop
+Seat 4: VoorFeller folded on the Pre-Flop and did not bet
+Seat 5: uradoodooface folded on the Pre-Flop and did not bet
+Seat 6: Sureal55 did not show and won $0.15
+
+Hand #995858281 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/29 04:43:29 UTC
+Englewood 6-max Seat #2 is the button
+Seat 1: Leee288 ($2.24)
+Seat 2: MezcalMule ($1.75)
+Seat 3: notGentle ($0.31)
+Seat 4: VoorFeller ($2.00)
+Seat 5: uradoodooface ($3.74)
+Seat 6: Sureal55 ($2.03)
+notGentle posts the small blind $0.01
+VoorFeller posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [9s 3d]
+uradoodooface folds
+Sureal55 raises $0.07 to $0.07
+Leee288 folds
+MezcalMule folds
+notGentle folds
+VoorFeller folds
+Uncalled bet ($0.05) returned to Sureal55
+Sureal55 does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: Leee288 folded on the Pre-Flop and did not bet
+Seat 2: MezcalMule (button) folded on the Pre-Flop
+Seat 3: notGentle (small blind) folded on the Pre-Flop
+Seat 4: VoorFeller (big blind) folded on the Pre-Flop
+Seat 5: uradoodooface folded on the Pre-Flop and did not bet
+Seat 6: Sureal55 did not show and won $0.05
+
+Hand #995858777 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/29 04:44:06 UTC
+Englewood 6-max Seat #3 is the button
+Seat 1: Leee288 ($2.24)
+Seat 2: MezcalMule ($1.75)
+Seat 3: notGentle ($0.30)
+Seat 4: VoorFeller ($2.00)
+Seat 5: uradoodooface ($3.74)
+Seat 6: Sureal55 ($2.06)
+VoorFeller posts the small blind $0.01
+uradoodooface posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Qs 9s]
+Sureal55 folds
+Leee288 folds
+MezcalMule raises $0.04 to $0.04
+notGentle folds
+VoorFeller folds
+uradoodooface folds
+Uncalled bet ($0.02) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: Leee288 folded on the Pre-Flop and did not bet
+Seat 2: MezcalMule did not show and won $0.05
+Seat 3: notGentle (button) folded on the Pre-Flop
+Seat 4: VoorFeller (small blind) folded on the Pre-Flop
+Seat 5: uradoodooface (big blind) folded on the Pre-Flop
+Seat 6: Sureal55 folded on the Pre-Flop and did not bet
+
+Hand #995859225 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/29 04:44:40 UTC
+Englewood 6-max Seat #4 is the button
+Seat 1: Leee288 ($2.24)
+Seat 2: MezcalMule ($1.78)
+Seat 3: notGentle ($0.30)
+Seat 4: VoorFeller ($2.00)
+Seat 5: uradoodooface ($3.72)
+Seat 6: Sureal55 ($2.06)
+uradoodooface posts the small blind $0.01
+Sureal55 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Ks 3c]
+Leee288 folds
+MezcalMule folds
+notGentle folds
+VoorFeller folds
+uradoodooface folds
+Sureal55 does not show
+*** SUMMARY ***
+Total pot $0.03
+Seat 1: Leee288 folded on the Pre-Flop and did not bet
+Seat 2: MezcalMule folded on the Pre-Flop and did not bet
+Seat 3: notGentle folded on the Pre-Flop and did not bet
+Seat 4: VoorFeller (button) folded on the Pre-Flop
+Seat 5: uradoodooface (small blind) folded on the Pre-Flop
+Seat 6: Sureal55 did not show and won $0.03
+
+Hand #995859463 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/29 04:44:57 UTC
+Englewood 6-max Seat #5 is the button
+Seat 1: Leee288 ($2.24)
+Seat 2: MezcalMule ($1.78)
+Seat 3: notGentle ($2.00)
+Seat 4: VoorFeller ($2.00)
+Seat 5: uradoodooface ($3.71)
+Seat 6: Sureal55 ($2.07)
+Sureal55 posts the small blind $0.01
+Leee288 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [2d Ad]
+MezcalMule raises $0.04 to $0.04
+notGentle folds
+VoorFeller folds
+uradoodooface folds
+Sureal55 raises $0.10 to $0.11
+Leee288 folds
+MezcalMule calls $0.07
+*** FLOP *** [5d Qh 6c]
+Main pot $0.23 | Rake $0.01
+Sureal55 checks
+MezcalMule checks
+*** TURN *** [5d Qh 6c] [Ts]
+Main pot $0.23 | Rake $0.01
+Sureal55 checks
+MezcalMule bets $0.18
+Sureal55 calls $0.18
+*** RIVER *** [5d Qh 6c Ts] [Ac]
+Main pot $0.57 | Rake $0.03
+Sureal55 checks
+MezcalMule bets $0.60
+Sureal55 calls $0.60
+*** SHOW DOWN ***
+Main pot $1.71 | Rake $0.09
+MezcalMule shows [2d Ad] (a pair of Aces [Ad Ac Qh Ts 6c])
+Sureal55 shows [As Js] (a pair of Aces [As Ac Qh Js Ts])
+Sureal55 collected $1.71 from main pot
+*** SUMMARY ***
+Total pot $1.71 | Rake $0.07 | JP Fee $0.02
+Board [5d Qh 6c Ts Ac]
+Seat 1: Leee288 (big blind) folded on the Pre-Flop
+Seat 2: MezcalMule showed [2d Ad] and lost with a pair of Aces [Ad Ac Qh Ts 6c]
+Seat 3: notGentle folded on the Pre-Flop and did not bet
+Seat 4: VoorFeller folded on the Pre-Flop and did not bet
+Seat 5: uradoodooface (button) folded on the Pre-Flop
+Seat 6: Sureal55 (small blind) showed [As Js] and won $1.71 with a pair of Aces [As Ac Qh Js Ts] with the kicker Jack
+
+Hand #995860476 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/29 04:46:14 UTC
+Englewood 6-max Seat #6 is the button
+Seat 1: Leee288 ($2.22)
+Seat 2: MezcalMule ($0.89)
+Seat 3: notGentle ($2.00)
+Seat 4: VoorFeller ($2.00)
+Seat 5: uradoodooface ($3.71)
+Seat 6: Sureal55 ($2.89)
+Leee288 posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Ah Ac]
+notGentle folds
+VoorFeller folds
+uradoodooface folds
+Sureal55 folds
+Leee288 raises $0.05 to $0.06
+MezcalMule raises $0.12 to $0.14
+Leee288 calls $0.08
+*** FLOP *** [4d 2d Jh]
+Main pot $0.27 | Rake $0.01
+Leee288 checks
+MezcalMule bets $0.28
+Leee288 folds
+Uncalled bet ($0.28) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01
+Board [4d 2d Jh]
+Seat 1: Leee288 (small blind) folded on the Flop
+Seat 2: MezcalMule did not show and won $0.27
+Seat 3: notGentle folded on the Pre-Flop and did not bet
+Seat 4: VoorFeller folded on the Pre-Flop and did not bet
+Seat 5: uradoodooface folded on the Pre-Flop and did not bet
+Seat 6: Sureal55 (button) folded on the Pre-Flop
+
+Hand #995861244 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/29 04:47:14 UTC
+Englewood 6-max Seat #1 is the button
+Seat 1: Leee288 ($2.08)
+Seat 2: MezcalMule ($1.02)
+Seat 3: notGentle ($2.00)
+Seat 4: VoorFeller ($2.00)
+Seat 5: uradoodooface ($3.71)
+Seat 6: Sureal55 ($2.89)
+MezcalMule posts the small blind $0.01
+notGentle posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [9d 6c]
+VoorFeller folds
+uradoodooface folds
+Sureal55 folds
+Leee288 raises $0.06 to $0.06
+MezcalMule folds
+notGentle calls $0.04
+*** FLOP *** [4d 8c 6s]
+Main pot $0.13 | Rake $0.00
+notGentle checks
+Leee288 bets $0.06
+notGentle folds
+Uncalled bet ($0.06) returned to Leee288
+Leee288 does not show
+*** SUMMARY ***
+Total pot $0.13
+Board [4d 8c 6s]
+Seat 1: Leee288 did not show and won $0.13
+Seat 2: MezcalMule (small blind) folded on the Pre-Flop
+Seat 3: notGentle (big blind) folded on the Flop
+Seat 4: VoorFeller folded on the Pre-Flop and did not bet
+Seat 5: uradoodooface folded on the Pre-Flop and did not bet
+Seat 6: Sureal55 folded on the Pre-Flop and did not bet
+
+Hand #995862006 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/29 04:48:10 UTC
+Englewood 6-max Seat #2 is the button
+Seat 1: Leee288 ($2.15)
+Seat 2: MezcalMule ($1.01)
+Seat 3: notGentle ($1.94)
+Seat 4: VoorFeller ($2.00)
+Seat 5: uradoodooface ($3.71)
+Seat 6: Sureal55 ($2.89)
+notGentle posts the small blind $0.01
+VoorFeller posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [4d 6s]
+uradoodooface folds
+Sureal55 folds
+Leee288 raises $0.06 to $0.06
+MezcalMule folds
+notGentle folds
+VoorFeller folds
+Uncalled bet ($0.04) returned to Leee288
+Leee288 does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: Leee288 did not show and won $0.05
+Seat 2: MezcalMule (button) folded on the Pre-Flop
+Seat 3: notGentle (small blind) folded on the Pre-Flop
+Seat 4: VoorFeller (big blind) folded on the Pre-Flop
+Seat 5: uradoodooface folded on the Pre-Flop and did not bet
+Seat 6: Sureal55 folded on the Pre-Flop and did not bet
+
+Hand #995862308 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/29 04:48:32 UTC
+Englewood 6-max Seat #3 is the button
+Seat 1: Leee288 ($2.18)
+Seat 2: MezcalMule ($1.01)
+Seat 3: notGentle ($1.93)
+Seat 4: VoorFeller ($2.00)
+Seat 5: uradoodooface ($3.71) is sitting out
+Seat 6: Sureal55 ($2.89)
+VoorFeller posts the small blind $0.01
+Sureal55 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Kh 7s]
+Leee288 folds
+MezcalMule folds
+notGentle raises $0.10 to $0.10
+VoorFeller folds
+Sureal55 folds
+Uncalled bet ($0.08) returned to notGentle
+notGentle does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: Leee288 folded on the Pre-Flop and did not bet
+Seat 2: MezcalMule folded on the Pre-Flop and did not bet
+Seat 3: notGentle did not show and won $0.05
+Seat 4: VoorFeller (small blind) folded on the Pre-Flop
+Seat 6: Sureal55 (big blind) folded on the Pre-Flop
+
+Hand #995862712 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/29 04:49:04 UTC
+Englewood 6-max Seat #4 is the button
+Seat 1: Leee288 ($2.18)
+Seat 2: MezcalMule ($1.01)
+Seat 3: notGentle ($1.96)
+Seat 4: VoorFeller ($2.00)
+Seat 5: uradoodooface ($3.71) is sitting out
+Seat 6: Sureal55 ($2.87)
+Sureal55 posts the small blind $0.01
+Leee288 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [7c Tc]
+MezcalMule folds
+notGentle folds
+VoorFeller folds
+Sureal55 folds
+Leee288 does not show
+*** SUMMARY ***
+Total pot $0.03
+Seat 1: Leee288 did not show and won $0.03
+Seat 2: MezcalMule folded on the Pre-Flop and did not bet
+Seat 3: notGentle folded on the Pre-Flop and did not bet
+Seat 4: VoorFeller (button) folded on the Pre-Flop
+Seat 6: Sureal55 (small blind) folded on the Pre-Flop
+
+Hand #995863016 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/29 04:49:28 UTC
+Englewood 6-max Seat #6 is the button
+Seat 1: Leee288 ($2.19)
+Seat 2: MezcalMule ($1.01)
+Seat 3: notGentle ($1.96)
+Seat 4: VoorFeller ($2.00)
+Seat 5: uradoodooface ($3.71) is sitting out
+Seat 6: Sureal55 ($2.86)
+Leee288 posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Ac 2s]
+notGentle folds
+VoorFeller raises $0.05 to $0.05
+Sureal55 folds
+Leee288 folds
+MezcalMule calls $0.03
+*** FLOP *** [3d Ts 2c]
+Main pot $0.11 | Rake $0.00
+MezcalMule checks
+VoorFeller bets $0.04
+MezcalMule calls $0.04
+*** TURN *** [3d Ts 2c] [6d]
+Main pot $0.19 | Rake $0.00
+MezcalMule checks
+VoorFeller bets $0.13
+MezcalMule folds
+Uncalled bet ($0.13) returned to VoorFeller
+VoorFeller does not show
+*** SUMMARY ***
+Total pot $0.19
+Board [3d Ts 2c 6d]
+Seat 1: Leee288 (small blind) folded on the Pre-Flop
+Seat 2: MezcalMule (big blind) folded on the Turn
+Seat 3: notGentle folded on the Pre-Flop and did not bet
+Seat 4: VoorFeller did not show and won $0.19
+Seat 6: Sureal55 (button) folded on the Pre-Flop
+
+Hand #995863905 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/29 04:50:35 UTC
+Englewood 6-max Seat #1 is the button
+Seat 1: Leee288 ($2.18)
+Seat 2: MezcalMule ($0.92)
+Seat 3: notGentle ($1.96)
+Seat 4: VoorFeller ($2.10)
+Seat 5: uradoodooface ($3.71) is sitting out
+Seat 6: Sureal55 ($2.86)
+MezcalMule posts the small blind $0.01
+notGentle posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [7d Ah]
+VoorFeller folds
+Sureal55 folds
+Leee288 folds
+MezcalMule calls $0.01
+notGentle checks
+*** FLOP *** [6h 9h 2h]
+Main pot $0.04 | Rake $0.00
+MezcalMule bets $0.02
+notGentle folds
+Uncalled bet ($0.02) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.04
+Board [6h 9h 2h]
+Seat 1: Leee288 (button) folded on the Pre-Flop
+Seat 2: MezcalMule did not show and won $0.04
+Seat 3: notGentle (big blind) folded on the Flop
+Seat 4: VoorFeller folded on the Pre-Flop and did not bet
+Seat 6: Sureal55 folded on the Pre-Flop and did not bet
+
+Hand #995865763 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/29 04:52:51 UTC
+Englewood 6-max Seat #4 is the button
+Seat 1: Leee288 ($2.21)
+Seat 2: MezcalMule ($0.94)
+Seat 3: teoddy ($2.00)
+Seat 4: VoorFeller ($2.30)
+Seat 5: uradoodooface ($3.71) is sitting out
+Seat 6: Sureal55 ($2.61)
+Sureal55 posts the small blind $0.01
+Leee288 posts the big blind $0.02
+teoddy waits for big blind
+*** HOLE CARDS ***
+Dealt to MezcalMule [5c Jd]
+MezcalMule folds
+VoorFeller folds
+Sureal55 raises $0.05 to $0.06
+Leee288 raises $0.16 to $0.18
+Sureal55 calls $0.12
+*** FLOP *** [Ts 7c Qh]
+Main pot $0.35 | Rake $0.01
+Sureal55 checks
+Leee288 bets $0.35
+Sureal55 folds
+Uncalled bet ($0.35) returned to Leee288
+Leee288 does not show
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.01
+Board [Ts 7c Qh]
+Seat 1: Leee288 did not show and won $0.35
+Seat 2: MezcalMule folded on the Pre-Flop and did not bet
+Seat 4: VoorFeller (button) folded on the Pre-Flop
+Seat 6: Sureal55 (small blind) folded on the Flop
+
+Hand #995866579 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/29 04:53:51 UTC
+Englewood 6-max Seat #6 is the button
+Seat 1: Leee288 ($2.38)
+Seat 2: MezcalMule ($0.94)
+Seat 3: teoddy ($2.00)
+Seat 4: VoorFeller ($2.30)
+Seat 5: uradoodooface ($3.71) is sitting out
+Seat 6: Sureal55 ($2.43)
+Leee288 posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+teoddy waits for big blind
+*** HOLE CARDS ***
+Dealt to MezcalMule [Jh 9s]
+VoorFeller folds
+Sureal55 folds
+Leee288 folds
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.03
+Seat 1: Leee288 (small blind) folded on the Pre-Flop
+Seat 2: MezcalMule did not show and won $0.03
+Seat 4: VoorFeller folded on the Pre-Flop and did not bet
+Seat 6: Sureal55 (button) folded on the Pre-Flop
+
+Hand #995866736 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/29 04:54:03 UTC
+Englewood 6-max Seat #1 is the button
+Seat 1: Leee288 ($2.37)
+Seat 2: MezcalMule ($0.95)
+Seat 3: teoddy ($2.00)
+Seat 4: VoorFeller ($2.30)
+Seat 5: uradoodooface ($3.71) is sitting out
+Seat 6: Sureal55 ($2.43)
+MezcalMule posts the small blind $0.01
+teoddy posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Jc Ks]
+VoorFeller folds
+Sureal55 folds
+Leee288 raises $0.05 to $0.05
+MezcalMule calls $0.04
+teoddy folds
+*** FLOP *** [Qc 8s 3s]
+Main pot $0.12 | Rake $0.00
+MezcalMule checks
+Leee288 checks
+*** TURN *** [Qc 8s 3s] [4d]
+Main pot $0.12 | Rake $0.00
+MezcalMule checks
+Leee288 bets $0.12
+MezcalMule folds
+Uncalled bet ($0.12) returned to Leee288
+Leee288 does not show
+*** SUMMARY ***
+Total pot $0.12
+Board [Qc 8s 3s 4d]
+Seat 1: Leee288 did not show and won $0.12
+Seat 2: MezcalMule (small blind) folded on the Turn
+Seat 3: teoddy (big blind) folded on the Pre-Flop
+Seat 4: VoorFeller folded on the Pre-Flop and did not bet
+Seat 6: Sureal55 folded on the Pre-Flop and did not bet
+
+Hand #995867524 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/29 04:55:00 UTC
+Englewood 6-max Seat #2 is the button
+Seat 1: Leee288 ($2.44)
+Seat 2: MezcalMule ($0.90)
+Seat 3: teoddy ($2.00)
+Seat 4: VoorFeller ($2.30)
+Seat 5: uradoodooface ($3.71) is sitting out
+Seat 6: Sureal55 ($2.43)
+teoddy posts the small blind $0.01
+VoorFeller posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [2h 5h]
+Sureal55 raises $0.04 to $0.04
+Leee288 folds
+MezcalMule folds
+teoddy folds
+VoorFeller folds
+Uncalled bet ($0.02) returned to Sureal55
+Sureal55 does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: Leee288 folded on the Pre-Flop and did not bet
+Seat 2: MezcalMule (button) folded on the Pre-Flop
+Seat 3: teoddy (small blind) folded on the Pre-Flop
+Seat 4: VoorFeller (big blind) folded on the Pre-Flop
+Seat 6: Sureal55 did not show and won $0.05
+
+Hand #995867834 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/29 04:55:36 UTC
+Englewood 6-max Seat #3 is the button
+Seat 1: Leee288 ($2.44)
+Seat 2: MezcalMule ($0.90)
+Seat 3: teoddy ($2.00)
+Seat 4: VoorFeller ($2.28)
+Seat 5: uradoodooface ($3.71) is sitting out
+Seat 6: Sureal55 ($2.46)
+VoorFeller posts the small blind $0.01
+Sureal55 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Ac Js]
+Leee288 folds
+MezcalMule raises $0.05 to $0.05
+teoddy folds
+VoorFeller folds
+Sureal55 calls $0.03
+*** FLOP *** [9s Qh 7d]
+Main pot $0.11 | Rake $0.00
+Sureal55 bets $0.05
+MezcalMule folds
+Uncalled bet ($0.05) returned to Sureal55
+Sureal55 does not show
+*** SUMMARY ***
+Total pot $0.11
+Board [9s Qh 7d]
+Seat 1: Leee288 folded on the Pre-Flop and did not bet
+Seat 2: MezcalMule folded on the Flop
+Seat 3: teoddy (button) folded on the Pre-Flop
+Seat 4: VoorFeller (small blind) folded on the Pre-Flop
+Seat 6: Sureal55 did not show and won $0.11
+
+Hand #995868204 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/29 04:56:22 UTC
+Englewood 6-max Seat #4 is the button
+Seat 1: Leee288 ($2.44)
+Seat 2: MezcalMule ($0.85)
+Seat 3: teoddy ($2.00)
+Seat 4: VoorFeller ($2.27)
+Seat 6: Sureal55 ($2.52)
+Sureal55 posts the small blind $0.01
+Leee288 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [5c 2d]
+MezcalMule folds
+teoddy folds
+VoorFeller folds
+Sureal55 folds
+Leee288 does not show
+*** SUMMARY ***
+Total pot $0.03
+Seat 1: Leee288 did not show and won $0.03
+Seat 2: MezcalMule folded on the Pre-Flop and did not bet
+Seat 3: teoddy folded on the Pre-Flop and did not bet
+Seat 4: VoorFeller (button) folded on the Pre-Flop
+Seat 6: Sureal55 (small blind) folded on the Pre-Flop
+
+Hand #995868348 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/29 04:56:40 UTC
+Englewood 6-max Seat #6 is the button
+Seat 1: Leee288 ($2.45)
+Seat 2: MezcalMule ($0.85)
+Seat 3: teoddy ($2.00)
+Seat 4: VoorFeller ($2.27)
+Seat 6: Sureal55 ($2.51)
+Leee288 posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [9h 9c]
+teoddy folds
+VoorFeller folds
+Sureal55 raises $0.05 to $0.05
+Leee288 folds
+MezcalMule raises $0.13 to $0.15
+Sureal55 raises $0.63 to $0.68
+MezcalMule raises $0.70 to $0.85 and is all-in
+Sureal55 calls $0.17
+*** FLOP *** [2c 3c 2h]
+Main pot $1.63 | Rake $0.08
+*** TURN *** [2c 3c 2h] [Ts]
+Main pot $1.63 | Rake $0.08
+*** RIVER *** [2c 3c 2h Ts] [Th]
+Main pot $1.63 | Rake $0.08
+*** SHOW DOWN ***
+Main pot $1.63 | Rake $0.08
+MezcalMule shows [9h 9c] (two pair, Tens and Nines [Ts Th 9h 9c 3c])
+Sureal55 shows [Qd Qs] (two pair, Queens and Tens [Qs Qd Ts Th 3c])
+Sureal55 cashed out hand for $1.31 | Cash Out Fee $0.01
+*** SUMMARY ***
+Total pot $1.63 | Rake $0.06 | JP Fee $0.02
+Board [2c 3c 2h Ts Th]
+Seat 1: Leee288 (small blind) folded on the Pre-Flop
+Seat 2: MezcalMule (big blind) showed [9h 9c] and lost with two pair, Tens and Nines [Ts Th 9h 9c 3c]
+Seat 3: teoddy folded on the Pre-Flop and did not bet
+Seat 4: VoorFeller folded on the Pre-Flop and did not bet
+Seat 6: Sureal55 (button) showed [Qd Qs] and won $1.63 with two pair, Queens and Tens [Qs Qd Ts Th 3c] (pot not awarded as player cashed out)
+
+Hand #995871181 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/29 05:01:46 UTC
+Englewood 6-max Seat #6 is the button
+Seat 1: Leee288 ($2.75)
+Seat 2: MezcalMule ($2.00)
+Seat 3: teoddy ($2.00) is sitting out
+Seat 4: JWCardPlayer ($1.22)
+Seat 5: JoshGB ($1.79)
+Seat 6: Sureal55 ($2.93)
+Leee288 posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [6d Qh]
+JWCardPlayer folds
+JoshGB folds
+Sureal55 raises $0.07 to $0.07
+Leee288 folds
+MezcalMule folds
+Uncalled bet ($0.05) returned to Sureal55
+Sureal55 does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: Leee288 (small blind) folded on the Pre-Flop
+Seat 2: MezcalMule (big blind) folded on the Pre-Flop
+Seat 4: JWCardPlayer folded on the Pre-Flop and did not bet
+Seat 5: JoshGB folded on the Pre-Flop and did not bet
+Seat 6: Sureal55 did not show and won $0.05
+
+Hand #995871463 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/29 05:02:08 UTC
+Englewood 6-max Seat #1 is the button
+Seat 1: Leee288 ($2.74)
+Seat 2: MezcalMule ($1.98)
+Seat 3: teoddy ($2.00) is sitting out
+Seat 4: JWCardPlayer ($1.22)
+Seat 5: JoshGB ($1.79)
+Seat 6: Sureal55 ($2.96)
+MezcalMule posts the small blind $0.01
+JWCardPlayer posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [7c 6d]
+JoshGB folds
+Sureal55 folds
+Leee288 raises $0.06 to $0.06
+MezcalMule folds
+JWCardPlayer raises $0.08 to $0.10
+Leee288 calls $0.04
+*** FLOP *** [5c 8d 5s]
+Main pot $0.20 | Rake $0.01
+JWCardPlayer bets $0.07
+Leee288 calls $0.07
+*** TURN *** [5c 8d 5s] [6c]
+Main pot $0.34 | Rake $0.01
+JWCardPlayer bets $0.26
+Leee288 folds
+Uncalled bet ($0.26) returned to JWCardPlayer
+JWCardPlayer does not show
+*** SUMMARY ***
+Total pot $0.34 | Rake $0.01
+Board [5c 8d 5s 6c]
+Seat 1: Leee288 (button) folded on the Turn
+Seat 2: MezcalMule (small blind) folded on the Pre-Flop
+Seat 4: JWCardPlayer did not show and won $0.34
+Seat 5: JoshGB folded on the Pre-Flop and did not bet
+Seat 6: Sureal55 folded on the Pre-Flop and did not bet
+
+Hand #995872315 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/29 05:03:14 UTC
+Englewood 6-max Seat #2 is the button
+Seat 1: Leee288 ($2.57)
+Seat 2: MezcalMule ($1.97)
+Seat 3: teoddy ($2.00) is sitting out
+Seat 4: JWCardPlayer ($1.39)
+Seat 5: JoshGB ($1.79)
+Seat 6: Sureal55 ($2.96)
+JWCardPlayer posts the small blind $0.01
+JoshGB posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Ks 8s]
+Sureal55 raises $0.05 to $0.05
+Leee288 folds
+MezcalMule calls $0.05
+JWCardPlayer raises $0.07 to $0.08
+JoshGB folds
+Sureal55 raises $0.26 to $0.31
+MezcalMule folds
+JWCardPlayer calls $0.23
+*** FLOP *** [5c Kh Td]
+Main pot $0.66 | Rake $0.03
+JWCardPlayer checks
+Sureal55 bets $0.40
+JWCardPlayer calls $0.40
+*** TURN *** [5c Kh Td] [9c]
+Main pot $1.42 | Rake $0.07
+JWCardPlayer bets $0.68 and is all-in
+Sureal55 calls $0.68
+*** RIVER *** [5c Kh Td 9c] [2d]
+Main pot $2.71 | Rake $0.14
+*** SHOW DOWN ***
+Main pot $2.71 | Rake $0.14
+JWCardPlayer shows [5h 5d] (three of a kind, Set of Fives [5h 5d 5c Kh Td])
+Sureal55 shows [9s Ts] (two pair, Tens and Nines [Ts Td 9s 9c Kh])
+JWCardPlayer collected $2.71 from main pot
+Sureal55 cashed out hand for $0.25 | Cash Out Fee $0.00
+*** SUMMARY ***
+Total pot $2.71 | Rake $0.10 | JP Fee $0.04
+Board [5c Kh Td 9c 2d]
+Seat 1: Leee288 folded on the Pre-Flop and did not bet
+Seat 2: MezcalMule (button) folded on the Pre-Flop
+Seat 4: JWCardPlayer (small blind) showed [5h 5d] and won $2.71 with three of a kind, Set of Fives [5h 5d 5c Kh Td]
+Seat 5: JoshGB (big blind) folded on the Pre-Flop
+Seat 6: Sureal55 showed [9s Ts] and lost with two pair, Tens and Nines [Ts Td 9s 9c Kh] (cashed out)
+
+Hand #995873249 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/29 05:04:24 UTC
+Englewood 6-max Seat #4 is the button
+Seat 1: Leee288 ($2.57)
+Seat 2: MezcalMule ($1.92)
+Seat 3: teoddy ($2.00) is sitting out
+Seat 4: JWCardPlayer ($2.71)
+Seat 5: JoshGB ($1.77)
+Seat 6: Sureal55 ($1.82)
+JoshGB posts the small blind $0.01
+Sureal55 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Qs Ac]
+Leee288 folds
+MezcalMule raises $0.04 to $0.04
+JWCardPlayer raises $0.08 to $0.08
+JoshGB folds
+Sureal55 folds
+MezcalMule calls $0.04
+*** FLOP *** [Jd Jh 3s]
+Main pot $0.19 | Rake $0.00
+MezcalMule checks
+JWCardPlayer bets $0.06
+MezcalMule calls $0.06
+*** TURN *** [Jd Jh 3s] [Qd]
+Main pot $0.30 | Rake $0.01
+MezcalMule checks
+JWCardPlayer bets $0.23
+MezcalMule calls $0.23
+*** RIVER *** [Jd Jh 3s Qd] [9c]
+Main pot $0.74 | Rake $0.03
+MezcalMule checks
+JWCardPlayer bets $2.34 and is all-in
+MezcalMule folds
+Uncalled bet ($2.34) returned to JWCardPlayer
+JWCardPlayer does not show
+*** SUMMARY ***
+Total pot $0.74 | Rake $0.03
+Board [Jd Jh 3s Qd 9c]
+Seat 1: Leee288 folded on the Pre-Flop and did not bet
+Seat 2: MezcalMule folded on the River
+Seat 4: JWCardPlayer did not show and won $0.74
+Seat 5: JoshGB (small blind) folded on the Pre-Flop
+Seat 6: Sureal55 (big blind) folded on the Pre-Flop
+
+Hand #995874092 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/29 05:05:29 UTC
+Englewood 6-max Seat #5 is the button
+Seat 1: Leee288 ($2.57)
+Seat 2: MezcalMule ($1.55)
+Seat 3: teoddy ($2.00)
+Seat 4: JWCardPlayer ($3.08)
+Seat 5: JoshGB ($2.00)
+Seat 6: Sureal55 ($1.80)
+Sureal55 posts the small blind $0.01
+Leee288 posts the big blind $0.02
+teoddy waits for big blind
+*** HOLE CARDS ***
+Dealt to MezcalMule [Ks Js]
+MezcalMule raises $0.06 to $0.06
+JWCardPlayer folds
+JoshGB folds
+Sureal55 folds
+Leee288 calls $0.04
+*** FLOP *** [4s 5d 3h]
+Main pot $0.13 | Rake $0.00
+Leee288 checks
+MezcalMule checks
+*** TURN *** [4s 5d 3h] [Tc]
+Main pot $0.13 | Rake $0.00
+Leee288 bets $0.06
+MezcalMule folds
+Uncalled bet ($0.06) returned to Leee288
+Leee288 does not show
+*** SUMMARY ***
+Total pot $0.13
+Board [4s 5d 3h Tc]
+Seat 1: Leee288 did not show and won $0.13
+Seat 2: MezcalMule folded on the Turn
+Seat 4: JWCardPlayer folded on the Pre-Flop and did not bet
+Seat 5: JoshGB (button) folded on the Pre-Flop
+Seat 6: Sureal55 (small blind) folded on the Pre-Flop
+
+Hand #995875131 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/29 05:06:49 UTC
+Englewood 6-max Seat #6 is the button
+Seat 1: Leee288 ($2.64)
+Seat 2: MezcalMule ($1.49)
+Seat 3: teoddy ($2.00)
+Seat 4: JWCardPlayer ($3.08)
+Seat 5: JoshGB ($2.00)
+Seat 6: Sureal55 ($1.79)
+Leee288 posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+teoddy waits for big blind
+*** HOLE CARDS ***
+Dealt to MezcalMule [4h Qc]
+JWCardPlayer raises $0.06 to $0.06
+JoshGB calls $0.06
+Sureal55 folds
+Leee288 folds
+MezcalMule folds
+*** FLOP *** [9h 9c Kh]
+Main pot $0.15 | Rake $0.00
+JWCardPlayer checks
+JoshGB checks
+*** TURN *** [9h 9c Kh] [9d]
+Main pot $0.15 | Rake $0.00
+JWCardPlayer bets $0.07
+JoshGB calls $0.07
+*** RIVER *** [9h 9c Kh 9d] [Jd]
+Main pot $0.28 | Rake $0.01
+JWCardPlayer bets $0.14
+JoshGB folds
+Uncalled bet ($0.14) returned to JWCardPlayer
+JWCardPlayer does not show
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01
+Board [9h 9c Kh 9d Jd]
+Seat 1: Leee288 (small blind) folded on the Pre-Flop
+Seat 2: MezcalMule (big blind) folded on the Pre-Flop
+Seat 4: JWCardPlayer did not show and won $0.28
+Seat 5: JoshGB folded on the River
+Seat 6: Sureal55 (button) folded on the Pre-Flop
+
+Hand #995876101 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/29 05:08:03 UTC
+Englewood 6-max Seat #1 is the button
+Seat 1: Leee288 ($2.63)
+Seat 2: MezcalMule ($1.47)
+Seat 3: teoddy ($2.00)
+Seat 4: JWCardPlayer ($3.23)
+Seat 5: JoshGB ($1.87)
+Seat 6: Sureal55 ($1.79)
+MezcalMule posts the small blind $0.01
+teoddy posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Ac Kc]
+JWCardPlayer raises $0.06 to $0.06
+JoshGB folds
+Sureal55 folds
+Leee288 folds
+MezcalMule raises $0.13 to $0.14
+teoddy folds
+JWCardPlayer calls $0.08
+*** FLOP *** [Td 9s 8d]
+Main pot $0.29 | Rake $0.01
+MezcalMule checks
+JWCardPlayer bets $0.22
+MezcalMule calls $0.22
+*** TURN *** [Td 9s 8d] [Kh]
+Main pot $0.71 | Rake $0.03
+MezcalMule checks
+JWCardPlayer checks
+*** RIVER *** [Td 9s 8d Kh] [Ts]
+Main pot $0.71 | Rake $0.03
+MezcalMule bets $0.22
+JWCardPlayer raises $1.40 to $1.40
+MezcalMule calls $0.89 and is all-in
+Uncalled bet ($0.29) returned to JWCardPlayer
+*** SHOW DOWN ***
+Main pot $2.82 | Rake $0.14
+MezcalMule shows [Ac Kc] (two pair, Kings and Tens [Kh Kc Ts Td Ac])
+JWCardPlayer shows [Tc Ad] (three of a kind, Set of Tens [Ts Td Tc Ad Kh])
+JWCardPlayer collected $2.82 from main pot
+*** SUMMARY ***
+Total pot $2.82 | Rake $0.10 | JP Fee $0.04
+Board [Td 9s 8d Kh Ts]
+Seat 1: Leee288 (button) folded on the Pre-Flop
+Seat 2: MezcalMule (small blind) showed [Ac Kc] and lost with two pair, Kings and Tens [Kh Kc Ts Td Ac]
+Seat 3: teoddy (big blind) folded on the Pre-Flop
+Seat 4: JWCardPlayer showed [Tc Ad] and won $2.82 with three of a kind, Set of Tens [Ts Td Tc Ad Kh]
+Seat 5: JoshGB folded on the Pre-Flop and did not bet
+Seat 6: Sureal55 folded on the Pre-Flop and did not bet
+

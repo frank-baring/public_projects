@@ -1,3 +1,4 @@
+# Import packages
 import os
 import re
 
@@ -9,9 +10,9 @@ session_arr = []
 
 # If file ends in '.txt' it is a session
 # Add to session array
-for x in os.listdir():
+for x in os.listdir('../data/input'):
     if x.endswith(".txt"):    
-        session_arr.append(x)    
+        session_arr.append('../data/input/' + x)    
 
 # Sort session array
 session_arr.sort()

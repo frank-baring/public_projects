@@ -1,0 +1,522 @@
+Hand #1134790904 - Holdem(No Limit) - $0.01/$0.02 - 2022/02/24 04:59:19 UTC
+Tarry 6-max Seat #5 is the button
+Seat 1: JamesonNow ($10.66)
+Seat 2: MezcalMule ($4.62)
+Seat 4: bobalot1984 ($2.45)
+Seat 5: ECIUJ ($1.26)
+Seat 6: sik ($2.00)
+sik posts the small blind $0.01
+JamesonNow posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Kd 5c]
+MezcalMule folds
+bobalot1984 folds
+ECIUJ raises $0.05 to $0.05
+sik folds
+JamesonNow calls $0.03
+*** FLOP *** [9s Kc 3s]
+Main pot $0.11 | Rake $0.00
+JamesonNow checks
+ECIUJ bets $0.11
+JamesonNow folds
+Uncalled bet ($0.11) returned to ECIUJ
+ECIUJ does not show
+*** SUMMARY ***
+Total pot $0.11
+Board [9s Kc 3s]
+Seat 1: JamesonNow (big blind) folded on the Flop
+Seat 2: MezcalMule folded on the Pre-Flop and did not bet
+Seat 4: bobalot1984 folded on the Pre-Flop and did not bet
+Seat 5: ECIUJ did not show and won $0.11
+Seat 6: sik (small blind) folded on the Pre-Flop
+
+Hand #1134791893 - Holdem(No Limit) - $0.01/$0.02 - 2022/02/24 05:00:39 UTC
+Tarry 6-max Seat #6 is the button
+Seat 1: JamesonNow ($10.61)
+Seat 2: MezcalMule ($4.62)
+Seat 4: bobalot1984 ($2.45)
+Seat 5: ECIUJ ($1.32)
+Seat 6: sik ($2.00)
+JamesonNow posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [6h As]
+bobalot1984 folds
+ECIUJ calls $0.02
+sik folds
+JamesonNow raises $0.07 to $0.08
+MezcalMule folds
+ECIUJ calls $0.06
+*** FLOP *** [Ts Qc Ah]
+Main pot $0.18 | Rake $0.00
+JamesonNow bets $0.08
+ECIUJ raises $0.42 to $0.42
+JamesonNow calls $0.34
+*** TURN *** [Ts Qc Ah] [3d]
+Main pot $0.97 | Rake $0.05
+JamesonNow checks
+ECIUJ checks
+*** RIVER *** [Ts Qc Ah 3d] [6s]
+Main pot $0.97 | Rake $0.05
+JamesonNow checks
+ECIUJ checks
+*** SHOW DOWN ***
+Main pot $0.97 | Rake $0.05
+JamesonNow shows [Qh Kd] (a pair of Queens [Qh Qc Ah Kd Ts])
+ECIUJ shows [7h Ad] (a pair of Aces [Ah Ad Qc Ts 7h])
+ECIUJ collected $0.97 from main pot
+*** SUMMARY ***
+Total pot $0.97 | Rake $0.05
+Board [Ts Qc Ah 3d 6s]
+Seat 1: JamesonNow (small blind) showed [Qh Kd] and lost with a pair of Queens [Qh Qc Ah Kd Ts]
+Seat 2: MezcalMule (big blind) folded on the Pre-Flop
+Seat 4: bobalot1984 folded on the Pre-Flop and did not bet
+Seat 5: ECIUJ showed [7h Ad] and won $0.97 with a pair of Aces [Ah Ad Qc Ts 7h]
+Seat 6: sik (button) folded on the Pre-Flop
+
+Hand #1134793147 - Holdem(No Limit) - $0.01/$0.02 - 2022/02/24 05:02:00 UTC
+Tarry 6-max Seat #1 is the button
+Seat 1: JamesonNow ($10.11)
+Seat 2: MezcalMule ($4.60)
+Seat 4: bobalot1984 ($2.45)
+Seat 5: ECIUJ ($1.79)
+Seat 6: sik ($2.00)
+MezcalMule posts the small blind $0.01
+bobalot1984 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Kd 4c]
+ECIUJ raises $0.05 to $0.05
+sik folds
+JamesonNow calls $0.05
+MezcalMule folds
+bobalot1984 folds
+*** FLOP *** [Ts 5s 4h]
+Main pot $0.13 | Rake $0.00
+ECIUJ checks
+JamesonNow bets $0.06
+ECIUJ folds
+Uncalled bet ($0.06) returned to JamesonNow
+JamesonNow does not show
+*** SUMMARY ***
+Total pot $0.13
+Board [Ts 5s 4h]
+Seat 1: JamesonNow did not show and won $0.13
+Seat 2: MezcalMule (small blind) folded on the Pre-Flop
+Seat 4: bobalot1984 (big blind) folded on the Pre-Flop
+Seat 5: ECIUJ folded on the Flop
+Seat 6: sik folded on the Pre-Flop and did not bet
+
+Hand #1134794036 - Holdem(No Limit) - $0.01/$0.02 - 2022/02/24 05:02:53 UTC
+Tarry 6-max Seat #2 is the button
+Seat 1: JamesonNow ($10.19)
+Seat 2: MezcalMule ($4.59)
+Seat 4: bobalot1984 ($2.43)
+Seat 5: ECIUJ ($1.74)
+Seat 6: sik ($2.00)
+bobalot1984 posts the small blind $0.01
+ECIUJ posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Qs Qd]
+sik raises $0.07 to $0.07
+JamesonNow folds
+MezcalMule raises $0.24 to $0.24
+bobalot1984 folds
+ECIUJ folds
+sik calls $0.17
+*** FLOP *** [6s 7d Tc]
+Main pot $0.49 | Rake $0.02
+sik checks
+MezcalMule bets $0.51
+sik folds
+Uncalled bet ($0.51) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.49 | Rake $0.02
+Board [6s 7d Tc]
+Seat 1: JamesonNow folded on the Pre-Flop and did not bet
+Seat 2: MezcalMule did not show and won $0.49
+Seat 4: bobalot1984 (small blind) folded on the Pre-Flop
+Seat 5: ECIUJ (big blind) folded on the Pre-Flop
+Seat 6: sik folded on the Flop
+
+Hand #1134794895 - Holdem(No Limit) - $0.01/$0.02 - 2022/02/24 05:03:40 UTC
+Tarry 6-max Seat #4 is the button
+Seat 1: JamesonNow ($10.19)
+Seat 2: MezcalMule ($4.84)
+Seat 4: bobalot1984 ($2.42)
+Seat 5: ECIUJ ($1.72)
+Seat 6: sik ($2.00)
+ECIUJ posts the small blind $0.01
+sik posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [4s Js]
+JamesonNow folds
+MezcalMule folds
+bobalot1984 folds
+ECIUJ calls $0.01
+sik checks
+*** FLOP *** [6s Jh 3d]
+Main pot $0.04 | Rake $0.00
+ECIUJ checks
+sik bets $0.04
+ECIUJ folds
+Uncalled bet ($0.04) returned to sik
+sik does not show
+*** SUMMARY ***
+Total pot $0.04
+Board [6s Jh 3d]
+Seat 1: JamesonNow folded on the Pre-Flop and did not bet
+Seat 2: MezcalMule folded on the Pre-Flop and did not bet
+Seat 4: bobalot1984 (button) folded on the Pre-Flop
+Seat 5: ECIUJ (small blind) folded on the Flop
+Seat 6: sik did not show and won $0.04
+
+Hand #1134795447 - Holdem(No Limit) - $0.01/$0.02 - 2022/02/24 05:04:12 UTC
+Tarry 6-max Seat #5 is the button
+Seat 1: JamesonNow ($10.19)
+Seat 2: MezcalMule ($4.84)
+Seat 3: osjaguar1 ($2.00)
+Seat 4: bobalot1984 ($2.42)
+Seat 5: ECIUJ ($1.70)
+Seat 6: sik ($2.02)
+sik posts the small blind $0.01
+JamesonNow posts the big blind $0.02
+osjaguar1 waits for big blind
+*** HOLE CARDS ***
+Dealt to MezcalMule [2h Qh]
+MezcalMule raises $0.05 to $0.05
+bobalot1984 folds
+ECIUJ calls $0.05
+sik folds
+JamesonNow folds
+*** FLOP *** [3s 2c 4c]
+Main pot $0.13 | Rake $0.00
+MezcalMule bets $0.09
+ECIUJ calls $0.09
+*** TURN *** [3s 2c 4c] [Jh]
+Main pot $0.30 | Rake $0.01
+MezcalMule checks
+ECIUJ checks
+*** RIVER *** [3s 2c 4c Jh] [2d]
+Main pot $0.30 | Rake $0.01
+MezcalMule bets $0.31
+ECIUJ folds
+Uncalled bet ($0.31) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01
+Board [3s 2c 4c Jh 2d]
+Seat 1: JamesonNow (big blind) folded on the Pre-Flop
+Seat 2: MezcalMule did not show and won $0.30
+Seat 4: bobalot1984 folded on the Pre-Flop and did not bet
+Seat 5: ECIUJ (button) folded on the River
+Seat 6: sik (small blind) folded on the Pre-Flop
+
+Hand #1134796489 - Holdem(No Limit) - $0.01/$0.02 - 2022/02/24 05:05:10 UTC
+Tarry 6-max Seat #6 is the button
+Seat 1: JamesonNow ($10.17)
+Seat 2: MezcalMule ($5.00)
+Seat 3: osjaguar1 ($2.00)
+Seat 4: bobalot1984 ($2.42)
+Seat 5: ECIUJ ($1.56)
+Seat 6: sik ($2.01)
+JamesonNow posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+osjaguar1 waits for big blind
+*** HOLE CARDS ***
+Dealt to MezcalMule [Ks 5h]
+bobalot1984 folds
+ECIUJ calls $0.02
+sik folds
+JamesonNow folds
+MezcalMule checks
+*** FLOP *** [Ts 9s Qs]
+Main pot $0.05 | Rake $0.00
+MezcalMule checks
+ECIUJ checks
+*** TURN *** [Ts 9s Qs] [2d]
+Main pot $0.05 | Rake $0.00
+MezcalMule checks
+ECIUJ checks
+*** RIVER *** [Ts 9s Qs 2d] [Jc]
+Main pot $0.05 | Rake $0.00
+MezcalMule bets $0.05
+ECIUJ raises $0.10 to $0.10
+MezcalMule raises $0.30 to $0.35
+ECIUJ calls $0.25
+*** SHOW DOWN ***
+Main pot $0.72 | Rake $0.03
+MezcalMule shows [Ks 5h] (a straight, King high [Ks Qs Jc Ts 9s])
+ECIUJ shows [Kh 4h] (a straight, King high [Kh Qs Jc Ts 9s])
+MezcalMule collected $0.36 from main pot
+ECIUJ collected $0.36 from main pot
+*** SUMMARY ***
+Total pot $0.72 | Rake $0.03
+Board [Ts 9s Qs 2d Jc]
+Seat 1: JamesonNow (small blind) folded on the Pre-Flop
+Seat 2: MezcalMule (big blind) showed [Ks 5h] and won $0.36 with a straight, King high [Ks Qs Jc Ts 9s]
+Seat 4: bobalot1984 folded on the Pre-Flop and did not bet
+Seat 5: ECIUJ showed [Kh 4h] and won $0.36 with a straight, King high [Kh Qs Jc Ts 9s]
+Seat 6: sik (button) folded on the Pre-Flop
+
+Hand #1134797740 - Holdem(No Limit) - $0.01/$0.02 - 2022/02/24 05:06:20 UTC
+Tarry 6-max Seat #1 is the button
+Seat 1: JamesonNow ($10.16)
+Seat 2: MezcalMule ($4.99)
+Seat 3: osjaguar1 ($2.00)
+Seat 4: bobalot1984 ($2.42)
+Seat 5: ECIUJ ($1.55)
+Seat 6: sik ($2.01)
+MezcalMule posts the small blind $0.01
+osjaguar1 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [3h 4d]
+bobalot1984 folds
+ECIUJ folds
+sik raises $0.07 to $0.07
+JamesonNow folds
+MezcalMule folds
+osjaguar1 folds
+Uncalled bet ($0.05) returned to sik
+sik does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: JamesonNow (button) folded on the Pre-Flop
+Seat 2: MezcalMule (small blind) folded on the Pre-Flop
+Seat 3: osjaguar1 (big blind) folded on the Pre-Flop
+Seat 4: bobalot1984 folded on the Pre-Flop and did not bet
+Seat 5: ECIUJ folded on the Pre-Flop and did not bet
+Seat 6: sik did not show and won $0.05
+
+Hand #1134798365 - Holdem(No Limit) - $0.01/$0.02 - 2022/02/24 05:06:53 UTC
+Tarry 6-max Seat #2 is the button
+Seat 1: JamesonNow ($10.16)
+Seat 2: MezcalMule ($4.98)
+Seat 3: osjaguar1 ($2.00)
+Seat 4: bobalot1984 ($2.42)
+Seat 5: ECIUJ ($1.55)
+Seat 6: sik ($2.04)
+osjaguar1 posts the small blind $0.01
+bobalot1984 sits out
+ECIUJ posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [4c 8c]
+sik folds
+JamesonNow folds
+MezcalMule calls $0.02
+osjaguar1 folds
+ECIUJ checks
+*** FLOP *** [5h Ks Qc]
+Main pot $0.05 | Rake $0.00
+ECIUJ checks
+MezcalMule checks
+*** TURN *** [5h Ks Qc] [Td]
+Main pot $0.05 | Rake $0.00
+ECIUJ checks
+MezcalMule checks
+*** RIVER *** [5h Ks Qc Td] [7h]
+Main pot $0.05 | Rake $0.00
+ECIUJ bets $0.05
+MezcalMule folds
+Uncalled bet ($0.05) returned to ECIUJ
+ECIUJ does not show
+*** SUMMARY ***
+Total pot $0.05
+Board [5h Ks Qc Td 7h]
+Seat 1: JamesonNow folded on the Pre-Flop and did not bet
+Seat 2: MezcalMule (button) folded on the River
+Seat 3: osjaguar1 (small blind) folded on the Pre-Flop
+Seat 5: ECIUJ did not show and won $0.05
+Seat 6: sik folded on the Pre-Flop and did not bet
+
+Hand #1134799968 - Holdem(No Limit) - $0.01/$0.02 - 2022/02/24 05:08:20 UTC
+Tarry 6-max Seat #3 is the button
+Seat 1: JamesonNow ($10.16)
+Seat 2: MezcalMule ($4.96)
+Seat 3: osjaguar1 ($2.00)
+Seat 4: EGarcia17 ($2.00) is sitting out
+Seat 5: ECIUJ ($1.58)
+Seat 6: sik ($2.04)
+ECIUJ posts the small blind $0.01
+sik posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [As 6d]
+JamesonNow folds
+MezcalMule folds
+osjaguar1 folds
+ECIUJ calls $0.01
+sik checks
+*** FLOP *** [Th 9c Js]
+Main pot $0.04 | Rake $0.00
+ECIUJ checks
+sik checks
+*** TURN *** [Th 9c Js] [Jc]
+Main pot $0.04 | Rake $0.00
+ECIUJ checks
+sik checks
+*** RIVER *** [Th 9c Js Jc] [Ac]
+Main pot $0.04 | Rake $0.00
+ECIUJ bets $0.04
+sik folds
+Uncalled bet ($0.04) returned to ECIUJ
+ECIUJ does not show
+*** SUMMARY ***
+Total pot $0.04
+Board [Th 9c Js Jc Ac]
+Seat 1: JamesonNow folded on the Pre-Flop and did not bet
+Seat 2: MezcalMule folded on the Pre-Flop and did not bet
+Seat 3: osjaguar1 (button) folded on the Pre-Flop
+Seat 5: ECIUJ did not show and won $0.04
+Seat 6: sik (big blind) folded on the River
+
+Hand #1134800837 - Holdem(No Limit) - $0.01/$0.02 - 2022/02/24 05:09:08 UTC
+Tarry 6-max Seat #5 is the button
+Seat 1: JamesonNow ($10.16)
+Seat 2: MezcalMule ($4.96)
+Seat 3: osjaguar1 ($2.00)
+Seat 4: EGarcia17 ($2.00) is sitting out
+Seat 5: ECIUJ ($1.60)
+Seat 6: sik ($2.02)
+sik posts the small blind $0.01
+JamesonNow posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Ad Js]
+MezcalMule raises $0.04 to $0.04
+osjaguar1 folds
+ECIUJ folds
+sik folds
+JamesonNow calls $0.02
+*** FLOP *** [Ts Qs 9c]
+Main pot $0.09 | Rake $0.00
+JamesonNow checks
+MezcalMule bets $0.06
+JamesonNow folds
+Uncalled bet ($0.06) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.09
+Board [Ts Qs 9c]
+Seat 1: JamesonNow (big blind) folded on the Flop
+Seat 2: MezcalMule did not show and won $0.09
+Seat 3: osjaguar1 folded on the Pre-Flop and did not bet
+Seat 5: ECIUJ (button) folded on the Pre-Flop
+Seat 6: sik (small blind) folded on the Pre-Flop
+
+Hand #1134801747 - Holdem(No Limit) - $0.01/$0.02 - 2022/02/24 05:09:56 UTC
+Tarry 6-max Seat #6 is the button
+Seat 1: JamesonNow ($10.12)
+Seat 2: MezcalMule ($5.01)
+Seat 3: osjaguar1 ($2.00)
+Seat 4: EGarcia17 ($2.00) is sitting out
+Seat 5: ECIUJ ($1.60)
+Seat 6: sik ($2.01)
+JamesonNow posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [7s 2h]
+osjaguar1 folds
+ECIUJ raises $0.05 to $0.05
+sik folds
+JamesonNow folds
+MezcalMule folds
+Uncalled bet ($0.03) returned to ECIUJ
+ECIUJ does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: JamesonNow (small blind) folded on the Pre-Flop
+Seat 2: MezcalMule (big blind) folded on the Pre-Flop
+Seat 3: osjaguar1 folded on the Pre-Flop and did not bet
+Seat 5: ECIUJ did not show and won $0.05
+Seat 6: sik (button) folded on the Pre-Flop
+
+Hand #1134802596 - Holdem(No Limit) - $0.01/$0.02 - 2022/02/24 05:10:43 UTC
+Tarry 6-max Seat #1 is the button
+Seat 1: JamesonNow ($10.11)
+Seat 2: MezcalMule ($4.99)
+Seat 3: osjaguar1 ($2.00)
+Seat 4: EGarcia17 ($2.00)
+Seat 5: ECIUJ ($1.63)
+Seat 6: sik ($2.01)
+MezcalMule posts the small blind $0.01
+osjaguar1 posts the big blind $0.02
+EGarcia17 waits for big blind
+*** HOLE CARDS ***
+Dealt to MezcalMule [3h Ah]
+ECIUJ folds
+sik folds
+JamesonNow raises $0.05 to $0.05
+MezcalMule calls $0.04
+osjaguar1 folds
+*** FLOP *** [9h 6c 3s]
+Main pot $0.12 | Rake $0.00
+MezcalMule checks
+JamesonNow checks
+*** TURN *** [9h 6c 3s] [5h]
+Main pot $0.12 | Rake $0.00
+MezcalMule checks
+JamesonNow checks
+*** RIVER *** [9h 6c 3s 5h] [Kh]
+Main pot $0.12 | Rake $0.00
+MezcalMule bets $0.12
+JamesonNow calls $0.12
+*** SHOW DOWN ***
+Main pot $0.35 | Rake $0.01
+JamesonNow shows [2d 2c] (a pair of Deuces [2d 2c Kh 9h 6c])
+MezcalMule shows [3h Ah] (a flush, Ace high [Ah Kh 9h 5h 3h])
+MezcalMule collected $0.35 from main pot
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.01
+Board [9h 6c 3s 5h Kh]
+Seat 1: JamesonNow (button) showed [2d 2c] and lost with a pair of Deuces [2d 2c Kh 9h 6c]
+Seat 2: MezcalMule (small blind) showed [3h Ah] and won $0.35 with a flush, Ace high [Ah Kh 9h 5h 3h]
+Seat 3: osjaguar1 (big blind) folded on the Pre-Flop
+Seat 5: ECIUJ folded on the Pre-Flop and did not bet
+Seat 6: sik folded on the Pre-Flop and did not bet
+
+Hand #1134804292 - Holdem(No Limit) - $0.01/$0.02 - 2022/02/24 05:12:14 UTC
+Tarry 6-max Seat #2 is the button
+Seat 1: JamesonNow ($9.94)
+Seat 2: MezcalMule ($5.17)
+Seat 3: osjaguar1 ($2.00)
+Seat 4: EGarcia17 ($2.00)
+Seat 5: ECIUJ ($1.63)
+Seat 6: sik ($2.01)
+osjaguar1 posts the small blind $0.01
+EGarcia17 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [6c 7c]
+ECIUJ folds
+sik folds
+JamesonNow folds
+MezcalMule raises $0.05 to $0.05
+osjaguar1 raises $0.19 to $0.20
+EGarcia17 raises $0.44 to $0.46
+MezcalMule calls $0.41
+osjaguar1 calls $0.26
+*** FLOP *** [3c 3d 9h]
+Main pot $1.32 | Rake $0.06
+osjaguar1 checks
+EGarcia17 bets $0.25
+MezcalMule raises $4.71 to $4.71 and is all-in
+osjaguar1 folds
+EGarcia17 calls $1.29 and is all-in
+Uncalled bet ($3.17) returned to MezcalMule
+*** TURN *** [3c 3d 9h] [4d]
+Main pot $4.24 | Rake $0.22
+*** RIVER *** [3c 3d 9h 4d] [Jh]
+Main pot $4.24 | Rake $0.22
+*** SHOW DOWN ***
+Main pot $4.24 | Rake $0.22
+MezcalMule shows [6c 7c] (a pair of Threes [3d 3c Jh 9h 7c])
+EGarcia17 shows [Td Ts] (two pair, Tens and Threes [Ts Td 3d 3c Jh])
+EGarcia17 collected $4.24 from main pot
+*** SUMMARY ***
+Total pot $4.24 | Rake $0.16 | JP Fee $0.06
+Board [3c 3d 9h 4d Jh]
+Seat 1: JamesonNow folded on the Pre-Flop and did not bet
+Seat 2: MezcalMule (button) showed [6c 7c] and lost with a pair of Threes [3d 3c Jh 9h 7c]
+Seat 3: osjaguar1 (small blind) folded on the Flop
+Seat 4: EGarcia17 (big blind) showed [Td Ts] and won $4.24 with two pair, Tens and Threes [Ts Td 3d 3c Jh]
+Seat 5: ECIUJ folded on the Pre-Flop and did not bet
+Seat 6: sik folded on the Pre-Flop and did not bet
+

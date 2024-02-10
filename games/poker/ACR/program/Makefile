@@ -1,6 +1,6 @@
 .PHONY: clean
 clean:
-	rm -f *.o summ session_summaries.csv session_summaries_raw.csv
+	rm -f *.o summ
 
 .PHONY: all
 all: clean summ

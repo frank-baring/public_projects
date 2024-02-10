@@ -1,0 +1,2385 @@
+Hand #1138676577 - Holdem(No Limit) - $0.05/$0.10 - 2022/02/27 19:37:31 UTC
+Sullivan 6-max Seat #1 is the button
+Seat 1: WarFaer ($10.00)
+Seat 2: D_shadoww ($10.00)
+Seat 3: MezcalMule ($10.00)
+Seat 4: HanZeep ($10.00)
+Seat 5: EnjoyLife73 ($10.00)
+Seat 6: MAAuro ($4.76)
+D_shadoww posts the small blind $0.05
+MezcalMule posts the big blind $0.10
+HanZeep waits for big blind
+EnjoyLife73 waits for big blind
+*** HOLE CARDS ***
+Dealt to MezcalMule [Qc 7s]
+MAAuro folds
+WarFaer raises $0.25 to $0.25
+D_shadoww folds
+MezcalMule calls $0.15
+*** FLOP *** [3c 6s 9s]
+Main pot $0.53 | Rake $0.02
+MezcalMule checks
+WarFaer bets $0.30
+MezcalMule calls $0.30
+*** TURN *** [3c 6s 9s] [7c]
+Main pot $1.10 | Rake $0.05
+MezcalMule checks
+WarFaer checks
+*** RIVER *** [3c 6s 9s 7c] [Jc]
+Main pot $1.10 | Rake $0.05
+MezcalMule checks
+WarFaer checks
+*** SHOW DOWN ***
+Main pot $1.10 | Rake $0.05
+WarFaer shows [Kh Ts] (a high card, King high [Kh Jc Ts 9s 7c])
+MezcalMule shows [Qc 7s] (a pair of Sevens [7s 7c Qc Jc 9s])
+MezcalMule collected $1.10 from main pot
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05
+Board [3c 6s 9s 7c Jc]
+Seat 1: WarFaer (button) showed [Kh Ts] and lost with a high card, King high [Kh Jc Ts 9s 7c]
+Seat 2: D_shadoww (small blind) folded on the Pre-Flop
+Seat 3: MezcalMule (big blind) showed [Qc 7s] and won $1.10 with a pair of Sevens [7s 7c Qc Jc 9s]
+Seat 6: MAAuro folded on the Pre-Flop and did not bet
+
+Hand #1138678493 - Holdem(No Limit) - $0.05/$0.10 - 2022/02/27 19:38:33 UTC
+Sullivan 6-max Seat #2 is the button
+Seat 1: WarFaer ($10.00)
+Seat 2: D_shadoww ($10.00)
+Seat 3: MezcalMule ($10.55)
+Seat 4: HanZeep ($10.00)
+Seat 5: EnjoyLife73 ($10.00)
+Seat 6: MAAuro ($4.76)
+MezcalMule posts the small blind $0.05
+HanZeep posts the big blind $0.10
+EnjoyLife73 waits for big blind
+*** HOLE CARDS ***
+Dealt to MezcalMule [8c As]
+MAAuro folds
+WarFaer folds
+D_shadoww raises $0.24 to $0.24
+MezcalMule folds
+HanZeep calls $0.14
+*** FLOP *** [2d 4h 9s]
+Main pot $0.51 | Rake $0.02
+HanZeep checks
+D_shadoww checks
+*** TURN *** [2d 4h 9s] [6c]
+Main pot $0.51 | Rake $0.02
+HanZeep bets $0.30
+D_shadoww folds
+Uncalled bet ($0.30) returned to HanZeep
+HanZeep does not show
+*** SUMMARY ***
+Total pot $0.51 | Rake $0.02
+Board [2d 4h 9s 6c]
+Seat 1: WarFaer folded on the Pre-Flop and did not bet
+Seat 2: D_shadoww (button) folded on the Turn
+Seat 3: MezcalMule (small blind) folded on the Pre-Flop
+Seat 4: HanZeep did not show and won $0.51
+Seat 6: MAAuro folded on the Pre-Flop and did not bet
+
+Hand #1138680710 - Holdem(No Limit) - $0.05/$0.10 - 2022/02/27 19:39:44 UTC
+Sullivan 6-max Seat #3 is the button
+Seat 1: WarFaer ($10.00)
+Seat 2: D_shadoww ($10.00)
+Seat 3: MezcalMule ($10.50)
+Seat 4: HanZeep ($10.27)
+Seat 5: EnjoyLife73 ($10.00)
+Seat 6: MAAuro ($4.76)
+HanZeep posts the small blind $0.05
+EnjoyLife73 posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to MezcalMule [Ac 9d]
+MAAuro raises $0.20 to $0.20
+WarFaer folds
+D_shadoww folds
+MezcalMule folds
+HanZeep folds
+EnjoyLife73 folds
+Uncalled bet ($0.10) returned to MAAuro
+MAAuro does not show
+*** SUMMARY ***
+Total pot $0.25
+Seat 1: WarFaer folded on the Pre-Flop and did not bet
+Seat 2: D_shadoww folded on the Pre-Flop and did not bet
+Seat 3: MezcalMule (button) folded on the Pre-Flop
+Seat 4: HanZeep (small blind) folded on the Pre-Flop
+Seat 5: EnjoyLife73 (big blind) folded on the Pre-Flop
+Seat 6: MAAuro did not show and won $0.25
+
+Hand #1138681519 - Holdem(No Limit) - $0.05/$0.10 - 2022/02/27 19:40:10 UTC
+Sullivan 6-max Seat #4 is the button
+Seat 1: WarFaer ($10.00)
+Seat 2: D_shadoww ($10.00)
+Seat 3: MezcalMule ($10.50)
+Seat 4: HanZeep ($10.22)
+Seat 5: EnjoyLife73 ($10.00)
+Seat 6: MAAuro ($4.91)
+EnjoyLife73 posts the small blind $0.05
+MAAuro posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to MezcalMule [9c Ts]
+WarFaer raises $0.30 to $0.30
+D_shadoww folds
+MezcalMule calls $0.30
+HanZeep folds
+EnjoyLife73 folds
+MAAuro folds
+*** FLOP *** [8h 8s 8d]
+Main pot $0.72 | Rake $0.03
+WarFaer bets $0.41
+MezcalMule folds
+Uncalled bet ($0.41) returned to WarFaer
+WarFaer does not show
+*** SUMMARY ***
+Total pot $0.72 | Rake $0.03
+Board [8h 8s 8d]
+Seat 1: WarFaer did not show and won $0.72
+Seat 2: D_shadoww folded on the Pre-Flop and did not bet
+Seat 3: MezcalMule folded on the Flop
+Seat 4: HanZeep (button) folded on the Pre-Flop
+Seat 5: EnjoyLife73 (small blind) folded on the Pre-Flop
+Seat 6: MAAuro (big blind) folded on the Pre-Flop
+
+Hand #1138682624 - Holdem(No Limit) - $0.05/$0.10 - 2022/02/27 19:40:45 UTC
+Sullivan 6-max Seat #5 is the button
+Seat 1: WarFaer ($10.42)
+Seat 2: D_shadoww ($10.00)
+Seat 3: MezcalMule ($10.20)
+Seat 4: HanZeep ($10.22)
+Seat 5: EnjoyLife73 ($10.00)
+Seat 6: MAAuro ($4.81)
+MAAuro posts the small blind $0.05
+WarFaer posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to MezcalMule [Ts 2s]
+D_shadoww raises $0.24 to $0.24
+MezcalMule folds
+HanZeep folds
+EnjoyLife73 folds
+MAAuro folds
+WarFaer folds
+Uncalled bet ($0.14) returned to D_shadoww
+D_shadoww does not show
+*** SUMMARY ***
+Total pot $0.25
+Seat 1: WarFaer (big blind) folded on the Pre-Flop
+Seat 2: D_shadoww did not show and won $0.25
+Seat 3: MezcalMule folded on the Pre-Flop and did not bet
+Seat 4: HanZeep folded on the Pre-Flop and did not bet
+Seat 5: EnjoyLife73 (button) folded on the Pre-Flop
+Seat 6: MAAuro (small blind) folded on the Pre-Flop
+
+Hand #1138683315 - Holdem(No Limit) - $0.05/$0.10 - 2022/02/27 19:41:06 UTC
+Sullivan 6-max Seat #6 is the button
+Seat 1: WarFaer ($10.32)
+Seat 2: D_shadoww ($10.15)
+Seat 3: MezcalMule ($10.20)
+Seat 4: HanZeep ($10.22)
+Seat 5: EnjoyLife73 ($10.00)
+Seat 6: MAAuro ($4.76)
+WarFaer posts the small blind $0.05
+D_shadoww posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to MezcalMule [8s 5c]
+MezcalMule folds
+HanZeep folds
+EnjoyLife73 raises $0.22 to $0.22
+MAAuro folds
+WarFaer folds
+D_shadoww folds
+Uncalled bet ($0.12) returned to EnjoyLife73
+EnjoyLife73 does not show
+*** SUMMARY ***
+Total pot $0.25
+Seat 1: WarFaer (small blind) folded on the Pre-Flop
+Seat 2: D_shadoww (big blind) folded on the Pre-Flop
+Seat 3: MezcalMule folded on the Pre-Flop and did not bet
+Seat 4: HanZeep folded on the Pre-Flop and did not bet
+Seat 5: EnjoyLife73 did not show and won $0.25
+Seat 6: MAAuro (button) folded on the Pre-Flop
+
+Hand #1138684193 - Holdem(No Limit) - $0.05/$0.10 - 2022/02/27 19:41:34 UTC
+Sullivan 6-max Seat #1 is the button
+Seat 1: WarFaer ($10.27)
+Seat 2: D_shadoww ($10.05)
+Seat 3: MezcalMule ($10.20)
+Seat 4: HanZeep ($10.22)
+Seat 5: EnjoyLife73 ($10.15)
+Seat 6: MAAuro ($4.76)
+D_shadoww posts the small blind $0.05
+MezcalMule posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to MezcalMule [7s 9c]
+HanZeep folds
+EnjoyLife73 folds
+MAAuro folds
+WarFaer folds
+D_shadoww folds
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.15
+Seat 1: WarFaer (button) folded on the Pre-Flop
+Seat 2: D_shadoww (small blind) folded on the Pre-Flop
+Seat 3: MezcalMule did not show and won $0.15
+Seat 4: HanZeep folded on the Pre-Flop and did not bet
+Seat 5: EnjoyLife73 folded on the Pre-Flop and did not bet
+Seat 6: MAAuro folded on the Pre-Flop and did not bet
+
+Hand #1138684796 - Holdem(No Limit) - $0.05/$0.10 - 2022/02/27 19:41:53 UTC
+Sullivan 6-max Seat #2 is the button
+Seat 1: WarFaer ($10.27)
+Seat 2: D_shadoww ($10.00)
+Seat 3: MezcalMule ($10.25)
+Seat 4: HanZeep ($10.22)
+Seat 5: EnjoyLife73 ($10.15)
+Seat 6: MAAuro ($4.76)
+MezcalMule posts the small blind $0.05
+HanZeep posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to MezcalMule [4c Qs]
+EnjoyLife73 folds
+MAAuro folds
+WarFaer folds
+D_shadoww raises $0.27 to $0.27
+MezcalMule folds
+HanZeep calls $0.17
+*** FLOP *** [6d 3c Jd]
+Main pot $0.57 | Rake $0.02
+HanZeep checks
+D_shadoww bets $0.14
+HanZeep calls $0.14
+*** TURN *** [6d 3c Jd] [9c]
+Main pot $0.83 | Rake $0.04
+HanZeep checks
+D_shadoww checks
+*** RIVER *** [6d 3c Jd 9c] [7s]
+Main pot $0.83 | Rake $0.04
+HanZeep bets $0.40
+D_shadoww calls $0.40
+*** SHOW DOWN ***
+Main pot $1.59 | Rake $0.08
+D_shadoww shows [9h 8h] (a pair of Nines [9h 9c Jd 8h 7s])
+HanZeep shows [Js Tc] (a pair of Jacks [Js Jd Tc 9c 7s])
+HanZeep collected $1.59 from main pot
+*** SUMMARY ***
+Total pot $1.59 | Rake $0.06 | JP Fee $0.02
+Board [6d 3c Jd 9c 7s]
+Seat 1: WarFaer folded on the Pre-Flop and did not bet
+Seat 2: D_shadoww (button) showed [9h 8h] and lost with a pair of Nines [9h 9c Jd 8h 7s]
+Seat 3: MezcalMule (small blind) folded on the Pre-Flop
+Seat 4: HanZeep (big blind) showed [Js Tc] and won $1.59 with a pair of Jacks [Js Jd Tc 9c 7s]
+Seat 5: EnjoyLife73 folded on the Pre-Flop and did not bet
+Seat 6: MAAuro folded on the Pre-Flop and did not bet
+
+Hand #1138687752 - Holdem(No Limit) - $0.05/$0.10 - 2022/02/27 19:43:28 UTC
+Sullivan 6-max Seat #3 is the button
+Seat 1: WarFaer ($10.27)
+Seat 2: D_shadoww ($10.00)
+Seat 3: MezcalMule ($10.20)
+Seat 4: HanZeep ($11.00)
+Seat 5: EnjoyLife73 ($10.15)
+Seat 6: MAAuro ($4.76)
+HanZeep posts the small blind $0.05
+EnjoyLife73 posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to MezcalMule [Ac 6s]
+MAAuro raises $0.20 to $0.20
+WarFaer folds
+D_shadoww folds
+MezcalMule folds
+HanZeep folds
+EnjoyLife73 calls $0.10
+*** FLOP *** [Jc 8s Ks]
+Main pot $0.43 | Rake $0.02
+EnjoyLife73 checks
+MAAuro bets $0.32
+EnjoyLife73 calls $0.32
+*** TURN *** [Jc 8s Ks] [7d]
+Main pot $1.04 | Rake $0.05
+EnjoyLife73 checks
+MAAuro checks
+*** RIVER *** [Jc 8s Ks 7d] [Ts]
+Main pot $1.04 | Rake $0.05
+EnjoyLife73 bets $0.81
+MAAuro folds
+Uncalled bet ($0.81) returned to EnjoyLife73
+EnjoyLife73 does not show
+*** SUMMARY ***
+Total pot $1.04 | Rake $0.05
+Board [Jc 8s Ks 7d Ts]
+Seat 1: WarFaer folded on the Pre-Flop and did not bet
+Seat 2: D_shadoww folded on the Pre-Flop and did not bet
+Seat 3: MezcalMule (button) folded on the Pre-Flop
+Seat 4: HanZeep (small blind) folded on the Pre-Flop
+Seat 5: EnjoyLife73 did not show and won $1.04
+Seat 6: MAAuro folded on the River
+
+Hand #1138690465 - Holdem(No Limit) - $0.05/$0.10 - 2022/02/27 19:44:53 UTC
+Sullivan 6-max Seat #4 is the button
+Seat 1: WarFaer ($10.27)
+Seat 2: D_shadoww ($10.00)
+Seat 3: MezcalMule ($10.20)
+Seat 4: HanZeep ($10.95)
+Seat 5: EnjoyLife73 ($10.67)
+Seat 6: MAAuro ($4.24)
+EnjoyLife73 posts the small blind $0.05
+MAAuro posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to MezcalMule [4s 7s]
+WarFaer folds
+D_shadoww folds
+MezcalMule raises $0.35 to $0.35
+HanZeep folds
+EnjoyLife73 folds
+MAAuro folds
+Uncalled bet ($0.25) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.25
+Seat 1: WarFaer folded on the Pre-Flop and did not bet
+Seat 2: D_shadoww folded on the Pre-Flop and did not bet
+Seat 3: MezcalMule did not show and won $0.25
+Seat 4: HanZeep (button) folded on the Pre-Flop
+Seat 5: EnjoyLife73 (small blind) folded on the Pre-Flop
+Seat 6: MAAuro (big blind) folded on the Pre-Flop
+
+Hand #1138691527 - Holdem(No Limit) - $0.05/$0.10 - 2022/02/27 19:45:27 UTC
+Sullivan 6-max Seat #5 is the button
+Seat 1: WarFaer ($10.27)
+Seat 2: D_shadoww ($10.00)
+Seat 3: MezcalMule ($10.35)
+Seat 4: HanZeep ($10.95)
+Seat 5: EnjoyLife73 ($10.62)
+Seat 6: MAAuro ($4.14)
+MAAuro posts the small blind $0.05
+WarFaer sits out
+D_shadoww posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to MezcalMule [6d 7h]
+MezcalMule folds
+HanZeep folds
+EnjoyLife73 raises $0.22 to $0.22
+MAAuro folds
+D_shadoww folds
+Uncalled bet ($0.12) returned to EnjoyLife73
+EnjoyLife73 does not show
+*** SUMMARY ***
+Total pot $0.25
+Seat 2: D_shadoww (big blind) folded on the Pre-Flop
+Seat 3: MezcalMule folded on the Pre-Flop and did not bet
+Seat 4: HanZeep folded on the Pre-Flop and did not bet
+Seat 5: EnjoyLife73 did not show and won $0.25
+Seat 6: MAAuro (small blind) folded on the Pre-Flop
+
+Hand #1138692467 - Holdem(No Limit) - $0.05/$0.10 - 2022/02/27 19:45:57 UTC
+Sullivan 6-max Seat #6 is the button
+Seat 1: KSCOWBOY8669 will be allowed to play after the button
+Seat 2: D_shadoww ($10.00)
+Seat 3: MezcalMule ($10.35)
+Seat 4: HanZeep ($10.95)
+Seat 5: EnjoyLife73 ($10.77)
+Seat 6: MAAuro ($4.09)
+D_shadoww posts the small blind $0.05
+MezcalMule posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to MezcalMule [Js 6h]
+HanZeep folds
+EnjoyLife73 folds
+MAAuro raises $0.20 to $0.20
+D_shadoww raises $1.05 to $1.10
+MezcalMule folds
+MAAuro folds
+Uncalled bet ($0.90) returned to D_shadoww
+D_shadoww does not show
+*** SUMMARY ***
+Total pot $0.50
+Seat 2: D_shadoww did not show and won $0.50
+Seat 3: MezcalMule (big blind) folded on the Pre-Flop
+Seat 4: HanZeep folded on the Pre-Flop and did not bet
+Seat 5: EnjoyLife73 folded on the Pre-Flop and did not bet
+Seat 6: MAAuro (button) folded on the Pre-Flop
+
+Hand #1138693493 - Holdem(No Limit) - $0.05/$0.10 - 2022/02/27 19:46:29 UTC
+Sullivan 6-max Seat #2 is the button
+Seat 1: KSCOWBOY8669 ($10.00)
+Seat 2: D_shadoww ($10.30)
+Seat 3: MezcalMule ($10.25)
+Seat 4: HanZeep ($10.95)
+Seat 5: EnjoyLife73 ($10.77)
+Seat 6: MAAuro ($3.89)
+MezcalMule posts the small blind $0.05
+HanZeep posts the big blind $0.10
+KSCOWBOY8669 posts $0.10
+*** HOLE CARDS ***
+Dealt to MezcalMule [9h Qd]
+EnjoyLife73 raises $0.27 to $0.27
+MAAuro folds
+KSCOWBOY8669 folds
+D_shadoww folds
+MezcalMule calls $0.22
+HanZeep folds
+*** FLOP *** [6d 8d 7c]
+Main pot $0.71 | Rake $0.03
+MezcalMule checks
+EnjoyLife73 checks
+*** TURN *** [6d 8d 7c] [3s]
+Main pot $0.71 | Rake $0.03
+MezcalMule checks
+EnjoyLife73 checks
+*** RIVER *** [6d 8d 7c 3s] [7d]
+Main pot $0.71 | Rake $0.03
+MezcalMule checks
+EnjoyLife73 checks
+*** SHOW DOWN ***
+Main pot $0.71 | Rake $0.03
+MezcalMule shows [9h Qd] (a pair of Sevens [7d 7c Qd 9h 8d])
+EnjoyLife73 shows [Ah Jd] (a pair of Sevens [7d 7c Ah Jd 8d])
+EnjoyLife73 collected $0.71 from main pot
+*** SUMMARY ***
+Total pot $0.71 | Rake $0.03
+Board [6d 8d 7c 3s 7d]
+Seat 1: KSCOWBOY8669 folded on the Pre-Flop and did not bet
+Seat 2: D_shadoww (button) folded on the Pre-Flop
+Seat 3: MezcalMule (small blind) showed [9h Qd] and lost with a pair of Sevens [7d 7c Qd 9h 8d]
+Seat 4: HanZeep (big blind) folded on the Pre-Flop
+Seat 5: EnjoyLife73 showed [Ah Jd] and won $0.71 with a pair of Sevens [7d 7c Ah Jd 8d] with the kicker Ace
+Seat 6: MAAuro folded on the Pre-Flop and did not bet
+
+Hand #1138695776 - Holdem(No Limit) - $0.05/$0.10 - 2022/02/27 19:47:43 UTC
+Sullivan 6-max Seat #3 is the button
+Seat 1: KSCOWBOY8669 ($9.90)
+Seat 2: D_shadoww ($10.30)
+Seat 3: MezcalMule ($9.98)
+Seat 4: HanZeep ($10.85)
+Seat 5: EnjoyLife73 ($11.21)
+Seat 6: MAAuro ($3.89)
+HanZeep posts the small blind $0.05
+EnjoyLife73 posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to MezcalMule [Th As]
+MAAuro raises $0.20 to $0.20
+KSCOWBOY8669 folds
+D_shadoww folds
+MezcalMule calls $0.20
+HanZeep folds
+EnjoyLife73 folds
+*** FLOP *** [2s 2h 3s]
+Main pot $0.53 | Rake $0.02
+MAAuro checks
+MezcalMule bets $0.41
+MAAuro folds
+Uncalled bet ($0.41) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.53 | Rake $0.02
+Board [2s 2h 3s]
+Seat 1: KSCOWBOY8669 folded on the Pre-Flop and did not bet
+Seat 2: D_shadoww folded on the Pre-Flop and did not bet
+Seat 3: MezcalMule did not show and won $0.53
+Seat 4: HanZeep (small blind) folded on the Pre-Flop
+Seat 5: EnjoyLife73 (big blind) folded on the Pre-Flop
+Seat 6: MAAuro folded on the Flop
+
+Hand #1138698154 - Holdem(No Limit) - $0.05/$0.10 - 2022/02/27 19:48:59 UTC
+Sullivan 6-max Seat #4 is the button
+Seat 1: KSCOWBOY8669 ($9.90)
+Seat 2: D_shadoww ($10.30)
+Seat 3: MezcalMule ($10.31)
+Seat 4: HanZeep ($10.80)
+Seat 5: EnjoyLife73 ($11.11)
+Seat 6: MAAuro ($3.69)
+EnjoyLife73 posts the small blind $0.05
+MAAuro posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to MezcalMule [Kd Ks]
+KSCOWBOY8669 raises $0.28 to $0.28
+D_shadoww folds
+MezcalMule raises $0.99 to $0.99
+HanZeep folds
+EnjoyLife73 folds
+MAAuro folds
+KSCOWBOY8669 calls $0.71
+*** FLOP *** [5c Jc 2h]
+Main pot $2.03 | Rake $0.10
+KSCOWBOY8669 bets $1.59
+MezcalMule calls $1.59
+*** TURN *** [5c Jc 2h] [7d]
+Main pot $5.05 | Rake $0.26
+KSCOWBOY8669 bets $3.98
+MezcalMule calls $3.98
+*** RIVER *** [5c Jc 2h 7d] [3s]
+Main pot $12.61 | Rake $0.66
+KSCOWBOY8669 bets $3.34 and is all-in
+MezcalMule calls $3.34
+*** SHOW DOWN ***
+Main pot $18.96 | Rake $0.99
+KSCOWBOY8669 shows [Kh Kc] (a pair of Kings [Kh Kc Jc 7d 5c])
+MezcalMule shows [Kd Ks] (a pair of Kings [Ks Kd Jc 7d 5c])
+KSCOWBOY8669 collected $9.48 from main pot
+MezcalMule collected $9.48 from main pot
+*** SUMMARY ***
+Total pot $18.96 | Rake $0.75 | JP Fee $0.24
+Board [5c Jc 2h 7d 3s]
+Seat 1: KSCOWBOY8669 showed [Kh Kc] and won $9.48 with a pair of Kings [Kh Kc Jc 7d 5c]
+Seat 2: D_shadoww folded on the Pre-Flop and did not bet
+Seat 3: MezcalMule showed [Kd Ks] and won $9.48 with a pair of Kings [Ks Kd Jc 7d 5c]
+Seat 4: HanZeep (button) folded on the Pre-Flop
+Seat 5: EnjoyLife73 (small blind) folded on the Pre-Flop
+Seat 6: MAAuro (big blind) folded on the Pre-Flop
+
+Hand #1138699892 - Holdem(No Limit) - $0.05/$0.10 - 2022/02/27 19:49:53 UTC
+Sullivan 6-max Seat #5 is the button
+Seat 1: KSCOWBOY8669 ($9.48)
+Seat 2: D_shadoww ($10.30)
+Seat 3: MezcalMule ($9.89)
+Seat 4: HanZeep ($10.80)
+Seat 5: EnjoyLife73 ($11.06)
+Seat 6: MAAuro ($3.59)
+MAAuro posts the small blind $0.05
+KSCOWBOY8669 posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to MezcalMule [4d 5c]
+D_shadoww folds
+MezcalMule folds
+HanZeep folds
+EnjoyLife73 folds
+MAAuro calls $0.05
+KSCOWBOY8669 checks
+*** FLOP *** [Ts Ad Qc]
+Main pot $0.19 | Rake $0.01
+MAAuro bets $0.10
+KSCOWBOY8669 calls $0.10
+*** TURN *** [Ts Ad Qc] [2c]
+Main pot $0.38 | Rake $0.02
+MAAuro bets $0.20
+KSCOWBOY8669 calls $0.20
+*** RIVER *** [Ts Ad Qc 2c] [6s]
+Main pot $0.76 | Rake $0.04
+MAAuro checks
+KSCOWBOY8669 checks
+*** SHOW DOWN ***
+Main pot $0.76 | Rake $0.04
+KSCOWBOY8669 shows [2d Jh] (a pair of Deuces [2d 2c Ad Qc Jh])
+MAAuro shows [8c 3c] (a high card, Ace high [Ad Qc Ts 8c 6s])
+KSCOWBOY8669 collected $0.76 from main pot
+*** SUMMARY ***
+Total pot $0.76 | Rake $0.04
+Board [Ts Ad Qc 2c 6s]
+Seat 1: KSCOWBOY8669 (big blind) showed [2d Jh] and won $0.76 with a pair of Deuces [2d 2c Ad Qc Jh]
+Seat 2: D_shadoww folded on the Pre-Flop and did not bet
+Seat 3: MezcalMule folded on the Pre-Flop and did not bet
+Seat 4: HanZeep folded on the Pre-Flop and did not bet
+Seat 5: EnjoyLife73 (button) folded on the Pre-Flop
+Seat 6: MAAuro (small blind) showed [8c 3c] and lost with a high card, Ace high [Ad Qc Ts 8c 6s]
+
+Hand #1138701741 - Holdem(No Limit) - $0.05/$0.10 - 2022/02/27 19:50:53 UTC
+Sullivan 6-max Seat #6 is the button
+Seat 1: KSCOWBOY8669 ($9.84)
+Seat 2: D_shadoww ($10.30)
+Seat 3: MezcalMule ($9.89)
+Seat 4: HanZeep ($10.80)
+Seat 5: EnjoyLife73 ($11.06)
+Seat 6: MAAuro ($3.19)
+KSCOWBOY8669 posts the small blind $0.05
+D_shadoww posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to MezcalMule [5s As]
+MezcalMule raises $0.28 to $0.28
+HanZeep calls $0.28
+EnjoyLife73 folds
+MAAuro folds
+KSCOWBOY8669 folds
+D_shadoww folds
+*** FLOP *** [Qc Ts Ad]
+Main pot $0.68 | Rake $0.03
+MezcalMule checks
+HanZeep bets $0.45
+MezcalMule calls $0.45
+*** TURN *** [Qc Ts Ad] [Qh]
+Main pot $1.53 | Rake $0.08
+MezcalMule checks
+HanZeep bets $0.60
+MezcalMule calls $0.60
+*** RIVER *** [Qc Ts Ad Qh] [3d]
+Main pot $2.67 | Rake $0.14
+MezcalMule checks
+HanZeep bets $2.50
+MezcalMule folds
+Uncalled bet ($2.50) returned to HanZeep
+HanZeep does not show
+*** SUMMARY ***
+Total pot $2.67 | Rake $0.10 | JP Fee $0.04
+Board [Qc Ts Ad Qh 3d]
+Seat 1: KSCOWBOY8669 (small blind) folded on the Pre-Flop
+Seat 2: D_shadoww (big blind) folded on the Pre-Flop
+Seat 3: MezcalMule folded on the River
+Seat 4: HanZeep did not show and won $2.67
+Seat 5: EnjoyLife73 folded on the Pre-Flop and did not bet
+Seat 6: MAAuro (button) folded on the Pre-Flop
+
+Hand #1138704270 - Holdem(No Limit) - $0.05/$0.10 - 2022/02/27 19:52:15 UTC
+Sullivan 6-max Seat #1 is the button
+Seat 1: KSCOWBOY8669 ($9.79)
+Seat 2: D_shadoww ($10.20)
+Seat 3: MezcalMule ($8.56)
+Seat 4: HanZeep ($12.14)
+Seat 5: EnjoyLife73 ($11.06)
+Seat 6: MAAuro ($3.19)
+D_shadoww posts the small blind $0.05
+MezcalMule posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to MezcalMule [7h Qs]
+HanZeep folds
+EnjoyLife73 folds
+MAAuro folds
+KSCOWBOY8669 raises $0.28 to $0.28
+D_shadoww folds
+MezcalMule calls $0.18
+*** FLOP *** [6s 9h 8d]
+Main pot $0.58 | Rake $0.03
+MezcalMule bets $0.45
+KSCOWBOY8669 calls $0.45
+*** TURN *** [6s 9h 8d] [8h]
+Main pot $1.44 | Rake $0.07
+MezcalMule checks
+KSCOWBOY8669 checks
+*** RIVER *** [6s 9h 8d 8h] [Ad]
+Main pot $1.44 | Rake $0.07
+MezcalMule bets $1.13
+KSCOWBOY8669 folds
+Uncalled bet ($1.13) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $1.44 | Rake $0.05 | JP Fee $0.02
+Board [6s 9h 8d 8h Ad]
+Seat 1: KSCOWBOY8669 (button) folded on the River
+Seat 2: D_shadoww (small blind) folded on the Pre-Flop
+Seat 3: MezcalMule did not show and won $1.44
+Seat 4: HanZeep folded on the Pre-Flop and did not bet
+Seat 5: EnjoyLife73 folded on the Pre-Flop and did not bet
+Seat 6: MAAuro folded on the Pre-Flop and did not bet
+
+Hand #1138706278 - Holdem(No Limit) - $0.05/$0.10 - 2022/02/27 19:53:19 UTC
+Sullivan 6-max Seat #2 is the button
+Seat 1: KSCOWBOY8669 ($9.06)
+Seat 2: D_shadoww ($10.15)
+Seat 3: MezcalMule ($9.27)
+Seat 4: HanZeep ($12.14)
+Seat 5: EnjoyLife73 ($11.06)
+Seat 6: MAAuro ($3.19)
+MezcalMule posts the small blind $0.05
+HanZeep posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to MezcalMule [7h 2h]
+EnjoyLife73 folds
+MAAuro raises $0.20 to $0.20
+KSCOWBOY8669 folds
+D_shadoww folds
+MezcalMule folds
+HanZeep folds
+Uncalled bet ($0.10) returned to MAAuro
+MAAuro does not show
+*** SUMMARY ***
+Total pot $0.25
+Seat 1: KSCOWBOY8669 folded on the Pre-Flop and did not bet
+Seat 2: D_shadoww (button) folded on the Pre-Flop
+Seat 3: MezcalMule (small blind) folded on the Pre-Flop
+Seat 4: HanZeep (big blind) folded on the Pre-Flop
+Seat 5: EnjoyLife73 folded on the Pre-Flop and did not bet
+Seat 6: MAAuro did not show and won $0.25
+
+Hand #1138707064 - Holdem(No Limit) - $0.05/$0.10 - 2022/02/27 19:53:45 UTC
+Sullivan 6-max Seat #3 is the button
+Seat 1: KSCOWBOY8669 ($9.06)
+Seat 2: D_shadoww ($10.15)
+Seat 3: MezcalMule ($9.22)
+Seat 4: HanZeep ($12.04)
+Seat 5: EnjoyLife73 ($11.06)
+Seat 6: MAAuro ($3.34)
+HanZeep posts the small blind $0.05
+EnjoyLife73 posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to MezcalMule [Kh 8c]
+MAAuro folds
+KSCOWBOY8669 folds
+D_shadoww raises $0.24 to $0.24
+MezcalMule folds
+HanZeep raises $1.10 to $1.15
+EnjoyLife73 folds
+D_shadoww folds
+Uncalled bet ($0.91) returned to HanZeep
+HanZeep does not show
+*** SUMMARY ***
+Total pot $0.58
+Seat 1: KSCOWBOY8669 folded on the Pre-Flop and did not bet
+Seat 2: D_shadoww folded on the Pre-Flop and did not bet
+Seat 3: MezcalMule (button) folded on the Pre-Flop
+Seat 4: HanZeep did not show and won $0.58
+Seat 5: EnjoyLife73 (big blind) folded on the Pre-Flop
+Seat 6: MAAuro folded on the Pre-Flop and did not bet
+
+Hand #1138708417 - Holdem(No Limit) - $0.05/$0.10 - 2022/02/27 19:54:29 UTC
+Sullivan 6-max Seat #4 is the button
+Seat 1: KSCOWBOY8669 ($9.06)
+Seat 2: D_shadoww ($10.00)
+Seat 3: MezcalMule ($9.22)
+Seat 4: HanZeep ($12.38)
+Seat 5: EnjoyLife73 ($10.96)
+Seat 6: MAAuro ($3.34)
+EnjoyLife73 posts the small blind $0.05
+MAAuro posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to MezcalMule [4s 5d]
+KSCOWBOY8669 folds
+D_shadoww folds
+MezcalMule folds
+HanZeep raises $0.30 to $0.30
+EnjoyLife73 raises $1.05 to $1.10
+MAAuro folds
+HanZeep folds
+Uncalled bet ($0.80) returned to EnjoyLife73
+EnjoyLife73 does not show
+*** SUMMARY ***
+Total pot $0.70
+Seat 1: KSCOWBOY8669 folded on the Pre-Flop and did not bet
+Seat 2: D_shadoww folded on the Pre-Flop and did not bet
+Seat 3: MezcalMule folded on the Pre-Flop and did not bet
+Seat 4: HanZeep (button) folded on the Pre-Flop
+Seat 5: EnjoyLife73 did not show and won $0.70
+Seat 6: MAAuro (big blind) folded on the Pre-Flop
+
+Hand #1138709550 - Holdem(No Limit) - $0.05/$0.10 - 2022/02/27 19:55:24 UTC
+Sullivan 6-max Seat #5 is the button
+Seat 1: KSCOWBOY8669 ($9.06)
+Seat 2: D_shadoww ($10.00)
+Seat 3: MezcalMule ($9.22)
+Seat 4: HanZeep ($12.08)
+Seat 5: EnjoyLife73 ($11.36)
+Seat 6: MAAuro ($3.24)
+MAAuro posts the small blind $0.05
+KSCOWBOY8669 posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to MezcalMule [9h Qs]
+D_shadoww raises $0.24 to $0.24
+MezcalMule folds
+HanZeep folds
+EnjoyLife73 folds
+MAAuro raises $3.19 to $3.24 and is all-in
+KSCOWBOY8669 folds
+D_shadoww folds
+Uncalled bet ($3.00) returned to MAAuro
+MAAuro does not show
+*** SUMMARY ***
+Total pot $0.58
+Seat 1: KSCOWBOY8669 (big blind) folded on the Pre-Flop
+Seat 2: D_shadoww folded on the Pre-Flop and did not bet
+Seat 3: MezcalMule folded on the Pre-Flop and did not bet
+Seat 4: HanZeep folded on the Pre-Flop and did not bet
+Seat 5: EnjoyLife73 (button) folded on the Pre-Flop
+Seat 6: MAAuro did not show and won $0.58
+
+Hand #1138709776 - Holdem(No Limit) - $0.05/$0.10 - 2022/02/27 19:55:57 UTC
+Sullivan 6-max Seat #6 is the button
+Seat 1: KSCOWBOY8669 ($8.96)
+Seat 2: D_shadoww ($10.00)
+Seat 3: MezcalMule ($9.22)
+Seat 4: HanZeep ($12.08)
+Seat 5: EnjoyLife73 ($11.36)
+Seat 6: MAAuro ($3.58)
+KSCOWBOY8669 posts the small blind $0.05
+D_shadoww posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to MezcalMule [Ac 7c]
+MezcalMule raises $0.20 to $0.20
+HanZeep folds
+EnjoyLife73 folds
+MAAuro folds
+KSCOWBOY8669 raises $0.52 to $0.57
+D_shadoww folds
+MezcalMule calls $0.37
+*** FLOP *** [4h Ks 8s]
+Main pot $1.18 | Rake $0.06
+KSCOWBOY8669 bets $0.93
+MezcalMule folds
+Uncalled bet ($0.93) returned to KSCOWBOY8669
+KSCOWBOY8669 does not show
+*** SUMMARY ***
+Total pot $1.18 | Rake $0.04 | JP Fee $0.02
+Board [4h Ks 8s]
+Seat 1: KSCOWBOY8669 did not show and won $1.18
+Seat 2: D_shadoww (big blind) folded on the Pre-Flop
+Seat 3: MezcalMule folded on the Flop
+Seat 4: HanZeep folded on the Pre-Flop and did not bet
+Seat 5: EnjoyLife73 folded on the Pre-Flop and did not bet
+Seat 6: MAAuro (button) folded on the Pre-Flop
+
+Hand #1138710200 - Holdem(No Limit) - $0.05/$0.10 - 2022/02/27 19:56:55 UTC
+Sullivan 6-max Seat #1 is the button
+Seat 1: KSCOWBOY8669 ($9.57)
+Seat 2: D_shadoww ($10.00)
+Seat 3: MezcalMule ($8.65)
+Seat 4: HanZeep ($12.08)
+Seat 5: EnjoyLife73 ($11.36)
+Seat 6: MAAuro ($3.58)
+D_shadoww posts the small blind $0.05
+MezcalMule posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to MezcalMule [9c Ad]
+HanZeep folds
+EnjoyLife73 folds
+MAAuro raises $0.20 to $0.20
+KSCOWBOY8669 folds
+D_shadoww raises $1.05 to $1.10
+MezcalMule folds
+MAAuro folds
+Uncalled bet ($0.90) returned to D_shadoww
+D_shadoww does not show
+*** SUMMARY ***
+Total pot $0.50
+Seat 1: KSCOWBOY8669 (button) folded on the Pre-Flop
+Seat 2: D_shadoww did not show and won $0.50
+Seat 3: MezcalMule (big blind) folded on the Pre-Flop
+Seat 4: HanZeep folded on the Pre-Flop and did not bet
+Seat 5: EnjoyLife73 folded on the Pre-Flop and did not bet
+Seat 6: MAAuro folded on the Pre-Flop and did not bet
+
+Hand #1138710476 - Holdem(No Limit) - $0.05/$0.10 - 2022/02/27 19:57:34 UTC
+Sullivan 6-max Seat #2 is the button
+Seat 1: KSCOWBOY8669 ($9.57)
+Seat 2: D_shadoww ($10.30)
+Seat 3: MezcalMule ($8.55)
+Seat 4: HanZeep ($12.08)
+Seat 5: EnjoyLife73 ($11.36)
+Seat 6: MAAuro ($3.38)
+MezcalMule posts the small blind $0.05
+HanZeep posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to MezcalMule [2s Jh]
+EnjoyLife73 folds
+MAAuro folds
+KSCOWBOY8669 folds
+D_shadoww raises $0.27 to $0.27
+MezcalMule folds
+HanZeep calls $0.17
+*** FLOP *** [7s Ac Tc]
+Main pot $0.57 | Rake $0.02
+HanZeep checks
+D_shadoww bets $0.14
+HanZeep folds
+Uncalled bet ($0.14) returned to D_shadoww
+D_shadoww does not show
+*** SUMMARY ***
+Total pot $0.57 | Rake $0.02
+Board [7s Ac Tc]
+Seat 1: KSCOWBOY8669 folded on the Pre-Flop and did not bet
+Seat 2: D_shadoww did not show and won $0.57
+Seat 3: MezcalMule (small blind) folded on the Pre-Flop
+Seat 4: HanZeep (big blind) folded on the Flop
+Seat 5: EnjoyLife73 folded on the Pre-Flop and did not bet
+Seat 6: MAAuro folded on the Pre-Flop and did not bet
+
+Hand #1138710824 - Holdem(No Limit) - $0.05/$0.10 - 2022/02/27 19:58:18 UTC
+Sullivan 6-max Seat #3 is the button
+Seat 1: KSCOWBOY8669 ($9.57)
+Seat 2: D_shadoww ($10.60)
+Seat 3: MezcalMule ($8.50)
+Seat 4: HanZeep ($11.81)
+Seat 5: EnjoyLife73 ($11.36)
+Seat 6: MAAuro ($3.38)
+HanZeep posts the small blind $0.05
+EnjoyLife73 posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to MezcalMule [8c Js]
+MAAuro folds
+KSCOWBOY8669 folds
+D_shadoww folds
+MezcalMule raises $0.25 to $0.25
+HanZeep calls $0.20
+EnjoyLife73 folds
+*** FLOP *** [6s Ad 5s]
+Main pot $0.57 | Rake $0.03
+HanZeep checks
+MezcalMule checks
+*** TURN *** [6s Ad 5s] [2d]
+Main pot $0.57 | Rake $0.03
+HanZeep checks
+MezcalMule checks
+*** RIVER *** [6s Ad 5s 2d] [7h]
+Main pot $0.57 | Rake $0.03
+HanZeep checks
+MezcalMule checks
+*** SHOW DOWN ***
+Main pot $0.57 | Rake $0.03
+MezcalMule shows [8c Js] (a high card, Ace high [Ad Js 8c 7h 6s])
+HanZeep shows [Tc Jd] (a high card, Ace high [Ad Jd Tc 7h 6s])
+HanZeep collected $0.57 from main pot
+*** SUMMARY ***
+Total pot $0.57 | Rake $0.03
+Board [6s Ad 5s 2d 7h]
+Seat 1: KSCOWBOY8669 folded on the Pre-Flop and did not bet
+Seat 2: D_shadoww folded on the Pre-Flop and did not bet
+Seat 3: MezcalMule (button) showed [8c Js] and lost with a high card, Ace high [Ad Js 8c 7h 6s]
+Seat 4: HanZeep (small blind) showed [Tc Jd] and won $0.57 with a high card, Ace high [Ad Jd Tc 7h 6s] with the kicker Ten
+Seat 5: EnjoyLife73 (big blind) folded on the Pre-Flop
+Seat 6: MAAuro folded on the Pre-Flop and did not bet
+
+Hand #1138711444 - Holdem(No Limit) - $0.05/$0.10 - 2022/02/27 19:59:35 UTC
+Sullivan 6-max Seat #4 is the button
+Seat 1: KSCOWBOY8669 ($9.57)
+Seat 2: D_shadoww ($10.60)
+Seat 3: MezcalMule ($8.25)
+Seat 4: HanZeep ($12.13)
+Seat 5: EnjoyLife73 ($11.26)
+Seat 6: MAAuro ($3.38)
+EnjoyLife73 posts the small blind $0.05
+MAAuro posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to MezcalMule [Th 4c]
+KSCOWBOY8669 folds
+D_shadoww folds
+MezcalMule folds
+HanZeep folds
+EnjoyLife73 folds
+MAAuro does not show
+*** SUMMARY ***
+Total pot $0.15
+Seat 1: KSCOWBOY8669 folded on the Pre-Flop and did not bet
+Seat 2: D_shadoww folded on the Pre-Flop and did not bet
+Seat 3: MezcalMule folded on the Pre-Flop and did not bet
+Seat 4: HanZeep (button) folded on the Pre-Flop
+Seat 5: EnjoyLife73 (small blind) folded on the Pre-Flop
+Seat 6: MAAuro did not show and won $0.15
+
+Hand #1138711571 - Holdem(No Limit) - $0.05/$0.10 - 2022/02/27 19:59:51 UTC
+Sullivan 6-max Seat #5 is the button
+Seat 1: KSCOWBOY8669 ($9.57)
+Seat 2: D_shadoww ($10.60)
+Seat 3: MezcalMule ($8.25)
+Seat 4: HanZeep ($12.13)
+Seat 5: EnjoyLife73 ($11.21)
+Seat 6: MAAuro ($3.43)
+MAAuro posts the small blind $0.05
+KSCOWBOY8669 posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to MezcalMule [7c 5s]
+D_shadoww folds
+MezcalMule folds
+HanZeep folds
+EnjoyLife73 folds
+MAAuro folds
+KSCOWBOY8669 does not show
+*** SUMMARY ***
+Total pot $0.15
+Seat 1: KSCOWBOY8669 did not show and won $0.15
+Seat 2: D_shadoww folded on the Pre-Flop and did not bet
+Seat 3: MezcalMule folded on the Pre-Flop and did not bet
+Seat 4: HanZeep folded on the Pre-Flop and did not bet
+Seat 5: EnjoyLife73 (button) folded on the Pre-Flop
+Seat 6: MAAuro (small blind) folded on the Pre-Flop
+
+Hand #1138711739 - Holdem(No Limit) - $0.05/$0.10 - 2022/02/27 20:00:12 UTC
+Sullivan 6-max Seat #6 is the button
+Seat 1: KSCOWBOY8669 ($9.62)
+Seat 2: D_shadoww ($10.60)
+Seat 3: MezcalMule ($8.25)
+Seat 4: HanZeep ($12.13)
+Seat 5: EnjoyLife73 ($11.21)
+Seat 6: MAAuro ($3.38)
+KSCOWBOY8669 posts the small blind $0.05
+D_shadoww posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to MezcalMule [4d Jh]
+MezcalMule folds
+HanZeep folds
+EnjoyLife73 raises $0.22 to $0.22
+MAAuro folds
+KSCOWBOY8669 folds
+D_shadoww calls $0.12
+*** FLOP *** [7c 2s Kh]
+Main pot $0.47 | Rake $0.02
+D_shadoww checks
+EnjoyLife73 bets $0.30
+D_shadoww folds
+Uncalled bet ($0.30) returned to EnjoyLife73
+EnjoyLife73 does not show
+*** SUMMARY ***
+Total pot $0.47 | Rake $0.02
+Board [7c 2s Kh]
+Seat 1: KSCOWBOY8669 (small blind) folded on the Pre-Flop
+Seat 2: D_shadoww (big blind) folded on the Flop
+Seat 3: MezcalMule folded on the Pre-Flop and did not bet
+Seat 4: HanZeep folded on the Pre-Flop and did not bet
+Seat 5: EnjoyLife73 did not show and won $0.47
+Seat 6: MAAuro (button) folded on the Pre-Flop
+
+Hand #1138712665 - Holdem(No Limit) - $0.05/$0.10 - 2022/02/27 20:01:22 UTC
+Sullivan 6-max Seat #1 is the button
+Seat 1: KSCOWBOY8669 ($9.57)
+Seat 2: D_shadoww ($10.38)
+Seat 3: MezcalMule ($8.25)
+Seat 4: HanZeep ($12.13)
+Seat 5: EnjoyLife73 ($11.46)
+Seat 6: MAAuro ($3.38)
+D_shadoww posts the small blind $0.05
+MezcalMule posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to MezcalMule [Ts 7s]
+HanZeep folds
+EnjoyLife73 folds
+MAAuro folds
+KSCOWBOY8669 folds
+D_shadoww folds
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.15
+Seat 1: KSCOWBOY8669 (button) folded on the Pre-Flop
+Seat 2: D_shadoww (small blind) folded on the Pre-Flop
+Seat 3: MezcalMule did not show and won $0.15
+Seat 4: HanZeep folded on the Pre-Flop and did not bet
+Seat 5: EnjoyLife73 folded on the Pre-Flop and did not bet
+Seat 6: MAAuro folded on the Pre-Flop and did not bet
+
+Hand #1138713014 - Holdem(No Limit) - $0.05/$0.10 - 2022/02/27 20:01:40 UTC
+Sullivan 6-max Seat #2 is the button
+Seat 1: KSCOWBOY8669 ($9.57)
+Seat 2: D_shadoww ($10.33)
+Seat 3: MezcalMule ($8.30)
+Seat 4: HanZeep ($12.13)
+Seat 5: EnjoyLife73 ($11.46)
+Seat 6: MAAuro ($3.38)
+MezcalMule posts the small blind $0.05
+HanZeep posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to MezcalMule [Th 3s]
+EnjoyLife73 folds
+MAAuro folds
+KSCOWBOY8669 folds
+D_shadoww folds
+MezcalMule calls $0.05
+HanZeep checks
+*** FLOP *** [Kc Ks Jd]
+Main pot $0.19 | Rake $0.01
+MezcalMule checks
+HanZeep checks
+*** TURN *** [Kc Ks Jd] [4s]
+Main pot $0.19 | Rake $0.01
+MezcalMule checks
+HanZeep checks
+*** RIVER *** [Kc Ks Jd 4s] [5h]
+Main pot $0.19 | Rake $0.01
+MezcalMule checks
+HanZeep checks
+*** SHOW DOWN ***
+Main pot $0.19 | Rake $0.01
+MezcalMule shows [Th 3s] (a pair of Kings [Ks Kc Jd Th 5h])
+HanZeep shows [6c Qs] (a pair of Kings [Ks Kc Qs Jd 6c])
+HanZeep collected $0.19 from main pot
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01
+Board [Kc Ks Jd 4s 5h]
+Seat 1: KSCOWBOY8669 folded on the Pre-Flop and did not bet
+Seat 2: D_shadoww (button) folded on the Pre-Flop
+Seat 3: MezcalMule (small blind) showed [Th 3s] and lost with a pair of Kings [Ks Kc Jd Th 5h]
+Seat 4: HanZeep (big blind) showed [6c Qs] and won $0.19 with a pair of Kings [Ks Kc Qs Jd 6c] with the kicker Queen
+Seat 5: EnjoyLife73 folded on the Pre-Flop and did not bet
+Seat 6: MAAuro folded on the Pre-Flop and did not bet
+
+Hand #1138714813 - Holdem(No Limit) - $0.05/$0.10 - 2022/02/27 20:02:44 UTC
+Sullivan 6-max Seat #3 is the button
+Seat 1: KSCOWBOY8669 ($9.57)
+Seat 2: D_shadoww ($10.33)
+Seat 3: MezcalMule ($8.20)
+Seat 4: HanZeep ($12.22)
+Seat 5: EnjoyLife73 ($11.46)
+Seat 6: MAAuro ($3.38)
+HanZeep posts the small blind $0.05
+EnjoyLife73 posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to MezcalMule [Ks 6d]
+MAAuro raises $0.20 to $0.20
+KSCOWBOY8669 folds
+D_shadoww folds
+MezcalMule folds
+HanZeep folds
+EnjoyLife73 calls $0.10
+*** FLOP *** [Kc Kh 4h]
+Main pot $0.43 | Rake $0.02
+EnjoyLife73 checks
+MAAuro bets $0.27
+EnjoyLife73 folds
+Uncalled bet ($0.27) returned to MAAuro
+MAAuro does not show
+*** SUMMARY ***
+Total pot $0.43 | Rake $0.02
+Board [Kc Kh 4h]
+Seat 1: KSCOWBOY8669 folded on the Pre-Flop and did not bet
+Seat 2: D_shadoww folded on the Pre-Flop and did not bet
+Seat 3: MezcalMule (button) folded on the Pre-Flop
+Seat 4: HanZeep (small blind) folded on the Pre-Flop
+Seat 5: EnjoyLife73 (big blind) folded on the Flop
+Seat 6: MAAuro did not show and won $0.43
+
+Hand #1138715966 - Holdem(No Limit) - $0.05/$0.10 - 2022/02/27 20:03:31 UTC
+Sullivan 6-max Seat #4 is the button
+Seat 1: KSCOWBOY8669 ($9.57)
+Seat 2: D_shadoww ($10.33)
+Seat 3: MezcalMule ($8.20)
+Seat 4: HanZeep ($12.17)
+Seat 5: EnjoyLife73 ($11.26)
+Seat 6: MAAuro ($3.61)
+EnjoyLife73 posts the small blind $0.05
+MAAuro posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to MezcalMule [2h Jd]
+KSCOWBOY8669 folds
+D_shadoww folds
+MezcalMule folds
+HanZeep raises $0.20 to $0.20
+EnjoyLife73 folds
+MAAuro raises $0.90 to $1.00
+HanZeep folds
+Uncalled bet ($0.80) returned to MAAuro
+MAAuro does not show
+*** SUMMARY ***
+Total pot $0.45
+Seat 1: KSCOWBOY8669 folded on the Pre-Flop and did not bet
+Seat 2: D_shadoww folded on the Pre-Flop and did not bet
+Seat 3: MezcalMule folded on the Pre-Flop and did not bet
+Seat 4: HanZeep (button) folded on the Pre-Flop
+Seat 5: EnjoyLife73 (small blind) folded on the Pre-Flop
+Seat 6: MAAuro did not show and won $0.45
+
+Hand #1138717323 - Holdem(No Limit) - $0.05/$0.10 - 2022/02/27 20:04:08 UTC
+Sullivan 6-max Seat #5 is the button
+Seat 1: KSCOWBOY8669 ($9.57)
+Seat 2: D_shadoww ($10.33)
+Seat 3: MezcalMule ($8.20)
+Seat 4: HanZeep ($11.97)
+Seat 5: EnjoyLife73 ($11.21)
+Seat 6: MAAuro ($3.86)
+MAAuro posts the small blind $0.05
+KSCOWBOY8669 posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to MezcalMule [7h 6h]
+D_shadoww folds
+MezcalMule raises $0.35 to $0.35
+HanZeep raises $1.30 to $1.30
+EnjoyLife73 folds
+MAAuro folds
+KSCOWBOY8669 folds
+MezcalMule calls $0.95
+*** FLOP *** [7d 8c 2d]
+Main pot $2.62 | Rake $0.13
+MezcalMule checks
+HanZeep bets $1.00
+MezcalMule calls $1.00
+*** TURN *** [7d 8c 2d] [6c]
+Main pot $4.52 | Rake $0.23
+MezcalMule bets $3.04
+HanZeep folds
+Uncalled bet ($3.04) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $4.52 | Rake $0.17 | JP Fee $0.06
+Board [7d 8c 2d 6c]
+Seat 1: KSCOWBOY8669 (big blind) folded on the Pre-Flop
+Seat 2: D_shadoww folded on the Pre-Flop and did not bet
+Seat 3: MezcalMule did not show and won $4.52
+Seat 4: HanZeep folded on the Turn
+Seat 5: EnjoyLife73 (button) folded on the Pre-Flop
+Seat 6: MAAuro (small blind) folded on the Pre-Flop
+
+Hand #1138720254 - Holdem(No Limit) - $0.05/$0.10 - 2022/02/27 20:05:38 UTC
+Sullivan 6-max Seat #6 is the button
+Seat 1: KSCOWBOY8669 ($9.47)
+Seat 2: D_shadoww ($10.33)
+Seat 3: MezcalMule ($10.42)
+Seat 4: HanZeep ($10.00)
+Seat 5: EnjoyLife73 ($11.21)
+Seat 6: MAAuro ($3.81)
+KSCOWBOY8669 posts the small blind $0.05
+D_shadoww posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to MezcalMule [Jd Ah]
+MezcalMule raises $0.20 to $0.20
+HanZeep folds
+EnjoyLife73 folds
+MAAuro folds
+KSCOWBOY8669 folds
+D_shadoww folds
+Uncalled bet ($0.10) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.25
+Seat 1: KSCOWBOY8669 (small blind) folded on the Pre-Flop
+Seat 2: D_shadoww (big blind) folded on the Pre-Flop
+Seat 3: MezcalMule did not show and won $0.25
+Seat 4: HanZeep folded on the Pre-Flop and did not bet
+Seat 5: EnjoyLife73 folded on the Pre-Flop and did not bet
+Seat 6: MAAuro (button) folded on the Pre-Flop
+
+Hand #1138721268 - Holdem(No Limit) - $0.05/$0.10 - 2022/02/27 20:06:09 UTC
+Sullivan 6-max Seat #1 is the button
+Seat 1: KSCOWBOY8669 ($9.42)
+Seat 2: D_shadoww ($10.23)
+Seat 3: MezcalMule ($10.57)
+Seat 4: HanZeep ($10.00)
+Seat 5: EnjoyLife73 ($11.21)
+Seat 6: MAAuro ($3.81)
+D_shadoww posts the small blind $0.05
+MezcalMule posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to MezcalMule [5s 7c]
+HanZeep folds
+EnjoyLife73 raises $0.22 to $0.22
+MAAuro folds
+KSCOWBOY8669 calls $0.22
+D_shadoww folds
+MezcalMule calls $0.12
+*** FLOP *** [3s Kh 7s]
+Main pot $0.68 | Rake $0.03
+MezcalMule checks
+EnjoyLife73 bets $0.53
+KSCOWBOY8669 folds
+MezcalMule folds
+Uncalled bet ($0.53) returned to EnjoyLife73
+EnjoyLife73 does not show
+*** SUMMARY ***
+Total pot $0.68 | Rake $0.03
+Board [3s Kh 7s]
+Seat 1: KSCOWBOY8669 (button) folded on the Flop
+Seat 2: D_shadoww (small blind) folded on the Pre-Flop
+Seat 3: MezcalMule (big blind) folded on the Flop
+Seat 4: HanZeep folded on the Pre-Flop and did not bet
+Seat 5: EnjoyLife73 did not show and won $0.68
+Seat 6: MAAuro folded on the Pre-Flop and did not bet
+
+Hand #1138723760 - Holdem(No Limit) - $0.05/$0.10 - 2022/02/27 20:07:23 UTC
+Sullivan 6-max Seat #2 is the button
+Seat 1: KSCOWBOY8669 ($9.20)
+Seat 2: D_shadoww ($10.18)
+Seat 3: MezcalMule ($10.35)
+Seat 4: HanZeep ($10.00)
+Seat 5: EnjoyLife73 ($11.67)
+Seat 6: MAAuro ($3.81)
+MezcalMule posts the small blind $0.05
+HanZeep posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to MezcalMule [Jd Th]
+EnjoyLife73 folds
+MAAuro raises $0.20 to $0.20
+KSCOWBOY8669 folds
+D_shadoww folds
+MezcalMule calls $0.15
+HanZeep raises $0.85 to $0.95
+MAAuro folds
+MezcalMule folds
+Uncalled bet ($0.75) returned to HanZeep
+HanZeep does not show
+*** SUMMARY ***
+Total pot $0.60
+Seat 1: KSCOWBOY8669 folded on the Pre-Flop and did not bet
+Seat 2: D_shadoww (button) folded on the Pre-Flop
+Seat 3: MezcalMule (small blind) folded on the Pre-Flop
+Seat 4: HanZeep did not show and won $0.60
+Seat 5: EnjoyLife73 folded on the Pre-Flop and did not bet
+Seat 6: MAAuro folded on the Pre-Flop and did not bet
+
+Hand #1138725017 - Holdem(No Limit) - $0.05/$0.10 - 2022/02/27 20:08:00 UTC
+Sullivan 6-max Seat #3 is the button
+Seat 1: KSCOWBOY8669 ($9.20)
+Seat 2: D_shadoww ($10.18)
+Seat 3: MezcalMule ($10.15)
+Seat 4: HanZeep ($10.40)
+Seat 5: EnjoyLife73 ($11.67)
+Seat 6: MAAuro ($3.61)
+HanZeep posts the small blind $0.05
+EnjoyLife73 posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to MezcalMule [Ah Jh]
+MAAuro raises $0.20 to $0.20
+KSCOWBOY8669 folds
+D_shadoww folds
+MezcalMule raises $0.60 to $0.60
+HanZeep raises $2.35 to $2.40
+EnjoyLife73 folds
+MAAuro folds
+MezcalMule calls $1.80
+*** FLOP *** [9s 6h 6d]
+Main pot $4.85 | Rake $0.25
+HanZeep checks
+MezcalMule checks
+*** TURN *** [9s 6h 6d] [4d]
+Main pot $4.85 | Rake $0.25
+HanZeep bets $3.50
+MezcalMule folds
+Uncalled bet ($3.50) returned to HanZeep
+HanZeep does not show
+*** SUMMARY ***
+Total pot $4.85 | Rake $0.17 | JP Fee $0.08
+Board [9s 6h 6d 4d]
+Seat 1: KSCOWBOY8669 folded on the Pre-Flop and did not bet
+Seat 2: D_shadoww folded on the Pre-Flop and did not bet
+Seat 3: MezcalMule (button) folded on the Turn
+Seat 4: HanZeep did not show and won $4.85
+Seat 5: EnjoyLife73 (big blind) folded on the Pre-Flop
+Seat 6: MAAuro folded on the Pre-Flop and did not bet
+
+Hand #1138727552 - Holdem(No Limit) - $0.05/$0.10 - 2022/02/27 20:09:13 UTC
+Sullivan 6-max Seat #4 is the button
+Seat 1: KSCOWBOY8669 ($9.20)
+Seat 2: D_shadoww ($10.18)
+Seat 3: MezcalMule ($7.75)
+Seat 4: HanZeep ($12.85)
+Seat 5: EnjoyLife73 ($11.57)
+Seat 6: MAAuro ($3.41)
+EnjoyLife73 posts the small blind $0.05
+MAAuro posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to MezcalMule [5d Th]
+KSCOWBOY8669 folds
+D_shadoww raises $0.24 to $0.24
+MezcalMule folds
+HanZeep folds
+EnjoyLife73 folds
+MAAuro folds
+Uncalled bet ($0.14) returned to D_shadoww
+D_shadoww does not show
+*** SUMMARY ***
+Total pot $0.25
+Seat 1: KSCOWBOY8669 folded on the Pre-Flop and did not bet
+Seat 2: D_shadoww did not show and won $0.25
+Seat 3: MezcalMule folded on the Pre-Flop and did not bet
+Seat 4: HanZeep (button) folded on the Pre-Flop
+Seat 5: EnjoyLife73 (small blind) folded on the Pre-Flop
+Seat 6: MAAuro (big blind) folded on the Pre-Flop
+
+Hand #1138728533 - Holdem(No Limit) - $0.05/$0.10 - 2022/02/27 20:09:43 UTC
+Sullivan 6-max Seat #5 is the button
+Seat 1: KSCOWBOY8669 ($9.20)
+Seat 2: D_shadoww ($10.33)
+Seat 3: MezcalMule ($7.75)
+Seat 4: HanZeep ($12.85)
+Seat 5: EnjoyLife73 ($11.52)
+Seat 6: MAAuro ($3.31)
+MAAuro posts the small blind $0.05
+KSCOWBOY8669 posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to MezcalMule [Kd 8h]
+D_shadoww raises $0.24 to $0.24
+MezcalMule folds
+HanZeep raises $0.70 to $0.70
+EnjoyLife73 folds
+MAAuro folds
+KSCOWBOY8669 folds
+D_shadoww folds
+Uncalled bet ($0.46) returned to HanZeep
+HanZeep does not show
+*** SUMMARY ***
+Total pot $0.63
+Seat 1: KSCOWBOY8669 (big blind) folded on the Pre-Flop
+Seat 2: D_shadoww folded on the Pre-Flop and did not bet
+Seat 3: MezcalMule folded on the Pre-Flop and did not bet
+Seat 4: HanZeep did not show and won $0.63
+Seat 5: EnjoyLife73 (button) folded on the Pre-Flop
+Seat 6: MAAuro (small blind) folded on the Pre-Flop
+
+Hand #1138730115 - Holdem(No Limit) - $0.05/$0.10 - 2022/02/27 20:10:29 UTC
+Sullivan 6-max Seat #6 is the button
+Seat 1: KSCOWBOY8669 ($9.10)
+Seat 2: D_shadoww ($10.09)
+Seat 3: MezcalMule ($7.75)
+Seat 4: HanZeep ($13.24)
+Seat 5: EnjoyLife73 ($11.52)
+Seat 6: MAAuro ($3.26)
+KSCOWBOY8669 posts the small blind $0.05
+D_shadoww posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to MezcalMule [Qs Jc]
+MezcalMule raises $0.20 to $0.20
+HanZeep folds
+EnjoyLife73 folds
+MAAuro raises $0.75 to $0.75
+KSCOWBOY8669 folds
+D_shadoww folds
+MezcalMule calls $0.55
+*** FLOP *** [8d Js 4h]
+Main pot $1.57 | Rake $0.08
+MezcalMule bets $1.23
+MAAuro raises $2.51 to $2.51 and is all-in
+MezcalMule calls $1.28
+*** TURN *** [8d Js 4h] [7h]
+Main pot $6.34 | Rake $0.33
+*** RIVER *** [8d Js 4h 7h] [Ah]
+Main pot $6.34 | Rake $0.33
+*** SHOW DOWN ***
+Main pot $6.34 | Rake $0.33
+MezcalMule shows [Qs Jc] (a pair of Jacks [Js Jc Ah Qs 8d])
+MAAuro shows [Ad Kd] (a pair of Aces [Ah Ad Kd Js 8d])
+MAAuro collected $6.34 from main pot
+*** SUMMARY ***
+Total pot $6.34 | Rake $0.23 | JP Fee $0.10
+Board [8d Js 4h 7h Ah]
+Seat 1: KSCOWBOY8669 (small blind) folded on the Pre-Flop
+Seat 2: D_shadoww (big blind) folded on the Pre-Flop
+Seat 3: MezcalMule showed [Qs Jc] and lost with a pair of Jacks [Js Jc Ah Qs 8d]
+Seat 4: HanZeep folded on the Pre-Flop and did not bet
+Seat 5: EnjoyLife73 folded on the Pre-Flop and did not bet
+Seat 6: MAAuro (button) showed [Ad Kd] and won $6.34 with a pair of Aces [Ah Ad Kd Js 8d]
+
+Hand #1138732112 - Holdem(No Limit) - $0.05/$0.10 - 2022/02/27 20:11:26 UTC
+Sullivan 6-max Seat #1 is the button
+Seat 1: KSCOWBOY8669 ($9.05)
+Seat 2: D_shadoww ($10.00)
+Seat 3: MezcalMule ($4.49)
+Seat 4: HanZeep ($13.24)
+Seat 5: EnjoyLife73 ($11.52)
+Seat 6: MAAuro ($6.34)
+D_shadoww posts the small blind $0.05
+MezcalMule posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to MezcalMule [8d Qs]
+HanZeep folds
+EnjoyLife73 folds
+MAAuro raises $0.20 to $0.20
+KSCOWBOY8669 folds
+D_shadoww raises $1.05 to $1.10
+MezcalMule folds
+MAAuro folds
+Uncalled bet ($0.90) returned to D_shadoww
+D_shadoww does not show
+*** SUMMARY ***
+Total pot $0.50
+Seat 1: KSCOWBOY8669 (button) folded on the Pre-Flop
+Seat 2: D_shadoww did not show and won $0.50
+Seat 3: MezcalMule (big blind) folded on the Pre-Flop
+Seat 4: HanZeep folded on the Pre-Flop and did not bet
+Seat 5: EnjoyLife73 folded on the Pre-Flop and did not bet
+Seat 6: MAAuro folded on the Pre-Flop and did not bet
+
+Hand #1138733019 - Holdem(No Limit) - $0.05/$0.10 - 2022/02/27 20:11:53 UTC
+Sullivan 6-max Seat #2 is the button
+Seat 1: KSCOWBOY8669 ($9.05)
+Seat 2: D_shadoww ($10.30)
+Seat 3: MezcalMule ($4.39)
+Seat 4: HanZeep ($13.24)
+Seat 5: EnjoyLife73 ($11.52)
+Seat 6: MAAuro ($6.14)
+MezcalMule posts the small blind $0.05
+HanZeep posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to MezcalMule [Ah Kc]
+EnjoyLife73 raises $0.22 to $0.22
+MAAuro folds
+KSCOWBOY8669 calls $0.22
+D_shadoww folds
+MezcalMule raises $0.93 to $0.98
+HanZeep folds
+EnjoyLife73 calls $0.76
+KSCOWBOY8669 calls $0.76
+*** FLOP *** [8s 7c Tc]
+Main pot $2.89 | Rake $0.15
+MezcalMule checks
+EnjoyLife73 checks
+KSCOWBOY8669 checks
+*** TURN *** [8s 7c Tc] [8h]
+Main pot $2.89 | Rake $0.15
+MezcalMule checks
+EnjoyLife73 checks
+KSCOWBOY8669 bets $2.28
+MezcalMule folds
+EnjoyLife73 folds
+Uncalled bet ($2.28) returned to KSCOWBOY8669
+KSCOWBOY8669 does not show
+*** SUMMARY ***
+Total pot $2.89 | Rake $0.11 | JP Fee $0.04
+Board [8s 7c Tc 8h]
+Seat 1: KSCOWBOY8669 did not show and won $2.89
+Seat 2: D_shadoww (button) folded on the Pre-Flop
+Seat 3: MezcalMule (small blind) folded on the Turn
+Seat 4: HanZeep (big blind) folded on the Pre-Flop
+Seat 5: EnjoyLife73 folded on the Turn
+Seat 6: MAAuro folded on the Pre-Flop and did not bet
+
+Hand #1138736466 - Holdem(No Limit) - $0.05/$0.10 - 2022/02/27 20:13:32 UTC
+Sullivan 6-max Seat #3 is the button
+Seat 1: KSCOWBOY8669 ($10.96)
+Seat 2: D_shadoww ($10.30)
+Seat 3: MezcalMule ($3.41)
+Seat 4: HanZeep ($13.14)
+Seat 5: EnjoyLife73 ($10.54)
+Seat 6: MAAuro ($6.14)
+HanZeep posts the small blind $0.05
+EnjoyLife73 posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to MezcalMule [Ah 8s]
+MAAuro folds
+KSCOWBOY8669 folds
+D_shadoww raises $0.24 to $0.24
+MezcalMule folds
+HanZeep raises $1.10 to $1.15
+EnjoyLife73 folds
+D_shadoww folds
+Uncalled bet ($0.91) returned to HanZeep
+HanZeep does not show
+*** SUMMARY ***
+Total pot $0.58
+Seat 1: KSCOWBOY8669 folded on the Pre-Flop and did not bet
+Seat 2: D_shadoww folded on the Pre-Flop and did not bet
+Seat 3: MezcalMule (button) folded on the Pre-Flop
+Seat 4: HanZeep did not show and won $0.58
+Seat 5: EnjoyLife73 (big blind) folded on the Pre-Flop
+Seat 6: MAAuro folded on the Pre-Flop and did not bet
+
+Hand #1138737857 - Holdem(No Limit) - $0.05/$0.10 - 2022/02/27 20:14:14 UTC
+Sullivan 6-max Seat #4 is the button
+Seat 1: KSCOWBOY8669 ($10.96)
+Seat 2: D_shadoww ($10.06)
+Seat 3: MezcalMule ($3.41)
+Seat 4: HanZeep ($13.48)
+Seat 5: EnjoyLife73 ($10.44)
+Seat 6: MAAuro ($6.14)
+EnjoyLife73 posts the small blind $0.05
+MAAuro posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to MezcalMule [9c 9s]
+KSCOWBOY8669 folds
+D_shadoww raises $0.24 to $0.24
+MezcalMule calls $0.24
+HanZeep folds
+EnjoyLife73 folds
+MAAuro folds
+*** FLOP *** [3s 8s 4h]
+Main pot $0.60 | Rake $0.03
+D_shadoww checks
+MezcalMule bets $0.47
+D_shadoww folds
+Uncalled bet ($0.47) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03
+Board [3s 8s 4h]
+Seat 1: KSCOWBOY8669 folded on the Pre-Flop and did not bet
+Seat 2: D_shadoww folded on the Flop
+Seat 3: MezcalMule did not show and won $0.60
+Seat 4: HanZeep (button) folded on the Pre-Flop
+Seat 5: EnjoyLife73 (small blind) folded on the Pre-Flop
+Seat 6: MAAuro (big blind) folded on the Pre-Flop
+
+Hand #1138739879 - Holdem(No Limit) - $0.05/$0.10 - 2022/02/27 20:15:13 UTC
+Sullivan 6-max Seat #5 is the button
+Seat 1: KSCOWBOY8669 ($10.96)
+Seat 2: D_shadoww ($10.00)
+Seat 3: MezcalMule ($3.77)
+Seat 4: HanZeep ($13.48)
+Seat 5: EnjoyLife73 ($10.39)
+Seat 6: MAAuro ($6.04)
+MAAuro posts the small blind $0.05
+KSCOWBOY8669 posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to MezcalMule [Js 9c]
+D_shadoww folds
+MezcalMule folds
+HanZeep folds
+EnjoyLife73 raises $0.22 to $0.22
+MAAuro raises $0.71 to $0.76
+KSCOWBOY8669 folds
+EnjoyLife73 calls $0.54
+*** FLOP *** [2h As 6c]
+Main pot $1.54 | Rake $0.08
+MAAuro bets $0.40
+EnjoyLife73 calls $0.40
+*** TURN *** [2h As 6c] [9h]
+Main pot $2.30 | Rake $0.12
+MAAuro bets $1.21
+EnjoyLife73 calls $1.21
+*** RIVER *** [2h As 6c 9h] [8d]
+Main pot $4.60 | Rake $0.24
+MAAuro bets $3.67 and is all-in
+EnjoyLife73 folds
+Uncalled bet ($3.67) returned to MAAuro
+MAAuro does not show
+*** SUMMARY ***
+Total pot $4.60 | Rake $0.16 | JP Fee $0.08
+Board [2h As 6c 9h 8d]
+Seat 1: KSCOWBOY8669 (big blind) folded on the Pre-Flop
+Seat 2: D_shadoww folded on the Pre-Flop and did not bet
+Seat 3: MezcalMule folded on the Pre-Flop and did not bet
+Seat 4: HanZeep folded on the Pre-Flop and did not bet
+Seat 5: EnjoyLife73 (button) folded on the River
+Seat 6: MAAuro did not show and won $4.60
+
+Hand #1138742556 - Holdem(No Limit) - $0.05/$0.10 - 2022/02/27 20:16:30 UTC
+Sullivan 6-max Seat #6 is the button
+Seat 1: KSCOWBOY8669 ($10.86)
+Seat 2: D_shadoww ($10.00)
+Seat 3: MezcalMule ($3.77)
+Seat 4: HanZeep ($13.48) is sitting out
+Seat 5: EnjoyLife73 ($10.00)
+Seat 6: MAAuro ($8.27)
+KSCOWBOY8669 posts the small blind $0.05
+D_shadoww posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to MezcalMule [9h 8c]
+MezcalMule folds
+EnjoyLife73 folds
+MAAuro raises $0.20 to $0.20
+KSCOWBOY8669 folds
+D_shadoww calls $0.10
+*** FLOP *** [Ad 3d Kd]
+Main pot $0.43 | Rake $0.02
+D_shadoww checks
+MAAuro bets $0.22
+D_shadoww folds
+Uncalled bet ($0.22) returned to MAAuro
+MAAuro does not show
+*** SUMMARY ***
+Total pot $0.43 | Rake $0.02
+Board [Ad 3d Kd]
+Seat 1: KSCOWBOY8669 (small blind) folded on the Pre-Flop
+Seat 2: D_shadoww (big blind) folded on the Flop
+Seat 3: MezcalMule folded on the Pre-Flop and did not bet
+Seat 5: EnjoyLife73 folded on the Pre-Flop and did not bet
+Seat 6: MAAuro did not show and won $0.43
+
+Hand #1138744204 - Holdem(No Limit) - $0.05/$0.10 - 2022/02/27 20:17:16 UTC
+Sullivan 6-max Seat #1 is the button
+Seat 1: KSCOWBOY8669 ($10.81)
+Seat 2: D_shadoww ($10.00)
+Seat 3: MezcalMule ($3.77)
+Seat 4: HanZeep ($13.48)
+Seat 5: EnjoyLife73 ($10.00)
+Seat 6: MAAuro ($8.50)
+D_shadoww posts the small blind $0.05
+MezcalMule posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to MezcalMule [6c 5d]
+HanZeep raises $0.30 to $0.30
+EnjoyLife73 folds
+MAAuro folds
+KSCOWBOY8669 calls $0.30
+D_shadoww folds
+MezcalMule calls $0.20
+*** FLOP *** [As 9h 6d]
+Main pot $0.91 | Rake $0.04
+MezcalMule checks
+HanZeep checks
+KSCOWBOY8669 checks
+*** TURN *** [As 9h 6d] [9c]
+Main pot $0.91 | Rake $0.04
+MezcalMule bets $0.47
+HanZeep calls $0.47
+KSCOWBOY8669 calls $0.47
+*** RIVER *** [As 9h 6d 9c] [2s]
+Main pot $2.25 | Rake $0.11
+MezcalMule checks
+HanZeep checks
+KSCOWBOY8669 checks
+*** SHOW DOWN ***
+Main pot $2.25 | Rake $0.11
+KSCOWBOY8669 shows [8d 7d] (a pair of Nines [9h 9c As 8d 7d])
+MezcalMule shows [6c 5d] (two pair, Nines and Sixs [9h 9c 6d 6c As])
+HanZeep shows [Ah Jd] (two pair, Aces and Nines [As Ah 9h 9c Jd])
+HanZeep collected $2.25 from main pot
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.09 | JP Fee $0.02
+Board [As 9h 6d 9c 2s]
+Seat 1: KSCOWBOY8669 (button) showed [8d 7d] and lost with a pair of Nines [9h 9c As 8d 7d]
+Seat 2: D_shadoww (small blind) folded on the Pre-Flop
+Seat 3: MezcalMule (big blind) showed [6c 5d] and lost with two pair, Nines and Sixs [9h 9c 6d 6c As]
+Seat 4: HanZeep showed [Ah Jd] and won $2.25 with two pair, Aces and Nines [As Ah 9h 9c Jd]
+Seat 5: EnjoyLife73 folded on the Pre-Flop and did not bet
+Seat 6: MAAuro folded on the Pre-Flop and did not bet
+
+Hand #1138748189 - Holdem(No Limit) - $0.05/$0.10 - 2022/02/27 20:19:09 UTC
+Sullivan 6-max Seat #2 is the button
+Seat 1: KSCOWBOY8669 ($10.04)
+Seat 2: D_shadoww ($10.00)
+Seat 3: MezcalMule ($3.00)
+Seat 4: HanZeep ($14.96)
+Seat 5: EnjoyLife73 ($10.00)
+Seat 6: MAAuro ($8.50)
+MezcalMule posts the small blind $0.05
+HanZeep posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to MezcalMule [9h Ks]
+EnjoyLife73 folds
+MAAuro folds
+KSCOWBOY8669 folds
+D_shadoww raises $0.27 to $0.27
+MezcalMule folds
+HanZeep folds
+Uncalled bet ($0.17) returned to D_shadoww
+D_shadoww does not show
+*** SUMMARY ***
+Total pot $0.25
+Seat 1: KSCOWBOY8669 folded on the Pre-Flop and did not bet
+Seat 2: D_shadoww did not show and won $0.25
+Seat 3: MezcalMule (small blind) folded on the Pre-Flop
+Seat 4: HanZeep (big blind) folded on the Pre-Flop
+Seat 5: EnjoyLife73 folded on the Pre-Flop and did not bet
+Seat 6: MAAuro folded on the Pre-Flop and did not bet
+
+Hand #1138749239 - Holdem(No Limit) - $0.05/$0.10 - 2022/02/27 20:19:39 UTC
+Sullivan 6-max Seat #3 is the button
+Seat 1: KSCOWBOY8669 ($10.04)
+Seat 2: D_shadoww ($10.15)
+Seat 3: MezcalMule ($2.95)
+Seat 4: HanZeep ($14.86)
+Seat 5: EnjoyLife73 ($10.00)
+Seat 6: MAAuro ($8.50)
+HanZeep posts the small blind $0.05
+EnjoyLife73 posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to MezcalMule [9d As]
+MAAuro folds
+KSCOWBOY8669 folds
+D_shadoww folds
+MezcalMule raises $0.20 to $0.20
+HanZeep folds
+EnjoyLife73 calls $0.10
+*** FLOP *** [5h 2h Kc]
+Main pot $0.43 | Rake $0.02
+EnjoyLife73 checks
+MezcalMule checks
+*** TURN *** [5h 2h Kc] [Jh]
+Main pot $0.43 | Rake $0.02
+EnjoyLife73 checks
+MezcalMule checks
+*** RIVER *** [5h 2h Kc Jh] [Jd]
+Main pot $0.43 | Rake $0.02
+EnjoyLife73 checks
+MezcalMule checks
+*** SHOW DOWN ***
+Main pot $0.43 | Rake $0.02
+MezcalMule shows [9d As] (a pair of Jacks [Jh Jd As Kc 9d])
+EnjoyLife73 shows [8c Qc] (a pair of Jacks [Jh Jd Kc Qc 8c])
+MezcalMule collected $0.43 from main pot
+*** SUMMARY ***
+Total pot $0.43 | Rake $0.02
+Board [5h 2h Kc Jh Jd]
+Seat 1: KSCOWBOY8669 folded on the Pre-Flop and did not bet
+Seat 2: D_shadoww folded on the Pre-Flop and did not bet
+Seat 3: MezcalMule (button) showed [9d As] and won $0.43 with a pair of Jacks [Jh Jd As Kc 9d] with the kicker Ace
+Seat 4: HanZeep (small blind) folded on the Pre-Flop
+Seat 5: EnjoyLife73 (big blind) showed [8c Qc] and lost with a pair of Jacks [Jh Jd Kc Qc 8c]
+Seat 6: MAAuro folded on the Pre-Flop and did not bet
+
+Hand #1138752257 - Holdem(No Limit) - $0.05/$0.10 - 2022/02/27 20:21:08 UTC
+Sullivan 6-max Seat #4 is the button
+Seat 1: KSCOWBOY8669 ($10.04)
+Seat 2: D_shadoww ($10.15)
+Seat 3: MezcalMule ($3.18)
+Seat 4: HanZeep ($14.81)
+Seat 5: EnjoyLife73 ($10.00)
+Seat 6: MAAuro ($8.50)
+EnjoyLife73 posts the small blind $0.05
+MAAuro posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to MezcalMule [Jh 9d]
+KSCOWBOY8669 raises $0.28 to $0.28
+D_shadoww folds
+MezcalMule folds
+HanZeep folds
+EnjoyLife73 folds
+MAAuro folds
+Uncalled bet ($0.18) returned to KSCOWBOY8669
+KSCOWBOY8669 does not show
+*** SUMMARY ***
+Total pot $0.25
+Seat 1: KSCOWBOY8669 did not show and won $0.25
+Seat 2: D_shadoww folded on the Pre-Flop and did not bet
+Seat 3: MezcalMule folded on the Pre-Flop and did not bet
+Seat 4: HanZeep (button) folded on the Pre-Flop
+Seat 5: EnjoyLife73 (small blind) folded on the Pre-Flop
+Seat 6: MAAuro (big blind) folded on the Pre-Flop
+
+Hand #1138753683 - Holdem(No Limit) - $0.05/$0.10 - 2022/02/27 20:21:49 UTC
+Sullivan 6-max Seat #5 is the button
+Seat 1: KSCOWBOY8669 ($10.19)
+Seat 2: D_shadoww ($10.15)
+Seat 3: MezcalMule ($3.18)
+Seat 4: HanZeep ($14.81)
+Seat 5: EnjoyLife73 ($10.00)
+Seat 6: MAAuro ($8.40)
+MAAuro posts the small blind $0.05
+KSCOWBOY8669 posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to MezcalMule [9d 4s]
+D_shadoww folds
+MezcalMule folds
+HanZeep raises $0.20 to $0.20
+EnjoyLife73 raises $0.80 to $0.80
+MAAuro folds
+KSCOWBOY8669 folds
+HanZeep folds
+Uncalled bet ($0.60) returned to EnjoyLife73
+EnjoyLife73 does not show
+*** SUMMARY ***
+Total pot $0.55
+Seat 1: KSCOWBOY8669 (big blind) folded on the Pre-Flop
+Seat 2: D_shadoww folded on the Pre-Flop and did not bet
+Seat 3: MezcalMule folded on the Pre-Flop and did not bet
+Seat 4: HanZeep folded on the Pre-Flop and did not bet
+Seat 5: EnjoyLife73 did not show and won $0.55
+Seat 6: MAAuro (small blind) folded on the Pre-Flop
+
+Hand #1138755282 - Holdem(No Limit) - $0.05/$0.10 - 2022/02/27 20:22:35 UTC
+Sullivan 6-max Seat #6 is the button
+Seat 1: KSCOWBOY8669 ($10.09)
+Seat 2: D_shadoww ($10.15)
+Seat 3: MezcalMule ($3.18)
+Seat 4: HanZeep ($14.61)
+Seat 5: EnjoyLife73 ($10.35)
+Seat 6: MAAuro ($8.35)
+KSCOWBOY8669 posts the small blind $0.05
+D_shadoww posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to MezcalMule [7d 7s]
+MezcalMule calls $0.10
+HanZeep folds
+EnjoyLife73 folds
+MAAuro folds
+KSCOWBOY8669 calls $0.05
+D_shadoww checks
+*** FLOP *** [9h As Ts]
+Main pot $0.29 | Rake $0.01
+KSCOWBOY8669 checks
+D_shadoww checks
+MezcalMule checks
+*** TURN *** [9h As Ts] [8d]
+Main pot $0.29 | Rake $0.01
+KSCOWBOY8669 bets $0.22
+D_shadoww folds
+MezcalMule calls $0.22
+*** RIVER *** [9h As Ts 8d] [Qc]
+Main pot $0.71 | Rake $0.03
+KSCOWBOY8669 checks
+MezcalMule checks
+*** SHOW DOWN ***
+Main pot $0.71 | Rake $0.03
+KSCOWBOY8669 shows [7c 5d] (a high card, Ace high [As Qc Ts 9h 8d])
+MezcalMule shows [7d 7s] (a pair of Sevens [7s 7d As Qc Ts])
+MezcalMule collected $0.71 from main pot
+*** SUMMARY ***
+Total pot $0.71 | Rake $0.03
+Board [9h As Ts 8d Qc]
+Seat 1: KSCOWBOY8669 (small blind) showed [7c 5d] and lost with a high card, Ace high [As Qc Ts 9h 8d]
+Seat 2: D_shadoww (big blind) folded on the Turn
+Seat 3: MezcalMule showed [7d 7s] and won $0.71 with a pair of Sevens [7s 7d As Qc Ts]
+Seat 4: HanZeep folded on the Pre-Flop and did not bet
+Seat 5: EnjoyLife73 folded on the Pre-Flop and did not bet
+Seat 6: MAAuro (button) folded on the Pre-Flop
+
+Hand #1138758484 - Holdem(No Limit) - $0.05/$0.10 - 2022/02/27 20:24:06 UTC
+Sullivan 6-max Seat #1 is the button
+Seat 1: KSCOWBOY8669 ($9.77)
+Seat 2: D_shadoww ($10.05)
+Seat 3: MezcalMule ($3.57)
+Seat 4: HanZeep ($14.61)
+Seat 5: EnjoyLife73 ($10.35)
+Seat 6: MAAuro ($8.35)
+D_shadoww posts the small blind $0.05
+MezcalMule posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to MezcalMule [8h Ts]
+HanZeep folds
+EnjoyLife73 folds
+MAAuro folds
+KSCOWBOY8669 folds
+D_shadoww folds
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.15
+Seat 1: KSCOWBOY8669 (button) folded on the Pre-Flop
+Seat 2: D_shadoww (small blind) folded on the Pre-Flop
+Seat 3: MezcalMule did not show and won $0.15
+Seat 4: HanZeep folded on the Pre-Flop and did not bet
+Seat 5: EnjoyLife73 folded on the Pre-Flop and did not bet
+Seat 6: MAAuro folded on the Pre-Flop and did not bet
+
+Hand #1138759215 - Holdem(No Limit) - $0.05/$0.10 - 2022/02/27 20:24:27 UTC
+Sullivan 6-max Seat #2 is the button
+Seat 1: KSCOWBOY8669 ($9.77)
+Seat 2: D_shadoww ($10.00)
+Seat 3: MezcalMule ($3.62)
+Seat 4: HanZeep ($14.61)
+Seat 5: EnjoyLife73 ($10.35)
+Seat 6: MAAuro ($8.35)
+MezcalMule posts the small blind $0.05
+HanZeep posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to MezcalMule [5h 6c]
+EnjoyLife73 folds
+MAAuro raises $0.20 to $0.20
+KSCOWBOY8669 raises $0.61 to $0.61
+D_shadoww folds
+MezcalMule folds
+HanZeep folds
+MAAuro folds
+Uncalled bet ($0.41) returned to KSCOWBOY8669
+KSCOWBOY8669 does not show
+*** SUMMARY ***
+Total pot $0.55
+Seat 1: KSCOWBOY8669 did not show and won $0.55
+Seat 2: D_shadoww (button) folded on the Pre-Flop
+Seat 3: MezcalMule (small blind) folded on the Pre-Flop
+Seat 4: HanZeep (big blind) folded on the Pre-Flop
+Seat 5: EnjoyLife73 folded on the Pre-Flop and did not bet
+Seat 6: MAAuro folded on the Pre-Flop and did not bet
+
+Hand #1138760638 - Holdem(No Limit) - $0.05/$0.10 - 2022/02/27 20:25:08 UTC
+Sullivan 6-max Seat #3 is the button
+Seat 1: KSCOWBOY8669 ($10.12)
+Seat 2: D_shadoww ($10.00)
+Seat 3: MezcalMule ($3.57)
+Seat 4: HanZeep ($14.51)
+Seat 5: EnjoyLife73 ($10.35)
+Seat 6: MAAuro ($8.15)
+HanZeep posts the small blind $0.05
+EnjoyLife73 posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to MezcalMule [7s 3h]
+MAAuro folds
+KSCOWBOY8669 folds
+D_shadoww folds
+MezcalMule folds
+HanZeep folds
+EnjoyLife73 does not show
+*** SUMMARY ***
+Total pot $0.15
+Seat 1: KSCOWBOY8669 folded on the Pre-Flop and did not bet
+Seat 2: D_shadoww folded on the Pre-Flop and did not bet
+Seat 3: MezcalMule (button) folded on the Pre-Flop
+Seat 4: HanZeep (small blind) folded on the Pre-Flop
+Seat 5: EnjoyLife73 did not show and won $0.15
+Seat 6: MAAuro folded on the Pre-Flop and did not bet
+
+Hand #1138761325 - Holdem(No Limit) - $0.05/$0.10 - 2022/02/27 20:25:28 UTC
+Sullivan 6-max Seat #4 is the button
+Seat 1: KSCOWBOY8669 ($10.12)
+Seat 2: D_shadoww ($10.00)
+Seat 3: MezcalMule ($3.57)
+Seat 4: HanZeep ($14.46)
+Seat 5: EnjoyLife73 ($10.40)
+EnjoyLife73 posts the small blind $0.05
+KSCOWBOY8669 posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to MezcalMule [9s 6c]
+D_shadoww folds
+MezcalMule folds
+HanZeep folds
+EnjoyLife73 folds
+KSCOWBOY8669 does not show
+*** SUMMARY ***
+Total pot $0.15
+Seat 1: KSCOWBOY8669 did not show and won $0.15
+Seat 2: D_shadoww folded on the Pre-Flop and did not bet
+Seat 3: MezcalMule folded on the Pre-Flop and did not bet
+Seat 4: HanZeep (button) folded on the Pre-Flop
+Seat 5: EnjoyLife73 (small blind) folded on the Pre-Flop
+
+Hand #1138761988 - Holdem(No Limit) - $0.05/$0.10 - 2022/02/27 20:25:47 UTC
+Sullivan 6-max Seat #5 is the button
+Seat 1: KSCOWBOY8669 ($10.17)
+Seat 2: D_shadoww ($10.00)
+Seat 3: MezcalMule ($3.57)
+Seat 4: HanZeep ($14.46)
+Seat 5: EnjoyLife73 ($10.35)
+KSCOWBOY8669 posts the small blind $0.05
+D_shadoww posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to MezcalMule [7c 4d]
+MezcalMule folds
+HanZeep folds
+EnjoyLife73 raises $0.22 to $0.22
+KSCOWBOY8669 folds
+D_shadoww calls $0.12
+*** FLOP *** [4h 3c 7d]
+Main pot $0.47 | Rake $0.02
+D_shadoww checks
+EnjoyLife73 bets $0.20
+D_shadoww folds
+Uncalled bet ($0.20) returned to EnjoyLife73
+EnjoyLife73 does not show
+*** SUMMARY ***
+Total pot $0.47 | Rake $0.02
+Board [4h 3c 7d]
+Seat 1: KSCOWBOY8669 (small blind) folded on the Pre-Flop
+Seat 2: D_shadoww (big blind) folded on the Flop
+Seat 3: MezcalMule folded on the Pre-Flop and did not bet
+Seat 4: HanZeep folded on the Pre-Flop and did not bet
+Seat 5: EnjoyLife73 did not show and won $0.47
+
+Hand #1138763599 - Holdem(No Limit) - $0.05/$0.10 - 2022/02/27 20:26:34 UTC
+Sullivan 6-max Seat #1 is the button
+Seat 1: KSCOWBOY8669 ($10.12)
+Seat 2: D_shadoww ($10.00)
+Seat 3: MezcalMule ($3.57)
+Seat 4: HanZeep ($14.46)
+Seat 5: EnjoyLife73 ($10.60)
+Seat 6: Victormoney ($10.00)
+D_shadoww posts the small blind $0.05
+MezcalMule posts the big blind $0.10
+Victormoney waits for big blind
+*** HOLE CARDS ***
+Dealt to MezcalMule [Ac 3s]
+HanZeep folds
+EnjoyLife73 folds
+KSCOWBOY8669 raises $0.28 to $0.28
+D_shadoww folds
+MezcalMule calls $0.18
+*** FLOP *** [4c 5d 9s]
+Main pot $0.58 | Rake $0.03
+MezcalMule checks
+KSCOWBOY8669 checks
+*** TURN *** [4c 5d 9s] [9d]
+Main pot $0.58 | Rake $0.03
+MezcalMule checks
+KSCOWBOY8669 bets $0.45
+MezcalMule folds
+Uncalled bet ($0.45) returned to KSCOWBOY8669
+KSCOWBOY8669 does not show
+*** SUMMARY ***
+Total pot $0.58 | Rake $0.03
+Board [4c 5d 9s 9d]
+Seat 1: KSCOWBOY8669 did not show and won $0.58
+Seat 2: D_shadoww (small blind) folded on the Pre-Flop
+Seat 3: MezcalMule (big blind) folded on the Turn
+Seat 4: HanZeep folded on the Pre-Flop and did not bet
+Seat 5: EnjoyLife73 folded on the Pre-Flop and did not bet
+
+Hand #1138766100 - Holdem(No Limit) - $0.05/$0.10 - 2022/02/27 20:27:47 UTC
+Sullivan 6-max Seat #2 is the button
+Seat 1: KSCOWBOY8669 ($10.42)
+Seat 2: D_shadoww ($10.00)
+Seat 3: MezcalMule ($3.29)
+Seat 4: HanZeep ($14.46)
+Seat 5: EnjoyLife73 ($10.60)
+Seat 6: Victormoney ($10.00)
+MezcalMule posts the small blind $0.05
+HanZeep posts the big blind $0.10
+Victormoney waits for big blind
+*** HOLE CARDS ***
+Dealt to MezcalMule [Ks 6h]
+EnjoyLife73 raises $0.28 to $0.28
+KSCOWBOY8669 folds
+D_shadoww folds
+MezcalMule folds
+HanZeep raises $1.10 to $1.20
+EnjoyLife73 raises $3.52 to $3.80
+HanZeep folds
+Uncalled bet ($2.60) returned to EnjoyLife73
+EnjoyLife73 does not show
+*** SUMMARY ***
+Total pot $2.45
+Seat 1: KSCOWBOY8669 folded on the Pre-Flop and did not bet
+Seat 2: D_shadoww (button) folded on the Pre-Flop
+Seat 3: MezcalMule (small blind) folded on the Pre-Flop
+Seat 4: HanZeep (big blind) folded on the Pre-Flop
+Seat 5: EnjoyLife73 did not show and won $2.45
+
+Hand #1138773640 - Holdem(No Limit) - $0.05/$0.10 - 2022/02/27 20:31:22 UTC
+Sullivan 6-max Seat #5 is the button
+Seat 1: KSCOWBOY8669 ($10.14)
+Seat 2: D_shadoww ($10.00)
+Seat 3: MezcalMule ($3.24)
+Seat 4: HanZeep ($13.21)
+Seat 5: EnjoyLife73 ($10.00)
+Seat 6: Victormoney ($19.27)
+Victormoney posts the small blind $0.05
+KSCOWBOY8669 posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to MezcalMule [2s 5c]
+D_shadoww folds
+MezcalMule folds
+HanZeep raises $0.20 to $0.20
+EnjoyLife73 folds
+Victormoney folds
+KSCOWBOY8669 folds
+Uncalled bet ($0.10) returned to HanZeep
+HanZeep does not show
+*** SUMMARY ***
+Total pot $0.25
+Seat 1: KSCOWBOY8669 (big blind) folded on the Pre-Flop
+Seat 2: D_shadoww folded on the Pre-Flop and did not bet
+Seat 3: MezcalMule folded on the Pre-Flop and did not bet
+Seat 4: HanZeep did not show and won $0.25
+Seat 5: EnjoyLife73 (button) folded on the Pre-Flop
+Seat 6: Victormoney (small blind) folded on the Pre-Flop
+
+Hand #1138774708 - Holdem(No Limit) - $0.05/$0.10 - 2022/02/27 20:31:53 UTC
+Sullivan 6-max Seat #6 is the button
+Seat 1: KSCOWBOY8669 ($10.04)
+Seat 2: D_shadoww ($10.00)
+Seat 3: MezcalMule ($3.24)
+Seat 4: HanZeep ($13.36)
+Seat 5: EnjoyLife73 ($10.00)
+Seat 6: Victormoney ($19.22)
+KSCOWBOY8669 posts the small blind $0.05
+D_shadoww sits out
+MezcalMule posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to MezcalMule [Qh 4h]
+HanZeep folds
+EnjoyLife73 raises $0.28 to $0.28
+Victormoney folds
+KSCOWBOY8669 folds
+MezcalMule calls $0.18
+*** FLOP *** [6h 8h 9s]
+Main pot $0.58 | Rake $0.03
+MezcalMule checks
+EnjoyLife73 checks
+*** TURN *** [6h 8h 9s] [Tc]
+Main pot $0.58 | Rake $0.03
+MezcalMule bets $0.30
+EnjoyLife73 calls $0.30
+*** RIVER *** [6h 8h 9s Tc] [4c]
+Main pot $1.15 | Rake $0.06
+MezcalMule checks
+EnjoyLife73 checks
+*** SHOW DOWN ***
+Main pot $1.15 | Rake $0.06
+MezcalMule shows [Qh 4h] (a pair of Fours [4h 4c Qh Tc 9s])
+EnjoyLife73 shows [Qc Kh] (a high card, King high [Kh Qc Tc 9s 8h])
+MezcalMule collected $1.15 from main pot
+*** SUMMARY ***
+Total pot $1.15 | Rake $0.04 | JP Fee $0.02
+Board [6h 8h 9s Tc 4c]
+Seat 1: KSCOWBOY8669 (small blind) folded on the Pre-Flop
+Seat 3: MezcalMule (big blind) showed [Qh 4h] and won $1.15 with a pair of Fours [4h 4c Qh Tc 9s]
+Seat 4: HanZeep folded on the Pre-Flop and did not bet
+Seat 5: EnjoyLife73 showed [Qc Kh] and lost with a high card, King high [Kh Qc Tc 9s 8h]
+Seat 6: Victormoney (button) folded on the Pre-Flop
+
+Hand #1138777026 - Holdem(No Limit) - $0.05/$0.10 - 2022/02/27 20:32:59 UTC
+Sullivan 6-max Seat #1 is the button
+Seat 1: KSCOWBOY8669 ($9.99)
+Seat 3: MezcalMule ($3.81)
+Seat 4: HanZeep ($13.36)
+Seat 5: EnjoyLife73 ($10.00)
+Seat 6: Victormoney ($19.22)
+MezcalMule posts the small blind $0.05
+HanZeep posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to MezcalMule [5s Jd]
+EnjoyLife73 folds
+Victormoney raises $0.23 to $0.23
+KSCOWBOY8669 folds
+MezcalMule folds
+HanZeep calls $0.13
+*** FLOP *** [2h Ac 3s]
+Main pot $0.49 | Rake $0.02
+HanZeep checks
+Victormoney bets $0.15
+HanZeep folds
+Uncalled bet ($0.15) returned to Victormoney
+Victormoney does not show
+*** SUMMARY ***
+Total pot $0.49 | Rake $0.02
+Board [2h Ac 3s]
+Seat 1: KSCOWBOY8669 (button) folded on the Pre-Flop
+Seat 3: MezcalMule (small blind) folded on the Pre-Flop
+Seat 4: HanZeep (big blind) folded on the Flop
+Seat 5: EnjoyLife73 folded on the Pre-Flop and did not bet
+Seat 6: Victormoney did not show and won $0.49
+
+Hand #1138778800 - Holdem(No Limit) - $0.05/$0.10 - 2022/02/27 20:33:50 UTC
+Sullivan 6-max Seat #3 is the button
+Seat 1: KSCOWBOY8669 ($9.99)
+Seat 3: MezcalMule ($3.76)
+Seat 4: HanZeep ($13.13)
+Seat 5: EnjoyLife73 ($10.00)
+Seat 6: Victormoney ($19.48)
+HanZeep posts the small blind $0.05
+EnjoyLife73 sits out
+Victormoney posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to MezcalMule [4c 2s]
+KSCOWBOY8669 folds
+MezcalMule folds
+HanZeep folds
+Victormoney does not show
+*** SUMMARY ***
+Total pot $0.15
+Seat 1: KSCOWBOY8669 folded on the Pre-Flop and did not bet
+Seat 3: MezcalMule (button) folded on the Pre-Flop
+Seat 4: HanZeep (small blind) folded on the Pre-Flop
+Seat 6: Victormoney did not show and won $0.15
+
+Hand #1138779415 - Holdem(No Limit) - $0.05/$0.10 - 2022/02/27 20:34:08 UTC
+Sullivan 6-max Seat #4 is the button
+Seat 1: KSCOWBOY8669 ($9.99)
+Seat 3: MezcalMule ($3.76)
+Seat 4: HanZeep ($13.08)
+Seat 6: Victormoney ($19.53)
+Victormoney posts the small blind $0.05
+KSCOWBOY8669 posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to MezcalMule [2s 7s]
+MezcalMule folds
+HanZeep raises $0.25 to $0.25
+Victormoney folds
+KSCOWBOY8669 calls $0.15
+*** FLOP *** [9d Td 5c]
+Main pot $0.53 | Rake $0.02
+KSCOWBOY8669 bets $0.27
+HanZeep folds
+Uncalled bet ($0.27) returned to KSCOWBOY8669
+KSCOWBOY8669 does not show
+*** SUMMARY ***
+Total pot $0.53 | Rake $0.02
+Board [9d Td 5c]
+Seat 1: KSCOWBOY8669 did not show and won $0.53
+Seat 3: MezcalMule folded on the Pre-Flop and did not bet
+Seat 4: HanZeep (button) folded on the Flop
+Seat 6: Victormoney (small blind) folded on the Pre-Flop
+
+Hand #1138784918 - Holdem(No Limit) - $0.05/$0.10 - 2022/02/27 20:36:51 UTC
+Sullivan 6-max Seat #6 is the button
+Seat 1: KSCOWBOY8669 ($10.57)
+Seat 3: MezcalMule ($3.76)
+Seat 4: HanZeep ($13.06)
+Seat 6: Victormoney ($18.92)
+KSCOWBOY8669 posts the small blind $0.05
+MezcalMule posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to MezcalMule [4c 7d]
+HanZeep folds
+Victormoney raises $0.23 to $0.23
+KSCOWBOY8669 folds
+MezcalMule folds
+Uncalled bet ($0.13) returned to Victormoney
+Victormoney does not show
+*** SUMMARY ***
+Total pot $0.25
+Seat 1: KSCOWBOY8669 (small blind) folded on the Pre-Flop
+Seat 3: MezcalMule (big blind) folded on the Pre-Flop
+Seat 4: HanZeep folded on the Pre-Flop and did not bet
+Seat 6: Victormoney did not show and won $0.25
+
+Hand #1138786231 - Holdem(No Limit) - $0.05/$0.10 - 2022/02/27 20:37:29 UTC
+Sullivan 6-max Seat #1 is the button
+Seat 1: KSCOWBOY8669 ($10.52)
+Seat 3: MezcalMule ($3.66)
+Seat 4: HanZeep ($13.06)
+Seat 6: Victormoney ($19.07)
+MezcalMule posts the small blind $0.05
+HanZeep posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to MezcalMule [7d 4s]
+Victormoney raises $0.23 to $0.23
+KSCOWBOY8669 folds
+MezcalMule folds
+HanZeep folds
+Uncalled bet ($0.13) returned to Victormoney
+Victormoney does not show
+*** SUMMARY ***
+Total pot $0.25
+Seat 1: KSCOWBOY8669 (button) folded on the Pre-Flop
+Seat 3: MezcalMule (small blind) folded on the Pre-Flop
+Seat 4: HanZeep (big blind) folded on the Pre-Flop
+Seat 6: Victormoney did not show and won $0.25
+
+Hand #1138787215 - Holdem(No Limit) - $0.05/$0.10 - 2022/02/27 20:37:57 UTC
+Sullivan 6-max Seat #3 is the button
+Seat 1: KSCOWBOY8669 ($10.52)
+Seat 3: MezcalMule ($3.61)
+Seat 4: HanZeep ($12.96)
+Seat 6: Victormoney ($19.22)
+HanZeep posts the small blind $0.05
+Victormoney posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to MezcalMule [4h Ts]
+KSCOWBOY8669 raises $0.28 to $0.28
+MezcalMule folds
+HanZeep folds
+Victormoney raises $0.96 to $1.06
+KSCOWBOY8669 calls $0.78
+*** FLOP *** [Qs 5d 6c]
+Main pot $2.07 | Rake $0.10
+Victormoney bets $0.65
+KSCOWBOY8669 calls $0.65
+*** TURN *** [Qs 5d 6c] [4d]
+Main pot $3.30 | Rake $0.17
+Victormoney checks
+KSCOWBOY8669 bets $1.73
+Victormoney folds
+Uncalled bet ($1.73) returned to KSCOWBOY8669
+KSCOWBOY8669 does not show
+*** SUMMARY ***
+Total pot $3.30 | Rake $0.13 | JP Fee $0.04
+Board [Qs 5d 6c 4d]
+Seat 1: KSCOWBOY8669 did not show and won $3.30
+Seat 3: MezcalMule (button) folded on the Pre-Flop
+Seat 4: HanZeep (small blind) folded on the Pre-Flop
+Seat 6: Victormoney (big blind) folded on the Turn
+
+Hand #1138790051 - Holdem(No Limit) - $0.05/$0.10 - 2022/02/27 20:39:20 UTC
+Sullivan 6-max Seat #4 is the button
+Seat 1: KSCOWBOY8669 ($12.11)
+Seat 3: MezcalMule ($3.61)
+Seat 4: HanZeep ($12.91)
+Seat 6: Victormoney ($17.51)
+Victormoney posts the small blind $0.05
+KSCOWBOY8669 posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to MezcalMule [7d Jd]
+MezcalMule raises $0.35 to $0.35
+HanZeep raises $1.30 to $1.30
+Victormoney folds
+KSCOWBOY8669 folds
+MezcalMule folds
+Uncalled bet ($0.95) returned to HanZeep
+HanZeep does not show
+*** SUMMARY ***
+Total pot $0.85
+Seat 1: KSCOWBOY8669 (big blind) folded on the Pre-Flop
+Seat 3: MezcalMule folded on the Pre-Flop and did not bet
+Seat 4: HanZeep did not show and won $0.85
+Seat 6: Victormoney (small blind) folded on the Pre-Flop
+
+Hand #1138792361 - Holdem(No Limit) - $0.05/$0.10 - 2022/02/27 20:40:27 UTC
+Sullivan 6-max Seat #6 is the button
+Seat 1: KSCOWBOY8669 ($12.01)
+Seat 3: MezcalMule ($3.26)
+Seat 4: HanZeep ($13.41)
+Seat 5: RuStiC83 ($10.00)
+Seat 6: Victormoney ($17.46)
+KSCOWBOY8669 posts the small blind $0.05
+MezcalMule posts the big blind $0.10
+RuStiC83 posts $0.10
+*** HOLE CARDS ***
+Dealt to MezcalMule [4h 3h]
+HanZeep folds
+RuStiC83 raises $0.46 to $0.56
+Victormoney folds
+KSCOWBOY8669 folds
+MezcalMule calls $0.46
+*** FLOP *** [3s Ks Jh]
+Main pot $1.12 | Rake $0.05
+MezcalMule checks
+RuStiC83 bets $1.17
+MezcalMule calls $1.17
+*** TURN *** [3s Ks Jh] [2s]
+Main pot $3.34 | Rake $0.17
+MezcalMule bets $1.53 and is all-in
+RuStiC83 calls $1.53
+*** RIVER *** [3s Ks Jh 2s] [8c]
+Main pot $6.25 | Rake $0.32
+*** SHOW DOWN ***
+Main pot $6.25 | Rake $0.32
+MezcalMule shows [4h 3h] (a pair of Threes [3s 3h Ks Jh 8c])
+RuStiC83 shows [Ts Tc] (a pair of Tens [Ts Tc Ks Jh 8c])
+RuStiC83 collected $6.25 from main pot
+*** SUMMARY ***
+Total pot $6.25 | Rake $0.22 | JP Fee $0.10
+Board [3s Ks Jh 2s 8c]
+Seat 1: KSCOWBOY8669 (small blind) folded on the Pre-Flop
+Seat 3: MezcalMule (big blind) showed [4h 3h] and lost with a pair of Threes [3s 3h Ks Jh 8c]
+Seat 4: HanZeep folded on the Pre-Flop and did not bet
+Seat 5: RuStiC83 showed [Ts Tc] and won $6.25 with a pair of Tens [Ts Tc Ks Jh 8c]
+Seat 6: Victormoney (button) folded on the Pre-Flop
+

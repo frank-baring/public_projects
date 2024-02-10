@@ -1,0 +1,473 @@
+Hand #1097915324 - Holdem(No Limit) - $0.01/$0.02 - 2022/01/25 03:08:37 UTC
+Agoura Hills 6-max Seat #4 is the button
+Seat 1: OldSaintNick16 ($1.59)
+Seat 2: ACE5447 ($2.14)
+Seat 3: WatchMePunt ($2.39)
+Seat 4: Nahuel8 ($1.85)
+Seat 5: THESWISHER ($2.00)
+Seat 6: MezcalMule ($2.00)
+THESWISHER posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [9s Kh]
+OldSaintNick16 folds
+ACE5447 folds
+WatchMePunt folds
+Nahuel8 folds
+THESWISHER raises $0.05 to $0.06
+MezcalMule calls $0.04
+*** FLOP *** [Js 5d Qs]
+Main pot $0.12 | Rake $0.00
+THESWISHER checks
+MezcalMule checks
+*** TURN *** [Js 5d Qs] [Ah]
+Main pot $0.12 | Rake $0.00
+THESWISHER checks
+MezcalMule bets $0.10
+THESWISHER folds
+Uncalled bet ($0.10) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.12
+Board [Js 5d Qs Ah]
+Seat 1: OldSaintNick16 folded on the Pre-Flop and did not bet
+Seat 2: ACE5447 folded on the Pre-Flop and did not bet
+Seat 3: WatchMePunt folded on the Pre-Flop and did not bet
+Seat 4: Nahuel8 (button) folded on the Pre-Flop
+Seat 5: THESWISHER (small blind) folded on the Turn
+Seat 6: MezcalMule did not show and won $0.12
+
+Hand #1097917252 - Holdem(No Limit) - $0.01/$0.02 - 2022/01/25 03:09:57 UTC
+Agoura Hills 6-max Seat #5 is the button
+Seat 1: OldSaintNick16 ($1.59)
+Seat 2: ACE5447 ($2.14)
+Seat 3: WatchMePunt ($2.39)
+Seat 4: Nahuel8 ($1.85) is sitting out
+Seat 5: THESWISHER ($2.00)
+Seat 6: MezcalMule ($2.06)
+MezcalMule posts the small blind $0.01
+OldSaintNick16 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Th Jh]
+ACE5447 folds
+WatchMePunt folds
+THESWISHER raises $0.05 to $0.05
+MezcalMule calls $0.04
+OldSaintNick16 folds
+*** FLOP *** [3s Ad 4h]
+Main pot $0.12 | Rake $0.00
+MezcalMule checks
+THESWISHER checks
+*** TURN *** [3s Ad 4h] [Ac]
+Main pot $0.12 | Rake $0.00
+MezcalMule checks
+THESWISHER checks
+*** RIVER *** [3s Ad 4h Ac] [3c]
+Main pot $0.12 | Rake $0.00
+MezcalMule bets $0.09
+THESWISHER folds
+Uncalled bet ($0.09) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.12
+Board [3s Ad 4h Ac 3c]
+Seat 1: OldSaintNick16 (big blind) folded on the Pre-Flop
+Seat 2: ACE5447 folded on the Pre-Flop and did not bet
+Seat 3: WatchMePunt folded on the Pre-Flop and did not bet
+Seat 5: THESWISHER (button) folded on the River
+Seat 6: MezcalMule did not show and won $0.12
+
+Hand #1097918899 - Holdem(No Limit) - $0.01/$0.02 - 2022/01/25 03:11:06 UTC
+Agoura Hills 6-max Seat #6 is the button
+Seat 1: OldSaintNick16 ($1.57)
+Seat 2: ACE5447 ($2.14)
+Seat 3: WatchMePunt ($2.39)
+Seat 4: Nahuel8 ($1.85)
+Seat 5: THESWISHER ($2.00)
+Seat 6: MezcalMule ($2.13)
+OldSaintNick16 posts the small blind $0.01
+ACE5447 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Kd 3c]
+WatchMePunt folds
+Nahuel8 folds
+THESWISHER folds
+MezcalMule folds
+OldSaintNick16 folds
+ACE5447 does not show
+*** SUMMARY ***
+Total pot $0.03
+Seat 1: OldSaintNick16 (small blind) folded on the Pre-Flop
+Seat 2: ACE5447 did not show and won $0.03
+Seat 3: WatchMePunt folded on the Pre-Flop and did not bet
+Seat 4: Nahuel8 folded on the Pre-Flop and did not bet
+Seat 5: THESWISHER folded on the Pre-Flop and did not bet
+Seat 6: MezcalMule (button) folded on the Pre-Flop
+
+Hand #1097920202 - Holdem(No Limit) - $0.01/$0.02 - 2022/01/25 03:12:01 UTC
+Agoura Hills 6-max Seat #1 is the button
+Seat 1: OldSaintNick16 ($1.56)
+Seat 2: ACE5447 ($2.15)
+Seat 3: WatchMePunt ($2.39)
+Seat 4: Nahuel8 ($1.85)
+Seat 5: THESWISHER ($2.00)
+Seat 6: MezcalMule ($2.13)
+ACE5447 posts the small blind $0.01
+WatchMePunt posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [5d 2s]
+Nahuel8 folds
+THESWISHER folds
+MezcalMule folds
+OldSaintNick16 raises $0.05 to $0.05
+ACE5447 folds
+WatchMePunt folds
+Uncalled bet ($0.03) returned to OldSaintNick16
+OldSaintNick16 does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: OldSaintNick16 did not show and won $0.05
+Seat 2: ACE5447 (small blind) folded on the Pre-Flop
+Seat 3: WatchMePunt (big blind) folded on the Pre-Flop
+Seat 4: Nahuel8 folded on the Pre-Flop and did not bet
+Seat 5: THESWISHER folded on the Pre-Flop and did not bet
+Seat 6: MezcalMule folded on the Pre-Flop and did not bet
+
+Hand #1097920856 - Holdem(No Limit) - $0.01/$0.02 - 2022/01/25 03:12:28 UTC
+Agoura Hills 6-max Seat #2 is the button
+Seat 1: OldSaintNick16 ($1.59)
+Seat 2: ACE5447 ($2.14)
+Seat 3: WatchMePunt ($2.37)
+Seat 4: Nahuel8 ($1.85)
+Seat 5: THESWISHER ($2.00)
+Seat 6: MezcalMule ($2.13)
+WatchMePunt posts the small blind $0.01
+Nahuel8 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [5c 9d]
+THESWISHER folds
+MezcalMule folds
+OldSaintNick16 raises $0.07 to $0.07
+ACE5447 calls $0.07
+WatchMePunt folds
+Nahuel8 folds
+*** FLOP *** [8d 6h 4d]
+Main pot $0.17 | Rake $0.00
+OldSaintNick16 bets $0.06
+ACE5447 calls $0.06
+*** TURN *** [8d 6h 4d] [Jd]
+Main pot $0.28 | Rake $0.01
+OldSaintNick16 checks
+ACE5447 bets $0.21
+OldSaintNick16 folds
+Uncalled bet ($0.21) returned to ACE5447
+ACE5447 does not show
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01
+Board [8d 6h 4d Jd]
+Seat 1: OldSaintNick16 folded on the Turn
+Seat 2: ACE5447 did not show and won $0.28
+Seat 3: WatchMePunt (small blind) folded on the Pre-Flop
+Seat 4: Nahuel8 (big blind) folded on the Pre-Flop
+Seat 5: THESWISHER folded on the Pre-Flop and did not bet
+Seat 6: MezcalMule folded on the Pre-Flop and did not bet
+
+Hand #1097922775 - Holdem(No Limit) - $0.01/$0.02 - 2022/01/25 03:13:53 UTC
+Agoura Hills 6-max Seat #3 is the button
+Seat 1: OldSaintNick16 ($1.46)
+Seat 2: ACE5447 ($2.29)
+Seat 3: WatchMePunt ($2.36)
+Seat 4: Nahuel8 ($1.83)
+Seat 5: Deunan Knute ($2.00)
+Seat 6: MezcalMule ($2.13)
+Nahuel8 posts the small blind $0.01
+Deunan Knute posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Kd 5d]
+MezcalMule calls $0.02
+OldSaintNick16 folds
+ACE5447 calls $0.02
+WatchMePunt raises $0.07 to $0.07
+Nahuel8 folds
+Deunan Knute folds
+MezcalMule calls $0.05
+ACE5447 calls $0.05
+*** FLOP *** [2d Kh As]
+Main pot $0.23 | Rake $0.01
+MezcalMule checks
+ACE5447 checks
+WatchMePunt checks
+*** TURN *** [2d Kh As] [5s]
+Main pot $0.23 | Rake $0.01
+MezcalMule bets $0.29
+ACE5447 folds
+WatchMePunt calls $0.29
+*** RIVER *** [2d Kh As 5s] [3h]
+Main pot $0.78 | Rake $0.04
+MezcalMule checks
+WatchMePunt checks
+*** SHOW DOWN ***
+Main pot $0.78 | Rake $0.04
+WatchMePunt shows [Ks 7s] (a pair of Kings [Ks Kh As 7s 5s])
+MezcalMule shows [Kd 5d] (two pair, Kings and Fives [Kh Kd 5s 5d As])
+MezcalMule collected $0.78 from main pot
+*** SUMMARY ***
+Total pot $0.78 | Rake $0.04
+Board [2d Kh As 5s 3h]
+Seat 1: OldSaintNick16 folded on the Pre-Flop and did not bet
+Seat 2: ACE5447 folded on the Turn
+Seat 3: WatchMePunt (button) showed [Ks 7s] and lost with a pair of Kings [Ks Kh As 7s 5s]
+Seat 4: Nahuel8 (small blind) folded on the Pre-Flop
+Seat 5: Deunan Knute (big blind) folded on the Pre-Flop
+Seat 6: MezcalMule showed [Kd 5d] and won $0.78 with two pair, Kings and Fives [Kh Kd 5s 5d As]
+
+Hand #1097925468 - Holdem(No Limit) - $0.01/$0.02 - 2022/01/25 03:15:51 UTC
+Agoura Hills 6-max Seat #4 is the button
+Seat 1: OldSaintNick16 ($1.46)
+Seat 2: ACE5447 ($2.22)
+Seat 3: WatchMePunt ($2.00)
+Seat 4: Nahuel8 ($1.82)
+Seat 5: Deunan Knute ($2.00)
+Seat 6: MezcalMule ($2.55)
+Deunan Knute posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Qd 4c]
+OldSaintNick16 folds
+ACE5447 raises $0.05 to $0.05
+WatchMePunt folds
+Nahuel8 folds
+Deunan Knute calls $0.04
+MezcalMule folds
+*** FLOP *** [2c Ts 5s]
+Main pot $0.12 | Rake $0.00
+Deunan Knute checks
+ACE5447 checks
+*** TURN *** [2c Ts 5s] [2h]
+Main pot $0.12 | Rake $0.00
+Deunan Knute bets $0.05
+ACE5447 folds
+Uncalled bet ($0.05) returned to Deunan Knute
+Deunan Knute does not show
+*** SUMMARY ***
+Total pot $0.12
+Board [2c Ts 5s 2h]
+Seat 1: OldSaintNick16 folded on the Pre-Flop and did not bet
+Seat 2: ACE5447 folded on the Turn
+Seat 3: WatchMePunt folded on the Pre-Flop and did not bet
+Seat 4: Nahuel8 (button) folded on the Pre-Flop
+Seat 5: Deunan Knute did not show and won $0.12
+Seat 6: MezcalMule (big blind) folded on the Pre-Flop
+
+Hand #1097927211 - Holdem(No Limit) - $0.01/$0.02 - 2022/01/25 03:17:05 UTC
+Agoura Hills 6-max Seat #5 is the button
+Seat 1: OldSaintNick16 ($1.46)
+Seat 2: ACE5447 ($2.17)
+Seat 3: WatchMePunt ($2.00)
+Seat 4: Nahuel8 ($1.82)
+Seat 5: Deunan Knute ($2.07)
+Seat 6: MezcalMule ($2.53)
+MezcalMule posts the small blind $0.01
+OldSaintNick16 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Qh Ad]
+ACE5447 folds
+WatchMePunt folds
+Nahuel8 raises $0.06 to $0.06
+Deunan Knute folds
+MezcalMule raises $0.15 to $0.16
+OldSaintNick16 folds
+Nahuel8 calls $0.10
+*** FLOP *** [Th 9c Jh]
+Main pot $0.33 | Rake $0.01
+MezcalMule bets $0.51
+Nahuel8 folds
+Uncalled bet ($0.51) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01
+Board [Th 9c Jh]
+Seat 1: OldSaintNick16 (big blind) folded on the Pre-Flop
+Seat 2: ACE5447 folded on the Pre-Flop and did not bet
+Seat 3: WatchMePunt folded on the Pre-Flop and did not bet
+Seat 4: Nahuel8 folded on the Flop
+Seat 5: Deunan Knute (button) folded on the Pre-Flop
+Seat 6: MezcalMule did not show and won $0.33
+
+Hand #1097928977 - Holdem(No Limit) - $0.01/$0.02 - 2022/01/25 03:18:23 UTC
+Agoura Hills 6-max Seat #6 is the button
+Seat 1: OldSaintNick16 ($1.44)
+Seat 2: ACE5447 ($2.17)
+Seat 3: WatchMePunt ($2.00)
+Seat 4: Nahuel8 ($1.66)
+Seat 5: Deunan Knute ($2.07)
+Seat 6: MezcalMule ($2.70)
+OldSaintNick16 posts the small blind $0.01
+ACE5447 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Qd 8s]
+WatchMePunt folds
+Nahuel8 folds
+Deunan Knute raises $0.06 to $0.06
+MezcalMule folds
+OldSaintNick16 raises $0.19 to $0.20
+ACE5447 folds
+Deunan Knute folds
+Uncalled bet ($0.14) returned to OldSaintNick16
+OldSaintNick16 does not show
+*** SUMMARY ***
+Total pot $0.14
+Seat 1: OldSaintNick16 did not show and won $0.14
+Seat 2: ACE5447 (big blind) folded on the Pre-Flop
+Seat 3: WatchMePunt folded on the Pre-Flop and did not bet
+Seat 4: Nahuel8 folded on the Pre-Flop and did not bet
+Seat 5: Deunan Knute folded on the Pre-Flop and did not bet
+Seat 6: MezcalMule (button) folded on the Pre-Flop
+
+Hand #1097929904 - Holdem(No Limit) - $0.01/$0.02 - 2022/01/25 03:19:04 UTC
+Agoura Hills 6-max Seat #1 is the button
+Seat 1: OldSaintNick16 ($1.52)
+Seat 2: ACE5447 ($2.15)
+Seat 3: WatchMePunt ($2.00)
+Seat 4: Nahuel8 ($1.66)
+Seat 5: Deunan Knute ($2.01)
+Seat 6: MezcalMule ($2.70)
+ACE5447 posts the small blind $0.01
+WatchMePunt posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [6h 9d]
+Nahuel8 folds
+Deunan Knute folds
+MezcalMule folds
+OldSaintNick16 folds
+ACE5447 calls $0.01
+WatchMePunt checks
+*** FLOP *** [Ah Td Th]
+Main pot $0.04 | Rake $0.00
+ACE5447 checks
+WatchMePunt checks
+*** TURN *** [Ah Td Th] [7c]
+Main pot $0.04 | Rake $0.00
+ACE5447 bets $0.02
+WatchMePunt calls $0.02
+*** RIVER *** [Ah Td Th 7c] [7h]
+Main pot $0.08 | Rake $0.00
+ACE5447 bets $0.04
+WatchMePunt calls $0.04
+*** SHOW DOWN ***
+Main pot $0.16 | Rake $0.00
+ACE5447 shows [8h 8d] (two pair, Tens and Eights [Th Td 8h 8d Ah])
+WatchMePunt shows [9s 8c] (two pair, Tens and Sevens [Th Td 7h 7c Ah])
+ACE5447 collected $0.16 from main pot
+*** SUMMARY ***
+Total pot $0.16
+Board [Ah Td Th 7c 7h]
+Seat 1: OldSaintNick16 (button) folded on the Pre-Flop
+Seat 2: ACE5447 (small blind) showed [8h 8d] and won $0.16 with two pair, Tens and Eights [Th Td 8h 8d Ah]
+Seat 3: WatchMePunt (big blind) showed [9s 8c] and lost with two pair, Tens and Sevens [Th Td 7h 7c Ah]
+Seat 4: Nahuel8 folded on the Pre-Flop and did not bet
+Seat 5: Deunan Knute folded on the Pre-Flop and did not bet
+Seat 6: MezcalMule folded on the Pre-Flop and did not bet
+
+Hand #1097931362 - Holdem(No Limit) - $0.01/$0.02 - 2022/01/25 03:20:07 UTC
+Agoura Hills 6-max Seat #2 is the button
+Seat 1: OldSaintNick16 ($1.52)
+Seat 2: ACE5447 ($2.23)
+Seat 3: WatchMePunt ($1.92)
+Seat 4: Nahuel8 ($1.66)
+Seat 5: Deunan Knute ($2.01)
+Seat 6: MezcalMule ($2.70)
+WatchMePunt posts the small blind $0.01
+Nahuel8 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Qs 9d]
+Deunan Knute folds
+MezcalMule folds
+OldSaintNick16 raises $0.05 to $0.05
+ACE5447 folds
+WatchMePunt folds
+Nahuel8 folds
+Uncalled bet ($0.03) returned to OldSaintNick16
+OldSaintNick16 does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: OldSaintNick16 did not show and won $0.05
+Seat 2: ACE5447 (button) folded on the Pre-Flop
+Seat 3: WatchMePunt (small blind) folded on the Pre-Flop
+Seat 4: Nahuel8 (big blind) folded on the Pre-Flop
+Seat 5: Deunan Knute folded on the Pre-Flop and did not bet
+Seat 6: MezcalMule folded on the Pre-Flop and did not bet
+
+Hand #1097932443 - Holdem(No Limit) - $0.01/$0.02 - 2022/01/25 03:20:56 UTC
+Agoura Hills 6-max Seat #3 is the button
+Seat 1: OldSaintNick16 ($1.55)
+Seat 2: ACE5447 ($2.23)
+Seat 3: WatchMePunt ($1.91)
+Seat 4: Nahuel8 ($1.64)
+Seat 5: Deunan Knute ($2.01)
+Seat 6: MezcalMule ($2.70)
+Nahuel8 posts the small blind $0.01
+Deunan Knute posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Th 3s]
+MezcalMule folds
+OldSaintNick16 folds
+ACE5447 folds
+WatchMePunt folds
+Nahuel8 folds
+Deunan Knute does not show
+*** SUMMARY ***
+Total pot $0.03
+Seat 1: OldSaintNick16 folded on the Pre-Flop and did not bet
+Seat 2: ACE5447 folded on the Pre-Flop and did not bet
+Seat 3: WatchMePunt (button) folded on the Pre-Flop
+Seat 4: Nahuel8 (small blind) folded on the Pre-Flop
+Seat 5: Deunan Knute did not show and won $0.03
+Seat 6: MezcalMule folded on the Pre-Flop and did not bet
+
+Hand #1097932868 - Holdem(No Limit) - $0.01/$0.02 - 2022/01/25 03:21:15 UTC
+Agoura Hills 6-max Seat #4 is the button
+Seat 1: OldSaintNick16 ($1.55)
+Seat 2: ACE5447 ($2.23)
+Seat 3: WatchMePunt ($1.91)
+Seat 4: Nahuel8 ($1.63)
+Seat 5: Deunan Knute ($2.02)
+Seat 6: MezcalMule ($2.70)
+Deunan Knute posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [2h Qh]
+OldSaintNick16 folds
+ACE5447 calls $0.02
+WatchMePunt folds
+Nahuel8 folds
+Deunan Knute calls $0.01
+MezcalMule checks
+*** FLOP *** [3d 7h Qs]
+Main pot $0.06 | Rake $0.00
+Deunan Knute checks
+MezcalMule checks
+ACE5447 bets $0.03
+Deunan Knute folds
+MezcalMule calls $0.03
+*** TURN *** [3d 7h Qs] [3c]
+Main pot $0.12 | Rake $0.00
+MezcalMule checks
+ACE5447 bets $0.06
+MezcalMule calls $0.06
+*** RIVER *** [3d 7h Qs 3c] [As]
+Main pot $0.23 | Rake $0.01
+MezcalMule bets $0.18
+ACE5447 folds
+Uncalled bet ($0.18) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01
+Board [3d 7h Qs 3c As]
+Seat 1: OldSaintNick16 folded on the Pre-Flop and did not bet
+Seat 2: ACE5447 folded on the River
+Seat 3: WatchMePunt folded on the Pre-Flop and did not bet
+Seat 4: Nahuel8 (button) folded on the Pre-Flop
+Seat 5: Deunan Knute (small blind) folded on the Flop
+Seat 6: MezcalMule did not show and won $0.23
+

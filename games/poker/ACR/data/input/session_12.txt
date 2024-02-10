@@ -1,0 +1,1153 @@
+Hand #1051960429 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/19 01:13:07 UTC
+Westville 6-max Seat #6 is the button
+Seat 1: HOK3M ($1.81)
+Seat 2: MezcalMule ($2.00)
+Seat 3: JSHUTT24 ($2.00)
+Seat 4: SMHCM ($1.33)
+Seat 5: shesnotdizzy ($2.11)
+Seat 6: Saturdays ($5.29)
+HOK3M posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [2s 2h]
+JSHUTT24 folds
+SMHCM raises $0.05 to $0.05
+shesnotdizzy folds
+Saturdays folds
+HOK3M folds
+MezcalMule calls $0.03
+*** FLOP *** [9h 4d Ac]
+Main pot $0.11 | Rake $0.00
+MezcalMule checks
+SMHCM bets $0.08
+MezcalMule folds
+Uncalled bet ($0.08) returned to SMHCM
+SMHCM does not show
+*** SUMMARY ***
+Total pot $0.11
+Board [9h 4d Ac]
+Seat 1: HOK3M (small blind) folded on the Pre-Flop
+Seat 2: MezcalMule (big blind) folded on the Flop
+Seat 3: JSHUTT24 folded on the Pre-Flop and did not bet
+Seat 4: SMHCM did not show and won $0.11
+Seat 5: shesnotdizzy folded on the Pre-Flop and did not bet
+Seat 6: Saturdays (button) folded on the Pre-Flop
+
+Hand #1051961485 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/19 01:13:56 UTC
+Westville 6-max Seat #1 is the button
+Seat 1: HOK3M ($1.80)
+Seat 2: MezcalMule ($1.95)
+Seat 3: JSHUTT24 ($2.00)
+Seat 4: SMHCM ($1.39)
+Seat 5: shesnotdizzy ($2.11)
+Seat 6: Saturdays ($5.29)
+MezcalMule posts the small blind $0.01
+JSHUTT24 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Jc 6h]
+SMHCM folds
+shesnotdizzy calls $0.02
+Saturdays folds
+HOK3M raises $0.06 to $0.06
+MezcalMule folds
+JSHUTT24 folds
+shesnotdizzy calls $0.04
+*** FLOP *** [6c 9d 8h]
+Main pot $0.15 | Rake $0.00
+shesnotdizzy checks
+HOK3M bets $0.09
+shesnotdizzy folds
+Uncalled bet ($0.09) returned to HOK3M
+HOK3M does not show
+*** SUMMARY ***
+Total pot $0.15
+Board [6c 9d 8h]
+Seat 1: HOK3M did not show and won $0.15
+Seat 2: MezcalMule (small blind) folded on the Pre-Flop
+Seat 3: JSHUTT24 (big blind) folded on the Pre-Flop
+Seat 4: SMHCM folded on the Pre-Flop and did not bet
+Seat 5: shesnotdizzy folded on the Flop
+Seat 6: Saturdays folded on the Pre-Flop and did not bet
+
+Hand #1051962655 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/19 01:14:49 UTC
+Westville 6-max Seat #2 is the button
+Seat 1: HOK3M ($1.89)
+Seat 2: MezcalMule ($1.94)
+Seat 3: JSHUTT24 ($2.00)
+Seat 4: SMHCM ($1.39)
+Seat 5: shesnotdizzy ($2.05)
+Seat 6: Saturdays ($5.29)
+JSHUTT24 posts the small blind $0.01
+SMHCM posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [6d 2c]
+shesnotdizzy folds
+Saturdays folds
+HOK3M folds
+MezcalMule folds
+JSHUTT24 raises $0.05 to $0.06
+SMHCM folds
+Uncalled bet ($0.04) returned to JSHUTT24
+JSHUTT24 does not show
+*** SUMMARY ***
+Total pot $0.04
+Seat 1: HOK3M folded on the Pre-Flop and did not bet
+Seat 2: MezcalMule (button) folded on the Pre-Flop
+Seat 3: JSHUTT24 did not show and won $0.04
+Seat 4: SMHCM (big blind) folded on the Pre-Flop
+Seat 5: shesnotdizzy folded on the Pre-Flop and did not bet
+Seat 6: Saturdays folded on the Pre-Flop and did not bet
+
+Hand #1051962961 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/19 01:15:04 UTC
+Westville 6-max Seat #3 is the button
+Seat 1: HOK3M ($1.89)
+Seat 2: MezcalMule ($1.94)
+Seat 3: JSHUTT24 ($2.02)
+Seat 4: SMHCM ($1.37)
+Seat 5: shesnotdizzy ($2.05)
+Seat 6: Saturdays ($5.29)
+SMHCM posts the small blind $0.01
+shesnotdizzy posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Qd 6s]
+Saturdays folds
+HOK3M folds
+MezcalMule folds
+JSHUTT24 raises $0.06 to $0.06
+SMHCM raises $0.19 to $0.20
+shesnotdizzy folds
+JSHUTT24 folds
+Uncalled bet ($0.14) returned to SMHCM
+SMHCM does not show
+*** SUMMARY ***
+Total pot $0.14
+Seat 1: HOK3M folded on the Pre-Flop and did not bet
+Seat 2: MezcalMule folded on the Pre-Flop and did not bet
+Seat 3: JSHUTT24 (button) folded on the Pre-Flop
+Seat 4: SMHCM did not show and won $0.14
+Seat 5: shesnotdizzy (big blind) folded on the Pre-Flop
+Seat 6: Saturdays folded on the Pre-Flop and did not bet
+
+Hand #1051963600 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/19 01:15:34 UTC
+Westville 6-max Seat #4 is the button
+Seat 1: HOK3M ($1.89)
+Seat 2: MezcalMule ($1.94)
+Seat 3: JSHUTT24 ($2.00)
+Seat 4: SMHCM ($1.45)
+Seat 5: shesnotdizzy ($2.03)
+Seat 6: Saturdays ($5.29)
+shesnotdizzy posts the small blind $0.01
+Saturdays posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [2d Ts]
+HOK3M folds
+MezcalMule folds
+JSHUTT24 folds
+SMHCM raises $0.05 to $0.05
+shesnotdizzy raises $0.12 to $0.13
+Saturdays raises $0.28 to $0.30
+SMHCM calls $0.25
+shesnotdizzy raises $1.90 to $2.03 and is all-in
+Saturdays calls $1.73
+SMHCM folds
+*** FLOP *** [9d 8d 4h]
+Main pot $4.15 | Rake $0.21
+*** TURN *** [9d 8d 4h] [5c]
+Main pot $4.15 | Rake $0.21
+*** RIVER *** [9d 8d 4h 5c] [9s]
+Main pot $4.15 | Rake $0.21
+*** SHOW DOWN ***
+Main pot $4.15 | Rake $0.21
+shesnotdizzy shows [Qd Qc] (two pair, Queens and Nines [Qd Qc 9s 9d 8d])
+Saturdays shows [Ks Kc] (two pair, Kings and Nines [Ks Kc 9s 9d 8d])
+Saturdays collected $4.15 from main pot
+*** SUMMARY ***
+Total pot $4.15 | Rake $0.15 | JP Fee $0.06
+Board [9d 8d 4h 5c 9s]
+Seat 1: HOK3M folded on the Pre-Flop and did not bet
+Seat 2: MezcalMule folded on the Pre-Flop and did not bet
+Seat 3: JSHUTT24 folded on the Pre-Flop and did not bet
+Seat 4: SMHCM (button) folded on the Pre-Flop
+Seat 5: shesnotdizzy (small blind) showed [Qd Qc] and lost with two pair, Queens and Nines [Qd Qc 9s 9d 8d]
+Seat 6: Saturdays (big blind) showed [Ks Kc] and won $4.15 with two pair, Kings and Nines [Ks Kc 9s 9d 8d]
+
+Hand #1051965252 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/19 01:16:48 UTC
+Westville 6-max Seat #5 is the button
+Seat 1: HOK3M ($1.89)
+Seat 2: MezcalMule ($1.94)
+Seat 3: JSHUTT24 ($2.00)
+Seat 4: SMHCM ($1.15)
+Seat 5: shesnotdizzy ($0.00) is sitting out
+Seat 6: Saturdays ($7.41)
+Saturdays posts the small blind $0.01
+HOK3M posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Ah Qs]
+MezcalMule raises $0.06 to $0.06
+JSHUTT24 calls $0.06
+SMHCM raises $0.27 to $0.27
+Saturdays folds
+HOK3M folds
+MezcalMule calls $0.21
+JSHUTT24 folds
+*** FLOP *** [3s Jh 2h]
+Main pot $0.60 | Rake $0.03
+MezcalMule checks
+SMHCM checks
+*** TURN *** [3s Jh 2h] [3c]
+Main pot $0.60 | Rake $0.03
+MezcalMule bets $0.60
+SMHCM folds
+Uncalled bet ($0.60) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03
+Board [3s Jh 2h 3c]
+Seat 1: HOK3M (big blind) folded on the Pre-Flop
+Seat 2: MezcalMule did not show and won $0.60
+Seat 3: JSHUTT24 folded on the Pre-Flop and did not bet
+Seat 4: SMHCM folded on the Turn
+Seat 6: Saturdays (small blind) folded on the Pre-Flop
+
+Hand #1051966794 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/19 01:18:01 UTC
+Westville 6-max Seat #6 is the button
+Seat 1: HOK3M ($1.87)
+Seat 2: MezcalMule ($2.27)
+Seat 3: JSHUTT24 ($2.00)
+Seat 4: SMHCM ($0.88)
+Seat 6: Saturdays ($7.40)
+HOK3M posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Kh As]
+JSHUTT24 folds
+SMHCM folds
+Saturdays raises $0.06 to $0.06
+HOK3M folds
+MezcalMule raises $0.10 to $0.12
+Saturdays folds
+Uncalled bet ($0.06) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.13
+Seat 1: HOK3M (small blind) folded on the Pre-Flop
+Seat 2: MezcalMule did not show and won $0.13
+Seat 3: JSHUTT24 folded on the Pre-Flop and did not bet
+Seat 4: SMHCM folded on the Pre-Flop and did not bet
+Seat 6: Saturdays (button) folded on the Pre-Flop
+
+Hand #1051967555 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/19 01:18:35 UTC
+Westville 6-max Seat #1 is the button
+Seat 1: HOK3M ($1.86)
+Seat 2: MezcalMule ($2.34)
+Seat 3: JSHUTT24 ($2.00)
+Seat 4: SMHCM ($0.88)
+Seat 6: Saturdays ($7.34)
+MezcalMule posts the small blind $0.01
+JSHUTT24 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Jc 9h]
+SMHCM folds
+Saturdays raises $0.06 to $0.06
+HOK3M calls $0.06
+MezcalMule folds
+JSHUTT24 calls $0.04
+*** FLOP *** [5h 8s 6d]
+Main pot $0.19 | Rake $0.00
+JSHUTT24 checks
+Saturdays checks
+HOK3M bets $0.12
+JSHUTT24 folds
+Saturdays calls $0.12
+*** TURN *** [5h 8s 6d] [4h]
+Main pot $0.41 | Rake $0.02
+Saturdays checks
+HOK3M checks
+*** RIVER *** [5h 8s 6d 4h] [Qs]
+Main pot $0.41 | Rake $0.02
+Saturdays bets $0.61
+HOK3M folds
+Uncalled bet ($0.61) returned to Saturdays
+Saturdays does not show
+*** SUMMARY ***
+Total pot $0.41 | Rake $0.02
+Board [5h 8s 6d 4h Qs]
+Seat 1: HOK3M (button) folded on the River
+Seat 2: MezcalMule (small blind) folded on the Pre-Flop
+Seat 3: JSHUTT24 (big blind) folded on the Flop
+Seat 4: SMHCM folded on the Pre-Flop and did not bet
+Seat 6: Saturdays did not show and won $0.41
+
+Hand #1051969522 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/19 01:20:04 UTC
+Westville 6-max Seat #2 is the button
+Seat 1: HOK3M ($1.68)
+Seat 2: MezcalMule ($2.33)
+Seat 3: JSHUTT24 ($2.00)
+Seat 4: SMHCM ($0.88)
+Seat 5: FlopSavvy ($1.24)
+Seat 6: Saturdays ($7.57)
+JSHUTT24 posts the small blind $0.01
+SMHCM posts the big blind $0.02
+FlopSavvy posts $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [3c Jc]
+FlopSavvy checks
+Saturdays raises $0.08 to $0.08
+HOK3M calls $0.08
+MezcalMule folds
+JSHUTT24 folds
+SMHCM folds
+FlopSavvy folds
+*** FLOP *** [3s 2h Ts]
+Main pot $0.20 | Rake $0.01
+Saturdays checks
+HOK3M bets $0.05
+Saturdays calls $0.05
+*** TURN *** [3s 2h Ts] [Jd]
+Main pot $0.30 | Rake $0.01
+Saturdays checks
+HOK3M bets $0.24
+Saturdays raises $0.66 to $0.66
+HOK3M calls $0.42
+*** RIVER *** [3s 2h Ts Jd] [Ad]
+Main pot $1.55 | Rake $0.08
+Saturdays bets $6.78 and is all-in
+HOK3M folds
+Uncalled bet ($6.78) returned to Saturdays
+Saturdays does not show
+*** SUMMARY ***
+Total pot $1.55 | Rake $0.06 | JP Fee $0.02
+Board [3s 2h Ts Jd Ad]
+Seat 1: HOK3M folded on the River
+Seat 2: MezcalMule (button) folded on the Pre-Flop
+Seat 3: JSHUTT24 (small blind) folded on the Pre-Flop
+Seat 4: SMHCM (big blind) folded on the Pre-Flop
+Seat 5: FlopSavvy folded on the Pre-Flop and did not bet
+Seat 6: Saturdays did not show and won $1.55
+
+Hand #1051971691 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/19 01:21:47 UTC
+Westville 6-max Seat #3 is the button
+Seat 1: HOK3M ($0.89)
+Seat 2: MezcalMule ($2.33)
+Seat 3: JSHUTT24 ($2.00)
+Seat 4: SMHCM ($0.86)
+Seat 5: FlopSavvy ($1.22)
+Seat 6: Saturdays ($8.33)
+SMHCM posts the small blind $0.01
+FlopSavvy posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [3c 5c]
+Saturdays folds
+HOK3M folds
+MezcalMule raises $0.05 to $0.05
+JSHUTT24 calls $0.05
+SMHCM folds
+FlopSavvy raises $0.19 to $0.21
+MezcalMule folds
+JSHUTT24 folds
+Uncalled bet ($0.16) returned to FlopSavvy
+FlopSavvy does not show
+*** SUMMARY ***
+Total pot $0.16
+Seat 1: HOK3M folded on the Pre-Flop and did not bet
+Seat 2: MezcalMule folded on the Pre-Flop and did not bet
+Seat 3: JSHUTT24 (button) folded on the Pre-Flop
+Seat 4: SMHCM (small blind) folded on the Pre-Flop
+Seat 5: FlopSavvy did not show and won $0.16
+Seat 6: Saturdays folded on the Pre-Flop and did not bet
+
+Hand #1051972842 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/19 01:22:41 UTC
+Westville 6-max Seat #4 is the button
+Seat 1: dahui36 ($2.00)
+Seat 2: MezcalMule ($2.28)
+Seat 3: JSHUTT24 ($2.00)
+Seat 4: SMHCM ($0.85)
+Seat 5: FlopSavvy ($1.33)
+Seat 6: Saturdays ($8.33)
+FlopSavvy posts the small blind $0.01
+Saturdays posts the big blind $0.02
+dahui36 waits for big blind
+*** HOLE CARDS ***
+Dealt to MezcalMule [Ac 6s]
+MezcalMule folds
+JSHUTT24 raises $0.06 to $0.06
+SMHCM calls $0.06
+FlopSavvy folds
+Saturdays calls $0.04
+*** FLOP *** [As Jd 9s]
+Main pot $0.19 | Rake $0.00
+Saturdays checks
+JSHUTT24 bets $0.09
+SMHCM folds
+Saturdays calls $0.09
+*** TURN *** [As Jd 9s] [Qd]
+Main pot $0.36 | Rake $0.01
+Saturdays checks
+JSHUTT24 bets $0.18
+Saturdays calls $0.18
+*** RIVER *** [As Jd 9s Qd] [4d]
+Main pot $0.70 | Rake $0.03
+Saturdays checks
+JSHUTT24 checks
+*** SHOW DOWN ***
+Main pot $0.70 | Rake $0.03
+JSHUTT24 shows [Qh Kh] (a pair of Queens [Qh Qd As Kh Jd])
+Saturdays shows [Jh 8h] (a pair of Jacks [Jh Jd As Qd 9s])
+JSHUTT24 collected $0.70 from main pot
+*** SUMMARY ***
+Total pot $0.70 | Rake $0.03
+Board [As Jd 9s Qd 4d]
+Seat 2: MezcalMule folded on the Pre-Flop and did not bet
+Seat 3: JSHUTT24 showed [Qh Kh] and won $0.70 with a pair of Queens [Qh Qd As Kh Jd]
+Seat 4: SMHCM (button) folded on the Flop
+Seat 5: FlopSavvy (small blind) folded on the Pre-Flop
+Seat 6: Saturdays (big blind) showed [Jh 8h] and lost with a pair of Jacks [Jh Jd As Qd 9s]
+
+Hand #1051975383 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/19 01:24:38 UTC
+Westville 6-max Seat #5 is the button
+Seat 1: dahui36 ($2.00)
+Seat 2: MezcalMule ($2.28)
+Seat 3: JSHUTT24 ($2.37)
+Seat 4: SMHCM ($0.79)
+Seat 5: FlopSavvy ($1.32)
+Seat 6: Saturdays ($8.00)
+Saturdays posts the small blind $0.01
+dahui36 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [4h 6c]
+MezcalMule folds
+JSHUTT24 folds
+SMHCM folds
+FlopSavvy raises $0.07 to $0.07
+Saturdays raises $0.17 to $0.18
+dahui36 folds
+FlopSavvy calls $0.11
+*** FLOP *** [Js Jh Ah]
+Main pot $0.37 | Rake $0.01
+Saturdays bets $0.11
+FlopSavvy folds
+Uncalled bet ($0.11) returned to Saturdays
+Saturdays does not show
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.01
+Board [Js Jh Ah]
+Seat 1: dahui36 (big blind) folded on the Pre-Flop
+Seat 2: MezcalMule folded on the Pre-Flop and did not bet
+Seat 3: JSHUTT24 folded on the Pre-Flop and did not bet
+Seat 4: SMHCM folded on the Pre-Flop and did not bet
+Seat 5: FlopSavvy (button) folded on the Flop
+Seat 6: Saturdays did not show and won $0.37
+
+Hand #1051976471 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/19 01:25:29 UTC
+Westville 6-max Seat #6 is the button
+Seat 1: dahui36 ($1.98)
+Seat 2: MezcalMule ($2.28)
+Seat 3: JSHUTT24 ($2.37)
+Seat 4: SMHCM ($0.79)
+Seat 5: FlopSavvy ($1.14)
+Seat 6: Saturdays ($8.19)
+dahui36 posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [4h As]
+JSHUTT24 raises $0.06 to $0.06
+SMHCM folds
+FlopSavvy calls $0.06
+Saturdays folds
+dahui36 folds
+MezcalMule folds
+*** FLOP *** [3s Kh Jd]
+Main pot $0.15 | Rake $0.00
+JSHUTT24 bets $0.07
+FlopSavvy calls $0.07
+*** TURN *** [3s Kh Jd] [3d]
+Main pot $0.28 | Rake $0.01
+JSHUTT24 checks
+FlopSavvy checks
+*** RIVER *** [3s Kh Jd 3d] [Ac]
+Main pot $0.28 | Rake $0.01
+JSHUTT24 checks
+FlopSavvy checks
+*** SHOW DOWN ***
+Main pot $0.28 | Rake $0.01
+JSHUTT24 shows [9h 9d] (two pair, Nines and Threes [9h 9d 3s 3d Ac])
+FlopSavvy shows [Jc Qh] (two pair, Jacks and Threes [Jd Jc 3s 3d Ac])
+FlopSavvy collected $0.28 from main pot
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01
+Board [3s Kh Jd 3d Ac]
+Seat 1: dahui36 (small blind) folded on the Pre-Flop
+Seat 2: MezcalMule (big blind) folded on the Pre-Flop
+Seat 3: JSHUTT24 showed [9h 9d] and lost with two pair, Nines and Threes [9h 9d 3s 3d Ac]
+Seat 4: SMHCM folded on the Pre-Flop and did not bet
+Seat 5: FlopSavvy showed [Jc Qh] and won $0.28 with two pair, Jacks and Threes [Jd Jc 3s 3d Ac]
+Seat 6: Saturdays (button) folded on the Pre-Flop
+
+Hand #1051978623 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/19 01:27:11 UTC
+Westville 6-max Seat #1 is the button
+Seat 1: dahui36 ($1.97)
+Seat 2: MezcalMule ($2.26)
+Seat 3: JSHUTT24 ($2.24)
+Seat 4: SMHCM ($0.79)
+Seat 5: FlopSavvy ($1.29)
+Seat 6: Saturdays ($8.19)
+MezcalMule posts the small blind $0.01
+JSHUTT24 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Qs Tc]
+SMHCM folds
+FlopSavvy folds
+Saturdays folds
+dahui36 folds
+MezcalMule calls $0.01
+JSHUTT24 checks
+*** FLOP *** [8d 6c Ad]
+Main pot $0.04 | Rake $0.00
+MezcalMule checks
+JSHUTT24 checks
+*** TURN *** [8d 6c Ad] [Kd]
+Main pot $0.04 | Rake $0.00
+MezcalMule bets $0.02
+JSHUTT24 folds
+Uncalled bet ($0.02) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.04
+Board [8d 6c Ad Kd]
+Seat 1: dahui36 (button) folded on the Pre-Flop
+Seat 2: MezcalMule did not show and won $0.04
+Seat 3: JSHUTT24 (big blind) folded on the Turn
+Seat 4: SMHCM folded on the Pre-Flop and did not bet
+Seat 5: FlopSavvy folded on the Pre-Flop and did not bet
+Seat 6: Saturdays folded on the Pre-Flop and did not bet
+
+Hand #1051979639 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/19 01:28:00 UTC
+Westville 6-max Seat #2 is the button
+Seat 1: dahui36 ($1.97)
+Seat 2: MezcalMule ($2.28)
+Seat 3: JSHUTT24 ($2.22)
+Seat 4: SMHCM ($0.79)
+Seat 5: FlopSavvy ($1.29) is sitting out
+Seat 6: Saturdays ($8.19)
+JSHUTT24 posts the small blind $0.01
+SMHCM posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [5d 3d]
+Saturdays folds
+dahui36 folds
+MezcalMule raises $0.05 to $0.05
+JSHUTT24 calls $0.04
+SMHCM folds
+*** FLOP *** [6c Th 9s]
+Main pot $0.12 | Rake $0.00
+JSHUTT24 bets $0.06
+MezcalMule folds
+Uncalled bet ($0.06) returned to JSHUTT24
+JSHUTT24 does not show
+*** SUMMARY ***
+Total pot $0.12
+Board [6c Th 9s]
+Seat 1: dahui36 folded on the Pre-Flop and did not bet
+Seat 2: MezcalMule (button) folded on the Flop
+Seat 3: JSHUTT24 did not show and won $0.12
+Seat 4: SMHCM (big blind) folded on the Pre-Flop
+Seat 6: Saturdays folded on the Pre-Flop and did not bet
+
+Hand #1051980885 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/19 01:29:00 UTC
+Westville 6-max Seat #3 is the button
+Seat 1: dahui36 ($1.97)
+Seat 2: MezcalMule ($2.23)
+Seat 3: JSHUTT24 ($2.29)
+Seat 4: SMHCM ($0.77)
+Seat 5: FlopSavvy ($1.29) is sitting out
+Seat 6: Saturdays ($8.19)
+SMHCM posts the small blind $0.01
+Saturdays posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [5s 2c]
+dahui36 folds
+MezcalMule folds
+JSHUTT24 raises $0.06 to $0.06
+SMHCM folds
+Saturdays folds
+Uncalled bet ($0.04) returned to JSHUTT24
+JSHUTT24 does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: dahui36 folded on the Pre-Flop and did not bet
+Seat 2: MezcalMule folded on the Pre-Flop and did not bet
+Seat 3: JSHUTT24 did not show and won $0.05
+Seat 4: SMHCM (small blind) folded on the Pre-Flop
+Seat 6: Saturdays (big blind) folded on the Pre-Flop
+
+Hand #1051981229 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/19 01:29:16 UTC
+Westville 6-max Seat #4 is the button
+Seat 1: dahui36 ($1.97)
+Seat 2: MezcalMule ($2.23)
+Seat 3: JSHUTT24 ($2.32)
+Seat 4: SMHCM ($0.76)
+Seat 5: FlopSavvy ($1.29) is sitting out
+Seat 6: Saturdays ($8.17)
+Saturdays posts the small blind $0.01
+dahui36 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [6h 7h]
+MezcalMule raises $0.05 to $0.05
+JSHUTT24 raises $0.20 to $0.20
+SMHCM folds
+Saturdays folds
+dahui36 folds
+MezcalMule calls $0.15
+*** FLOP *** [3c 6s 9s]
+Main pot $0.41 | Rake $0.02
+MezcalMule checks
+JSHUTT24 bets $0.21
+MezcalMule calls $0.21
+*** TURN *** [3c 6s 9s] [7s]
+Main pot $0.81 | Rake $0.04
+MezcalMule checks
+JSHUTT24 bets $0.42
+MezcalMule raises $0.84 to $0.84
+JSHUTT24 folds
+Uncalled bet ($0.42) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $1.61 | Rake $0.06 | JP Fee $0.02
+Board [3c 6s 9s 7s]
+Seat 1: dahui36 (big blind) folded on the Pre-Flop
+Seat 2: MezcalMule did not show and won $1.61
+Seat 3: JSHUTT24 folded on the Turn
+Seat 4: SMHCM (button) folded on the Pre-Flop
+Seat 6: Saturdays (small blind) folded on the Pre-Flop
+
+Hand #1051982558 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/19 01:30:21 UTC
+Westville 6-max Seat #6 is the button
+Seat 1: dahui36 ($1.95)
+Seat 2: MezcalMule ($3.01)
+Seat 3: JSHUTT24 ($1.49)
+Seat 4: SMHCM ($0.76)
+Seat 5: FlopSavvy ($1.29) is sitting out
+Seat 6: Saturdays ($8.16)
+dahui36 posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Js 3h]
+JSHUTT24 raises $0.06 to $0.06
+SMHCM folds
+Saturdays folds
+dahui36 folds
+MezcalMule folds
+Uncalled bet ($0.04) returned to JSHUTT24
+JSHUTT24 does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: dahui36 (small blind) folded on the Pre-Flop
+Seat 2: MezcalMule (big blind) folded on the Pre-Flop
+Seat 3: JSHUTT24 did not show and won $0.05
+Seat 4: SMHCM folded on the Pre-Flop and did not bet
+Seat 6: Saturdays (button) folded on the Pre-Flop
+
+Hand #1051983159 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/19 01:30:49 UTC
+Westville 6-max Seat #1 is the button
+Seat 1: dahui36 ($1.94)
+Seat 2: MezcalMule ($2.99)
+Seat 3: JSHUTT24 ($1.52)
+Seat 5: FlopSavvy ($1.29) is sitting out
+Seat 6: Saturdays ($8.16)
+MezcalMule posts the small blind $0.01
+JSHUTT24 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [6c 5d]
+Saturdays folds
+dahui36 folds
+MezcalMule calls $0.01
+JSHUTT24 checks
+*** FLOP *** [6s Qs Kc]
+Main pot $0.04 | Rake $0.00
+MezcalMule checks
+JSHUTT24 checks
+*** TURN *** [6s Qs Kc] [6d]
+Main pot $0.04 | Rake $0.00
+MezcalMule bets $0.04
+JSHUTT24 folds
+Uncalled bet ($0.04) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.04
+Board [6s Qs Kc 6d]
+Seat 1: dahui36 (button) folded on the Pre-Flop
+Seat 2: MezcalMule did not show and won $0.04
+Seat 3: JSHUTT24 (big blind) folded on the Turn
+Seat 6: Saturdays folded on the Pre-Flop and did not bet
+
+Hand #1051984203 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/19 01:31:40 UTC
+Westville 6-max Seat #2 is the button
+Seat 1: dahui36 ($1.94)
+Seat 2: MezcalMule ($3.01)
+Seat 3: JSHUTT24 ($1.50)
+Seat 4: arodrigues99 ($2.00)
+Seat 5: FlopSavvy ($1.29) is sitting out
+Seat 6: Saturdays ($8.16)
+JSHUTT24 posts the small blind $0.01
+arodrigues99 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [3h 2h]
+Saturdays folds
+dahui36 folds
+MezcalMule raises $0.04 to $0.04
+JSHUTT24 folds
+arodrigues99 folds
+Uncalled bet ($0.02) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: dahui36 folded on the Pre-Flop and did not bet
+Seat 2: MezcalMule did not show and won $0.05
+Seat 3: JSHUTT24 (small blind) folded on the Pre-Flop
+Seat 4: arodrigues99 (big blind) folded on the Pre-Flop
+Seat 6: Saturdays folded on the Pre-Flop and did not bet
+
+Hand #1051984668 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/19 01:32:03 UTC
+Westville 6-max Seat #3 is the button
+Seat 1: dahui36 ($1.94)
+Seat 2: MezcalMule ($3.04)
+Seat 3: JSHUTT24 ($1.49)
+Seat 4: arodrigues99 ($1.98)
+Seat 5: FlopSavvy ($1.29) is sitting out
+Seat 6: Saturdays ($8.16)
+arodrigues99 posts the small blind $0.01
+Saturdays posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Jh 5s]
+dahui36 folds
+MezcalMule folds
+JSHUTT24 folds
+arodrigues99 folds
+Saturdays does not show
+*** SUMMARY ***
+Total pot $0.03
+Seat 1: dahui36 folded on the Pre-Flop and did not bet
+Seat 2: MezcalMule folded on the Pre-Flop and did not bet
+Seat 3: JSHUTT24 (button) folded on the Pre-Flop
+Seat 4: arodrigues99 (small blind) folded on the Pre-Flop
+Seat 6: Saturdays did not show and won $0.03
+
+Hand #1051985023 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/19 01:32:20 UTC
+Westville 6-max Seat #4 is the button
+Seat 1: dahui36 ($1.94)
+Seat 2: MezcalMule ($3.04)
+Seat 3: JSHUTT24 ($1.49)
+Seat 4: arodrigues99 ($1.97)
+Seat 5: FlopSavvy ($1.29) is sitting out
+Seat 6: Saturdays ($8.17)
+Saturdays posts the small blind $0.01
+dahui36 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [As 9s]
+MezcalMule raises $0.05 to $0.05
+JSHUTT24 folds
+arodrigues99 folds
+Saturdays folds
+dahui36 folds
+Uncalled bet ($0.03) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: dahui36 (big blind) folded on the Pre-Flop
+Seat 2: MezcalMule did not show and won $0.05
+Seat 3: JSHUTT24 folded on the Pre-Flop and did not bet
+Seat 4: arodrigues99 (button) folded on the Pre-Flop
+Seat 6: Saturdays (small blind) folded on the Pre-Flop
+
+Hand #1051985603 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/19 01:32:47 UTC
+Westville 6-max Seat #6 is the button
+Seat 1: dahui36 ($1.92)
+Seat 2: MezcalMule ($3.07)
+Seat 3: JSHUTT24 ($1.49)
+Seat 4: arodrigues99 ($1.97)
+Seat 5: FlopSavvy ($1.29) is sitting out
+Seat 6: Saturdays ($8.16)
+dahui36 posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [6d 6h]
+JSHUTT24 folds
+arodrigues99 folds
+Saturdays raises $0.06 to $0.06
+dahui36 folds
+MezcalMule calls $0.04
+*** FLOP *** [4c 7d 6s]
+Main pot $0.13 | Rake $0.00
+MezcalMule checks
+Saturdays checks
+*** TURN *** [4c 7d 6s] [Jh]
+Main pot $0.13 | Rake $0.00
+MezcalMule bets $0.04
+Saturdays folds
+Uncalled bet ($0.04) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.13
+Board [4c 7d 6s Jh]
+Seat 1: dahui36 (small blind) folded on the Pre-Flop
+Seat 2: MezcalMule did not show and won $0.13
+Seat 3: JSHUTT24 folded on the Pre-Flop and did not bet
+Seat 4: arodrigues99 folded on the Pre-Flop and did not bet
+Seat 6: Saturdays (button) folded on the Turn
+
+Hand #1051987351 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/19 01:34:11 UTC
+Westville 6-max Seat #1 is the button
+Seat 1: dahui36 ($1.91)
+Seat 2: MezcalMule ($3.14)
+Seat 3: JSHUTT24 ($1.49)
+Seat 4: arodrigues99 ($1.97)
+Seat 5: FlopSavvy ($1.29) is sitting out
+Seat 6: Saturdays ($8.10)
+MezcalMule posts the small blind $0.01
+JSHUTT24 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [8c 4s]
+arodrigues99 folds
+Saturdays folds
+dahui36 raises $0.04 to $0.04
+MezcalMule folds
+JSHUTT24 calls $0.02
+*** FLOP *** [3h Qd 7s]
+Main pot $0.09 | Rake $0.00
+JSHUTT24 bets $0.04
+dahui36 folds
+Uncalled bet ($0.04) returned to JSHUTT24
+JSHUTT24 does not show
+*** SUMMARY ***
+Total pot $0.09
+Board [3h Qd 7s]
+Seat 1: dahui36 (button) folded on the Flop
+Seat 2: MezcalMule (small blind) folded on the Pre-Flop
+Seat 3: JSHUTT24 did not show and won $0.09
+Seat 4: arodrigues99 folded on the Pre-Flop and did not bet
+Seat 6: Saturdays folded on the Pre-Flop and did not bet
+
+Hand #1051987825 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/19 01:34:34 UTC
+Westville 6-max Seat #2 is the button
+Seat 1: dahui36 ($1.87)
+Seat 2: MezcalMule ($3.13)
+Seat 3: JSHUTT24 ($1.54)
+Seat 4: arodrigues99 ($1.97)
+Seat 5: FlopSavvy ($1.29) is sitting out
+Seat 6: Saturdays ($8.10)
+JSHUTT24 posts the small blind $0.01
+arodrigues99 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Qs 5d]
+Saturdays folds
+dahui36 raises $0.07 to $0.07
+MezcalMule folds
+JSHUTT24 folds
+arodrigues99 folds
+Uncalled bet ($0.05) returned to dahui36
+dahui36 does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: dahui36 did not show and won $0.05
+Seat 2: MezcalMule (button) folded on the Pre-Flop
+Seat 3: JSHUTT24 (small blind) folded on the Pre-Flop
+Seat 4: arodrigues99 (big blind) folded on the Pre-Flop
+Seat 6: Saturdays folded on the Pre-Flop and did not bet
+
+Hand #1051988358 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/19 01:35:00 UTC
+Westville 6-max Seat #3 is the button
+Seat 1: dahui36 ($1.90)
+Seat 2: MezcalMule ($3.13)
+Seat 3: JSHUTT24 ($1.53)
+Seat 4: arodrigues99 ($1.95)
+Seat 5: FlopSavvy ($1.29) is sitting out
+Seat 6: Saturdays ($8.10)
+arodrigues99 posts the small blind $0.01
+Saturdays posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Ah 4c]
+dahui36 folds
+MezcalMule folds
+JSHUTT24 folds
+arodrigues99 folds
+Saturdays does not show
+*** SUMMARY ***
+Total pot $0.03
+Seat 1: dahui36 folded on the Pre-Flop and did not bet
+Seat 2: MezcalMule folded on the Pre-Flop and did not bet
+Seat 3: JSHUTT24 (button) folded on the Pre-Flop
+Seat 4: arodrigues99 (small blind) folded on the Pre-Flop
+Seat 6: Saturdays did not show and won $0.03
+
+Hand #1051988776 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/19 01:35:19 UTC
+Westville 6-max Seat #4 is the button
+Seat 1: dahui36 ($1.90)
+Seat 2: MezcalMule ($3.13)
+Seat 3: JSHUTT24 ($1.53)
+Seat 4: arodrigues99 ($1.94)
+Seat 5: FlopSavvy ($1.29) is sitting out
+Seat 6: Saturdays ($8.11)
+Saturdays posts the small blind $0.01
+dahui36 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Qc 5d]
+MezcalMule folds
+JSHUTT24 folds
+arodrigues99 folds
+Saturdays folds
+dahui36 does not show
+*** SUMMARY ***
+Total pot $0.03
+Seat 1: dahui36 did not show and won $0.03
+Seat 2: MezcalMule folded on the Pre-Flop and did not bet
+Seat 3: JSHUTT24 folded on the Pre-Flop and did not bet
+Seat 4: arodrigues99 (button) folded on the Pre-Flop
+Seat 6: Saturdays (small blind) folded on the Pre-Flop
+
+Hand #1051989174 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/19 01:35:39 UTC
+Westville 6-max Seat #6 is the button
+Seat 1: dahui36 ($1.91)
+Seat 2: MezcalMule ($3.13)
+Seat 3: JSHUTT24 ($1.53)
+Seat 4: arodrigues99 ($1.94)
+Seat 6: Saturdays ($8.10)
+dahui36 posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Jh 2d]
+JSHUTT24 folds
+arodrigues99 folds
+Saturdays raises $0.06 to $0.06
+dahui36 folds
+MezcalMule folds
+Uncalled bet ($0.04) returned to Saturdays
+Saturdays does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: dahui36 (small blind) folded on the Pre-Flop
+Seat 2: MezcalMule (big blind) folded on the Pre-Flop
+Seat 3: JSHUTT24 folded on the Pre-Flop and did not bet
+Seat 4: arodrigues99 folded on the Pre-Flop and did not bet
+Seat 6: Saturdays did not show and won $0.05
+
+Hand #1051989560 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/19 01:35:57 UTC
+Westville 6-max Seat #1 is the button
+Seat 1: dahui36 ($1.90)
+Seat 2: MezcalMule ($3.11)
+Seat 3: JSHUTT24 ($1.53)
+Seat 4: arodrigues99 ($1.94)
+Seat 6: Saturdays ($8.13)
+MezcalMule posts the small blind $0.01
+JSHUTT24 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [6h Qc]
+arodrigues99 folds
+Saturdays folds
+dahui36 folds
+MezcalMule folds
+JSHUTT24 does not show
+*** SUMMARY ***
+Total pot $0.03
+Seat 1: dahui36 (button) folded on the Pre-Flop
+Seat 2: MezcalMule (small blind) folded on the Pre-Flop
+Seat 3: JSHUTT24 did not show and won $0.03
+Seat 4: arodrigues99 folded on the Pre-Flop and did not bet
+Seat 6: Saturdays folded on the Pre-Flop and did not bet
+
+Hand #1051990102 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/19 01:36:23 UTC
+Westville 6-max Seat #2 is the button
+Seat 1: dahui36 ($1.90)
+Seat 2: MezcalMule ($3.10)
+Seat 3: JSHUTT24 ($1.54)
+Seat 4: arodrigues99 ($1.94)
+Seat 6: Saturdays ($8.13)
+JSHUTT24 posts the small blind $0.01
+arodrigues99 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Ts Js]
+Saturdays folds
+dahui36 folds
+MezcalMule raises $0.06 to $0.06
+JSHUTT24 folds
+arodrigues99 folds
+Uncalled bet ($0.04) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: dahui36 folded on the Pre-Flop and did not bet
+Seat 2: MezcalMule did not show and won $0.05
+Seat 3: JSHUTT24 (small blind) folded on the Pre-Flop
+Seat 4: arodrigues99 (big blind) folded on the Pre-Flop
+Seat 6: Saturdays folded on the Pre-Flop and did not bet
+
+Hand #1051990441 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/19 01:36:39 UTC
+Westville 6-max Seat #3 is the button
+Seat 1: dahui36 ($1.90)
+Seat 2: MezcalMule ($3.13)
+Seat 3: JSHUTT24 ($1.53)
+Seat 4: arodrigues99 ($1.92)
+Seat 6: Saturdays ($8.13)
+arodrigues99 posts the small blind $0.01
+Saturdays posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Qh Jd]
+dahui36 folds
+MezcalMule raises $0.05 to $0.05
+JSHUTT24 folds
+arodrigues99 folds
+Saturdays folds
+Uncalled bet ($0.03) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: dahui36 folded on the Pre-Flop and did not bet
+Seat 2: MezcalMule did not show and won $0.05
+Seat 3: JSHUTT24 (button) folded on the Pre-Flop
+Seat 4: arodrigues99 (small blind) folded on the Pre-Flop
+Seat 6: Saturdays (big blind) folded on the Pre-Flop
+
+Hand #1051991333 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/19 01:37:22 UTC
+Westville 6-max Seat #4 is the button
+Seat 1: dahui36 ($1.90)
+Seat 2: MezcalMule ($3.16)
+Seat 3: JSHUTT24 ($1.53)
+Seat 4: arodrigues99 ($1.91)
+Seat 6: Saturdays ($8.11)
+Saturdays posts the small blind $0.01
+dahui36 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [5s Qd]
+MezcalMule folds
+JSHUTT24 folds
+arodrigues99 folds
+Saturdays raises $0.05 to $0.06
+dahui36 folds
+Uncalled bet ($0.04) returned to Saturdays
+Saturdays does not show
+*** SUMMARY ***
+Total pot $0.04
+Seat 1: dahui36 (big blind) folded on the Pre-Flop
+Seat 2: MezcalMule folded on the Pre-Flop and did not bet
+Seat 3: JSHUTT24 folded on the Pre-Flop and did not bet
+Seat 4: arodrigues99 (button) folded on the Pre-Flop
+Seat 6: Saturdays did not show and won $0.04
+
+Hand #1051991671 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/19 01:37:38 UTC
+Westville 6-max Seat #6 is the button
+Seat 1: dahui36 ($1.88)
+Seat 2: MezcalMule ($3.16)
+Seat 3: JSHUTT24 ($1.53)
+Seat 4: arodrigues99 ($1.91)
+Seat 6: Saturdays ($8.13)
+dahui36 posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Kc Qc]
+JSHUTT24 folds
+arodrigues99 raises $0.05 to $0.05
+Saturdays calls $0.05
+dahui36 folds
+MezcalMule calls $0.03
+*** FLOP *** [5d Ac Jh]
+Main pot $0.16 | Rake $0.00
+MezcalMule checks
+arodrigues99 checks
+Saturdays checks
+*** TURN *** [5d Ac Jh] [6s]
+Main pot $0.16 | Rake $0.00
+MezcalMule checks
+arodrigues99 checks
+Saturdays bets $0.08
+MezcalMule calls $0.08
+arodrigues99 folds
+*** RIVER *** [5d Ac Jh 6s] [Kh]
+Main pot $0.31 | Rake $0.01
+MezcalMule bets $0.08
+Saturdays raises $0.39 to $0.39
+MezcalMule calls $0.31
+*** SHOW DOWN ***
+Main pot $1.05 | Rake $0.05
+MezcalMule shows [Kc Qc] (a pair of Kings [Kh Kc Ac Qc Jh])
+Saturdays shows [6c 6d] (three of a kind, Set of Sixs [6s 6d 6c Ac Kh])
+Saturdays collected $1.05 from main pot
+*** SUMMARY ***
+Total pot $1.05 | Rake $0.05
+Board [5d Ac Jh 6s Kh]
+Seat 1: dahui36 (small blind) folded on the Pre-Flop
+Seat 2: MezcalMule (big blind) showed [Kc Qc] and lost with a pair of Kings [Kh Kc Ac Qc Jh]
+Seat 3: JSHUTT24 folded on the Pre-Flop and did not bet
+Seat 4: arodrigues99 folded on the Turn
+Seat 6: Saturdays (button) showed [6c 6d] and won $1.05 with three of a kind, Set of Sixs [6s 6d 6c Ac Kh]
+
+Hand #1051993606 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/19 01:39:13 UTC
+Westville 6-max Seat #1 is the button
+Seat 1: dahui36 ($1.87)
+Seat 2: MezcalMule ($2.64)
+Seat 3: JSHUTT24 ($1.53)
+Seat 4: arodrigues99 ($1.86)
+Seat 6: Saturdays ($8.66)
+MezcalMule posts the small blind $0.01
+JSHUTT24 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [9h Td]
+arodrigues99 folds
+Saturdays folds
+dahui36 folds
+MezcalMule calls $0.01
+JSHUTT24 checks
+*** FLOP *** [Kc Ks 9s]
+Main pot $0.04 | Rake $0.00
+MezcalMule checks
+JSHUTT24 checks
+*** TURN *** [Kc Ks 9s] [Th]
+Main pot $0.04 | Rake $0.00
+MezcalMule checks
+JSHUTT24 checks
+*** RIVER *** [Kc Ks 9s Th] [Kh]
+Main pot $0.04 | Rake $0.00
+MezcalMule bets $0.03
+JSHUTT24 folds
+Uncalled bet ($0.03) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.04
+Board [Kc Ks 9s Th Kh]
+Seat 1: dahui36 (button) folded on the Pre-Flop
+Seat 2: MezcalMule did not show and won $0.04
+Seat 3: JSHUTT24 (big blind) folded on the River
+Seat 4: arodrigues99 folded on the Pre-Flop and did not bet
+Seat 6: Saturdays folded on the Pre-Flop and did not bet
+
+Hand #1051994733 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/19 01:40:06 UTC
+Westville 6-max Seat #2 is the button
+Seat 1: dahui36 ($1.87)
+Seat 2: MezcalMule ($2.66)
+Seat 3: JSHUTT24 ($1.51)
+Seat 4: arodrigues99 ($1.86)
+Seat 6: Saturdays ($8.66)
+JSHUTT24 posts the small blind $0.01
+arodrigues99 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [6s 6h]
+Saturdays raises $0.06 to $0.06
+dahui36 folds
+MezcalMule calls $0.06
+JSHUTT24 calls $0.05
+arodrigues99 calls $0.04
+*** FLOP *** [Kh 2d Jc]
+Main pot $0.23 | Rake $0.01
+JSHUTT24 bets $0.12
+arodrigues99 folds
+Saturdays folds
+MezcalMule folds
+Uncalled bet ($0.12) returned to JSHUTT24
+JSHUTT24 does not show
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01
+Board [Kh 2d Jc]
+Seat 1: dahui36 folded on the Pre-Flop and did not bet
+Seat 2: MezcalMule (button) folded on the Flop
+Seat 3: JSHUTT24 did not show and won $0.23
+Seat 4: arodrigues99 (big blind) folded on the Flop
+Seat 6: Saturdays folded on the Flop
+

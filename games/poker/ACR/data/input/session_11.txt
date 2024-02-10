@@ -1,0 +1,1866 @@
+Hand #1049668939 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/17 02:42:47 UTC
+Helen 6-max Seat #4 is the button
+Seat 1: ONEIEDWILLIE ($0.79) is sitting out
+Seat 2: saynotopawgs ($2.00)
+Seat 3: MikeChalupa ($2.00)
+Seat 4: 12bettheset ($2.01)
+Seat 5: MezcalMule ($2.00)
+Seat 6: jaus ($2.00)
+MezcalMule posts the small blind $0.01
+jaus posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [4s 8s]
+saynotopawgs folds
+MikeChalupa folds
+12bettheset raises $2.01 to $2.01 and is all-in
+MezcalMule folds
+jaus calls $1.98 and is all-in
+Uncalled bet ($0.01) returned to 12bettheset
+*** FLOP *** [Jc 2c Qs]
+Main pot $3.81 | Rake $0.20
+*** TURN *** [Jc 2c Qs] [4d]
+Main pot $3.81 | Rake $0.20
+*** RIVER *** [Jc 2c Qs 4d] [3c]
+Main pot $3.81 | Rake $0.20
+*** SHOW DOWN ***
+Main pot $3.81 | Rake $0.20
+12bettheset shows [Ks 5h] (a high card, King high [Ks Qs Jc 5h 4d])
+jaus shows [Jd Ad] (a pair of Jacks [Jd Jc Ad Qs 4d])
+jaus collected $3.81 from main pot
+*** SUMMARY ***
+Total pot $3.81 | Rake $0.14 | JP Fee $0.06
+Board [Jc 2c Qs 4d 3c]
+Seat 2: saynotopawgs folded on the Pre-Flop and did not bet
+Seat 3: MikeChalupa folded on the Pre-Flop and did not bet
+Seat 4: 12bettheset (button) showed [Ks 5h] and lost with a high card, King high [Ks Qs Jc 5h 4d]
+Seat 5: MezcalMule (small blind) folded on the Pre-Flop
+Seat 6: jaus (big blind) showed [Jd Ad] and won $3.81 with a pair of Jacks [Jd Jc Ad Qs 4d]
+
+Hand #1049669833 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/17 02:43:24 UTC
+Helen 6-max Seat #5 is the button
+Seat 1: ONEIEDWILLIE ($0.79)
+Seat 2: saynotopawgs ($2.00)
+Seat 3: MikeChalupa ($2.00)
+Seat 4: 12bettheset ($0.01)
+Seat 5: MezcalMule ($1.99)
+Seat 6: jaus ($3.81)
+jaus posts the small blind $0.01
+ONEIEDWILLIE posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [8s Ah]
+saynotopawgs folds
+MikeChalupa folds
+12bettheset calls $0.01 and is all-in
+MezcalMule calls $0.02
+jaus calls $0.01
+ONEIEDWILLIE checks
+*** FLOP *** [4c Kh Ks]
+Main pot $0.04 | Rake $0.00
+Side pot(1) $0.03 | Rake $0.00
+jaus checks
+ONEIEDWILLIE checks
+MezcalMule bets $0.05
+jaus calls $0.05
+ONEIEDWILLIE folds
+*** TURN *** [4c Kh Ks] [Kc]
+Main pot $0.04 | Rake $0.00
+Side pot(1) $0.13 | Rake $0.00
+jaus checks
+MezcalMule checks
+*** RIVER *** [4c Kh Ks Kc] [Qd]
+Main pot $0.04 | Rake $0.00
+Side pot(1) $0.13 | Rake $0.00
+jaus bets $0.17
+MezcalMule folds
+Uncalled bet ($0.17) returned to jaus
+*** SHOW DOWN ***
+Main pot $0.04 | Rake $0.00
+Side pot(1) $0.13 | Rake $0.00
+12bettheset shows [Jc Jh] (a full house, Kings full of Jacks [Ks Kh Kc Jh Jc])
+jaus shows [Kd 8d] (four of a kind, Four Kings [Ks Kh Kd Kc Qd])
+jaus collected $0.04 from main pot
+jaus collected $0.13 from side pot-1
+*** SUMMARY ***
+Total pot $0.17
+Board [4c Kh Ks Kc Qd]
+Seat 1: ONEIEDWILLIE (big blind) folded on the Flop
+Seat 2: saynotopawgs folded on the Pre-Flop and did not bet
+Seat 3: MikeChalupa folded on the Pre-Flop and did not bet
+Seat 4: 12bettheset showed [Jc Jh] and lost with a full house, Kings full of Jacks [Ks Kh Kc Jh Jc]
+Seat 5: MezcalMule (button) folded on the River
+Seat 6: jaus (small blind) showed [Kd 8d] and won $0.17 with four of a kind, Four Kings [Ks Kh Kd Kc Qd]
+
+Hand #1049673188 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/17 02:45:41 UTC
+Helen 6-max Seat #6 is the button
+Seat 1: ONEIEDWILLIE ($0.77)
+Seat 2: saynotopawgs ($2.00)
+Seat 3: MikeChalupa ($2.00)
+Seat 4: 12bettheset ($2.00)
+Seat 5: MezcalMule ($1.92)
+Seat 6: jaus ($3.91)
+ONEIEDWILLIE posts the small blind $0.01
+saynotopawgs posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Ad 8c]
+MikeChalupa folds
+12bettheset calls $0.02
+MezcalMule folds
+jaus calls $0.02
+ONEIEDWILLIE folds
+saynotopawgs checks
+*** FLOP *** [6h 7s 5d]
+Main pot $0.07 | Rake $0.00
+saynotopawgs checks
+12bettheset bets $0.26
+jaus calls $0.26
+saynotopawgs folds
+*** TURN *** [6h 7s 5d] [Td]
+Main pot $0.57 | Rake $0.02
+12bettheset checks
+jaus checks
+*** RIVER *** [6h 7s 5d Td] [5h]
+Main pot $0.57 | Rake $0.02
+12bettheset bets $0.44
+jaus folds
+Uncalled bet ($0.44) returned to 12bettheset
+12bettheset shows [8s Jc]
+*** SUMMARY ***
+Total pot $0.57 | Rake $0.02
+Board [6h 7s 5d Td 5h]
+Seat 1: ONEIEDWILLIE (small blind) folded on the Pre-Flop
+Seat 2: saynotopawgs (big blind) folded on the Flop
+Seat 3: MikeChalupa folded on the Pre-Flop and did not bet
+Seat 4: 12bettheset showed [8s Jc] and won $0.57
+Seat 5: MezcalMule folded on the Pre-Flop and did not bet
+Seat 6: jaus (button) folded on the River
+
+Hand #1049676083 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/17 02:47:42 UTC
+Helen 6-max Seat #1 is the button
+Seat 1: ONEIEDWILLIE ($0.76)
+Seat 2: saynotopawgs ($1.98)
+Seat 3: MikeChalupa ($2.00)
+Seat 4: 12bettheset ($2.29)
+Seat 5: MezcalMule ($1.92)
+Seat 6: jaus ($3.63)
+saynotopawgs posts the small blind $0.01
+MikeChalupa posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [2c 2d]
+12bettheset folds
+MezcalMule raises $0.04 to $0.04
+jaus calls $0.04
+ONEIEDWILLIE folds
+saynotopawgs folds
+MikeChalupa raises $0.22 to $0.24
+MezcalMule folds
+jaus folds
+Uncalled bet ($0.20) returned to MikeChalupa
+MikeChalupa does not show
+*** SUMMARY ***
+Total pot $0.13
+Seat 1: ONEIEDWILLIE (button) folded on the Pre-Flop
+Seat 2: saynotopawgs (small blind) folded on the Pre-Flop
+Seat 3: MikeChalupa did not show and won $0.13
+Seat 4: 12bettheset folded on the Pre-Flop and did not bet
+Seat 5: MezcalMule folded on the Pre-Flop and did not bet
+Seat 6: jaus folded on the Pre-Flop and did not bet
+
+Hand #1049677916 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/17 02:48:55 UTC
+Helen 6-max Seat #2 is the button
+Seat 1: ONEIEDWILLIE ($0.76)
+Seat 2: saynotopawgs ($1.97)
+Seat 3: MikeChalupa ($2.09)
+Seat 4: 12bettheset ($2.29)
+Seat 5: MezcalMule ($1.88)
+Seat 6: jaus ($3.59)
+MikeChalupa posts the small blind $0.01
+12bettheset posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [7h 4s]
+MezcalMule folds
+jaus raises $0.05 to $0.05
+ONEIEDWILLIE folds
+saynotopawgs folds
+MikeChalupa folds
+12bettheset calls $0.03
+*** FLOP *** [8h Ks 3c]
+Main pot $0.11 | Rake $0.00
+12bettheset bets $0.02
+jaus raises $0.13 to $0.13
+12bettheset folds
+12bettheset shows [2s -]
+Uncalled bet ($0.11) returned to jaus
+jaus does not show
+*** SUMMARY ***
+Total pot $0.15
+Board [8h Ks 3c]
+Seat 1: ONEIEDWILLIE folded on the Pre-Flop and did not bet
+Seat 2: saynotopawgs (button) folded on the Pre-Flop
+Seat 3: MikeChalupa (small blind) folded on the Pre-Flop
+Seat 4: 12bettheset (big blind) showed [2s -] and folded on the Flop
+Seat 5: MezcalMule folded on the Pre-Flop and did not bet
+Seat 6: jaus did not show and won $0.15
+
+Hand #1049679135 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/17 02:49:43 UTC
+Helen 6-max Seat #3 is the button
+Seat 1: ONEIEDWILLIE ($0.76)
+Seat 2: saynotopawgs ($1.97)
+Seat 3: ummok will be allowed to play after the button
+Seat 4: 12bettheset ($2.22)
+Seat 5: MezcalMule ($1.88)
+Seat 6: jaus ($3.67)
+12bettheset posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [3h Tc]
+jaus folds
+ONEIEDWILLIE folds
+saynotopawgs raises $0.05 to $0.05
+12bettheset folds
+MezcalMule folds
+Uncalled bet ($0.03) returned to saynotopawgs
+saynotopawgs does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: ONEIEDWILLIE folded on the Pre-Flop and did not bet
+Seat 2: saynotopawgs did not show and won $0.05
+Seat 4: 12bettheset (small blind) folded on the Pre-Flop
+Seat 5: MezcalMule (big blind) folded on the Pre-Flop
+Seat 6: jaus folded on the Pre-Flop and did not bet
+
+Hand #1049680103 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/17 02:50:22 UTC
+Helen 6-max Seat #4 is the button
+Seat 1: ONEIEDWILLIE ($0.76)
+Seat 2: saynotopawgs ($2.00)
+Seat 3: ummok ($2.00)
+Seat 4: 12bettheset ($2.21)
+Seat 5: MezcalMule ($1.86)
+Seat 6: jaus ($3.67)
+MezcalMule posts the small blind $0.01
+jaus posts the big blind $0.02
+ummok waits for big blind
+*** HOLE CARDS ***
+Dealt to MezcalMule [6s 2c]
+ONEIEDWILLIE folds
+saynotopawgs raises $0.05 to $0.05
+12bettheset folds
+MezcalMule folds
+jaus calls $0.03
+*** FLOP *** [5d 8c Kh]
+Main pot $0.11 | Rake $0.00
+jaus bets $0.08
+saynotopawgs calls $0.08
+*** TURN *** [5d 8c Kh] [9d]
+Main pot $0.26 | Rake $0.01
+jaus bets $0.20
+saynotopawgs raises $0.48 to $0.48
+jaus calls $0.28
+*** RIVER *** [5d 8c Kh 9d] [7d]
+Main pot $1.17 | Rake $0.06
+jaus checks
+saynotopawgs bets $1.39 and is all-in
+jaus calls $1.39
+*** SHOW DOWN ***
+Main pot $3.81 | Rake $0.20
+saynotopawgs shows [Js 8s] (a pair of Eights [8s 8c Kh Js 9d])
+jaus shows [Ks 5s] (two pair, Kings and Fives [Ks Kh 5s 5d 9d])
+jaus collected $3.81 from main pot
+*** SUMMARY ***
+Total pot $3.81 | Rake $0.14 | JP Fee $0.06
+Board [5d 8c Kh 9d 7d]
+Seat 1: ONEIEDWILLIE folded on the Pre-Flop and did not bet
+Seat 2: saynotopawgs showed [Js 8s] and lost with a pair of Eights [8s 8c Kh Js 9d]
+Seat 4: 12bettheset (button) folded on the Pre-Flop
+Seat 5: MezcalMule (small blind) folded on the Pre-Flop
+Seat 6: jaus (big blind) showed [Ks 5s] and won $3.81 with two pair, Kings and Fives [Ks Kh 5s 5d 9d]
+
+Hand #1049682632 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/17 02:52:01 UTC
+Helen 6-max Seat #5 is the button
+Seat 1: ONEIEDWILLIE ($0.76)
+Seat 2: saynotopawgs ($0.00) is sitting out
+Seat 3: ummok ($2.00)
+Seat 4: 12bettheset ($2.21)
+Seat 5: MezcalMule ($1.85)
+Seat 6: jaus ($5.48)
+jaus posts the small blind $0.01
+ONEIEDWILLIE posts the big blind $0.02
+ummok waits for big blind
+*** HOLE CARDS ***
+Dealt to MezcalMule [9d 2h]
+12bettheset calls $0.02
+MezcalMule folds
+jaus calls $0.01
+ONEIEDWILLIE checks
+*** FLOP *** [8s As Ah]
+Main pot $0.06 | Rake $0.00
+jaus checks
+ONEIEDWILLIE checks
+12bettheset bets $0.22
+jaus calls $0.22
+ONEIEDWILLIE folds
+*** TURN *** [8s As Ah] [7s]
+Main pot $0.48 | Rake $0.02
+jaus checks
+12bettheset bets $0.44
+jaus raises $5.24 to $5.24 and is all-in
+12bettheset calls $1.53 and is all-in
+Uncalled bet ($3.27) returned to jaus
+*** RIVER *** [8s As Ah 7s] [3c]
+Main pot $4.22 | Rake $0.22
+*** SHOW DOWN ***
+Main pot $4.22 | Rake $0.22
+12bettheset shows [Qd Qc] (two pair, Aces and Queens [As Ah Qd Qc 8s])
+jaus shows [7c 8d] (two pair, Aces and Eights [As Ah 8s 8d 7s])
+12bettheset collected $4.22 from main pot
+*** SUMMARY ***
+Total pot $4.22 | Rake $0.16 | JP Fee $0.06
+Board [8s As Ah 7s 3c]
+Seat 1: ONEIEDWILLIE (big blind) folded on the Flop
+Seat 4: 12bettheset showed [Qd Qc] and won $4.22 with two pair, Aces and Queens [As Ah Qd Qc 8s]
+Seat 5: MezcalMule (button) folded on the Pre-Flop
+Seat 6: jaus (small blind) showed [7c 8d] and lost with two pair, Aces and Eights [As Ah 8s 8d 7s]
+
+Hand #1049685444 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/17 02:53:58 UTC
+Helen 6-max Seat #6 is the button
+Seat 1: ONEIEDWILLIE ($0.74) is sitting out
+Seat 3: ummok ($2.00)
+Seat 4: 12bettheset ($4.22)
+Seat 5: MezcalMule ($1.85)
+Seat 6: jaus ($3.27)
+ummok posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [4s Jd]
+12bettheset raises $0.05 to $0.05
+MezcalMule folds
+jaus folds
+ummok calls $0.03
+*** FLOP *** [Td Ks 7d]
+Main pot $0.10 | Rake $0.00
+ummok checks
+12bettheset bets $0.07
+ummok calls $0.07
+*** TURN *** [Td Ks 7d] [8d]
+Main pot $0.23 | Rake $0.01
+ummok checks
+12bettheset checks
+*** RIVER *** [Td Ks 7d 8d] [3h]
+Main pot $0.23 | Rake $0.01
+ummok checks
+12bettheset checks
+*** SHOW DOWN ***
+Main pot $0.23 | Rake $0.01
+ummok shows [As 9s] (a high card, Ace high [As Ks Td 9s 8d])
+12bettheset shows [Ad 8s] (a pair of Eights [8s 8d Ad Ks Td])
+12bettheset collected $0.23 from main pot
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01
+Board [Td Ks 7d 8d 3h]
+Seat 3: ummok (big blind) showed [As 9s] and lost with a high card, Ace high [As Ks Td 9s 8d]
+Seat 4: 12bettheset showed [Ad 8s] and won $0.23 with a pair of Eights [8s 8d Ad Ks Td]
+Seat 5: MezcalMule folded on the Pre-Flop and did not bet
+Seat 6: jaus (button) folded on the Pre-Flop
+
+Hand #1049686406 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/17 02:54:38 UTC
+Helen 6-max Seat #1 is the button
+Seat 1: ONEIEDWILLIE ($0.74) is sitting out
+Seat 2: iRonGriffinn will be allowed to play after the button
+Seat 3: ummok ($2.00)
+Seat 4: 12bettheset ($4.33)
+Seat 5: MezcalMule ($1.85)
+Seat 6: jaus ($3.27)
+ummok posts the small blind $0.01
+12bettheset posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [9s 4s]
+MezcalMule folds
+jaus folds
+ummok raises $0.06 to $0.07
+12bettheset folds
+Uncalled bet ($0.05) returned to ummok
+ummok does not show
+*** SUMMARY ***
+Total pot $0.04
+Seat 3: ummok did not show and won $0.04
+Seat 4: 12bettheset (big blind) folded on the Pre-Flop
+Seat 5: MezcalMule folded on the Pre-Flop and did not bet
+Seat 6: jaus folded on the Pre-Flop and did not bet
+
+Hand #1049686813 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/17 02:54:54 UTC
+Helen 6-max Seat #3 is the button
+Seat 1: ONEIEDWILLIE ($0.74) is sitting out
+Seat 2: iRonGriffinn ($2.00)
+Seat 3: ummok ($2.02)
+Seat 4: 12bettheset ($4.31)
+Seat 5: MezcalMule ($1.85)
+Seat 6: jaus ($3.27)
+12bettheset posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+iRonGriffinn waits for big blind
+*** HOLE CARDS ***
+Dealt to MezcalMule [Kc 5c]
+jaus folds
+ummok folds
+12bettheset folds
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.03
+Seat 3: ummok (button) folded on the Pre-Flop
+Seat 4: 12bettheset (small blind) folded on the Pre-Flop
+Seat 5: MezcalMule did not show and won $0.03
+Seat 6: jaus folded on the Pre-Flop and did not bet
+
+Hand #1049687118 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/17 02:55:15 UTC
+Helen 6-max Seat #4 is the button
+Seat 1: ONEIEDWILLIE ($0.74) is sitting out
+Seat 2: iRonGriffinn ($2.00)
+Seat 3: ummok ($2.02)
+Seat 4: 12bettheset ($4.30)
+Seat 5: MezcalMule ($1.86)
+Seat 6: jaus ($3.27)
+MezcalMule posts the small blind $0.01
+jaus posts the big blind $0.02
+iRonGriffinn waits for big blind
+*** HOLE CARDS ***
+Dealt to MezcalMule [Td 8h]
+ummok folds
+12bettheset raises $0.05 to $0.05
+MezcalMule folds
+jaus calls $0.03
+*** FLOP *** [5s 6h Qd]
+Main pot $0.11 | Rake $0.00
+jaus checks
+12bettheset checks
+*** TURN *** [5s 6h Qd] [Qs]
+Main pot $0.11 | Rake $0.00
+jaus bets $0.08
+12bettheset calls $0.08
+*** RIVER *** [5s 6h Qd Qs] [3h]
+Main pot $0.26 | Rake $0.01
+jaus bets $0.34
+12bettheset calls $0.34
+*** SHOW DOWN ***
+Main pot $0.91 | Rake $0.04
+12bettheset shows [2d 2c] (two pair, Queens and Deuces [Qs Qd 2d 2c 6h])
+jaus shows [Qh 9c] (three of a kind, Set of Queens [Qs Qh Qd 9c 6h])
+jaus collected $0.91 from main pot
+*** SUMMARY ***
+Total pot $0.91 | Rake $0.04
+Board [5s 6h Qd Qs 3h]
+Seat 3: ummok folded on the Pre-Flop and did not bet
+Seat 4: 12bettheset (button) showed [2d 2c] and lost with two pair, Queens and Deuces [Qs Qd 2d 2c 6h]
+Seat 5: MezcalMule (small blind) folded on the Pre-Flop
+Seat 6: jaus (big blind) showed [Qh 9c] and won $0.91 with three of a kind, Set of Queens [Qs Qh Qd 9c 6h]
+
+Hand #1049688016 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/17 02:56:38 UTC
+Helen 6-max Seat #5 is the button
+Seat 1: ONEIEDWILLIE ($0.74)
+Seat 2: iRonGriffinn ($2.00)
+Seat 3: ummok ($2.02)
+Seat 4: 12bettheset ($3.83)
+Seat 5: MezcalMule ($1.85)
+Seat 6: jaus ($3.71)
+jaus posts the small blind $0.01
+ONEIEDWILLIE posts the big blind $0.02
+iRonGriffinn waits for big blind
+*** HOLE CARDS ***
+Dealt to MezcalMule [5d 7d]
+ummok folds
+12bettheset folds
+MezcalMule raises $0.05 to $0.05
+jaus calls $0.04
+ONEIEDWILLIE folds
+*** FLOP *** [Kh 7h 7s]
+Main pot $0.12 | Rake $0.00
+jaus checks
+MezcalMule checks
+*** TURN *** [Kh 7h 7s] [Ah]
+Main pot $0.12 | Rake $0.00
+jaus bets $0.09
+MezcalMule calls $0.09
+*** RIVER *** [Kh 7h 7s Ah] [6c]
+Main pot $0.29 | Rake $0.01
+jaus checks
+MezcalMule bets $0.30
+jaus calls $0.30
+*** SHOW DOWN ***
+Main pot $0.86 | Rake $0.04
+MezcalMule shows [5d 7d] (three of a kind, Set of Sevens [7s 7h 7d Ah Kh])
+jaus shows [As 6d] (two pair, Aces and Sevens [As Ah 7s 7h Kh])
+MezcalMule collected $0.86 from main pot
+*** SUMMARY ***
+Total pot $0.86 | Rake $0.04
+Board [Kh 7h 7s Ah 6c]
+Seat 1: ONEIEDWILLIE (big blind) folded on the Pre-Flop
+Seat 3: ummok folded on the Pre-Flop and did not bet
+Seat 4: 12bettheset folded on the Pre-Flop and did not bet
+Seat 5: MezcalMule (button) showed [5d 7d] and won $0.86 with three of a kind, Set of Sevens [7s 7h 7d Ah Kh]
+Seat 6: jaus (small blind) showed [As 6d] and lost with two pair, Aces and Sevens [As Ah 7s 7h Kh]
+
+Hand #1049689017 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/17 02:58:07 UTC
+Helen 6-max Seat #6 is the button
+Seat 1: ONEIEDWILLIE ($0.72)
+Seat 2: iRonGriffinn ($2.00)
+Seat 3: ummok ($2.02)
+Seat 5: MezcalMule ($2.27)
+Seat 6: jaus ($3.27)
+ONEIEDWILLIE posts the small blind $0.01
+iRonGriffinn posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [As Th]
+ummok raises $0.06 to $0.06
+MezcalMule calls $0.06
+jaus calls $0.06
+ONEIEDWILLIE calls $0.05
+iRonGriffinn calls $0.04
+*** FLOP *** [6h 5s 5h]
+Main pot $0.29 | Rake $0.01
+ONEIEDWILLIE checks
+iRonGriffinn bets $0.19
+ummok folds
+MezcalMule folds
+jaus folds
+ONEIEDWILLIE folds
+Uncalled bet ($0.19) returned to iRonGriffinn
+iRonGriffinn does not show
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01
+Board [6h 5s 5h]
+Seat 1: ONEIEDWILLIE (small blind) folded on the Flop
+Seat 2: iRonGriffinn did not show and won $0.29
+Seat 3: ummok folded on the Flop
+Seat 5: MezcalMule folded on the Flop
+Seat 6: jaus (button) folded on the Flop
+
+Hand #1049689711 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/17 02:59:08 UTC
+Helen 6-max Seat #1 is the button
+Seat 1: ONEIEDWILLIE ($0.66)
+Seat 2: iRonGriffinn ($2.23)
+Seat 3: ummok ($2.00)
+Seat 4: CultClassic ($2.00)
+Seat 5: MezcalMule ($2.21)
+Seat 6: jaus ($3.21)
+iRonGriffinn posts the small blind $0.01
+ummok posts the big blind $0.02
+CultClassic waits for big blind
+*** HOLE CARDS ***
+Dealt to MezcalMule [Kc 3h]
+MezcalMule folds
+jaus folds
+ONEIEDWILLIE folds
+iRonGriffinn calls $0.01
+ummok checks
+*** FLOP *** [8d As 7c]
+Main pot $0.04 | Rake $0.00
+iRonGriffinn checks
+ummok bets $0.04
+iRonGriffinn folds
+Uncalled bet ($0.04) returned to ummok
+ummok does not show
+*** SUMMARY ***
+Total pot $0.04
+Board [8d As 7c]
+Seat 1: ONEIEDWILLIE (button) folded on the Pre-Flop
+Seat 2: iRonGriffinn (small blind) folded on the Flop
+Seat 3: ummok did not show and won $0.04
+Seat 5: MezcalMule folded on the Pre-Flop and did not bet
+Seat 6: jaus folded on the Pre-Flop and did not bet
+
+Hand #1049690180 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/17 02:59:48 UTC
+Helen 6-max Seat #2 is the button
+Seat 1: ONEIEDWILLIE ($0.66)
+Seat 2: iRonGriffinn ($2.21)
+Seat 3: ummok ($2.02)
+Seat 4: CultClassic ($2.00)
+Seat 5: MezcalMule ($2.21)
+Seat 6: jaus ($3.21)
+ummok posts the small blind $0.01
+CultClassic posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [4c 7d]
+MezcalMule folds
+jaus raises $0.05 to $0.05
+ONEIEDWILLIE folds
+iRonGriffinn folds
+ummok folds
+CultClassic folds
+Uncalled bet ($0.03) returned to jaus
+jaus does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: ONEIEDWILLIE folded on the Pre-Flop and did not bet
+Seat 2: iRonGriffinn (button) folded on the Pre-Flop
+Seat 3: ummok (small blind) folded on the Pre-Flop
+Seat 4: CultClassic (big blind) folded on the Pre-Flop
+Seat 5: MezcalMule folded on the Pre-Flop and did not bet
+Seat 6: jaus did not show and won $0.05
+
+Hand #1049690677 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/17 03:00:30 UTC
+Helen 6-max Seat #3 is the button
+Seat 1: ONEIEDWILLIE ($0.66)
+Seat 2: iRonGriffinn ($2.21)
+Seat 3: ummok ($2.01)
+Seat 4: CultClassic ($2.00)
+Seat 5: MezcalMule ($2.21)
+Seat 6: jaus ($3.24)
+CultClassic posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Qd As]
+jaus folds
+ONEIEDWILLIE folds
+iRonGriffinn folds
+ummok folds
+CultClassic raises $0.05 to $0.06
+MezcalMule raises $0.10 to $0.12
+CultClassic calls $0.06
+*** FLOP *** [7c 5h Jh]
+Main pot $0.23 | Rake $0.01
+CultClassic checks
+MezcalMule bets $0.30
+CultClassic folds
+Uncalled bet ($0.30) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01
+Board [7c 5h Jh]
+Seat 1: ONEIEDWILLIE folded on the Pre-Flop and did not bet
+Seat 2: iRonGriffinn folded on the Pre-Flop and did not bet
+Seat 3: ummok (button) folded on the Pre-Flop
+Seat 4: CultClassic (small blind) folded on the Flop
+Seat 5: MezcalMule did not show and won $0.23
+Seat 6: jaus folded on the Pre-Flop and did not bet
+
+Hand #1049691660 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/17 03:01:29 UTC
+Helen 6-max Seat #4 is the button
+Seat 1: ONEIEDWILLIE ($0.66)
+Seat 2: iRonGriffinn ($2.21)
+Seat 3: ummok ($2.01)
+Seat 4: CultClassic ($2.00)
+Seat 5: MezcalMule ($2.32)
+Seat 6: jaus ($3.24)
+MezcalMule posts the small blind $0.01
+jaus posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [2h 2c]
+ONEIEDWILLIE calls $0.02
+iRonGriffinn folds
+ummok raises $0.08 to $0.08
+CultClassic folds
+MezcalMule calls $0.07
+jaus folds
+ONEIEDWILLIE calls $0.06
+*** FLOP *** [7s Qs 4d]
+Main pot $0.25 | Rake $0.01
+MezcalMule checks
+ONEIEDWILLIE checks
+ummok checks
+*** TURN *** [7s Qs 4d] [5s]
+Main pot $0.25 | Rake $0.01
+MezcalMule checks
+ONEIEDWILLIE checks
+ummok checks
+*** RIVER *** [7s Qs 4d 5s] [7d]
+Main pot $0.25 | Rake $0.01
+MezcalMule bets $0.19
+ONEIEDWILLIE folds
+ummok folds
+Uncalled bet ($0.19) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01
+Board [7s Qs 4d 5s 7d]
+Seat 1: ONEIEDWILLIE folded on the River
+Seat 2: iRonGriffinn folded on the Pre-Flop and did not bet
+Seat 3: ummok folded on the River
+Seat 4: CultClassic (button) folded on the Pre-Flop
+Seat 5: MezcalMule did not show and won $0.25
+Seat 6: jaus (big blind) folded on the Pre-Flop
+
+Hand #1049693133 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/17 03:02:34 UTC
+Helen 6-max Seat #5 is the button
+Seat 1: ONEIEDWILLIE ($0.58)
+Seat 2: iRonGriffinn ($2.21)
+Seat 3: ummok ($2.00)
+Seat 4: CultClassic ($2.00)
+Seat 5: MezcalMule ($2.49)
+Seat 6: jaus ($3.22)
+jaus posts the small blind $0.01
+ONEIEDWILLIE posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [4h 7s]
+iRonGriffinn folds
+ummok folds
+CultClassic folds
+MezcalMule folds
+jaus folds
+ONEIEDWILLIE does not show
+*** SUMMARY ***
+Total pot $0.03
+Seat 1: ONEIEDWILLIE did not show and won $0.03
+Seat 2: iRonGriffinn folded on the Pre-Flop and did not bet
+Seat 3: ummok folded on the Pre-Flop and did not bet
+Seat 4: CultClassic folded on the Pre-Flop and did not bet
+Seat 5: MezcalMule (button) folded on the Pre-Flop
+Seat 6: jaus (small blind) folded on the Pre-Flop
+
+Hand #1049693500 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/17 03:02:51 UTC
+Helen 6-max Seat #6 is the button
+Seat 1: ONEIEDWILLIE ($0.59)
+Seat 2: iRonGriffinn ($2.21)
+Seat 3: ummok ($2.00)
+Seat 4: CultClassic ($2.00)
+Seat 5: MezcalMule ($2.49)
+Seat 6: jaus ($3.21)
+ONEIEDWILLIE posts the small blind $0.01
+iRonGriffinn posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Qd 9h]
+ummok folds
+CultClassic folds
+MezcalMule folds
+jaus folds
+ONEIEDWILLIE folds
+iRonGriffinn does not show
+*** SUMMARY ***
+Total pot $0.03
+Seat 1: ONEIEDWILLIE (small blind) folded on the Pre-Flop
+Seat 2: iRonGriffinn did not show and won $0.03
+Seat 3: ummok folded on the Pre-Flop and did not bet
+Seat 4: CultClassic folded on the Pre-Flop and did not bet
+Seat 5: MezcalMule folded on the Pre-Flop and did not bet
+Seat 6: jaus (button) folded on the Pre-Flop
+
+Hand #1049694082 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/17 03:03:17 UTC
+Helen 6-max Seat #1 is the button
+Seat 1: ONEIEDWILLIE ($0.58)
+Seat 2: iRonGriffinn ($2.22)
+Seat 3: ummok ($2.00)
+Seat 4: CultClassic ($2.00)
+Seat 5: MezcalMule ($2.49)
+Seat 6: jaus ($3.21)
+iRonGriffinn posts the small blind $0.01
+ummok sits out
+CultClassic posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [4h 2h]
+MezcalMule raises $0.05 to $0.05
+jaus folds
+ONEIEDWILLIE folds
+iRonGriffinn folds
+CultClassic folds
+Uncalled bet ($0.03) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: ONEIEDWILLIE (button) folded on the Pre-Flop
+Seat 2: iRonGriffinn (small blind) folded on the Pre-Flop
+Seat 4: CultClassic (big blind) folded on the Pre-Flop
+Seat 5: MezcalMule did not show and won $0.05
+Seat 6: jaus folded on the Pre-Flop and did not bet
+
+Hand #1049694907 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/17 03:03:54 UTC
+Helen 6-max Seat #2 is the button
+Seat 1: ONEIEDWILLIE ($0.58)
+Seat 2: iRonGriffinn ($2.21)
+Seat 4: CultClassic ($2.00)
+Seat 5: MezcalMule ($2.52)
+Seat 6: jaus ($3.21)
+CultClassic posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Js 3s]
+jaus folds
+ONEIEDWILLIE calls $0.02
+iRonGriffinn raises $0.08 to $0.08
+CultClassic folds
+MezcalMule folds
+ONEIEDWILLIE calls $0.06
+*** FLOP *** [9c 2s As]
+Main pot $0.19 | Rake $0.00
+ONEIEDWILLIE checks
+iRonGriffinn bets $0.12
+ONEIEDWILLIE raises $0.50 to $0.50 and is all-in
+iRonGriffinn calls $0.38
+*** TURN *** [9c 2s As] [6d]
+Main pot $1.14 | Rake $0.05
+*** RIVER *** [9c 2s As 6d] [7d]
+Main pot $1.14 | Rake $0.05
+*** SHOW DOWN ***
+Main pot $1.14 | Rake $0.05
+ONEIEDWILLIE shows [Ah 2c] (two pair, Aces and Deuces [As Ah 2s 2c 9c])
+iRonGriffinn shows [Qd Jc] (a high card, Ace high [As Qd Jc 9c 7d])
+ONEIEDWILLIE collected $1.14 from main pot
+*** SUMMARY ***
+Total pot $1.14 | Rake $0.05
+Board [9c 2s As 6d 7d]
+Seat 1: ONEIEDWILLIE showed [Ah 2c] and won $1.14 with two pair, Aces and Deuces [As Ah 2s 2c 9c]
+Seat 2: iRonGriffinn (button) showed [Qd Jc] and lost with a high card, Ace high [As Qd Jc 9c 7d]
+Seat 4: CultClassic (small blind) folded on the Pre-Flop
+Seat 5: MezcalMule (big blind) folded on the Pre-Flop
+Seat 6: jaus folded on the Pre-Flop and did not bet
+
+Hand #1049696629 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/17 03:05:09 UTC
+Helen 6-max Seat #4 is the button
+Seat 1: ONEIEDWILLIE ($1.14)
+Seat 2: iRonGriffinn ($2.00)
+Seat 3: pomegranate ($2.00)
+Seat 4: CultClassic ($2.00) is sitting out
+Seat 5: MezcalMule ($2.50)
+Seat 6: jaus ($3.21)
+MezcalMule posts the small blind $0.01
+jaus posts the big blind $0.02
+pomegranate waits for big blind
+*** HOLE CARDS ***
+Dealt to MezcalMule [6c 9h]
+ONEIEDWILLIE folds
+iRonGriffinn raises $0.08 to $0.08
+MezcalMule folds
+jaus folds
+Uncalled bet ($0.06) returned to iRonGriffinn
+iRonGriffinn does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: ONEIEDWILLIE folded on the Pre-Flop and did not bet
+Seat 2: iRonGriffinn did not show and won $0.05
+Seat 5: MezcalMule (small blind) folded on the Pre-Flop
+Seat 6: jaus (big blind) folded on the Pre-Flop
+
+Hand #1049697256 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/17 03:05:35 UTC
+Helen 6-max Seat #5 is the button
+Seat 1: ONEIEDWILLIE ($1.14)
+Seat 2: iRonGriffinn ($2.03)
+Seat 3: pomegranate ($2.00)
+Seat 4: CultClassic ($2.00) is sitting out
+Seat 5: MezcalMule ($2.49)
+Seat 6: jaus ($3.19)
+jaus posts the small blind $0.01
+ONEIEDWILLIE posts the big blind $0.02
+pomegranate waits for big blind
+*** HOLE CARDS ***
+Dealt to MezcalMule [3c 6c]
+iRonGriffinn folds
+MezcalMule folds
+jaus raises $0.07 to $0.08
+ONEIEDWILLIE folds
+Uncalled bet ($0.06) returned to jaus
+jaus does not show
+*** SUMMARY ***
+Total pot $0.04
+Seat 1: ONEIEDWILLIE (big blind) folded on the Pre-Flop
+Seat 2: iRonGriffinn folded on the Pre-Flop and did not bet
+Seat 5: MezcalMule (button) folded on the Pre-Flop
+Seat 6: jaus did not show and won $0.04
+
+Hand #1049698150 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/17 03:06:14 UTC
+Helen 6-max Seat #6 is the button
+Seat 1: ONEIEDWILLIE ($1.12)
+Seat 2: iRonGriffinn ($2.03)
+Seat 3: pomegranate ($2.00)
+Seat 4: CultClassic ($2.00) is sitting out
+Seat 5: MezcalMule ($2.49)
+Seat 6: jaus ($3.21)
+ONEIEDWILLIE posts the small blind $0.01
+iRonGriffinn posts the big blind $0.02
+pomegranate waits for big blind
+*** HOLE CARDS ***
+Dealt to MezcalMule [Kh Js]
+MezcalMule raises $0.04 to $0.04
+jaus folds
+ONEIEDWILLIE calls $0.03
+iRonGriffinn folds
+*** FLOP *** [Jh 8c Ad]
+Main pot $0.10 | Rake $0.00
+ONEIEDWILLIE checks
+MezcalMule bets $0.02
+ONEIEDWILLIE raises $0.12 to $0.12
+MezcalMule calls $0.10
+*** TURN *** [Jh 8c Ad] [7c]
+Main pot $0.33 | Rake $0.01
+ONEIEDWILLIE bets $0.25
+MezcalMule folds
+Uncalled bet ($0.25) returned to ONEIEDWILLIE
+ONEIEDWILLIE does not show
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01
+Board [Jh 8c Ad 7c]
+Seat 1: ONEIEDWILLIE did not show and won $0.33
+Seat 2: iRonGriffinn (big blind) folded on the Pre-Flop
+Seat 5: MezcalMule folded on the Turn
+Seat 6: jaus (button) folded on the Pre-Flop
+
+Hand #1049700286 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/17 03:07:46 UTC
+Helen 6-max Seat #1 is the button
+Seat 1: ONEIEDWILLIE ($1.29)
+Seat 2: iRonGriffinn ($2.01)
+Seat 3: pomegranate ($2.00)
+Seat 4: CultClassic ($2.00) is sitting out
+Seat 5: MezcalMule ($2.33)
+Seat 6: jaus ($3.21)
+iRonGriffinn posts the small blind $0.01
+pomegranate posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [2h Ah]
+MezcalMule raises $0.05 to $0.05
+jaus folds
+ONEIEDWILLIE calls $0.05
+iRonGriffinn folds
+pomegranate folds
+*** FLOP *** [3d 3h Jc]
+Main pot $0.13 | Rake $0.00
+MezcalMule checks
+ONEIEDWILLIE checks
+*** TURN *** [3d 3h Jc] [Kd]
+Main pot $0.13 | Rake $0.00
+MezcalMule checks
+ONEIEDWILLIE bets $0.10
+MezcalMule folds
+Uncalled bet ($0.10) returned to ONEIEDWILLIE
+ONEIEDWILLIE does not show
+*** SUMMARY ***
+Total pot $0.13
+Board [3d 3h Jc Kd]
+Seat 1: ONEIEDWILLIE did not show and won $0.13
+Seat 2: iRonGriffinn (small blind) folded on the Pre-Flop
+Seat 3: pomegranate (big blind) folded on the Pre-Flop
+Seat 5: MezcalMule folded on the Turn
+Seat 6: jaus folded on the Pre-Flop and did not bet
+
+Hand #1049701944 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/17 03:08:58 UTC
+Helen 6-max Seat #2 is the button
+Seat 1: ONEIEDWILLIE ($1.37)
+Seat 2: iRonGriffinn ($2.00)
+Seat 3: pomegranate ($2.00)
+Seat 4: CultClassic ($2.00) is sitting out
+Seat 5: MezcalMule ($2.28)
+Seat 6: jaus ($3.21)
+pomegranate posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Td Ad]
+jaus folds
+ONEIEDWILLIE calls $0.02
+iRonGriffinn folds
+pomegranate folds
+MezcalMule raises $0.03 to $0.05
+ONEIEDWILLIE calls $0.03
+*** FLOP *** [4c 8c Ah]
+Main pot $0.11 | Rake $0.00
+MezcalMule checks
+ONEIEDWILLIE bets $0.09
+MezcalMule calls $0.09
+*** TURN *** [4c 8c Ah] [6d]
+Main pot $0.28 | Rake $0.01
+MezcalMule bets $0.60
+ONEIEDWILLIE folds
+Uncalled bet ($0.60) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01
+Board [4c 8c Ah 6d]
+Seat 1: ONEIEDWILLIE folded on the Turn
+Seat 2: iRonGriffinn (button) folded on the Pre-Flop
+Seat 3: pomegranate (small blind) folded on the Pre-Flop
+Seat 5: MezcalMule did not show and won $0.28
+Seat 6: jaus folded on the Pre-Flop and did not bet
+
+Hand #1049704236 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/17 03:10:37 UTC
+Helen 6-max Seat #3 is the button
+Seat 1: ONEIEDWILLIE ($1.23)
+Seat 2: iRonGriffinn ($2.00)
+Seat 3: pomegranate ($2.00)
+Seat 4: CultClassic will be allowed to play after the button
+Seat 5: MezcalMule ($2.42)
+Seat 6: jaus ($3.21)
+MezcalMule posts the small blind $0.01
+jaus posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [7s 8d]
+ONEIEDWILLIE folds
+iRonGriffinn folds
+pomegranate raises $0.05 to $0.05
+MezcalMule calls $0.04
+jaus raises $0.14 to $0.16
+pomegranate folds
+MezcalMule folds
+Uncalled bet ($0.11) returned to jaus
+jaus does not show
+*** SUMMARY ***
+Total pot $0.15
+Seat 1: ONEIEDWILLIE folded on the Pre-Flop and did not bet
+Seat 2: iRonGriffinn folded on the Pre-Flop and did not bet
+Seat 3: pomegranate (button) folded on the Pre-Flop
+Seat 5: MezcalMule (small blind) folded on the Pre-Flop
+Seat 6: jaus did not show and won $0.15
+
+Hand #1049705076 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/17 03:11:12 UTC
+Helen 6-max Seat #5 is the button
+Seat 1: ONEIEDWILLIE ($1.23)
+Seat 2: iRonGriffinn ($2.00)
+Seat 3: pomegranate ($2.00)
+Seat 4: CultClassic ($2.00)
+Seat 5: MezcalMule ($2.37)
+Seat 6: jaus ($3.31)
+jaus posts the small blind $0.01
+ONEIEDWILLIE posts the big blind $0.02
+CultClassic waits for big blind
+*** HOLE CARDS ***
+Dealt to MezcalMule [Ah 2c]
+iRonGriffinn folds
+pomegranate folds
+MezcalMule raises $0.05 to $0.05
+jaus calls $0.04
+ONEIEDWILLIE calls $0.03
+*** FLOP *** [Qc 3d Jh]
+Main pot $0.15 | Rake $0.00
+jaus checks
+ONEIEDWILLIE bets $0.07
+MezcalMule folds
+jaus calls $0.07
+*** TURN *** [Qc 3d Jh] [Ks]
+Main pot $0.28 | Rake $0.01
+jaus checks
+ONEIEDWILLIE checks
+*** RIVER *** [Qc 3d Jh Ks] [5c]
+Main pot $0.28 | Rake $0.01
+jaus bets $0.09
+ONEIEDWILLIE calls $0.09
+*** SHOW DOWN ***
+Main pot $0.45 | Rake $0.02
+ONEIEDWILLIE shows [Td Kd] (a pair of Kings [Ks Kd Qc Jh Td])
+jaus shows [7c 9h] (a high card, King high [Ks Qc Jh 9h 7c])
+ONEIEDWILLIE collected $0.45 from main pot
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02
+Board [Qc 3d Jh Ks 5c]
+Seat 1: ONEIEDWILLIE (big blind) showed [Td Kd] and won $0.45 with a pair of Kings [Ks Kd Qc Jh Td]
+Seat 2: iRonGriffinn folded on the Pre-Flop and did not bet
+Seat 3: pomegranate folded on the Pre-Flop and did not bet
+Seat 5: MezcalMule (button) folded on the Flop
+Seat 6: jaus (small blind) showed [7c 9h] and lost with a high card, King high [Ks Qc Jh 9h 7c]
+
+Hand #1049706431 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/17 03:12:09 UTC
+Helen 6-max Seat #6 is the button
+Seat 1: ONEIEDWILLIE ($1.47)
+Seat 2: iRonGriffinn ($2.00)
+Seat 3: pomegranate ($2.00)
+Seat 4: CultClassic ($2.00)
+Seat 5: MezcalMule ($2.32)
+Seat 6: jaus ($3.10)
+ONEIEDWILLIE posts the small blind $0.01
+iRonGriffinn posts the big blind $0.02
+CultClassic waits for big blind
+*** HOLE CARDS ***
+Dealt to MezcalMule [9s Kh]
+pomegranate folds
+MezcalMule folds
+jaus raises $0.05 to $0.05
+ONEIEDWILLIE folds
+iRonGriffinn folds
+Uncalled bet ($0.03) returned to jaus
+jaus does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: ONEIEDWILLIE (small blind) folded on the Pre-Flop
+Seat 2: iRonGriffinn (big blind) folded on the Pre-Flop
+Seat 3: pomegranate folded on the Pre-Flop and did not bet
+Seat 5: MezcalMule folded on the Pre-Flop and did not bet
+Seat 6: jaus did not show and won $0.05
+
+Hand #1049707175 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/17 03:12:40 UTC
+Helen 6-max Seat #1 is the button
+Seat 1: ONEIEDWILLIE ($1.46)
+Seat 2: iRonGriffinn ($2.00)
+Seat 3: pomegranate ($2.00)
+Seat 4: CultClassic ($2.00)
+Seat 5: MezcalMule ($2.32)
+Seat 6: jaus ($3.13)
+iRonGriffinn posts the small blind $0.01
+pomegranate posts the big blind $0.02
+CultClassic waits for big blind
+*** HOLE CARDS ***
+Dealt to MezcalMule [6c 7d]
+MezcalMule folds
+jaus raises $0.05 to $0.05
+ONEIEDWILLIE folds
+iRonGriffinn folds
+pomegranate folds
+Uncalled bet ($0.03) returned to jaus
+jaus does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: ONEIEDWILLIE (button) folded on the Pre-Flop
+Seat 2: iRonGriffinn (small blind) folded on the Pre-Flop
+Seat 3: pomegranate (big blind) folded on the Pre-Flop
+Seat 5: MezcalMule folded on the Pre-Flop and did not bet
+Seat 6: jaus did not show and won $0.05
+
+Hand #1049707800 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/17 03:13:06 UTC
+Helen 6-max Seat #2 is the button
+Seat 1: ONEIEDWILLIE ($1.46)
+Seat 2: iRonGriffinn ($2.00)
+Seat 3: pomegranate ($2.00)
+Seat 4: CultClassic ($2.00)
+Seat 5: MezcalMule ($2.32)
+Seat 6: jaus ($3.16)
+pomegranate posts the small blind $0.01
+CultClassic posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [5h Qc]
+MezcalMule folds
+jaus folds
+ONEIEDWILLIE folds
+iRonGriffinn raises $0.08 to $0.08
+pomegranate folds
+CultClassic folds
+Uncalled bet ($0.06) returned to iRonGriffinn
+iRonGriffinn does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: ONEIEDWILLIE folded on the Pre-Flop and did not bet
+Seat 2: iRonGriffinn did not show and won $0.05
+Seat 3: pomegranate (small blind) folded on the Pre-Flop
+Seat 4: CultClassic (big blind) folded on the Pre-Flop
+Seat 5: MezcalMule folded on the Pre-Flop and did not bet
+Seat 6: jaus folded on the Pre-Flop and did not bet
+
+Hand #1049708240 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/17 03:13:25 UTC
+Helen 6-max Seat #3 is the button
+Seat 1: ONEIEDWILLIE ($1.46)
+Seat 2: iRonGriffinn ($2.03)
+Seat 3: pomegranate ($2.00)
+Seat 4: CultClassic ($2.00)
+Seat 5: MezcalMule ($2.32)
+Seat 6: jaus ($3.16)
+CultClassic posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Ac Kc]
+jaus raises $0.05 to $0.05
+ONEIEDWILLIE folds
+iRonGriffinn folds
+pomegranate folds
+CultClassic folds
+MezcalMule raises $0.10 to $0.12
+jaus calls $0.07
+*** FLOP *** [7c Qd 7h]
+Main pot $0.24 | Rake $0.01
+MezcalMule checks
+jaus checks
+*** TURN *** [7c Qd 7h] [8d]
+Main pot $0.24 | Rake $0.01
+MezcalMule checks
+jaus checks
+*** RIVER *** [7c Qd 7h 8d] [Jc]
+Main pot $0.24 | Rake $0.01
+MezcalMule bets $0.08
+jaus calls $0.08
+*** SHOW DOWN ***
+Main pot $0.39 | Rake $0.02
+MezcalMule shows [Ac Kc] (a pair of Sevens [7h 7c Ac Kc Qd])
+jaus shows [Jd Tc] (two pair, Jacks and Sevens [Jd Jc 7h 7c Qd])
+jaus collected $0.39 from main pot
+*** SUMMARY ***
+Total pot $0.39 | Rake $0.02
+Board [7c Qd 7h 8d Jc]
+Seat 1: ONEIEDWILLIE folded on the Pre-Flop and did not bet
+Seat 2: iRonGriffinn folded on the Pre-Flop and did not bet
+Seat 3: pomegranate (button) folded on the Pre-Flop
+Seat 4: CultClassic (small blind) folded on the Pre-Flop
+Seat 5: MezcalMule (big blind) showed [Ac Kc] and lost with a pair of Sevens [7h 7c Ac Kc Qd]
+Seat 6: jaus showed [Jd Tc] and won $0.39 with two pair, Jacks and Sevens [Jd Jc 7h 7c Qd]
+
+Hand #1049709944 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/17 03:14:38 UTC
+Helen 6-max Seat #4 is the button
+Seat 1: ONEIEDWILLIE ($1.46)
+Seat 2: iRonGriffinn ($2.03)
+Seat 3: pomegranate ($2.00)
+Seat 4: CultClassic ($2.00)
+Seat 5: MezcalMule ($2.12)
+Seat 6: jaus ($3.35)
+MezcalMule posts the small blind $0.01
+jaus posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Td 2h]
+ONEIEDWILLIE folds
+iRonGriffinn folds
+pomegranate folds
+CultClassic raises $0.06 to $0.06
+MezcalMule folds
+jaus calls $0.04
+*** FLOP *** [9s 7s Kc]
+Main pot $0.13 | Rake $0.00
+jaus checks
+CultClassic bets $0.06
+jaus folds
+Uncalled bet ($0.06) returned to CultClassic
+CultClassic does not show
+*** SUMMARY ***
+Total pot $0.13
+Board [9s 7s Kc]
+Seat 1: ONEIEDWILLIE folded on the Pre-Flop and did not bet
+Seat 2: iRonGriffinn folded on the Pre-Flop and did not bet
+Seat 3: pomegranate folded on the Pre-Flop and did not bet
+Seat 4: CultClassic did not show and won $0.13
+Seat 5: MezcalMule (small blind) folded on the Pre-Flop
+Seat 6: jaus (big blind) folded on the Flop
+
+Hand #1049710804 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/17 03:15:16 UTC
+Helen 6-max Seat #5 is the button
+Seat 1: ONEIEDWILLIE ($1.46)
+Seat 2: iRonGriffinn ($2.03)
+Seat 3: pomegranate ($2.00)
+Seat 4: CultClassic ($2.07)
+Seat 5: MezcalMule ($2.11)
+Seat 6: jaus ($3.29)
+jaus posts the small blind $0.01
+ONEIEDWILLIE posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [3d 7h]
+iRonGriffinn folds
+pomegranate folds
+CultClassic folds
+MezcalMule folds
+jaus folds
+ONEIEDWILLIE does not show
+*** SUMMARY ***
+Total pot $0.03
+Seat 1: ONEIEDWILLIE did not show and won $0.03
+Seat 2: iRonGriffinn folded on the Pre-Flop and did not bet
+Seat 3: pomegranate folded on the Pre-Flop and did not bet
+Seat 4: CultClassic folded on the Pre-Flop and did not bet
+Seat 5: MezcalMule (button) folded on the Pre-Flop
+Seat 6: jaus (small blind) folded on the Pre-Flop
+
+Hand #1049711190 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/17 03:15:33 UTC
+Helen 6-max Seat #6 is the button
+Seat 1: ONEIEDWILLIE ($1.47)
+Seat 2: iRonGriffinn ($2.03)
+Seat 3: pomegranate ($2.00)
+Seat 4: CultClassic ($2.07)
+Seat 5: MezcalMule ($2.11)
+Seat 6: jaus ($3.28)
+ONEIEDWILLIE posts the small blind $0.01
+iRonGriffinn posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Tc Ah]
+pomegranate folds
+CultClassic folds
+MezcalMule raises $0.05 to $0.05
+jaus raises $0.18 to $0.18
+ONEIEDWILLIE folds
+iRonGriffinn calls $0.16
+MezcalMule calls $0.13
+*** FLOP *** [Ad Kd 4h]
+Main pot $0.53 | Rake $0.02
+iRonGriffinn checks
+MezcalMule checks
+jaus checks
+*** TURN *** [Ad Kd 4h] [Th]
+Main pot $0.53 | Rake $0.02
+iRonGriffinn checks
+MezcalMule bets $0.41
+jaus folds
+iRonGriffinn folds
+Uncalled bet ($0.41) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.53 | Rake $0.02
+Board [Ad Kd 4h Th]
+Seat 1: ONEIEDWILLIE (small blind) folded on the Pre-Flop
+Seat 2: iRonGriffinn (big blind) folded on the Turn
+Seat 3: pomegranate folded on the Pre-Flop and did not bet
+Seat 4: CultClassic folded on the Pre-Flop and did not bet
+Seat 5: MezcalMule did not show and won $0.53
+Seat 6: jaus (button) folded on the Turn
+
+Hand #1049712570 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/17 03:16:34 UTC
+Helen 6-max Seat #1 is the button
+Seat 1: ONEIEDWILLIE ($1.46)
+Seat 2: iRonGriffinn ($2.00)
+Seat 3: pomegranate ($2.00)
+Seat 4: CultClassic ($2.07)
+Seat 5: MezcalMule ($2.46)
+Seat 6: jaus ($3.10)
+iRonGriffinn posts the small blind $0.01
+pomegranate posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [3s 2h]
+CultClassic folds
+MezcalMule folds
+jaus folds
+ONEIEDWILLIE calls $0.02
+iRonGriffinn calls $0.01
+pomegranate checks
+*** FLOP *** [4h 5s 8c]
+Main pot $0.06 | Rake $0.00
+iRonGriffinn checks
+pomegranate checks
+ONEIEDWILLIE checks
+*** TURN *** [4h 5s 8c] [3d]
+Main pot $0.06 | Rake $0.00
+iRonGriffinn bets $0.03
+pomegranate folds
+ONEIEDWILLIE folds
+Uncalled bet ($0.03) returned to iRonGriffinn
+iRonGriffinn does not show
+*** SUMMARY ***
+Total pot $0.06
+Board [4h 5s 8c 3d]
+Seat 1: ONEIEDWILLIE (button) folded on the Turn
+Seat 2: iRonGriffinn did not show and won $0.06
+Seat 3: pomegranate (big blind) folded on the Turn
+Seat 4: CultClassic folded on the Pre-Flop and did not bet
+Seat 5: MezcalMule folded on the Pre-Flop and did not bet
+Seat 6: jaus folded on the Pre-Flop and did not bet
+
+Hand #1049713664 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/17 03:17:21 UTC
+Helen 6-max Seat #2 is the button
+Seat 1: ONEIEDWILLIE ($1.44)
+Seat 2: iRonGriffinn ($2.04)
+Seat 3: pomegranate ($2.00)
+Seat 4: CultClassic ($2.07)
+Seat 5: MezcalMule ($2.46)
+Seat 6: Swankytroll ($2.00)
+pomegranate posts the small blind $0.01
+CultClassic posts the big blind $0.02
+Swankytroll waits for big blind
+*** HOLE CARDS ***
+Dealt to MezcalMule [8c Js]
+MezcalMule folds
+ONEIEDWILLIE calls $0.02
+iRonGriffinn folds
+pomegranate folds
+CultClassic checks
+*** FLOP *** [9h Kd 7c]
+Main pot $0.05 | Rake $0.00
+CultClassic checks
+ONEIEDWILLIE checks
+*** TURN *** [9h Kd 7c] [9s]
+Main pot $0.05 | Rake $0.00
+CultClassic checks
+ONEIEDWILLIE bets $0.05
+CultClassic folds
+Uncalled bet ($0.05) returned to ONEIEDWILLIE
+ONEIEDWILLIE does not show
+*** SUMMARY ***
+Total pot $0.05
+Board [9h Kd 7c 9s]
+Seat 1: ONEIEDWILLIE did not show and won $0.05
+Seat 2: iRonGriffinn (button) folded on the Pre-Flop
+Seat 3: pomegranate (small blind) folded on the Pre-Flop
+Seat 4: CultClassic (big blind) folded on the Turn
+Seat 5: MezcalMule folded on the Pre-Flop and did not bet
+
+Hand #1049714864 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/17 03:18:14 UTC
+Helen 6-max Seat #3 is the button
+Seat 1: ONEIEDWILLIE ($1.47)
+Seat 2: iRonGriffinn ($2.04)
+Seat 3: pomegranate ($2.00)
+Seat 4: CultClassic ($2.05)
+Seat 5: MezcalMule ($2.46)
+Seat 6: Swankytroll ($2.00)
+CultClassic posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+Swankytroll waits for big blind
+*** HOLE CARDS ***
+Dealt to MezcalMule [8s 6c]
+ONEIEDWILLIE folds
+iRonGriffinn folds
+pomegranate folds
+CultClassic folds
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.03
+Seat 1: ONEIEDWILLIE folded on the Pre-Flop and did not bet
+Seat 2: iRonGriffinn folded on the Pre-Flop and did not bet
+Seat 3: pomegranate (button) folded on the Pre-Flop
+Seat 4: CultClassic (small blind) folded on the Pre-Flop
+Seat 5: MezcalMule did not show and won $0.03
+
+Hand #1049715712 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/17 03:18:53 UTC
+Helen 6-max Seat #4 is the button
+Seat 1: ONEIEDWILLIE ($1.47)
+Seat 2: iRonGriffinn ($2.04)
+Seat 3: pomegranate ($2.00)
+Seat 4: CultClassic ($2.04)
+Seat 5: MezcalMule ($2.47)
+Seat 6: Swankytroll ($2.00)
+MezcalMule posts the small blind $0.01
+Swankytroll posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [7d Js]
+ONEIEDWILLIE folds
+iRonGriffinn folds
+pomegranate raises $0.05 to $0.05
+CultClassic folds
+MezcalMule folds
+Swankytroll folds
+Uncalled bet ($0.03) returned to pomegranate
+pomegranate does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: ONEIEDWILLIE folded on the Pre-Flop and did not bet
+Seat 2: iRonGriffinn folded on the Pre-Flop and did not bet
+Seat 3: pomegranate did not show and won $0.05
+Seat 4: CultClassic (button) folded on the Pre-Flop
+Seat 5: MezcalMule (small blind) folded on the Pre-Flop
+Seat 6: Swankytroll (big blind) folded on the Pre-Flop
+
+Hand #1049716231 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/17 03:19:16 UTC
+Helen 6-max Seat #5 is the button
+Seat 1: ONEIEDWILLIE ($1.47)
+Seat 2: iRonGriffinn ($2.04)
+Seat 3: pomegranate ($2.03)
+Seat 4: CultClassic ($2.04)
+Seat 5: MezcalMule ($2.46)
+Seat 6: Swankytroll ($2.00)
+Swankytroll posts the small blind $0.01
+ONEIEDWILLIE posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [5h 4h]
+iRonGriffinn folds
+pomegranate folds
+CultClassic raises $0.06 to $0.06
+MezcalMule calls $0.06
+Swankytroll folds
+ONEIEDWILLIE folds
+*** FLOP *** [Jh Kh Ac]
+Main pot $0.15 | Rake $0.00
+CultClassic checks
+MezcalMule bets $0.06
+CultClassic folds
+Uncalled bet ($0.06) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.15
+Board [Jh Kh Ac]
+Seat 1: ONEIEDWILLIE (big blind) folded on the Pre-Flop
+Seat 2: iRonGriffinn folded on the Pre-Flop and did not bet
+Seat 3: pomegranate folded on the Pre-Flop and did not bet
+Seat 4: CultClassic folded on the Flop
+Seat 5: MezcalMule did not show and won $0.15
+Seat 6: Swankytroll (small blind) folded on the Pre-Flop
+
+Hand #1049717300 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/17 03:20:05 UTC
+Helen 6-max Seat #6 is the button
+Seat 2: iRonGriffinn ($2.04)
+Seat 3: pomegranate ($2.03)
+Seat 4: CultClassic ($2.00)
+Seat 5: MezcalMule ($2.55)
+Seat 6: Swankytroll ($2.00)
+iRonGriffinn posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [5s Td]
+pomegranate folds
+CultClassic folds
+MezcalMule folds
+Swankytroll raises $0.05 to $0.05
+iRonGriffinn folds
+Uncalled bet ($0.03) returned to Swankytroll
+Swankytroll does not show
+*** SUMMARY ***
+Total pot $0.04
+Seat 2: iRonGriffinn (big blind) folded on the Pre-Flop
+Seat 3: pomegranate folded on the Pre-Flop and did not bet
+Seat 4: CultClassic folded on the Pre-Flop and did not bet
+Seat 5: MezcalMule folded on the Pre-Flop and did not bet
+Seat 6: Swankytroll did not show and won $0.04
+
+Hand #1049717584 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/17 03:20:19 UTC
+Helen 6-max Seat #1 is the button
+Seat 2: iRonGriffinn ($2.02)
+Seat 3: pomegranate ($2.03)
+Seat 4: CultClassic ($2.00)
+Seat 5: MezcalMule ($2.55)
+Seat 6: Swankytroll ($2.02)
+iRonGriffinn posts the small blind $0.01
+pomegranate posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [2d 8h]
+CultClassic folds
+MezcalMule folds
+Swankytroll folds
+iRonGriffinn raises $0.07 to $0.08
+pomegranate calls $0.06
+*** FLOP *** [Jc 8s 5s]
+Main pot $0.16 | Rake $0.00
+iRonGriffinn checks
+pomegranate checks
+*** TURN *** [Jc 8s 5s] [Ks]
+Main pot $0.16 | Rake $0.00
+iRonGriffinn checks
+pomegranate checks
+*** RIVER *** [Jc 8s 5s Ks] [4d]
+Main pot $0.16 | Rake $0.00
+iRonGriffinn checks
+pomegranate checks
+*** SHOW DOWN ***
+Main pot $0.16 | Rake $0.00
+iRonGriffinn shows [Ah 4h] (a pair of Fours [4h 4d Ah Ks Jc])
+pomegranate shows [Th Tc] (a pair of Tens [Th Tc Ks Jc 8s])
+pomegranate collected $0.16 from main pot
+*** SUMMARY ***
+Total pot $0.16
+Board [Jc 8s 5s Ks 4d]
+Seat 2: iRonGriffinn (small blind) showed [Ah 4h] and lost with a pair of Fours [4h 4d Ah Ks Jc]
+Seat 3: pomegranate (big blind) showed [Th Tc] and won $0.16 with a pair of Tens [Th Tc Ks Jc 8s]
+Seat 4: CultClassic folded on the Pre-Flop and did not bet
+Seat 5: MezcalMule folded on the Pre-Flop and did not bet
+Seat 6: Swankytroll folded on the Pre-Flop and did not bet
+
+Hand #1049718765 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/17 03:21:09 UTC
+Helen 6-max Seat #2 is the button
+Seat 1: Jiebs14 ($1.48)
+Seat 2: iRonGriffinn ($2.00)
+Seat 3: pomegranate ($2.11)
+Seat 4: CultClassic ($2.00)
+Seat 5: MezcalMule ($2.55)
+Seat 6: Swankytroll ($2.02)
+pomegranate posts the small blind $0.01
+CultClassic posts the big blind $0.02
+Jiebs14 posts $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Th 9d]
+MezcalMule raises $0.05 to $0.05
+Swankytroll raises $0.15 to $0.15
+Jiebs14 raises $1.18 to $1.20
+iRonGriffinn folds
+pomegranate folds
+CultClassic folds
+MezcalMule folds
+Swankytroll folds
+Uncalled bet ($1.05) returned to Jiebs14
+Jiebs14 does not show
+*** SUMMARY ***
+Total pot $0.38
+Seat 1: Jiebs14 did not show and won $0.38
+Seat 2: iRonGriffinn (button) folded on the Pre-Flop
+Seat 3: pomegranate (small blind) folded on the Pre-Flop
+Seat 4: CultClassic (big blind) folded on the Pre-Flop
+Seat 5: MezcalMule folded on the Pre-Flop and did not bet
+Seat 6: Swankytroll folded on the Pre-Flop and did not bet
+
+Hand #1049719771 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/17 03:21:53 UTC
+Helen 6-max Seat #3 is the button
+Seat 1: Jiebs14 ($1.71)
+Seat 2: iRonGriffinn ($2.00)
+Seat 3: pomegranate ($2.10)
+Seat 4: CultClassic ($2.00)
+Seat 5: MezcalMule ($2.50)
+Seat 6: Swankytroll ($2.00)
+CultClassic posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [8h 5d]
+Swankytroll folds
+Jiebs14 raises $1.71 to $1.71 and is all-in
+iRonGriffinn folds
+pomegranate folds
+CultClassic folds
+MezcalMule folds
+Uncalled bet ($1.69) returned to Jiebs14
+Jiebs14 does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: Jiebs14 did not show and won $0.05
+Seat 2: iRonGriffinn folded on the Pre-Flop and did not bet
+Seat 3: pomegranate (button) folded on the Pre-Flop
+Seat 4: CultClassic (small blind) folded on the Pre-Flop
+Seat 5: MezcalMule (big blind) folded on the Pre-Flop
+Seat 6: Swankytroll folded on the Pre-Flop and did not bet
+
+Hand #1049720168 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/17 03:22:11 UTC
+Helen 6-max Seat #4 is the button
+Seat 1: Jiebs14 ($1.74)
+Seat 2: iRonGriffinn ($2.00)
+Seat 3: pomegranate ($2.10)
+Seat 4: CultClassic ($2.00)
+Seat 5: MezcalMule ($2.48)
+Seat 6: Swankytroll ($2.00)
+MezcalMule posts the small blind $0.01
+Swankytroll posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Jh 7c]
+Jiebs14 folds
+iRonGriffinn raises $0.08 to $0.08
+pomegranate folds
+CultClassic folds
+MezcalMule folds
+Swankytroll folds
+Uncalled bet ($0.06) returned to iRonGriffinn
+iRonGriffinn does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: Jiebs14 folded on the Pre-Flop and did not bet
+Seat 2: iRonGriffinn did not show and won $0.05
+Seat 3: pomegranate folded on the Pre-Flop and did not bet
+Seat 4: CultClassic (button) folded on the Pre-Flop
+Seat 5: MezcalMule (small blind) folded on the Pre-Flop
+Seat 6: Swankytroll (big blind) folded on the Pre-Flop
+
+Hand #1049720759 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/17 03:22:38 UTC
+Helen 6-max Seat #5 is the button
+Seat 2: iRonGriffinn ($2.03)
+Seat 3: pomegranate ($2.10)
+Seat 4: CultClassic ($2.00)
+Seat 5: MezcalMule ($2.47)
+Seat 6: Swankytroll ($2.00)
+Swankytroll posts the small blind $0.01
+iRonGriffinn posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [3h Ts]
+pomegranate folds
+CultClassic folds
+MezcalMule folds
+Swankytroll raises $0.05 to $0.06
+iRonGriffinn folds
+Uncalled bet ($0.04) returned to Swankytroll
+Swankytroll does not show
+*** SUMMARY ***
+Total pot $0.04
+Seat 2: iRonGriffinn (big blind) folded on the Pre-Flop
+Seat 3: pomegranate folded on the Pre-Flop and did not bet
+Seat 4: CultClassic folded on the Pre-Flop and did not bet
+Seat 5: MezcalMule (button) folded on the Pre-Flop
+Seat 6: Swankytroll did not show and won $0.04
+
+Hand #1049721363 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/17 03:23:06 UTC
+Helen 6-max Seat #6 is the button
+Seat 2: iRonGriffinn ($2.01)
+Seat 3: pomegranate ($2.10)
+Seat 4: CultClassic ($2.00)
+Seat 5: MezcalMule ($2.47)
+Seat 6: Swankytroll ($2.02)
+iRonGriffinn posts the small blind $0.01
+pomegranate posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [6s 5d]
+CultClassic raises $0.06 to $0.06
+MezcalMule folds
+Swankytroll folds
+iRonGriffinn calls $0.05
+pomegranate calls $0.04
+*** FLOP *** [4s 8d 3h]
+Main pot $0.18 | Rake $0.00
+iRonGriffinn checks
+pomegranate checks
+CultClassic checks
+*** TURN *** [4s 8d 3h] [7d]
+Main pot $0.18 | Rake $0.00
+iRonGriffinn bets $0.09
+pomegranate folds
+CultClassic folds
+Uncalled bet ($0.09) returned to iRonGriffinn
+iRonGriffinn does not show
+*** SUMMARY ***
+Total pot $0.18
+Board [4s 8d 3h 7d]
+Seat 2: iRonGriffinn did not show and won $0.18
+Seat 3: pomegranate (big blind) folded on the Turn
+Seat 4: CultClassic folded on the Turn
+Seat 5: MezcalMule folded on the Pre-Flop and did not bet
+Seat 6: Swankytroll (button) folded on the Pre-Flop
+
+Hand #1049722561 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/17 03:24:03 UTC
+Helen 6-max Seat #2 is the button
+Seat 2: iRonGriffinn ($2.13)
+Seat 3: pomegranate ($2.04)
+Seat 4: CultClassic ($2.00) is sitting out
+Seat 5: MezcalMule ($2.47)
+Seat 6: Swankytroll ($2.02)
+pomegranate posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [3c 9s]
+Swankytroll folds
+iRonGriffinn raises $0.08 to $0.08
+pomegranate folds
+MezcalMule folds
+Uncalled bet ($0.06) returned to iRonGriffinn
+iRonGriffinn does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 2: iRonGriffinn did not show and won $0.05
+Seat 3: pomegranate (small blind) folded on the Pre-Flop
+Seat 5: MezcalMule (big blind) folded on the Pre-Flop
+Seat 6: Swankytroll folded on the Pre-Flop and did not bet
+
+Hand #1049723322 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/17 03:24:40 UTC
+Helen 6-max Seat #3 is the button
+Seat 1: elvida ($2.00)
+Seat 2: iRonGriffinn ($2.16)
+Seat 3: pomegranate ($2.03)
+Seat 5: MezcalMule ($2.45)
+Seat 6: Swankytroll ($2.02)
+MezcalMule posts the small blind $0.01
+Swankytroll posts the big blind $0.02
+elvida waits for big blind
+*** HOLE CARDS ***
+Dealt to MezcalMule [2s 5d]
+iRonGriffinn folds
+pomegranate raises $0.05 to $0.05
+MezcalMule folds
+Swankytroll calls $0.03
+*** FLOP *** [3h Ah Ad]
+Main pot $0.11 | Rake $0.00
+Swankytroll checks
+pomegranate checks
+*** TURN *** [3h Ah Ad] [2h]
+Main pot $0.11 | Rake $0.00
+Swankytroll checks
+pomegranate checks
+*** RIVER *** [3h Ah Ad 2h] [7h]
+Main pot $0.11 | Rake $0.00
+Swankytroll bets $0.03
+pomegranate folds
+Uncalled bet ($0.03) returned to Swankytroll
+Swankytroll does not show
+*** SUMMARY ***
+Total pot $0.11
+Board [3h Ah Ad 2h 7h]
+Seat 2: iRonGriffinn folded on the Pre-Flop and did not bet
+Seat 3: pomegranate (button) folded on the River
+Seat 5: MezcalMule (small blind) folded on the Pre-Flop
+Seat 6: Swankytroll did not show and won $0.11
+
+Hand #1049724886 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/17 03:25:53 UTC
+Helen 6-max Seat #5 is the button
+Seat 1: elvida ($2.00)
+Seat 2: iRonGriffinn ($2.16)
+Seat 3: pomegranate ($2.00)
+Seat 4: osjaguar1 ($2.00)
+Seat 5: MezcalMule ($2.44)
+Seat 6: Swankytroll ($2.08)
+Swankytroll posts the small blind $0.01
+elvida posts the big blind $0.02
+osjaguar1 waits for big blind
+*** HOLE CARDS ***
+Dealt to MezcalMule [Tc 7c]
+iRonGriffinn raises $0.08 to $0.08
+pomegranate folds
+MezcalMule calls $0.08
+Swankytroll folds
+elvida raises $0.38 to $0.40
+iRonGriffinn calls $0.32
+MezcalMule folds
+*** FLOP *** [8c 5s 4s]
+Main pot $0.85 | Rake $0.04
+elvida bets $0.44
+iRonGriffinn folds
+Uncalled bet ($0.44) returned to elvida
+elvida does not show
+*** SUMMARY ***
+Total pot $0.85 | Rake $0.04
+Board [8c 5s 4s]
+Seat 1: elvida did not show and won $0.85
+Seat 2: iRonGriffinn folded on the Flop
+Seat 3: pomegranate folded on the Pre-Flop and did not bet
+Seat 5: MezcalMule (button) folded on the Pre-Flop
+Seat 6: Swankytroll (small blind) folded on the Pre-Flop
+
+Hand #1049726583 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/17 03:27:14 UTC
+Helen 6-max Seat #6 is the button
+Seat 1: elvida ($2.45)
+Seat 2: iRonGriffinn ($2.00)
+Seat 3: pomegranate ($2.00)
+Seat 4: osjaguar1 ($2.00)
+Seat 5: MezcalMule ($2.36)
+Seat 6: Swankytroll ($2.07)
+elvida posts the small blind $0.01
+iRonGriffinn posts the big blind $0.02
+osjaguar1 waits for big blind
+*** HOLE CARDS ***
+Dealt to MezcalMule [Qh Qs]
+pomegranate folds
+MezcalMule raises $0.06 to $0.06
+Swankytroll folds
+elvida folds
+iRonGriffinn calls $0.04
+*** FLOP *** [Ad 6d 6c]
+Main pot $0.13 | Rake $0.00
+iRonGriffinn bets $0.06
+MezcalMule raises $0.17 to $0.17
+iRonGriffinn calls $0.11
+*** TURN *** [Ad 6d 6c] [8h]
+Main pot $0.45 | Rake $0.02
+iRonGriffinn bets $0.30
+MezcalMule folds
+Uncalled bet ($0.30) returned to iRonGriffinn
+iRonGriffinn does not show
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02
+Board [Ad 6d 6c 8h]
+Seat 1: elvida (small blind) folded on the Pre-Flop
+Seat 2: iRonGriffinn did not show and won $0.45
+Seat 3: pomegranate folded on the Pre-Flop and did not bet
+Seat 5: MezcalMule folded on the Turn
+Seat 6: Swankytroll (button) folded on the Pre-Flop
+
+Hand #1049727857 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/17 03:28:15 UTC
+Helen 6-max Seat #1 is the button
+Seat 1: elvida ($2.44)
+Seat 2: iRonGriffinn ($2.22)
+Seat 3: pomegranate ($2.00)
+Seat 4: osjaguar1 ($2.00)
+Seat 5: MezcalMule ($2.13)
+Seat 6: Swankytroll ($2.07)
+iRonGriffinn posts the small blind $0.01
+pomegranate posts the big blind $0.02
+osjaguar1 waits for big blind
+*** HOLE CARDS ***
+Dealt to MezcalMule [7c 4c]
+MezcalMule folds
+Swankytroll folds
+elvida raises $0.05 to $0.05
+iRonGriffinn calls $0.04
+pomegranate calls $0.03
+*** FLOP *** [Jd 3c 7h]
+Main pot $0.15 | Rake $0.00
+iRonGriffinn bets $0.04
+pomegranate folds
+elvida calls $0.04
+*** TURN *** [Jd 3c 7h] [Tc]
+Main pot $0.22 | Rake $0.01
+iRonGriffinn checks
+elvida bets $0.11
+iRonGriffinn folds
+Uncalled bet ($0.11) returned to elvida
+elvida does not show
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01
+Board [Jd 3c 7h Tc]
+Seat 1: elvida did not show and won $0.22
+Seat 2: iRonGriffinn (small blind) folded on the Turn
+Seat 3: pomegranate (big blind) folded on the Flop
+Seat 5: MezcalMule folded on the Pre-Flop and did not bet
+Seat 6: Swankytroll folded on the Pre-Flop and did not bet
+
+Hand #1049729197 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/17 03:29:19 UTC
+Helen 6-max Seat #2 is the button
+Seat 1: elvida ($2.57)
+Seat 2: iRonGriffinn ($2.13)
+Seat 3: pomegranate ($2.00)
+Seat 4: osjaguar1 ($2.00)
+Seat 5: MezcalMule ($2.13)
+Seat 6: Swankytroll ($2.07)
+pomegranate posts the small blind $0.01
+osjaguar1 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Ad Js]
+MezcalMule raises $0.05 to $0.05
+Swankytroll folds
+elvida folds
+iRonGriffinn folds
+pomegranate folds
+osjaguar1 folds
+Uncalled bet ($0.03) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: elvida folded on the Pre-Flop and did not bet
+Seat 2: iRonGriffinn (button) folded on the Pre-Flop
+Seat 3: pomegranate (small blind) folded on the Pre-Flop
+Seat 4: osjaguar1 (big blind) folded on the Pre-Flop
+Seat 5: MezcalMule did not show and won $0.05
+Seat 6: Swankytroll folded on the Pre-Flop and did not bet
+

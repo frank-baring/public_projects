@@ -1,0 +1,548 @@
+Hand #1003011593 - Holdem(No Limit) - $0.01/$0.02 - 2021/11/05 03:59:42 UTC
+Phillips 9-max Seat #1 is the button
+Seat 1: UltraBully ($2.10)
+Seat 2: wiseguy28 ($1.99)
+Seat 3: MezcalMule ($1.42)
+Seat 4: JSteel1 ($2.30)
+Seat 5: DiaClaro ($2.00)
+Seat 6: Lateralus55 ($2.27)
+Seat 7: limpAce ($2.14)
+Seat 9: Aydren12 ($2.90)
+wiseguy28 posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [5d 7s]
+JSteel1 folds
+DiaClaro folds
+Lateralus55 folds
+limpAce folds
+Aydren12 raises $0.07 to $0.07
+UltraBully folds
+wiseguy28 calls $0.06
+MezcalMule folds
+*** FLOP *** [3h 3c Td]
+Main pot $0.16 | Rake $0.00
+wiseguy28 checks
+Aydren12 bets $0.07
+wiseguy28 folds
+Uncalled bet ($0.07) returned to Aydren12
+Aydren12 shows [- Ah]
+*** SUMMARY ***
+Total pot $0.16
+Board [3h 3c Td]
+Seat 1: UltraBully (button) folded on the Pre-Flop
+Seat 2: wiseguy28 (small blind) folded on the Flop
+Seat 3: MezcalMule (big blind) folded on the Pre-Flop
+Seat 4: JSteel1 folded on the Pre-Flop and did not bet
+Seat 5: DiaClaro folded on the Pre-Flop and did not bet
+Seat 6: Lateralus55 folded on the Pre-Flop and did not bet
+Seat 7: limpAce folded on the Pre-Flop and did not bet
+Seat 9: Aydren12 showed [- Ah] and won $0.16
+
+Hand #1003012466 - Holdem(No Limit) - $0.01/$0.02 - 2021/11/05 04:01:02 UTC
+Phillips 9-max Seat #2 is the button
+Seat 1: UltraBully ($2.10)
+Seat 2: wiseguy28 ($1.92)
+Seat 3: MezcalMule ($1.40)
+Seat 4: JSteel1 ($2.30)
+Seat 5: DiaClaro ($2.00)
+Seat 6: Lateralus55 ($2.27)
+Seat 7: limpAce ($2.14)
+Seat 9: Aydren12 ($2.99)
+MezcalMule posts the small blind $0.01
+JSteel1 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [4c Ad]
+DiaClaro folds
+Lateralus55 folds
+limpAce raises $0.06 to $0.06
+Aydren12 folds
+UltraBully folds
+wiseguy28 folds
+MezcalMule folds
+JSteel1 folds
+Uncalled bet ($0.04) returned to limpAce
+limpAce does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: UltraBully folded on the Pre-Flop and did not bet
+Seat 2: wiseguy28 (button) folded on the Pre-Flop
+Seat 3: MezcalMule (small blind) folded on the Pre-Flop
+Seat 4: JSteel1 (big blind) folded on the Pre-Flop
+Seat 5: DiaClaro folded on the Pre-Flop and did not bet
+Seat 6: Lateralus55 folded on the Pre-Flop and did not bet
+Seat 7: limpAce did not show and won $0.05
+Seat 9: Aydren12 folded on the Pre-Flop and did not bet
+
+Hand #1003013038 - Holdem(No Limit) - $0.01/$0.02 - 2021/11/05 04:01:47 UTC
+Phillips 9-max Seat #3 is the button
+Seat 1: UltraBully ($2.10)
+Seat 2: wiseguy28 ($1.92)
+Seat 3: MezcalMule ($1.39)
+Seat 4: JSteel1 ($2.28)
+Seat 5: DiaClaro ($2.00)
+Seat 6: Lateralus55 ($2.27)
+Seat 7: limpAce ($2.17)
+Seat 8: Keebo ($2.00)
+Seat 9: Aydren12 ($2.99)
+JSteel1 posts the small blind $0.01
+DiaClaro posts the big blind $0.02
+Keebo waits for big blind
+*** HOLE CARDS ***
+Dealt to MezcalMule [Qd Td]
+Lateralus55 raises $0.06 to $0.06
+limpAce folds
+Aydren12 folds
+UltraBully folds
+wiseguy28 folds
+MezcalMule calls $0.06
+JSteel1 folds
+DiaClaro folds
+*** FLOP *** [Qs 4h 6s]
+Main pot $0.15 | Rake $0.00
+Lateralus55 checks
+MezcalMule bets $0.11
+Lateralus55 folds
+Uncalled bet ($0.11) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.15
+Board [Qs 4h 6s]
+Seat 1: UltraBully folded on the Pre-Flop and did not bet
+Seat 2: wiseguy28 folded on the Pre-Flop and did not bet
+Seat 3: MezcalMule did not show and won $0.15
+Seat 4: JSteel1 (small blind) folded on the Pre-Flop
+Seat 5: DiaClaro (big blind) folded on the Pre-Flop
+Seat 6: Lateralus55 folded on the Flop
+Seat 7: limpAce folded on the Pre-Flop and did not bet
+Seat 9: Aydren12 folded on the Pre-Flop and did not bet
+
+Hand #1003013862 - Holdem(No Limit) - $0.01/$0.02 - 2021/11/05 04:02:45 UTC
+Phillips 9-max Seat #4 is the button
+Seat 1: UltraBully ($2.10)
+Seat 2: wiseguy28 ($1.92)
+Seat 3: MezcalMule ($1.48)
+Seat 4: JSteel1 ($2.27)
+Seat 5: DiaClaro ($2.00)
+Seat 6: Lateralus55 ($2.21)
+Seat 7: limpAce ($2.17)
+Seat 8: Keebo ($2.00)
+Seat 9: Aydren12 ($2.99)
+DiaClaro posts the small blind $0.01
+Lateralus55 posts the big blind $0.02
+Keebo posts $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Kd 6d]
+limpAce folds
+Keebo checks
+Aydren12 folds
+UltraBully folds
+wiseguy28 folds
+MezcalMule calls $0.02
+JSteel1 calls $0.02
+DiaClaro calls $0.01
+Lateralus55 checks
+*** FLOP *** [3s 2s Td]
+Main pot $0.10 | Rake $0.00
+DiaClaro checks
+Lateralus55 checks
+Keebo checks
+MezcalMule checks
+JSteel1 checks
+*** TURN *** [3s 2s Td] [3c]
+Main pot $0.10 | Rake $0.00
+DiaClaro bets $0.06
+Lateralus55 calls $0.06
+Keebo calls $0.06
+MezcalMule folds
+JSteel1 calls $0.06
+*** RIVER *** [3s 2s Td 3c] [Js]
+Main pot $0.33 | Rake $0.01
+DiaClaro checks
+Lateralus55 bets $0.20
+Keebo folds
+JSteel1 folds
+DiaClaro folds
+Uncalled bet ($0.20) returned to Lateralus55
+Lateralus55 does not show
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01
+Board [3s 2s Td 3c Js]
+Seat 1: UltraBully folded on the Pre-Flop and did not bet
+Seat 2: wiseguy28 folded on the Pre-Flop and did not bet
+Seat 3: MezcalMule folded on the Turn
+Seat 4: JSteel1 (button) folded on the River
+Seat 5: DiaClaro (small blind) folded on the River
+Seat 6: Lateralus55 did not show and won $0.33
+Seat 7: limpAce folded on the Pre-Flop and did not bet
+Seat 8: Keebo folded on the River
+Seat 9: Aydren12 folded on the Pre-Flop and did not bet
+
+Hand #1003016100 - Holdem(No Limit) - $0.01/$0.02 - 2021/11/05 04:05:14 UTC
+Phillips 9-max Seat #5 is the button
+Seat 1: UltraBully ($2.10)
+Seat 2: wiseguy28 ($1.92)
+Seat 3: MezcalMule ($1.46)
+Seat 4: JSteel1 ($2.19)
+Seat 5: DiaClaro ($2.00)
+Seat 6: Lateralus55 ($2.46)
+Seat 7: limpAce ($2.17)
+Seat 8: Keebo ($1.92)
+Seat 9: Aydren12 ($2.99)
+Lateralus55 posts the small blind $0.01
+limpAce posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [9c 3c]
+Keebo raises $0.04 to $0.04
+Aydren12 calls $0.04
+UltraBully folds
+wiseguy28 folds
+MezcalMule folds
+JSteel1 folds
+DiaClaro folds
+Lateralus55 folds
+limpAce calls $0.02
+*** FLOP *** [2s 4s 3d]
+Main pot $0.13 | Rake $0.00
+limpAce checks
+Keebo bets $0.06
+Aydren12 calls $0.06
+limpAce calls $0.06
+*** TURN *** [2s 4s 3d] [6c]
+Main pot $0.30 | Rake $0.01
+limpAce checks
+Keebo bets $0.31
+Aydren12 folds
+limpAce folds
+Uncalled bet ($0.31) returned to Keebo
+Keebo does not show
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01
+Board [2s 4s 3d 6c]
+Seat 1: UltraBully folded on the Pre-Flop and did not bet
+Seat 2: wiseguy28 folded on the Pre-Flop and did not bet
+Seat 3: MezcalMule folded on the Pre-Flop and did not bet
+Seat 4: JSteel1 folded on the Pre-Flop and did not bet
+Seat 5: DiaClaro (button) folded on the Pre-Flop
+Seat 6: Lateralus55 (small blind) folded on the Pre-Flop
+Seat 7: limpAce (big blind) folded on the Turn
+Seat 8: Keebo did not show and won $0.30
+Seat 9: Aydren12 folded on the Turn
+
+Hand #1003017653 - Holdem(No Limit) - $0.01/$0.02 - 2021/11/05 04:06:56 UTC
+Phillips 9-max Seat #6 is the button
+Seat 1: UltraBully ($2.10)
+Seat 2: wiseguy28 ($1.92)
+Seat 3: MezcalMule ($1.46)
+Seat 4: JSteel1 ($2.19)
+Seat 5: DiaClaro ($2.00)
+Seat 6: Lateralus55 ($2.45)
+Seat 7: limpAce ($2.07)
+Seat 8: Keebo ($2.12)
+Seat 9: Aydren12 ($2.89)
+limpAce posts the small blind $0.01
+Keebo posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [4d Kh]
+Aydren12 folds
+UltraBully folds
+wiseguy28 folds
+MezcalMule folds
+JSteel1 folds
+DiaClaro raises $0.06 to $0.06
+Lateralus55 calls $0.06
+limpAce folds
+Keebo folds
+*** FLOP *** [Ad 2d Ks]
+Main pot $0.15 | Rake $0.00
+DiaClaro checks
+Lateralus55 bets $0.07
+DiaClaro calls $0.07
+*** TURN *** [Ad 2d Ks] [6s]
+Main pot $0.28 | Rake $0.01
+DiaClaro checks
+Lateralus55 checks
+*** RIVER *** [Ad 2d Ks 6s] [Th]
+Main pot $0.28 | Rake $0.01
+DiaClaro checks
+Lateralus55 bets $0.14
+DiaClaro calls $0.14
+*** SHOW DOWN ***
+Main pot $0.55 | Rake $0.02
+DiaClaro shows [As 5s] (a pair of Aces [As Ad Ks Th 6s])
+Lateralus55 shows [Ac Qs] (a pair of Aces [Ad Ac Ks Qs Th])
+Lateralus55 collected $0.55 from main pot
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02
+Board [Ad 2d Ks 6s Th]
+Seat 1: UltraBully folded on the Pre-Flop and did not bet
+Seat 2: wiseguy28 folded on the Pre-Flop and did not bet
+Seat 3: MezcalMule folded on the Pre-Flop and did not bet
+Seat 4: JSteel1 folded on the Pre-Flop and did not bet
+Seat 5: DiaClaro showed [As 5s] and lost with a pair of Aces [As Ad Ks Th 6s]
+Seat 6: Lateralus55 (button) showed [Ac Qs] and won $0.55 with a pair of Aces [Ad Ac Ks Qs Th] with the kicker Queen
+Seat 7: limpAce (small blind) folded on the Pre-Flop
+Seat 8: Keebo (big blind) folded on the Pre-Flop
+Seat 9: Aydren12 folded on the Pre-Flop and did not bet
+
+Hand #1003018962 - Holdem(No Limit) - $0.01/$0.02 - 2021/11/05 04:08:22 UTC
+Phillips 9-max Seat #7 is the button
+Seat 1: UltraBully ($2.10)
+Seat 2: wiseguy28 ($1.92)
+Seat 3: MezcalMule ($1.46)
+Seat 4: JSteel1 ($2.19)
+Seat 5: DiaClaro ($2.00)
+Seat 6: Lateralus55 ($2.73)
+Seat 7: limpAce ($2.06)
+Seat 8: Keebo ($2.10)
+Seat 9: Aydren12 ($2.89)
+Keebo posts the small blind $0.01
+Aydren12 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [7h 3d]
+UltraBully folds
+wiseguy28 folds
+MezcalMule folds
+JSteel1 folds
+DiaClaro folds
+Lateralus55 folds
+limpAce raises $0.06 to $0.06
+Keebo folds
+Aydren12 calls $0.04
+*** FLOP *** [2h 9d Jd]
+Main pot $0.13 | Rake $0.00
+Aydren12 checks
+limpAce bets $0.08
+Aydren12 calls $0.08
+*** TURN *** [2h 9d Jd] [3h]
+Main pot $0.28 | Rake $0.01
+Aydren12 checks
+limpAce bets $0.21
+Aydren12 folds
+Aydren12 shows [- 9c]
+Uncalled bet ($0.21) returned to limpAce
+limpAce does not show
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01
+Board [2h 9d Jd 3h]
+Seat 1: UltraBully folded on the Pre-Flop and did not bet
+Seat 2: wiseguy28 folded on the Pre-Flop and did not bet
+Seat 3: MezcalMule folded on the Pre-Flop and did not bet
+Seat 4: JSteel1 folded on the Pre-Flop and did not bet
+Seat 5: DiaClaro folded on the Pre-Flop and did not bet
+Seat 6: Lateralus55 folded on the Pre-Flop and did not bet
+Seat 7: limpAce did not show and won $0.28
+Seat 8: Keebo (small blind) folded on the Pre-Flop
+Seat 9: Aydren12 (big blind) showed [- 9c] and folded on the Turn
+
+Hand #1003020317 - Holdem(No Limit) - $0.01/$0.02 - 2021/11/05 04:09:54 UTC
+Phillips 9-max Seat #8 is the button
+Seat 1: UltraBully ($2.10)
+Seat 2: wiseguy28 ($1.92)
+Seat 3: MezcalMule ($1.46)
+Seat 4: JSteel1 ($2.19)
+Seat 5: DiaClaro ($2.00)
+Seat 6: Lateralus55 ($2.73)
+Seat 7: limpAce ($2.20)
+Seat 8: Keebo ($2.09)
+Seat 9: Aydren12 ($2.75)
+Aydren12 posts the small blind $0.01
+UltraBully posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Kd Qs]
+wiseguy28 folds
+MezcalMule raises $0.04 to $0.04
+JSteel1 folds
+DiaClaro folds
+Lateralus55 calls $0.04
+limpAce folds
+Keebo folds
+Aydren12 folds
+UltraBully folds
+*** FLOP *** [Jc Jd Qc]
+Main pot $0.11 | Rake $0.00
+MezcalMule checks
+Lateralus55 bets $0.04
+MezcalMule calls $0.04
+*** TURN *** [Jc Jd Qc] [Ac]
+Main pot $0.19 | Rake $0.00
+MezcalMule checks
+Lateralus55 bets $0.09
+MezcalMule folds
+Uncalled bet ($0.09) returned to Lateralus55
+Lateralus55 does not show
+*** SUMMARY ***
+Total pot $0.19
+Board [Jc Jd Qc Ac]
+Seat 1: UltraBully (big blind) folded on the Pre-Flop
+Seat 2: wiseguy28 folded on the Pre-Flop and did not bet
+Seat 3: MezcalMule folded on the Turn
+Seat 4: JSteel1 folded on the Pre-Flop and did not bet
+Seat 5: DiaClaro folded on the Pre-Flop and did not bet
+Seat 6: Lateralus55 did not show and won $0.19
+Seat 7: limpAce folded on the Pre-Flop and did not bet
+Seat 8: Keebo (button) folded on the Pre-Flop
+Seat 9: Aydren12 (small blind) folded on the Pre-Flop
+
+Hand #1003021722 - Holdem(No Limit) - $0.01/$0.02 - 2021/11/05 04:11:28 UTC
+Phillips 9-max Seat #9 is the button
+Seat 1: UltraBully ($2.08)
+Seat 2: wiseguy28 ($1.92)
+Seat 3: MezcalMule ($1.38)
+Seat 4: JSteel1 ($2.19)
+Seat 5: DiaClaro ($2.00)
+Seat 6: Lateralus55 ($2.84)
+Seat 7: limpAce ($2.20)
+Seat 8: Keebo ($2.09)
+Seat 9: Aydren12 ($2.74)
+UltraBully posts the small blind $0.01
+wiseguy28 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Ad Js]
+MezcalMule raises $0.04 to $0.04
+JSteel1 raises $0.06 to $0.06
+DiaClaro folds
+Lateralus55 folds
+limpAce folds
+Keebo folds
+Aydren12 calls $0.06
+UltraBully folds
+wiseguy28 calls $0.04
+MezcalMule calls $0.02
+*** FLOP *** [Ks Kd Ts]
+Main pot $0.24 | Rake $0.01
+wiseguy28 checks
+MezcalMule checks
+JSteel1 checks
+Aydren12 bets $0.13
+wiseguy28 folds
+MezcalMule calls $0.13
+JSteel1 folds
+*** TURN *** [Ks Kd Ts] [Qh]
+Main pot $0.49 | Rake $0.02
+MezcalMule checks
+Aydren12 checks
+*** RIVER *** [Ks Kd Ts Qh] [Kh]
+Main pot $0.49 | Rake $0.02
+MezcalMule bets $0.51
+Aydren12 folds
+Uncalled bet ($0.51) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.49 | Rake $0.02
+Board [Ks Kd Ts Qh Kh]
+Seat 1: UltraBully (small blind) folded on the Pre-Flop
+Seat 2: wiseguy28 (big blind) folded on the Flop
+Seat 3: MezcalMule did not show and won $0.49
+Seat 4: JSteel1 folded on the Flop
+Seat 5: DiaClaro folded on the Pre-Flop and did not bet
+Seat 6: Lateralus55 folded on the Pre-Flop and did not bet
+Seat 7: limpAce folded on the Pre-Flop and did not bet
+Seat 8: Keebo folded on the Pre-Flop and did not bet
+Seat 9: Aydren12 (button) folded on the River
+
+Hand #1003023216 - Holdem(No Limit) - $0.01/$0.02 - 2021/11/05 04:13:06 UTC
+Phillips 9-max Seat #1 is the button
+Seat 1: UltraBully ($2.07)
+Seat 2: wiseguy28 ($1.86)
+Seat 3: MezcalMule ($1.68)
+Seat 4: JSteel1 ($2.13)
+Seat 5: DiaClaro ($2.00)
+Seat 6: Lateralus55 ($2.84)
+Seat 7: limpAce ($2.20)
+Seat 8: Keebo ($2.09)
+Seat 9: Aydren12 ($2.55)
+wiseguy28 posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [4c Tc]
+JSteel1 folds
+DiaClaro folds
+Lateralus55 raises $0.06 to $0.06
+limpAce folds
+Keebo folds
+Aydren12 folds
+UltraBully raises $0.15 to $0.15
+wiseguy28 folds
+MezcalMule folds
+Lateralus55 calls $0.09
+*** FLOP *** [Kc 9s As]
+Main pot $0.32 | Rake $0.01
+Lateralus55 checks
+UltraBully checks
+*** TURN *** [Kc 9s As] [3h]
+Main pot $0.32 | Rake $0.01
+Lateralus55 bets $0.17
+UltraBully folds
+Uncalled bet ($0.17) returned to Lateralus55
+Lateralus55 does not show
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01
+Board [Kc 9s As 3h]
+Seat 1: UltraBully (button) folded on the Turn
+Seat 2: wiseguy28 (small blind) folded on the Pre-Flop
+Seat 3: MezcalMule (big blind) folded on the Pre-Flop
+Seat 4: JSteel1 folded on the Pre-Flop and did not bet
+Seat 5: DiaClaro folded on the Pre-Flop and did not bet
+Seat 6: Lateralus55 did not show and won $0.32
+Seat 7: limpAce folded on the Pre-Flop and did not bet
+Seat 8: Keebo folded on the Pre-Flop and did not bet
+Seat 9: Aydren12 folded on the Pre-Flop and did not bet
+
+Hand #1003023976 - Holdem(No Limit) - $0.01/$0.02 - 2021/11/05 04:13:59 UTC
+Phillips 9-max Seat #2 is the button
+Seat 1: UltraBully ($1.92)
+Seat 2: wiseguy28 ($1.85)
+Seat 3: MezcalMule ($1.66)
+Seat 4: JSteel1 ($2.13)
+Seat 5: DiaClaro ($2.00)
+Seat 6: Lateralus55 ($3.01)
+Seat 7: limpAce ($2.20)
+Seat 8: Keebo ($2.09)
+Seat 9: Aydren12 ($2.55)
+MezcalMule posts the small blind $0.01
+JSteel1 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Kh 7d]
+DiaClaro folds
+Lateralus55 folds
+limpAce folds
+Keebo calls $0.02
+Aydren12 folds
+UltraBully folds
+wiseguy28 calls $0.02
+MezcalMule calls $0.01
+JSteel1 checks
+*** FLOP *** [4s Ah 2c]
+Main pot $0.08 | Rake $0.00
+MezcalMule checks
+JSteel1 checks
+Keebo checks
+wiseguy28 checks
+*** TURN *** [4s Ah 2c] [2s]
+Main pot $0.08 | Rake $0.00
+MezcalMule bets $0.04
+JSteel1 calls $0.04
+Keebo folds
+wiseguy28 calls $0.04
+*** RIVER *** [4s Ah 2c 2s] [3d]
+Main pot $0.19 | Rake $0.01
+MezcalMule bets $0.19
+JSteel1 raises $0.48 to $0.48
+wiseguy28 folds
+MezcalMule folds
+Uncalled bet ($0.29) returned to JSteel1
+JSteel1 does not show
+*** SUMMARY ***
+Total pot $0.56 | Rake $0.02
+Board [4s Ah 2c 2s 3d]
+Seat 1: UltraBully folded on the Pre-Flop and did not bet
+Seat 2: wiseguy28 (button) folded on the River
+Seat 3: MezcalMule (small blind) folded on the River
+Seat 4: JSteel1 did not show and won $0.56
+Seat 5: DiaClaro folded on the Pre-Flop and did not bet
+Seat 6: Lateralus55 folded on the Pre-Flop and did not bet
+Seat 7: limpAce folded on the Pre-Flop and did not bet
+Seat 8: Keebo folded on the Turn
+Seat 9: Aydren12 folded on the Pre-Flop and did not bet
+

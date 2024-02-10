@@ -1,0 +1,3081 @@
+Hand #994669808 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 02:42:50 UTC
+Buckhorn 6-max Seat #2 is the button
+Seat 1: t_hagz901 ($2.20)
+Seat 2: Wooderstein ($2.57)
+Seat 3: Jar1003 ($1.98)
+Seat 4: MezcalMule ($2.00)
+Seat 5: Parzival2801 ($2.00)
+Seat 6: speider76 ($3.46)
+Jar1003 posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+Parzival2801 waits for big blind
+*** HOLE CARDS ***
+Dealt to MezcalMule [As 2c]
+speider76 folds
+t_hagz901 folds
+Wooderstein folds
+Jar1003 calls $0.01
+MezcalMule checks
+*** FLOP *** [2h Qc 3s]
+Main pot $0.04 | Rake $0.00
+Jar1003 checks
+MezcalMule bets $0.04
+Jar1003 folds
+Uncalled bet ($0.04) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.04
+Board [2h Qc 3s]
+Seat 1: t_hagz901 folded on the Pre-Flop and did not bet
+Seat 2: Wooderstein (button) folded on the Pre-Flop
+Seat 3: Jar1003 (small blind) folded on the Flop
+Seat 4: MezcalMule did not show and won $0.04
+Seat 6: speider76 folded on the Pre-Flop and did not bet
+
+Hand #994670669 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 02:43:37 UTC
+Buckhorn 6-max Seat #3 is the button
+Seat 1: t_hagz901 ($2.20)
+Seat 2: Wooderstein ($2.57)
+Seat 3: Jar1003 ($1.96)
+Seat 4: MezcalMule ($2.02)
+Seat 5: Parzival2801 ($2.00)
+Seat 6: speider76 ($3.46)
+MezcalMule posts the small blind $0.01
+Parzival2801 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Kh 4c]
+speider76 raises $0.07 to $0.07
+t_hagz901 folds
+Wooderstein folds
+Jar1003 calls $0.07
+MezcalMule folds
+Parzival2801 raises $0.33 to $0.35
+speider76 calls $0.28
+Jar1003 folds
+*** FLOP *** [7s 3c 9s]
+Main pot $0.75 | Rake $0.03
+Parzival2801 bets $0.25
+speider76 folds
+Uncalled bet ($0.25) returned to Parzival2801
+Parzival2801 does not show
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03
+Board [7s 3c 9s]
+Seat 1: t_hagz901 folded on the Pre-Flop and did not bet
+Seat 2: Wooderstein folded on the Pre-Flop and did not bet
+Seat 3: Jar1003 (button) folded on the Pre-Flop
+Seat 4: MezcalMule (small blind) folded on the Pre-Flop
+Seat 5: Parzival2801 did not show and won $0.75
+Seat 6: speider76 folded on the Flop
+
+Hand #994671775 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 02:44:37 UTC
+Buckhorn 6-max Seat #4 is the button
+Seat 1: t_hagz901 ($2.20)
+Seat 2: Wooderstein ($2.57)
+Seat 3: Jar1003 ($1.89)
+Seat 4: MezcalMule ($2.01)
+Seat 5: Parzival2801 ($2.40)
+Seat 6: speider76 ($3.11)
+Parzival2801 posts the small blind $0.01
+speider76 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Td 5c]
+t_hagz901 folds
+Wooderstein folds
+Jar1003 calls $0.02
+MezcalMule folds
+Parzival2801 calls $0.01
+speider76 raises $0.06 to $0.08
+Jar1003 calls $0.06
+Parzival2801 calls $0.06
+*** FLOP *** [9s 2h 8c]
+Main pot $0.23 | Rake $0.01
+Parzival2801 checks
+speider76 bets $0.24
+Jar1003 calls $0.24
+Parzival2801 folds
+*** TURN *** [9s 2h 8c] [Ad]
+Main pot $0.69 | Rake $0.03
+speider76 bets $0.36
+Jar1003 calls $0.36
+*** RIVER *** [9s 2h 8c Ad] [Qd]
+Main pot $1.37 | Rake $0.07
+speider76 checks
+Jar1003 checks
+*** SHOW DOWN ***
+Main pot $1.37 | Rake $0.07
+Jar1003 shows [7h 7c] (a pair of Sevens [7h 7c Ad Qd 9s])
+speider76 shows [Ac Th] (a pair of Aces [Ad Ac Qd Th 9s])
+speider76 collected $1.37 from main pot
+*** SUMMARY ***
+Total pot $1.37 | Rake $0.05 | JP Fee $0.02
+Board [9s 2h 8c Ad Qd]
+Seat 1: t_hagz901 folded on the Pre-Flop and did not bet
+Seat 2: Wooderstein folded on the Pre-Flop and did not bet
+Seat 3: Jar1003 showed [7h 7c] and lost with a pair of Sevens [7h 7c Ad Qd 9s]
+Seat 4: MezcalMule (button) folded on the Pre-Flop
+Seat 5: Parzival2801 (small blind) folded on the Flop
+Seat 6: speider76 (big blind) showed [Ac Th] and won $1.37 with a pair of Aces [Ad Ac Qd Th 9s]
+
+Hand #994673125 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 02:45:50 UTC
+Buckhorn 6-max Seat #5 is the button
+Seat 1: t_hagz901 ($2.20)
+Seat 2: Wooderstein ($2.57)
+Seat 3: Jar1003 ($1.21)
+Seat 4: MezcalMule ($2.01)
+Seat 5: Parzival2801 ($2.32)
+Seat 6: speider76 ($3.80)
+speider76 posts the small blind $0.01
+t_hagz901 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [5s 2h]
+Wooderstein folds
+Jar1003 calls $0.02
+MezcalMule folds
+Parzival2801 folds
+speider76 raises $0.07 to $0.08
+t_hagz901 folds
+Jar1003 calls $0.06
+*** FLOP *** [Ad 6d 9h]
+Main pot $0.18 | Rake $0.00
+speider76 bets $0.13
+Jar1003 folds
+Uncalled bet ($0.13) returned to speider76
+speider76 does not show
+*** SUMMARY ***
+Total pot $0.18
+Board [Ad 6d 9h]
+Seat 1: t_hagz901 (big blind) folded on the Pre-Flop
+Seat 2: Wooderstein folded on the Pre-Flop and did not bet
+Seat 3: Jar1003 folded on the Flop
+Seat 4: MezcalMule folded on the Pre-Flop and did not bet
+Seat 5: Parzival2801 (button) folded on the Pre-Flop
+Seat 6: speider76 did not show and won $0.18
+
+Hand #994674033 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 02:46:42 UTC
+Buckhorn 6-max Seat #6 is the button
+Seat 1: t_hagz901 ($2.18)
+Seat 2: Wooderstein ($2.57)
+Seat 3: Jar1003 ($1.13)
+Seat 4: MezcalMule ($2.01)
+Seat 5: Parzival2801 ($2.32)
+Seat 6: speider76 ($3.90)
+t_hagz901 posts the small blind $0.01
+Wooderstein posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Kd Ah]
+Jar1003 calls $0.02
+MezcalMule raises $0.09 to $0.09
+Parzival2801 folds
+speider76 folds
+t_hagz901 folds
+Wooderstein folds
+Jar1003 calls $0.07
+*** FLOP *** [5s Th 6s]
+Main pot $0.20 | Rake $0.01
+Jar1003 checks
+MezcalMule checks
+*** TURN *** [5s Th 6s] [2s]
+Main pot $0.20 | Rake $0.01
+Jar1003 checks
+MezcalMule bets $0.22
+Jar1003 folds
+Uncalled bet ($0.22) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01
+Board [5s Th 6s 2s]
+Seat 1: t_hagz901 (small blind) folded on the Pre-Flop
+Seat 2: Wooderstein (big blind) folded on the Pre-Flop
+Seat 3: Jar1003 folded on the Turn
+Seat 4: MezcalMule did not show and won $0.20
+Seat 5: Parzival2801 folded on the Pre-Flop and did not bet
+Seat 6: speider76 (button) folded on the Pre-Flop
+
+Hand #994675004 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 02:47:35 UTC
+Buckhorn 6-max Seat #1 is the button
+Seat 1: t_hagz901 ($2.17)
+Seat 2: Wooderstein ($2.55)
+Seat 3: Jar1003 ($1.04)
+Seat 4: MezcalMule ($2.12)
+Seat 5: Parzival2801 ($2.32)
+Seat 6: speider76 ($3.90)
+Wooderstein posts the small blind $0.01
+Jar1003 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [4h 5c]
+MezcalMule folds
+Parzival2801 folds
+speider76 folds
+t_hagz901 folds
+Wooderstein folds
+Jar1003 does not show
+*** SUMMARY ***
+Total pot $0.03
+Seat 1: t_hagz901 (button) folded on the Pre-Flop
+Seat 2: Wooderstein (small blind) folded on the Pre-Flop
+Seat 3: Jar1003 did not show and won $0.03
+Seat 4: MezcalMule folded on the Pre-Flop and did not bet
+Seat 5: Parzival2801 folded on the Pre-Flop and did not bet
+Seat 6: speider76 folded on the Pre-Flop and did not bet
+
+Hand #994675418 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 02:47:58 UTC
+Buckhorn 6-max Seat #2 is the button
+Seat 1: t_hagz901 ($2.17)
+Seat 2: Wooderstein ($2.54)
+Seat 3: Jar1003 ($1.05)
+Seat 4: MezcalMule ($2.12)
+Seat 5: Parzival2801 ($2.32)
+Seat 6: speider76 ($3.90)
+Jar1003 posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Kc Th]
+Parzival2801 raises $0.06 to $0.06
+speider76 folds
+t_hagz901 folds
+Wooderstein folds
+Jar1003 calls $0.05
+MezcalMule folds
+*** FLOP *** [7c Ts 2c]
+Main pot $0.14 | Rake $0.00
+Jar1003 checks
+Parzival2801 bets $0.07
+Jar1003 folds
+Uncalled bet ($0.07) returned to Parzival2801
+Parzival2801 does not show
+*** SUMMARY ***
+Total pot $0.14
+Board [7c Ts 2c]
+Seat 1: t_hagz901 folded on the Pre-Flop and did not bet
+Seat 2: Wooderstein (button) folded on the Pre-Flop
+Seat 3: Jar1003 (small blind) folded on the Flop
+Seat 4: MezcalMule (big blind) folded on the Pre-Flop
+Seat 5: Parzival2801 did not show and won $0.14
+Seat 6: speider76 folded on the Pre-Flop and did not bet
+
+Hand #994676395 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 02:48:53 UTC
+Buckhorn 6-max Seat #3 is the button
+Seat 1: t_hagz901 ($2.17)
+Seat 2: Wooderstein ($2.54)
+Seat 3: Jar1003 ($0.99)
+Seat 4: MezcalMule ($2.10)
+Seat 5: Parzival2801 ($2.40)
+Seat 6: speider76 ($3.90)
+MezcalMule posts the small blind $0.01
+Parzival2801 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Kd 5h]
+speider76 folds
+t_hagz901 folds
+Wooderstein folds
+Jar1003 calls $0.02
+MezcalMule calls $0.01
+Parzival2801 checks
+*** FLOP *** [Ad Ah 4c]
+Main pot $0.06 | Rake $0.00
+MezcalMule bets $0.04
+Parzival2801 folds
+Jar1003 folds
+Uncalled bet ($0.04) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.06
+Board [Ad Ah 4c]
+Seat 1: t_hagz901 folded on the Pre-Flop and did not bet
+Seat 2: Wooderstein folded on the Pre-Flop and did not bet
+Seat 3: Jar1003 (button) folded on the Flop
+Seat 4: MezcalMule did not show and won $0.06
+Seat 5: Parzival2801 (big blind) folded on the Flop
+Seat 6: speider76 folded on the Pre-Flop and did not bet
+
+Hand #994677016 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 02:49:29 UTC
+Buckhorn 6-max Seat #4 is the button
+Seat 1: t_hagz901 ($2.17)
+Seat 2: Wooderstein ($2.54)
+Seat 3: Jar1003 ($0.97)
+Seat 4: MezcalMule ($2.14)
+Seat 5: Parzival2801 ($2.38)
+Seat 6: speider76 ($3.90)
+Parzival2801 posts the small blind $0.01
+speider76 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Jc 5h]
+t_hagz901 folds
+Wooderstein folds
+Jar1003 calls $0.02
+MezcalMule folds
+Parzival2801 folds
+speider76 checks
+*** FLOP *** [3d Ac Tc]
+Main pot $0.05 | Rake $0.00
+speider76 checks
+Jar1003 checks
+*** TURN *** [3d Ac Tc] [6c]
+Main pot $0.05 | Rake $0.00
+speider76 checks
+Jar1003 checks
+*** RIVER *** [3d Ac Tc 6c] [3c]
+Main pot $0.05 | Rake $0.00
+speider76 checks
+Jar1003 checks
+*** SHOW DOWN ***
+Main pot $0.05 | Rake $0.00
+Jar1003 shows [Qs 7s] (a pair of Threes [3d 3c Ac Qs Tc])
+speider76 shows [5s 9d] (a pair of Threes [3d 3c Ac Tc 9d])
+Jar1003 collected $0.05 from main pot
+*** SUMMARY ***
+Total pot $0.05
+Board [3d Ac Tc 6c 3c]
+Seat 1: t_hagz901 folded on the Pre-Flop and did not bet
+Seat 2: Wooderstein folded on the Pre-Flop and did not bet
+Seat 3: Jar1003 showed [Qs 7s] and won $0.05 with a pair of Threes [3d 3c Ac Qs Tc] with the kicker Queen
+Seat 4: MezcalMule (button) folded on the Pre-Flop
+Seat 5: Parzival2801 (small blind) folded on the Pre-Flop
+Seat 6: speider76 (big blind) showed [5s 9d] and lost with a pair of Threes [3d 3c Ac Tc 9d]
+
+Hand #994677908 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 02:50:19 UTC
+Buckhorn 6-max Seat #5 is the button
+Seat 1: t_hagz901 ($2.17)
+Seat 2: Wooderstein ($2.54)
+Seat 3: Jar1003 ($1.00)
+Seat 4: MezcalMule ($2.14)
+Seat 5: Parzival2801 ($2.37)
+Seat 6: speider76 ($3.88)
+speider76 posts the small blind $0.01
+t_hagz901 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Ks Kh]
+Wooderstein folds
+Jar1003 calls $0.02
+MezcalMule raises $0.04 to $0.04
+Parzival2801 folds
+speider76 folds
+t_hagz901 folds
+Jar1003 calls $0.02
+*** FLOP *** [9h 7h 3s]
+Main pot $0.11 | Rake $0.00
+Jar1003 checks
+MezcalMule bets $0.11
+Jar1003 calls $0.11
+*** TURN *** [9h 7h 3s] [Qh]
+Main pot $0.32 | Rake $0.01
+Jar1003 checks
+MezcalMule checks
+*** RIVER *** [9h 7h 3s Qh] [Qd]
+Main pot $0.32 | Rake $0.01
+Jar1003 bets $0.15
+MezcalMule calls $0.15
+*** SHOW DOWN ***
+Main pot $0.60 | Rake $0.03
+Jar1003 shows [9c 6d] (two pair, Queens and Nines [Qh Qd 9h 9c 7h])
+MezcalMule shows [Ks Kh] (two pair, Kings and Queens [Ks Kh Qh Qd 9h])
+MezcalMule collected $0.60 from main pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03
+Board [9h 7h 3s Qh Qd]
+Seat 1: t_hagz901 (big blind) folded on the Pre-Flop
+Seat 2: Wooderstein folded on the Pre-Flop and did not bet
+Seat 3: Jar1003 showed [9c 6d] and lost with two pair, Queens and Nines [Qh Qd 9h 9c 7h]
+Seat 4: MezcalMule showed [Ks Kh] and won $0.60 with two pair, Kings and Queens [Ks Kh Qh Qd 9h]
+Seat 5: Parzival2801 (button) folded on the Pre-Flop
+Seat 6: speider76 (small blind) folded on the Pre-Flop
+
+Hand #994678806 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 02:51:10 UTC
+Buckhorn 6-max Seat #6 is the button
+Seat 1: t_hagz901 ($2.15)
+Seat 2: Wooderstein ($2.54)
+Seat 3: Jar1003 ($0.70)
+Seat 4: MezcalMule ($2.44)
+Seat 5: Parzival2801 ($2.37)
+Seat 6: speider76 ($3.87)
+t_hagz901 posts the small blind $0.01
+Wooderstein posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [6d Ah]
+Jar1003 calls $0.02
+MezcalMule folds
+Parzival2801 folds
+speider76 raises $0.09 to $0.09
+t_hagz901 raises $0.33 to $0.34
+Wooderstein folds
+Jar1003 folds
+speider76 folds
+Uncalled bet ($0.25) returned to t_hagz901
+t_hagz901 does not show
+*** SUMMARY ***
+Total pot $0.22
+Seat 1: t_hagz901 did not show and won $0.22
+Seat 2: Wooderstein (big blind) folded on the Pre-Flop
+Seat 3: Jar1003 folded on the Pre-Flop and did not bet
+Seat 4: MezcalMule folded on the Pre-Flop and did not bet
+Seat 5: Parzival2801 folded on the Pre-Flop and did not bet
+Seat 6: speider76 (button) folded on the Pre-Flop
+
+Hand #994679540 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 02:51:52 UTC
+Buckhorn 6-max Seat #1 is the button
+Seat 1: t_hagz901 ($2.28)
+Seat 2: Wooderstein ($2.52)
+Seat 3: Jar1003 ($0.68)
+Seat 4: MezcalMule ($2.44)
+Seat 5: Parzival2801 ($2.37)
+Seat 6: speider76 ($3.78)
+Wooderstein posts the small blind $0.01
+Jar1003 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [6c Js]
+MezcalMule folds
+Parzival2801 raises $0.06 to $0.06
+speider76 folds
+t_hagz901 folds
+Wooderstein folds
+Jar1003 calls $0.04
+*** FLOP *** [Qh 3h Kh]
+Main pot $0.13 | Rake $0.00
+Jar1003 checks
+Parzival2801 bets $0.04
+Jar1003 folds
+Uncalled bet ($0.04) returned to Parzival2801
+Parzival2801 does not show
+*** SUMMARY ***
+Total pot $0.13
+Board [Qh 3h Kh]
+Seat 1: t_hagz901 (button) folded on the Pre-Flop
+Seat 2: Wooderstein (small blind) folded on the Pre-Flop
+Seat 3: Jar1003 (big blind) folded on the Flop
+Seat 4: MezcalMule folded on the Pre-Flop and did not bet
+Seat 5: Parzival2801 did not show and won $0.13
+Seat 6: speider76 folded on the Pre-Flop and did not bet
+
+Hand #994680416 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 02:52:42 UTC
+Buckhorn 6-max Seat #2 is the button
+Seat 1: t_hagz901 ($2.28)
+Seat 2: Wooderstein ($2.51)
+Seat 3: Jar1003 ($0.62)
+Seat 4: MezcalMule ($2.44)
+Seat 5: Parzival2801 ($2.44)
+Seat 6: speider76 ($3.78)
+Jar1003 posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [2c Ts]
+Parzival2801 folds
+speider76 folds
+t_hagz901 folds
+Wooderstein folds
+Jar1003 calls $0.01
+MezcalMule checks
+*** FLOP *** [5c Jc 4s]
+Main pot $0.04 | Rake $0.00
+Jar1003 checks
+MezcalMule checks
+*** TURN *** [5c Jc 4s] [Kd]
+Main pot $0.04 | Rake $0.00
+Jar1003 checks
+MezcalMule checks
+*** RIVER *** [5c Jc 4s Kd] [7d]
+Main pot $0.04 | Rake $0.00
+Jar1003 checks
+MezcalMule bets $0.03
+Jar1003 folds
+Uncalled bet ($0.03) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.04
+Board [5c Jc 4s Kd 7d]
+Seat 1: t_hagz901 folded on the Pre-Flop and did not bet
+Seat 2: Wooderstein (button) folded on the Pre-Flop
+Seat 3: Jar1003 (small blind) folded on the River
+Seat 4: MezcalMule did not show and won $0.04
+Seat 5: Parzival2801 folded on the Pre-Flop and did not bet
+Seat 6: speider76 folded on the Pre-Flop and did not bet
+
+Hand #994681344 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 02:53:34 UTC
+Buckhorn 6-max Seat #3 is the button
+Seat 1: t_hagz901 ($2.28)
+Seat 2: Wooderstein ($2.51)
+Seat 3: Jar1003 ($0.60)
+Seat 4: MezcalMule ($2.46)
+Seat 5: Parzival2801 ($2.44)
+Seat 6: speider76 ($3.78)
+MezcalMule posts the small blind $0.01
+Parzival2801 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Kd Tc]
+speider76 folds
+t_hagz901 folds
+Wooderstein folds
+Jar1003 calls $0.02
+MezcalMule calls $0.01
+Parzival2801 raises $0.08 to $0.10
+Jar1003 folds
+MezcalMule folds
+Uncalled bet ($0.08) returned to Parzival2801
+Parzival2801 does not show
+*** SUMMARY ***
+Total pot $0.06
+Seat 1: t_hagz901 folded on the Pre-Flop and did not bet
+Seat 2: Wooderstein folded on the Pre-Flop and did not bet
+Seat 3: Jar1003 (button) folded on the Pre-Flop
+Seat 4: MezcalMule (small blind) folded on the Pre-Flop
+Seat 5: Parzival2801 did not show and won $0.06
+Seat 6: speider76 folded on the Pre-Flop and did not bet
+
+Hand #994682083 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 02:54:16 UTC
+Buckhorn 6-max Seat #4 is the button
+Seat 1: t_hagz901 ($2.28)
+Seat 2: Wooderstein ($2.51)
+Seat 3: Jar1003 ($0.58)
+Seat 4: MezcalMule ($2.44)
+Seat 5: Parzival2801 ($2.48)
+Seat 6: speider76 ($3.78)
+Parzival2801 posts the small blind $0.01
+speider76 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Tc 6d]
+t_hagz901 folds
+Wooderstein raises $0.05 to $0.05
+Jar1003 calls $0.05
+MezcalMule folds
+Parzival2801 folds
+speider76 calls $0.03
+*** FLOP *** [8c Td 4c]
+Main pot $0.16 | Rake $0.00
+speider76 checks
+Wooderstein bets $0.04
+Jar1003 calls $0.04
+speider76 calls $0.04
+*** TURN *** [8c Td 4c] [4d]
+Main pot $0.27 | Rake $0.01
+speider76 checks
+Wooderstein checks
+Jar1003 checks
+*** RIVER *** [8c Td 4c 4d] [Qs]
+Main pot $0.27 | Rake $0.01
+speider76 checks
+Wooderstein checks
+Jar1003 checks
+*** SHOW DOWN ***
+Main pot $0.27 | Rake $0.01
+Wooderstein shows [5s 6s] (a pair of Fours [4d 4c Qs Td 8c])
+Jar1003 shows [Kd As] (a pair of Fours [4d 4c As Kd Qs])
+speider76 shows [Js Jd] (two pair, Jacks and Fours [Js Jd 4d 4c Qs])
+speider76 collected $0.27 from main pot
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01
+Board [8c Td 4c 4d Qs]
+Seat 1: t_hagz901 folded on the Pre-Flop and did not bet
+Seat 2: Wooderstein showed [5s 6s] and lost with a pair of Fours [4d 4c Qs Td 8c]
+Seat 3: Jar1003 showed [Kd As] and lost with a pair of Fours [4d 4c As Kd Qs]
+Seat 4: MezcalMule (button) folded on the Pre-Flop
+Seat 5: Parzival2801 (small blind) folded on the Pre-Flop
+Seat 6: speider76 (big blind) showed [Js Jd] and won $0.27 with two pair, Jacks and Fours [Js Jd 4d 4c Qs]
+
+Hand #994683030 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 02:55:18 UTC
+Buckhorn 6-max Seat #5 is the button
+Seat 1: t_hagz901 ($2.28)
+Seat 2: Wooderstein ($2.42)
+Seat 3: Jar1003 ($0.49)
+Seat 4: MezcalMule ($2.44)
+Seat 5: Parzival2801 ($2.47)
+Seat 6: speider76 ($3.96)
+speider76 posts the small blind $0.01
+t_hagz901 sits out
+Wooderstein posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [2d 5s]
+Jar1003 calls $0.02
+MezcalMule folds
+Parzival2801 folds
+speider76 raises $0.07 to $0.08
+Wooderstein folds
+Jar1003 raises $0.12 to $0.14
+speider76 calls $0.06
+*** FLOP *** [Qd As 3d]
+Main pot $0.29 | Rake $0.01
+speider76 checks
+Jar1003 bets $0.35 and is all-in
+speider76 folds
+Uncalled bet ($0.35) returned to Jar1003
+Jar1003 does not show
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01
+Board [Qd As 3d]
+Seat 2: Wooderstein (big blind) folded on the Pre-Flop
+Seat 3: Jar1003 did not show and won $0.29
+Seat 4: MezcalMule folded on the Pre-Flop and did not bet
+Seat 5: Parzival2801 (button) folded on the Pre-Flop
+Seat 6: speider76 (small blind) folded on the Flop
+
+Hand #994683559 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 02:56:16 UTC
+Buckhorn 6-max Seat #6 is the button
+Seat 1: IMALLINNOOB will be allowed to play after the button
+Seat 2: Wooderstein ($2.40)
+Seat 3: Jar1003 ($0.64)
+Seat 4: MezcalMule ($2.44)
+Seat 5: Parzival2801 ($2.47)
+Seat 6: speider76 ($3.82)
+Wooderstein posts the small blind $0.01
+Jar1003 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [6c Kd]
+MezcalMule folds
+Parzival2801 folds
+speider76 folds
+Wooderstein raises $0.06 to $0.07
+Jar1003 folds
+Uncalled bet ($0.05) returned to Wooderstein
+Wooderstein does not show
+*** SUMMARY ***
+Total pot $0.04
+Seat 2: Wooderstein did not show and won $0.04
+Seat 3: Jar1003 (big blind) folded on the Pre-Flop
+Seat 4: MezcalMule folded on the Pre-Flop and did not bet
+Seat 5: Parzival2801 folded on the Pre-Flop and did not bet
+Seat 6: speider76 (button) folded on the Pre-Flop
+
+Hand #994684096 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 02:57:11 UTC
+Buckhorn 6-max Seat #2 is the button
+Seat 1: IMALLINNOOB ($2.00)
+Seat 2: Wooderstein ($2.42)
+Seat 3: Jar1003 ($0.62)
+Seat 4: MezcalMule ($2.44)
+Seat 5: Parzival2801 ($2.47)
+Seat 6: speider76 ($3.82)
+Jar1003 posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+IMALLINNOOB waits for big blind
+*** HOLE CARDS ***
+Dealt to MezcalMule [3s 2d]
+Parzival2801 raises $0.06 to $0.06
+speider76 folds
+Wooderstein raises $0.18 to $0.18
+Jar1003 calls $0.17
+MezcalMule folds
+Parzival2801 folds
+*** FLOP *** [9s Ah Qh]
+Main pot $0.42 | Rake $0.02
+Jar1003 bets $0.44 and is all-in
+Wooderstein calls $0.44
+*** TURN *** [9s Ah Qh] [8d]
+Main pot $1.26 | Rake $0.06
+*** RIVER *** [9s Ah Qh 8d] [4c]
+Main pot $1.26 | Rake $0.06
+*** SHOW DOWN ***
+Main pot $1.26 | Rake $0.06
+Wooderstein shows [Jd Ad] (a pair of Aces [Ah Ad Qh Jd 9s])
+Jar1003 shows [2h As] (a pair of Aces [As Ah Qh 9s 8d])
+Wooderstein collected $1.26 from main pot
+*** SUMMARY ***
+Total pot $1.26 | Rake $0.04 | JP Fee $0.02
+Board [9s Ah Qh 8d 4c]
+Seat 2: Wooderstein (button) showed [Jd Ad] and won $1.26 with a pair of Aces [Ah Ad Qh Jd 9s] with the kicker Jack
+Seat 3: Jar1003 (small blind) showed [2h As] and lost with a pair of Aces [As Ah Qh 9s 8d]
+Seat 4: MezcalMule (big blind) folded on the Pre-Flop
+Seat 5: Parzival2801 folded on the Pre-Flop and did not bet
+Seat 6: speider76 folded on the Pre-Flop and did not bet
+
+Hand #994684748 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 02:58:19 UTC
+Buckhorn 6-max Seat #3 is the button
+Seat 1: IMALLINNOOB ($2.00)
+Seat 2: Wooderstein ($3.06)
+Seat 3: Jar1003 ($0.00) is sitting out
+Seat 4: MezcalMule ($2.42)
+Seat 5: Parzival2801 ($2.41)
+Seat 6: speider76 ($3.82)
+MezcalMule posts the small blind $0.01
+Parzival2801 posts the big blind $0.02
+IMALLINNOOB waits for big blind
+*** HOLE CARDS ***
+Dealt to MezcalMule [Qd Ks]
+speider76 folds
+Wooderstein raises $0.05 to $0.05
+MezcalMule calls $0.04
+Parzival2801 folds
+*** FLOP *** [6d 9d 3c]
+Main pot $0.12 | Rake $0.00
+MezcalMule checks
+Wooderstein checks
+*** TURN *** [6d 9d 3c] [6s]
+Main pot $0.12 | Rake $0.00
+MezcalMule checks
+Wooderstein checks
+*** RIVER *** [6d 9d 3c 6s] [8h]
+Main pot $0.12 | Rake $0.00
+MezcalMule checks
+Wooderstein checks
+*** SHOW DOWN ***
+Main pot $0.12 | Rake $0.00
+Wooderstein shows [5s As] (a pair of Sixs [6s 6d As 9d 8h])
+MezcalMule shows [Qd Ks] (a pair of Sixs [6s 6d Ks Qd 9d])
+Wooderstein collected $0.12 from main pot
+*** SUMMARY ***
+Total pot $0.12
+Board [6d 9d 3c 6s 8h]
+Seat 2: Wooderstein showed [5s As] and won $0.12 with a pair of Sixs [6s 6d As 9d 8h] with the kicker Ace
+Seat 4: MezcalMule (small blind) showed [Qd Ks] and lost with a pair of Sixs [6s 6d Ks Qd 9d]
+Seat 5: Parzival2801 (big blind) folded on the Pre-Flop
+Seat 6: speider76 folded on the Pre-Flop and did not bet
+
+Hand #994685238 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 02:59:10 UTC
+Buckhorn 6-max Seat #4 is the button
+Seat 1: IMALLINNOOB ($2.00)
+Seat 2: Wooderstein ($3.13)
+Seat 3: Fish35 ($2.00)
+Seat 4: MezcalMule ($2.37)
+Seat 5: Parzival2801 ($2.39)
+Seat 6: speider76 ($3.82)
+Parzival2801 posts the small blind $0.01
+speider76 sits out
+IMALLINNOOB posts the big blind $0.02
+Fish35 waits for big blind
+*** HOLE CARDS ***
+Dealt to MezcalMule [9c Jd]
+Wooderstein folds
+MezcalMule raises $0.04 to $0.04
+Parzival2801 folds
+IMALLINNOOB folds
+Uncalled bet ($0.02) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: IMALLINNOOB (big blind) folded on the Pre-Flop
+Seat 2: Wooderstein folded on the Pre-Flop and did not bet
+Seat 4: MezcalMule did not show and won $0.05
+Seat 5: Parzival2801 (small blind) folded on the Pre-Flop
+
+Hand #994685387 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 02:59:23 UTC
+Buckhorn 6-max Seat #5 is the button
+Seat 1: IMALLINNOOB ($2.00)
+Seat 2: Wooderstein ($3.13)
+Seat 3: Fish35 ($2.00)
+Seat 4: MezcalMule ($2.40)
+Seat 5: Parzival2801 ($2.38)
+Seat 6: speider76 ($3.82) is sitting out
+IMALLINNOOB posts the small blind $0.01
+Wooderstein posts the big blind $0.02
+Fish35 waits for big blind
+*** HOLE CARDS ***
+Dealt to MezcalMule [Jc Kd]
+MezcalMule raises $0.04 to $0.04
+Parzival2801 folds
+IMALLINNOOB calls $0.03
+Wooderstein calls $0.02
+*** FLOP *** [Qd Jh 9d]
+Main pot $0.12 | Rake $0.00
+IMALLINNOOB checks
+Wooderstein checks
+MezcalMule bets $0.09
+IMALLINNOOB calls $0.09
+Wooderstein folds
+*** TURN *** [Qd Jh 9d] [2d]
+Main pot $0.29 | Rake $0.01
+IMALLINNOOB checks
+MezcalMule checks
+*** RIVER *** [Qd Jh 9d 2d] [4c]
+Main pot $0.29 | Rake $0.01
+IMALLINNOOB bets $0.22
+MezcalMule calls $0.22
+*** SHOW DOWN ***
+Main pot $0.71 | Rake $0.03
+IMALLINNOOB shows [6d Ad] (a flush, Ace high [Ad Qd 9d 6d 2d])
+MezcalMule shows [Jc Kd] (a pair of Jacks [Jh Jc Kd Qd 9d])
+IMALLINNOOB collected $0.71 from main pot
+*** SUMMARY ***
+Total pot $0.71 | Rake $0.03
+Board [Qd Jh 9d 2d 4c]
+Seat 1: IMALLINNOOB (small blind) showed [6d Ad] and won $0.71 with a flush, Ace high [Ad Qd 9d 6d 2d]
+Seat 2: Wooderstein (big blind) folded on the Flop
+Seat 4: MezcalMule showed [Jc Kd] and lost with a pair of Jacks [Jh Jc Kd Qd 9d]
+Seat 5: Parzival2801 (button) folded on the Pre-Flop
+
+Hand #994686036 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 03:00:25 UTC
+Buckhorn 6-max Seat #1 is the button
+Seat 1: IMALLINNOOB ($2.36)
+Seat 2: Wooderstein ($3.09)
+Seat 3: Fish35 ($2.00)
+Seat 4: MezcalMule ($2.05)
+Seat 5: Parzival2801 ($2.38)
+Seat 6: speider76 ($3.82) is sitting out
+Wooderstein posts the small blind $0.01
+Fish35 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Jd 9d]
+MezcalMule calls $0.02
+Parzival2801 folds
+IMALLINNOOB folds
+Wooderstein folds
+Fish35 checks
+*** FLOP *** [Qc 8d 6d]
+Main pot $0.05 | Rake $0.00
+Fish35 checks
+MezcalMule checks
+*** TURN *** [Qc 8d 6d] [Jh]
+Main pot $0.05 | Rake $0.00
+Fish35 bets $0.02
+MezcalMule raises $0.08 to $0.08
+Fish35 calls $0.06
+*** RIVER *** [Qc 8d 6d Jh] [Th]
+Main pot $0.20 | Rake $0.01
+Fish35 checks
+MezcalMule bets $0.21
+Fish35 calls $0.21
+*** SHOW DOWN ***
+Main pot $0.60 | Rake $0.03
+Fish35 shows [Js 4h] (a pair of Jacks [Js Jh Qc Th 8d])
+MezcalMule shows [Jd 9d] (a straight, Queen high [Qc Jh Th 9d 8d])
+MezcalMule collected $0.60 from main pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03
+Board [Qc 8d 6d Jh Th]
+Seat 1: IMALLINNOOB (button) folded on the Pre-Flop
+Seat 2: Wooderstein (small blind) folded on the Pre-Flop
+Seat 3: Fish35 (big blind) showed [Js 4h] and lost with a pair of Jacks [Js Jh Qc Th 8d]
+Seat 4: MezcalMule showed [Jd 9d] and won $0.60 with a straight, Queen high [Qc Jh Th 9d 8d]
+Seat 5: Parzival2801 folded on the Pre-Flop and did not bet
+
+Hand #994686964 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 03:01:23 UTC
+Buckhorn 6-max Seat #2 is the button
+Seat 1: IMALLINNOOB ($2.36)
+Seat 2: Wooderstein ($3.08)
+Seat 3: Fish35 ($2.00)
+Seat 4: MezcalMule ($2.34)
+Seat 5: Parzival2801 ($2.38)
+Seat 6: speider76 ($3.82) is sitting out
+Fish35 posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Ah 4d]
+Parzival2801 folds
+IMALLINNOOB folds
+Wooderstein folds
+Fish35 folds
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.03
+Seat 1: IMALLINNOOB folded on the Pre-Flop and did not bet
+Seat 2: Wooderstein (button) folded on the Pre-Flop
+Seat 3: Fish35 (small blind) folded on the Pre-Flop
+Seat 4: MezcalMule did not show and won $0.03
+Seat 5: Parzival2801 folded on the Pre-Flop and did not bet
+
+Hand #994687200 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 03:01:40 UTC
+Buckhorn 6-max Seat #3 is the button
+Seat 1: IMALLINNOOB ($2.36)
+Seat 2: Wooderstein ($3.08)
+Seat 3: Fish35 ($2.00)
+Seat 4: MezcalMule ($2.35)
+Seat 5: Parzival2801 ($2.38)
+Seat 6: speider76 ($3.82) is sitting out
+MezcalMule posts the small blind $0.01
+Parzival2801 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [6h Ah]
+IMALLINNOOB folds
+Wooderstein raises $0.05 to $0.05
+Fish35 folds
+MezcalMule calls $0.04
+Parzival2801 folds
+*** FLOP *** [4d 2d 5h]
+Main pot $0.12 | Rake $0.00
+MezcalMule checks
+Wooderstein checks
+*** TURN *** [4d 2d 5h] [3c]
+Main pot $0.12 | Rake $0.00
+MezcalMule bets $0.09
+Wooderstein folds
+Uncalled bet ($0.09) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.12
+Board [4d 2d 5h 3c]
+Seat 1: IMALLINNOOB folded on the Pre-Flop and did not bet
+Seat 2: Wooderstein folded on the Turn
+Seat 3: Fish35 (button) folded on the Pre-Flop
+Seat 4: MezcalMule did not show and won $0.12
+Seat 5: Parzival2801 (big blind) folded on the Pre-Flop
+
+Hand #994688042 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 03:02:29 UTC
+Buckhorn 6-max Seat #4 is the button
+Seat 1: IMALLINNOOB ($2.36)
+Seat 2: Wooderstein ($3.03)
+Seat 3: Fish35 ($2.00)
+Seat 4: MezcalMule ($2.42)
+Seat 5: Parzival2801 ($2.36)
+Seat 6: speider76 ($3.82) is sitting out
+Parzival2801 posts the small blind $0.01
+IMALLINNOOB posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [7s Kc]
+Wooderstein folds
+Fish35 raises $0.05 to $0.05
+MezcalMule folds
+Parzival2801 folds
+IMALLINNOOB calls $0.03
+*** FLOP *** [4d Qc 6d]
+Main pot $0.11 | Rake $0.00
+IMALLINNOOB checks
+Fish35 checks
+*** TURN *** [4d Qc 6d] [2d]
+Main pot $0.11 | Rake $0.00
+IMALLINNOOB bets $0.08
+Fish35 folds
+Uncalled bet ($0.08) returned to IMALLINNOOB
+IMALLINNOOB does not show
+*** SUMMARY ***
+Total pot $0.11
+Board [4d Qc 6d 2d]
+Seat 1: IMALLINNOOB did not show and won $0.11
+Seat 2: Wooderstein folded on the Pre-Flop and did not bet
+Seat 3: Fish35 folded on the Turn
+Seat 4: MezcalMule (button) folded on the Pre-Flop
+Seat 5: Parzival2801 (small blind) folded on the Pre-Flop
+
+Hand #994689086 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 03:03:29 UTC
+Buckhorn 6-max Seat #5 is the button
+Seat 1: IMALLINNOOB ($2.42)
+Seat 2: Wooderstein ($3.03)
+Seat 3: Fish35 ($2.00)
+Seat 4: MezcalMule ($2.42)
+Seat 5: Parzival2801 ($2.35)
+Seat 6: speider76 ($3.82) is sitting out
+IMALLINNOOB posts the small blind $0.01
+Wooderstein posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [6d 6c]
+Fish35 folds
+MezcalMule calls $0.02
+Parzival2801 folds
+IMALLINNOOB calls $0.01
+Wooderstein checks
+*** FLOP *** [Qh 8s 9d]
+Main pot $0.06 | Rake $0.00
+IMALLINNOOB checks
+Wooderstein checks
+MezcalMule bets $0.02
+IMALLINNOOB raises $0.12 to $0.12
+Wooderstein folds
+MezcalMule folds
+Uncalled bet ($0.10) returned to IMALLINNOOB
+IMALLINNOOB does not show
+*** SUMMARY ***
+Total pot $0.10
+Board [Qh 8s 9d]
+Seat 1: IMALLINNOOB did not show and won $0.10
+Seat 2: Wooderstein (big blind) folded on the Flop
+Seat 3: Fish35 folded on the Pre-Flop and did not bet
+Seat 4: MezcalMule folded on the Flop
+Seat 5: Parzival2801 (button) folded on the Pre-Flop
+
+Hand #994690040 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 03:04:22 UTC
+Buckhorn 6-max Seat #1 is the button
+Seat 1: IMALLINNOOB ($2.48)
+Seat 2: Wooderstein ($3.01)
+Seat 3: Fish35 ($2.00)
+Seat 4: MezcalMule ($2.38)
+Seat 5: Parzival2801 ($2.35)
+Seat 6: speider76 ($3.82) is sitting out
+Wooderstein posts the small blind $0.01
+Fish35 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [8s Jd]
+MezcalMule folds
+Parzival2801 folds
+IMALLINNOOB folds
+Wooderstein folds
+Fish35 does not show
+*** SUMMARY ***
+Total pot $0.03
+Seat 1: IMALLINNOOB (button) folded on the Pre-Flop
+Seat 2: Wooderstein (small blind) folded on the Pre-Flop
+Seat 3: Fish35 did not show and won $0.03
+Seat 4: MezcalMule folded on the Pre-Flop and did not bet
+Seat 5: Parzival2801 folded on the Pre-Flop and did not bet
+
+Hand #994690226 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 03:04:34 UTC
+Buckhorn 6-max Seat #2 is the button
+Seat 1: IMALLINNOOB ($2.48)
+Seat 2: Wooderstein ($3.00)
+Seat 3: Fish35 ($2.01)
+Seat 4: MezcalMule ($2.38)
+Seat 5: Parzival2801 ($2.35)
+Seat 6: speider76 ($3.82) is sitting out
+Fish35 posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [5h 6c]
+Parzival2801 raises $0.06 to $0.06
+IMALLINNOOB folds
+Wooderstein folds
+Fish35 folds
+MezcalMule calls $0.04
+*** FLOP *** [Qd Ad 9d]
+Main pot $0.13 | Rake $0.00
+MezcalMule checks
+Parzival2801 checks
+*** TURN *** [Qd Ad 9d] [Qh]
+Main pot $0.13 | Rake $0.00
+MezcalMule checks
+Parzival2801 bets $0.04
+MezcalMule raises $0.24 to $0.24
+Parzival2801 folds
+Uncalled bet ($0.20) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01
+Board [Qd Ad 9d Qh]
+Seat 1: IMALLINNOOB folded on the Pre-Flop and did not bet
+Seat 2: Wooderstein (button) folded on the Pre-Flop
+Seat 3: Fish35 (small blind) folded on the Pre-Flop
+Seat 4: MezcalMule did not show and won $0.20
+Seat 5: Parzival2801 folded on the Turn
+
+Hand #994691320 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 03:05:34 UTC
+Buckhorn 6-max Seat #3 is the button
+Seat 1: IMALLINNOOB ($2.48)
+Seat 2: Wooderstein ($3.00)
+Seat 3: Fish35 ($2.00)
+Seat 4: MezcalMule ($2.48)
+Seat 5: Parzival2801 ($2.25)
+Seat 6: speider76 ($3.82) is sitting out
+MezcalMule posts the small blind $0.01
+Parzival2801 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [9c Tc]
+IMALLINNOOB folds
+Wooderstein folds
+Fish35 folds
+MezcalMule calls $0.01
+Parzival2801 raises $0.06 to $0.08
+MezcalMule calls $0.06
+*** FLOP *** [Ad Ts 4d]
+Main pot $0.16 | Rake $0.00
+MezcalMule checks
+Parzival2801 bets $0.12
+MezcalMule folds
+Uncalled bet ($0.12) returned to Parzival2801
+Parzival2801 does not show
+*** SUMMARY ***
+Total pot $0.16
+Board [Ad Ts 4d]
+Seat 1: IMALLINNOOB folded on the Pre-Flop and did not bet
+Seat 2: Wooderstein folded on the Pre-Flop and did not bet
+Seat 3: Fish35 (button) folded on the Pre-Flop
+Seat 4: MezcalMule (small blind) folded on the Flop
+Seat 5: Parzival2801 did not show and won $0.16
+
+Hand #994691938 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 03:06:10 UTC
+Buckhorn 6-max Seat #4 is the button
+Seat 1: IMALLINNOOB ($2.48)
+Seat 2: Wooderstein ($3.00)
+Seat 3: Fish35 ($2.00)
+Seat 4: MezcalMule ($2.40)
+Seat 5: Parzival2801 ($2.33)
+Seat 6: speider76 ($3.82) is sitting out
+Parzival2801 posts the small blind $0.01
+IMALLINNOOB posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [3s Ah]
+Wooderstein folds
+Fish35 folds
+MezcalMule raises $0.04 to $0.04
+Parzival2801 folds
+IMALLINNOOB folds
+Uncalled bet ($0.02) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: IMALLINNOOB (big blind) folded on the Pre-Flop
+Seat 2: Wooderstein folded on the Pre-Flop and did not bet
+Seat 3: Fish35 folded on the Pre-Flop and did not bet
+Seat 4: MezcalMule did not show and won $0.05
+Seat 5: Parzival2801 (small blind) folded on the Pre-Flop
+
+Hand #994692099 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 03:06:20 UTC
+Buckhorn 6-max Seat #5 is the button
+Seat 1: IMALLINNOOB ($2.46)
+Seat 2: Wooderstein ($3.00)
+Seat 3: Fish35 ($2.00)
+Seat 4: MezcalMule ($2.43)
+Seat 5: Parzival2801 ($2.32)
+Seat 6: speider76 ($3.82) is sitting out
+IMALLINNOOB posts the small blind $0.01
+Wooderstein posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Td 6d]
+Fish35 raises $0.05 to $0.05
+MezcalMule folds
+Parzival2801 folds
+IMALLINNOOB raises $0.07 to $0.08
+Wooderstein folds
+Fish35 calls $0.03
+*** FLOP *** [9d Ks 8c]
+Main pot $0.18 | Rake $0.00
+IMALLINNOOB bets $0.04
+Fish35 calls $0.04
+*** TURN *** [9d Ks 8c] [9c]
+Main pot $0.25 | Rake $0.01
+IMALLINNOOB checks
+Fish35 checks
+*** RIVER *** [9d Ks 8c 9c] [Kc]
+Main pot $0.25 | Rake $0.01
+IMALLINNOOB checks
+Fish35 checks
+*** SHOW DOWN ***
+Main pot $0.25 | Rake $0.01
+IMALLINNOOB shows [Jc Jh] (two pair, Kings and Jacks [Ks Kc Jh Jc 9d])
+Fish35 shows [Ad Qs] (two pair, Kings and Nines [Ks Kc 9d 9c Ad])
+IMALLINNOOB collected $0.25 from main pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01
+Board [9d Ks 8c 9c Kc]
+Seat 1: IMALLINNOOB (small blind) showed [Jc Jh] and won $0.25 with two pair, Kings and Jacks [Ks Kc Jh Jc 9d]
+Seat 2: Wooderstein (big blind) folded on the Pre-Flop
+Seat 3: Fish35 showed [Ad Qs] and lost with two pair, Kings and Nines [Ks Kc 9d 9c Ad]
+Seat 4: MezcalMule folded on the Pre-Flop and did not bet
+Seat 5: Parzival2801 (button) folded on the Pre-Flop
+
+Hand #994693593 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 03:07:47 UTC
+Buckhorn 6-max Seat #1 is the button
+Seat 1: IMALLINNOOB ($2.59)
+Seat 2: Wooderstein ($2.98)
+Seat 3: Fish35 ($2.00)
+Seat 4: MezcalMule ($2.43)
+Seat 5: Parzival2801 ($2.32)
+Wooderstein posts the small blind $0.01
+Fish35 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Jc Qh]
+MezcalMule calls $0.02
+Parzival2801 folds
+IMALLINNOOB folds
+Wooderstein raises $0.07 to $0.08
+Fish35 folds
+MezcalMule calls $0.06
+*** FLOP *** [6d Tc 5d]
+Main pot $0.18 | Rake $0.00
+Wooderstein checks
+MezcalMule checks
+*** TURN *** [6d Tc 5d] [Jd]
+Main pot $0.18 | Rake $0.00
+Wooderstein checks
+MezcalMule bets $0.13
+Wooderstein folds
+Uncalled bet ($0.13) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.18
+Board [6d Tc 5d Jd]
+Seat 1: IMALLINNOOB (button) folded on the Pre-Flop
+Seat 2: Wooderstein (small blind) folded on the Turn
+Seat 3: Fish35 (big blind) folded on the Pre-Flop
+Seat 4: MezcalMule did not show and won $0.18
+Seat 5: Parzival2801 folded on the Pre-Flop and did not bet
+
+Hand #994694481 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 03:08:38 UTC
+Buckhorn 6-max Seat #2 is the button
+Seat 1: IMALLINNOOB ($2.59)
+Seat 2: Wooderstein ($2.90)
+Seat 3: Fish35 ($2.00)
+Seat 4: MezcalMule ($2.53)
+Seat 5: Parzival2801 ($2.32)
+Fish35 posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Qs Kc]
+Parzival2801 folds
+IMALLINNOOB raises $0.06 to $0.06
+Wooderstein folds
+Fish35 folds
+MezcalMule calls $0.04
+*** FLOP *** [Tc Jc 3h]
+Main pot $0.13 | Rake $0.00
+MezcalMule checks
+IMALLINNOOB bets $0.09
+MezcalMule calls $0.09
+*** TURN *** [Tc Jc 3h] [2s]
+Main pot $0.30 | Rake $0.01
+MezcalMule checks
+IMALLINNOOB bets $0.23
+MezcalMule folds
+Uncalled bet ($0.23) returned to IMALLINNOOB
+IMALLINNOOB does not show
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01
+Board [Tc Jc 3h 2s]
+Seat 1: IMALLINNOOB did not show and won $0.30
+Seat 2: Wooderstein (button) folded on the Pre-Flop
+Seat 3: Fish35 (small blind) folded on the Pre-Flop
+Seat 4: MezcalMule (big blind) folded on the Turn
+Seat 5: Parzival2801 folded on the Pre-Flop and did not bet
+
+Hand #994695382 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 03:09:29 UTC
+Buckhorn 6-max Seat #3 is the button
+Seat 1: IMALLINNOOB ($2.74)
+Seat 2: Wooderstein ($2.90)
+Seat 3: Fish35 ($2.00)
+Seat 4: MezcalMule ($2.38)
+Seat 5: Parzival2801 ($2.32)
+Seat 6: LARRYWALNUTS ($2.00)
+MezcalMule posts the small blind $0.01
+Parzival2801 posts the big blind $0.02
+LARRYWALNUTS waits for big blind
+*** HOLE CARDS ***
+Dealt to MezcalMule [Kd Kc]
+IMALLINNOOB raises $0.06 to $0.06
+Wooderstein folds
+Fish35 calls $0.06
+MezcalMule raises $0.16 to $0.17
+Parzival2801 folds
+IMALLINNOOB folds
+Fish35 calls $0.11
+*** FLOP *** [Th Jc As]
+Main pot $0.40 | Rake $0.02
+MezcalMule checks
+Fish35 bets $0.13
+MezcalMule calls $0.13
+*** TURN *** [Th Jc As] [Td]
+Main pot $0.65 | Rake $0.03
+MezcalMule checks
+Fish35 bets $0.43
+MezcalMule calls $0.43
+*** RIVER *** [Th Jc As Td] [Tc]
+Main pot $1.47 | Rake $0.07
+MezcalMule checks
+Fish35 bets $1.27 and is all-in
+MezcalMule folds
+Uncalled bet ($1.27) returned to Fish35
+Fish35 does not show
+*** SUMMARY ***
+Total pot $1.47 | Rake $0.05 | JP Fee $0.02
+Board [Th Jc As Td Tc]
+Seat 1: IMALLINNOOB folded on the Pre-Flop and did not bet
+Seat 2: Wooderstein folded on the Pre-Flop and did not bet
+Seat 3: Fish35 did not show and won $1.47
+Seat 4: MezcalMule (small blind) folded on the River
+Seat 5: Parzival2801 (big blind) folded on the Pre-Flop
+
+Hand #994697750 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 03:11:43 UTC
+Buckhorn 6-max Seat #4 is the button
+Seat 1: IMALLINNOOB ($2.68)
+Seat 2: Wooderstein ($2.90)
+Seat 3: Fish35 ($2.74)
+Seat 4: MezcalMule ($1.65)
+Seat 5: Parzival2801 ($2.30)
+Seat 6: LARRYWALNUTS ($2.00)
+Parzival2801 posts the small blind $0.01
+LARRYWALNUTS posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Th Ah]
+IMALLINNOOB folds
+Wooderstein folds
+Fish35 folds
+MezcalMule raises $0.04 to $0.04
+Parzival2801 folds
+LARRYWALNUTS calls $0.02
+*** FLOP *** [6s 3s 4h]
+Main pot $0.09 | Rake $0.00
+LARRYWALNUTS checks
+MezcalMule checks
+*** TURN *** [6s 3s 4h] [4s]
+Main pot $0.09 | Rake $0.00
+LARRYWALNUTS checks
+MezcalMule bets $0.06
+LARRYWALNUTS calls $0.06
+*** RIVER *** [6s 3s 4h 4s] [5h]
+Main pot $0.20 | Rake $0.01
+LARRYWALNUTS checks
+MezcalMule checks
+*** SHOW DOWN ***
+Main pot $0.20 | Rake $0.01
+MezcalMule shows [Th Ah] (a pair of Fours [4s 4h Ah Th 6s])
+LARRYWALNUTS shows [Qd 6h] (two pair, Sixs and Fours [6s 6h 4s 4h Qd])
+LARRYWALNUTS collected $0.20 from main pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01
+Board [6s 3s 4h 4s 5h]
+Seat 1: IMALLINNOOB folded on the Pre-Flop and did not bet
+Seat 2: Wooderstein folded on the Pre-Flop and did not bet
+Seat 3: Fish35 folded on the Pre-Flop and did not bet
+Seat 4: MezcalMule (button) showed [Th Ah] and lost with a pair of Fours [4s 4h Ah Th 6s]
+Seat 5: Parzival2801 (small blind) folded on the Pre-Flop
+Seat 6: LARRYWALNUTS (big blind) showed [Qd 6h] and won $0.20 with two pair, Sixs and Fours [6s 6h 4s 4h Qd]
+
+Hand #994698332 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 03:12:16 UTC
+Buckhorn 6-max Seat #5 is the button
+Seat 1: IMALLINNOOB ($2.68)
+Seat 2: Wooderstein ($2.90)
+Seat 3: Fish35 ($2.74)
+Seat 4: MezcalMule ($1.55)
+Seat 5: Parzival2801 ($2.29)
+Seat 6: LARRYWALNUTS ($2.10)
+LARRYWALNUTS posts the small blind $0.01
+IMALLINNOOB posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [6d Jc]
+Wooderstein folds
+Fish35 folds
+MezcalMule folds
+Parzival2801 raises $0.05 to $0.05
+LARRYWALNUTS folds
+IMALLINNOOB calls $0.03
+*** FLOP *** [Qc 4s 4d]
+Main pot $0.11 | Rake $0.00
+IMALLINNOOB checks
+Parzival2801 bets $0.03
+IMALLINNOOB calls $0.03
+*** TURN *** [Qc 4s 4d] [As]
+Main pot $0.17 | Rake $0.00
+IMALLINNOOB checks
+Parzival2801 checks
+*** RIVER *** [Qc 4s 4d As] [8c]
+Main pot $0.17 | Rake $0.00
+IMALLINNOOB bets $0.12
+Parzival2801 folds
+Uncalled bet ($0.12) returned to IMALLINNOOB
+IMALLINNOOB does not show
+*** SUMMARY ***
+Total pot $0.17
+Board [Qc 4s 4d As 8c]
+Seat 1: IMALLINNOOB did not show and won $0.17
+Seat 2: Wooderstein folded on the Pre-Flop and did not bet
+Seat 3: Fish35 folded on the Pre-Flop and did not bet
+Seat 4: MezcalMule folded on the Pre-Flop and did not bet
+Seat 5: Parzival2801 (button) folded on the River
+Seat 6: LARRYWALNUTS (small blind) folded on the Pre-Flop
+
+Hand #994699128 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 03:13:03 UTC
+Buckhorn 6-max Seat #6 is the button
+Seat 1: IMALLINNOOB ($2.77)
+Seat 2: Wooderstein ($2.90)
+Seat 3: Fish35 ($2.74)
+Seat 4: MezcalMule ($1.55)
+Seat 5: Parzival2801 ($2.21)
+Seat 6: LARRYWALNUTS ($2.09)
+IMALLINNOOB posts the small blind $0.01
+Wooderstein posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [5h 3c]
+Fish35 folds
+MezcalMule folds
+Parzival2801 folds
+LARRYWALNUTS folds
+IMALLINNOOB folds
+Wooderstein does not show
+*** SUMMARY ***
+Total pot $0.03
+Seat 1: IMALLINNOOB (small blind) folded on the Pre-Flop
+Seat 2: Wooderstein did not show and won $0.03
+Seat 3: Fish35 folded on the Pre-Flop and did not bet
+Seat 4: MezcalMule folded on the Pre-Flop and did not bet
+Seat 5: Parzival2801 folded on the Pre-Flop and did not bet
+Seat 6: LARRYWALNUTS (button) folded on the Pre-Flop
+
+Hand #994699635 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 03:13:32 UTC
+Buckhorn 6-max Seat #1 is the button
+Seat 1: IMALLINNOOB ($2.76)
+Seat 2: Wooderstein ($2.91)
+Seat 3: Fish35 ($2.74)
+Seat 4: MezcalMule ($1.55)
+Seat 5: Parzival2801 ($2.21)
+Seat 6: LARRYWALNUTS ($2.09)
+Wooderstein posts the small blind $0.01
+Fish35 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [8d 3s]
+MezcalMule folds
+Parzival2801 folds
+LARRYWALNUTS folds
+IMALLINNOOB folds
+Wooderstein folds
+Fish35 does not show
+*** SUMMARY ***
+Total pot $0.03
+Seat 1: IMALLINNOOB (button) folded on the Pre-Flop
+Seat 2: Wooderstein (small blind) folded on the Pre-Flop
+Seat 3: Fish35 did not show and won $0.03
+Seat 4: MezcalMule folded on the Pre-Flop and did not bet
+Seat 5: Parzival2801 folded on the Pre-Flop and did not bet
+Seat 6: LARRYWALNUTS folded on the Pre-Flop and did not bet
+
+Hand #994699879 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 03:13:47 UTC
+Buckhorn 6-max Seat #2 is the button
+Seat 1: IMALLINNOOB ($2.76)
+Seat 2: Wooderstein ($2.90)
+Seat 3: Fish35 ($2.75)
+Seat 4: MezcalMule ($1.55)
+Seat 5: Parzival2801 ($2.21)
+Seat 6: LARRYWALNUTS ($2.09)
+Fish35 posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [3d 6s]
+Parzival2801 folds
+LARRYWALNUTS raises $0.05 to $0.05
+IMALLINNOOB folds
+Wooderstein folds
+Fish35 folds
+MezcalMule folds
+Uncalled bet ($0.03) returned to LARRYWALNUTS
+LARRYWALNUTS does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: IMALLINNOOB folded on the Pre-Flop and did not bet
+Seat 2: Wooderstein (button) folded on the Pre-Flop
+Seat 3: Fish35 (small blind) folded on the Pre-Flop
+Seat 4: MezcalMule (big blind) folded on the Pre-Flop
+Seat 5: Parzival2801 folded on the Pre-Flop and did not bet
+Seat 6: LARRYWALNUTS did not show and won $0.05
+
+Hand #994700274 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 03:14:10 UTC
+Buckhorn 6-max Seat #3 is the button
+Seat 1: IMALLINNOOB ($2.76)
+Seat 2: Wooderstein ($2.90)
+Seat 3: Fish35 ($2.74)
+Seat 4: MezcalMule ($1.53)
+Seat 5: Parzival2801 ($2.21)
+Seat 6: LARRYWALNUTS ($2.12)
+MezcalMule posts the small blind $0.01
+Parzival2801 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [8c Qs]
+LARRYWALNUTS folds
+IMALLINNOOB folds
+Wooderstein folds
+Fish35 folds
+MezcalMule calls $0.01
+Parzival2801 checks
+*** FLOP *** [4h Kh Ad]
+Main pot $0.04 | Rake $0.00
+MezcalMule checks
+Parzival2801 checks
+*** TURN *** [4h Kh Ad] [Ah]
+Main pot $0.04 | Rake $0.00
+MezcalMule checks
+Parzival2801 checks
+*** RIVER *** [4h Kh Ad Ah] [2h]
+Main pot $0.04 | Rake $0.00
+MezcalMule checks
+Parzival2801 checks
+*** SHOW DOWN ***
+Main pot $0.04 | Rake $0.00
+MezcalMule shows [8c Qs] (a pair of Aces [Ah Ad Kh Qs 8c])
+Parzival2801 shows [6s Js] (a pair of Aces [Ah Ad Kh Js 6s])
+MezcalMule collected $0.04 from main pot
+*** SUMMARY ***
+Total pot $0.04
+Board [4h Kh Ad Ah 2h]
+Seat 1: IMALLINNOOB folded on the Pre-Flop and did not bet
+Seat 2: Wooderstein folded on the Pre-Flop and did not bet
+Seat 3: Fish35 (button) folded on the Pre-Flop
+Seat 4: MezcalMule (small blind) showed [8c Qs] and won $0.04 with a pair of Aces [Ah Ad Kh Qs 8c] with the kicker Queen
+Seat 5: Parzival2801 (big blind) showed [6s Js] and lost with a pair of Aces [Ah Ad Kh Js 6s]
+Seat 6: LARRYWALNUTS folded on the Pre-Flop and did not bet
+
+Hand #994701106 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 03:14:58 UTC
+Buckhorn 6-max Seat #4 is the button
+Seat 1: IMALLINNOOB ($2.76)
+Seat 2: Wooderstein ($2.90)
+Seat 3: Fish35 ($2.74)
+Seat 4: MezcalMule ($1.55)
+Seat 5: Parzival2801 ($2.19)
+Seat 6: LARRYWALNUTS ($2.12)
+Parzival2801 posts the small blind $0.01
+LARRYWALNUTS posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Kh 4c]
+IMALLINNOOB folds
+Wooderstein folds
+Fish35 folds
+MezcalMule folds
+Parzival2801 raises $0.05 to $0.06
+LARRYWALNUTS folds
+Uncalled bet ($0.04) returned to Parzival2801
+Parzival2801 does not show
+*** SUMMARY ***
+Total pot $0.04
+Seat 1: IMALLINNOOB folded on the Pre-Flop and did not bet
+Seat 2: Wooderstein folded on the Pre-Flop and did not bet
+Seat 3: Fish35 folded on the Pre-Flop and did not bet
+Seat 4: MezcalMule (button) folded on the Pre-Flop
+Seat 5: Parzival2801 did not show and won $0.04
+Seat 6: LARRYWALNUTS (big blind) folded on the Pre-Flop
+
+Hand #994701488 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 03:15:19 UTC
+Buckhorn 6-max Seat #5 is the button
+Seat 1: IMALLINNOOB ($2.76)
+Seat 2: Wooderstein ($2.90)
+Seat 3: Fish35 ($2.74)
+Seat 4: MezcalMule ($1.55)
+Seat 5: Parzival2801 ($2.21)
+Seat 6: LARRYWALNUTS ($2.10)
+LARRYWALNUTS posts the small blind $0.01
+IMALLINNOOB posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [3s 9c]
+Wooderstein folds
+Fish35 folds
+MezcalMule folds
+Parzival2801 raises $0.05 to $0.05
+LARRYWALNUTS folds
+IMALLINNOOB folds
+Uncalled bet ($0.03) returned to Parzival2801
+Parzival2801 does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: IMALLINNOOB (big blind) folded on the Pre-Flop
+Seat 2: Wooderstein folded on the Pre-Flop and did not bet
+Seat 3: Fish35 folded on the Pre-Flop and did not bet
+Seat 4: MezcalMule folded on the Pre-Flop and did not bet
+Seat 5: Parzival2801 did not show and won $0.05
+Seat 6: LARRYWALNUTS (small blind) folded on the Pre-Flop
+
+Hand #994702071 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 03:15:52 UTC
+Buckhorn 6-max Seat #6 is the button
+Seat 1: IMALLINNOOB ($2.74)
+Seat 2: Wooderstein ($2.90)
+Seat 3: Fish35 ($2.74)
+Seat 4: MezcalMule ($1.55)
+Seat 5: Parzival2801 ($2.24)
+Seat 6: LARRYWALNUTS ($2.09)
+IMALLINNOOB posts the small blind $0.01
+Wooderstein posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Kh Qc]
+Fish35 raises $0.05 to $0.05
+MezcalMule calls $0.05
+Parzival2801 folds
+LARRYWALNUTS calls $0.05
+IMALLINNOOB folds
+Wooderstein folds
+*** FLOP *** [5c Jh 8d]
+Main pot $0.18 | Rake $0.00
+Fish35 checks
+MezcalMule checks
+LARRYWALNUTS checks
+*** TURN *** [5c Jh 8d] [9s]
+Main pot $0.18 | Rake $0.00
+Fish35 checks
+MezcalMule checks
+LARRYWALNUTS checks
+*** RIVER *** [5c Jh 8d 9s] [3h]
+Main pot $0.18 | Rake $0.00
+Fish35 checks
+MezcalMule checks
+LARRYWALNUTS checks
+*** SHOW DOWN ***
+Main pot $0.18 | Rake $0.00
+Fish35 shows [As 3s] (a pair of Threes [3s 3h As Jh 9s])
+MezcalMule shows [Kh Qc] (a high card, King high [Kh Qc Jh 9s 8d])
+LARRYWALNUTS shows [4h 4d] (a pair of Fours [4h 4d Jh 9s 8d])
+LARRYWALNUTS collected $0.18 from main pot
+*** SUMMARY ***
+Total pot $0.18
+Board [5c Jh 8d 9s 3h]
+Seat 1: IMALLINNOOB (small blind) folded on the Pre-Flop
+Seat 2: Wooderstein (big blind) folded on the Pre-Flop
+Seat 3: Fish35 showed [As 3s] and lost with a pair of Threes [3s 3h As Jh 9s]
+Seat 4: MezcalMule showed [Kh Qc] and lost with a high card, King high [Kh Qc Jh 9s 8d]
+Seat 5: Parzival2801 folded on the Pre-Flop and did not bet
+Seat 6: LARRYWALNUTS (button) showed [4h 4d] and won $0.18 with a pair of Fours [4h 4d Jh 9s 8d]
+
+Hand #994703047 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 03:16:51 UTC
+Buckhorn 6-max Seat #1 is the button
+Seat 1: IMALLINNOOB ($2.73)
+Seat 2: Wooderstein ($2.88)
+Seat 3: Fish35 ($2.69)
+Seat 4: MezcalMule ($1.50)
+Seat 5: Parzival2801 ($2.24)
+Seat 6: LARRYWALNUTS ($2.22)
+Wooderstein posts the small blind $0.01
+Fish35 sits out
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Ks 2c]
+Parzival2801 folds
+LARRYWALNUTS raises $0.05 to $0.05
+IMALLINNOOB folds
+Wooderstein folds
+MezcalMule folds
+Uncalled bet ($0.03) returned to LARRYWALNUTS
+LARRYWALNUTS does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: IMALLINNOOB (button) folded on the Pre-Flop
+Seat 2: Wooderstein (small blind) folded on the Pre-Flop
+Seat 4: MezcalMule (big blind) folded on the Pre-Flop
+Seat 5: Parzival2801 folded on the Pre-Flop and did not bet
+Seat 6: LARRYWALNUTS did not show and won $0.05
+
+Hand #994703395 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 03:17:11 UTC
+Buckhorn 6-max Seat #2 is the button
+Seat 1: IMALLINNOOB ($2.73)
+Seat 2: Wooderstein ($2.87)
+Seat 4: MezcalMule ($1.48)
+Seat 5: Parzival2801 ($2.24)
+Seat 6: LARRYWALNUTS ($2.25)
+MezcalMule posts the small blind $0.01
+Parzival2801 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Kh 8c]
+LARRYWALNUTS folds
+IMALLINNOOB folds
+Wooderstein raises $0.05 to $0.05
+MezcalMule folds
+Parzival2801 folds
+Uncalled bet ($0.03) returned to Wooderstein
+Wooderstein does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: IMALLINNOOB folded on the Pre-Flop and did not bet
+Seat 2: Wooderstein did not show and won $0.05
+Seat 4: MezcalMule (small blind) folded on the Pre-Flop
+Seat 5: Parzival2801 (big blind) folded on the Pre-Flop
+Seat 6: LARRYWALNUTS folded on the Pre-Flop and did not bet
+
+Hand #994703862 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 03:17:38 UTC
+Buckhorn 6-max Seat #4 is the button
+Seat 1: IMALLINNOOB ($2.73)
+Seat 2: Wooderstein ($2.90)
+Seat 4: MezcalMule ($1.47)
+Seat 5: Parzival2801 ($2.22)
+Seat 6: LARRYWALNUTS ($2.25)
+Parzival2801 posts the small blind $0.01
+LARRYWALNUTS posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [3s 3d]
+IMALLINNOOB folds
+Wooderstein raises $0.05 to $0.05
+MezcalMule calls $0.05
+Parzival2801 folds
+LARRYWALNUTS calls $0.03
+*** FLOP *** [Ad Qs Tc]
+Main pot $0.16 | Rake $0.00
+LARRYWALNUTS checks
+Wooderstein bets $0.04
+MezcalMule calls $0.04
+LARRYWALNUTS folds
+*** TURN *** [Ad Qs Tc] [4c]
+Main pot $0.23 | Rake $0.01
+Wooderstein bets $0.20
+MezcalMule folds
+Uncalled bet ($0.20) returned to Wooderstein
+Wooderstein does not show
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01
+Board [Ad Qs Tc 4c]
+Seat 1: IMALLINNOOB folded on the Pre-Flop and did not bet
+Seat 2: Wooderstein did not show and won $0.23
+Seat 4: MezcalMule (button) folded on the Turn
+Seat 5: Parzival2801 (small blind) folded on the Pre-Flop
+Seat 6: LARRYWALNUTS (big blind) folded on the Flop
+
+Hand #994704628 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 03:18:24 UTC
+Buckhorn 6-max Seat #5 is the button
+Seat 1: IMALLINNOOB ($2.73)
+Seat 2: Wooderstein ($3.04)
+Seat 4: MezcalMule ($1.38)
+Seat 5: Parzival2801 ($2.21)
+Seat 6: LARRYWALNUTS ($2.20)
+LARRYWALNUTS posts the small blind $0.01
+IMALLINNOOB posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [8h 6h]
+Wooderstein folds
+MezcalMule raises $0.04 to $0.04
+Parzival2801 raises $0.15 to $0.15
+LARRYWALNUTS folds
+IMALLINNOOB folds
+MezcalMule calls $0.11
+*** FLOP *** [2d Jh Kh]
+Main pot $0.32 | Rake $0.01
+MezcalMule checks
+Parzival2801 bets $0.10
+MezcalMule calls $0.10
+*** TURN *** [2d Jh Kh] [8d]
+Main pot $0.51 | Rake $0.02
+MezcalMule bets $0.53
+Parzival2801 folds
+Uncalled bet ($0.53) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.51 | Rake $0.02
+Board [2d Jh Kh 8d]
+Seat 1: IMALLINNOOB (big blind) folded on the Pre-Flop
+Seat 2: Wooderstein folded on the Pre-Flop and did not bet
+Seat 4: MezcalMule did not show and won $0.51
+Seat 5: Parzival2801 (button) folded on the Turn
+Seat 6: LARRYWALNUTS (small blind) folded on the Pre-Flop
+
+Hand #994705548 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 03:19:17 UTC
+Buckhorn 6-max Seat #6 is the button
+Seat 1: IMALLINNOOB ($2.71)
+Seat 2: Wooderstein ($3.04)
+Seat 4: MezcalMule ($1.64)
+Seat 5: Parzival2801 ($2.00)
+Seat 6: LARRYWALNUTS ($2.19)
+IMALLINNOOB posts the small blind $0.01
+Wooderstein posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Ac Qs]
+MezcalMule raises $0.04 to $0.04
+Parzival2801 folds
+LARRYWALNUTS folds
+IMALLINNOOB folds
+Wooderstein folds
+Uncalled bet ($0.02) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: IMALLINNOOB (small blind) folded on the Pre-Flop
+Seat 2: Wooderstein (big blind) folded on the Pre-Flop
+Seat 4: MezcalMule did not show and won $0.05
+Seat 5: Parzival2801 folded on the Pre-Flop and did not bet
+Seat 6: LARRYWALNUTS (button) folded on the Pre-Flop
+
+Hand #994705808 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 03:19:32 UTC
+Buckhorn 6-max Seat #1 is the button
+Seat 1: IMALLINNOOB ($2.70)
+Seat 2: Wooderstein ($3.02)
+Seat 4: MezcalMule ($1.67)
+Seat 5: Parzival2801 ($2.00)
+Seat 6: LARRYWALNUTS ($2.19)
+Wooderstein posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Ks 9c]
+Parzival2801 raises $0.06 to $0.06
+LARRYWALNUTS folds
+IMALLINNOOB calls $0.06
+Wooderstein folds
+MezcalMule folds
+*** FLOP *** [6d 2d Jh]
+Main pot $0.15 | Rake $0.00
+Parzival2801 checks
+IMALLINNOOB bets $0.07
+Parzival2801 calls $0.07
+*** TURN *** [6d 2d Jh] [Kh]
+Main pot $0.28 | Rake $0.01
+Parzival2801 checks
+IMALLINNOOB checks
+*** RIVER *** [6d 2d Jh Kh] [Th]
+Main pot $0.28 | Rake $0.01
+Parzival2801 checks
+IMALLINNOOB bets $0.21
+Parzival2801 calls $0.21
+*** SHOW DOWN ***
+Main pot $0.68 | Rake $0.03
+IMALLINNOOB shows [Ad Qs] (a straight, Ace high [Ad Kh Qs Jh Th])
+Parzival2801 shows [Tc Jc] (two pair, Jacks and Tens [Jh Jc Th Tc Kh])
+IMALLINNOOB collected $0.68 from main pot
+*** SUMMARY ***
+Total pot $0.68 | Rake $0.03
+Board [6d 2d Jh Kh Th]
+Seat 1: IMALLINNOOB (button) showed [Ad Qs] and won $0.68 with a straight, Ace high [Ad Kh Qs Jh Th]
+Seat 2: Wooderstein (small blind) folded on the Pre-Flop
+Seat 4: MezcalMule (big blind) folded on the Pre-Flop
+Seat 5: Parzival2801 showed [Tc Jc] and lost with two pair, Jacks and Tens [Jh Jc Th Tc Kh]
+Seat 6: LARRYWALNUTS folded on the Pre-Flop and did not bet
+
+Hand #994706690 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 03:20:25 UTC
+Buckhorn 6-max Seat #2 is the button
+Seat 1: IMALLINNOOB ($3.04)
+Seat 2: Wooderstein ($3.01)
+Seat 4: MezcalMule ($1.65)
+Seat 5: Parzival2801 ($2.00)
+Seat 6: LARRYWALNUTS ($2.19)
+MezcalMule posts the small blind $0.01
+Parzival2801 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Qs 4c]
+LARRYWALNUTS folds
+IMALLINNOOB folds
+Wooderstein folds
+MezcalMule calls $0.01
+Parzival2801 raises $0.06 to $0.08
+MezcalMule folds
+Uncalled bet ($0.06) returned to Parzival2801
+Parzival2801 does not show
+*** SUMMARY ***
+Total pot $0.04
+Seat 1: IMALLINNOOB folded on the Pre-Flop and did not bet
+Seat 2: Wooderstein (button) folded on the Pre-Flop
+Seat 4: MezcalMule (small blind) folded on the Pre-Flop
+Seat 5: Parzival2801 did not show and won $0.04
+Seat 6: LARRYWALNUTS folded on the Pre-Flop and did not bet
+
+Hand #994707410 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 03:21:06 UTC
+Buckhorn 6-max Seat #4 is the button
+Seat 1: IMALLINNOOB ($3.04)
+Seat 2: Wooderstein ($3.01)
+Seat 4: MezcalMule ($1.63)
+Seat 5: Parzival2801 ($2.02)
+Seat 6: LARRYWALNUTS ($2.19)
+Parzival2801 posts the small blind $0.01
+LARRYWALNUTS posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [8c 8d]
+IMALLINNOOB folds
+Wooderstein raises $0.05 to $0.05
+MezcalMule raises $0.08 to $0.08
+Parzival2801 folds
+LARRYWALNUTS folds
+Wooderstein raises $0.27 to $0.32
+MezcalMule calls $0.24
+*** FLOP *** [Ah 4d Qs]
+Main pot $0.64 | Rake $0.03
+Wooderstein bets $0.16
+MezcalMule raises $1.27 to $1.27
+Wooderstein calls $1.11
+*** TURN *** [Ah 4d Qs] [Ts]
+Main pot $3.05 | Rake $0.16
+Wooderstein bets $0.04
+MezcalMule calls $0.04 and is all-in
+*** RIVER *** [Ah 4d Qs Ts] [2s]
+Main pot $3.13 | Rake $0.16
+*** SHOW DOWN ***
+Main pot $3.13 | Rake $0.16
+Wooderstein shows [As 3s] (a flush, Ace high [As Qs Ts 3s 2s])
+MezcalMule shows [8c 8d] (a pair of Eights [8d 8c Ah Qs Ts])
+Wooderstein collected $3.13 from main pot
+*** SUMMARY ***
+Total pot $3.13 | Rake $0.12 | JP Fee $0.04
+Board [Ah 4d Qs Ts 2s]
+Seat 1: IMALLINNOOB folded on the Pre-Flop and did not bet
+Seat 2: Wooderstein showed [As 3s] and won $3.13 with a flush, Ace high [As Qs Ts 3s 2s]
+Seat 4: MezcalMule (button) showed [8c 8d] and lost with a pair of Eights [8d 8c Ah Qs Ts]
+Seat 5: Parzival2801 (small blind) folded on the Pre-Flop
+Seat 6: LARRYWALNUTS (big blind) folded on the Pre-Flop
+
+Hand #994709277 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 03:22:59 UTC
+Buckhorn 6-max Seat #6 is the button
+Seat 1: IMALLINNOOB ($2.99)
+Seat 2: Wooderstein ($4.51)
+Seat 3: kevconde999 ($2.00)
+Seat 4: MezcalMule ($2.00)
+Seat 5: Parzival2801 ($2.07)
+Seat 6: LARRYWALNUTS ($2.16)
+IMALLINNOOB posts the small blind $0.01
+Wooderstein posts the big blind $0.02
+kevconde999 waits for big blind
+*** HOLE CARDS ***
+Dealt to MezcalMule [Kh 3d]
+MezcalMule folds
+Parzival2801 folds
+LARRYWALNUTS raises $0.05 to $0.05
+IMALLINNOOB folds
+Wooderstein calls $0.03
+*** FLOP *** [Jd 8c Qc]
+Main pot $0.11 | Rake $0.00
+Wooderstein checks
+LARRYWALNUTS checks
+*** TURN *** [Jd 8c Qc] [Ah]
+Main pot $0.11 | Rake $0.00
+Wooderstein checks
+LARRYWALNUTS checks
+*** RIVER *** [Jd 8c Qc Ah] [3s]
+Main pot $0.11 | Rake $0.00
+Wooderstein checks
+LARRYWALNUTS checks
+*** SHOW DOWN ***
+Main pot $0.11 | Rake $0.00
+Wooderstein shows [5d 8d] (a pair of Eights [8d 8c Ah Qc Jd])
+LARRYWALNUTS shows [Kc 9s] (a high card, Ace high [Ah Kc Qc Jd 9s])
+Wooderstein collected $0.11 from main pot
+*** SUMMARY ***
+Total pot $0.11
+Board [Jd 8c Qc Ah 3s]
+Seat 1: IMALLINNOOB (small blind) folded on the Pre-Flop
+Seat 2: Wooderstein (big blind) showed [5d 8d] and won $0.11 with a pair of Eights [8d 8c Ah Qc Jd]
+Seat 4: MezcalMule folded on the Pre-Flop and did not bet
+Seat 5: Parzival2801 folded on the Pre-Flop and did not bet
+Seat 6: LARRYWALNUTS (button) showed [Kc 9s] and lost with a high card, Ace high [Ah Kc Qc Jd 9s]
+
+Hand #994710019 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 03:23:44 UTC
+Buckhorn 6-max Seat #1 is the button
+Seat 1: IMALLINNOOB ($2.98)
+Seat 2: Wooderstein ($4.57)
+Seat 3: kevconde999 ($2.00)
+Seat 4: MezcalMule ($2.00)
+Seat 5: Parzival2801 ($2.07)
+Seat 6: LARRYWALNUTS ($2.11)
+Wooderstein posts the small blind $0.01
+kevconde999 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [7c Qh]
+MezcalMule folds
+Parzival2801 folds
+LARRYWALNUTS folds
+IMALLINNOOB raises $0.06 to $0.06
+Wooderstein raises $0.23 to $0.24
+kevconde999 folds
+IMALLINNOOB folds
+Uncalled bet ($0.18) returned to Wooderstein
+Wooderstein does not show
+*** SUMMARY ***
+Total pot $0.14
+Seat 1: IMALLINNOOB (button) folded on the Pre-Flop
+Seat 2: Wooderstein did not show and won $0.14
+Seat 3: kevconde999 (big blind) folded on the Pre-Flop
+Seat 4: MezcalMule folded on the Pre-Flop and did not bet
+Seat 5: Parzival2801 folded on the Pre-Flop and did not bet
+Seat 6: LARRYWALNUTS folded on the Pre-Flop and did not bet
+
+Hand #994710703 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 03:24:25 UTC
+Buckhorn 6-max Seat #2 is the button
+Seat 1: IMALLINNOOB ($2.92)
+Seat 2: Wooderstein ($4.65)
+Seat 3: kevconde999 ($2.00)
+Seat 4: MezcalMule ($2.00)
+Seat 5: Parzival2801 ($2.07)
+Seat 6: LARRYWALNUTS ($2.11)
+kevconde999 posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Qh 7s]
+Parzival2801 folds
+LARRYWALNUTS folds
+IMALLINNOOB folds
+Wooderstein raises $0.05 to $0.05
+kevconde999 folds
+MezcalMule folds
+Uncalled bet ($0.03) returned to Wooderstein
+Wooderstein does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: IMALLINNOOB folded on the Pre-Flop and did not bet
+Seat 2: Wooderstein did not show and won $0.05
+Seat 3: kevconde999 (small blind) folded on the Pre-Flop
+Seat 4: MezcalMule (big blind) folded on the Pre-Flop
+Seat 5: Parzival2801 folded on the Pre-Flop and did not bet
+Seat 6: LARRYWALNUTS folded on the Pre-Flop and did not bet
+
+Hand #994711136 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 03:24:51 UTC
+Buckhorn 6-max Seat #3 is the button
+Seat 1: IMALLINNOOB ($2.92)
+Seat 2: Wooderstein ($4.68)
+Seat 3: kevconde999 ($2.00)
+Seat 4: MezcalMule ($1.98)
+Seat 5: Parzival2801 ($2.07)
+Seat 6: LARRYWALNUTS ($2.11)
+MezcalMule posts the small blind $0.01
+Parzival2801 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [As 5d]
+LARRYWALNUTS raises $0.05 to $0.05
+IMALLINNOOB folds
+Wooderstein calls $0.05
+kevconde999 calls $0.05
+MezcalMule folds
+Parzival2801 folds
+*** FLOP *** [3d 8s 3h]
+Main pot $0.18 | Rake $0.00
+LARRYWALNUTS checks
+Wooderstein bets $0.05
+kevconde999 calls $0.05
+LARRYWALNUTS folds
+*** TURN *** [3d 8s 3h] [5s]
+Main pot $0.27 | Rake $0.01
+Wooderstein checks
+kevconde999 checks
+*** RIVER *** [3d 8s 3h 5s] [4d]
+Main pot $0.27 | Rake $0.01
+Wooderstein checks
+kevconde999 checks
+*** SHOW DOWN ***
+Main pot $0.27 | Rake $0.01
+Wooderstein shows [7c 7h] (two pair, Sevens and Threes [7h 7c 3h 3d 8s])
+kevconde999 shows [Ks Tc] (a pair of Threes [3h 3d Ks Tc 8s])
+Wooderstein collected $0.27 from main pot
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01
+Board [3d 8s 3h 5s 4d]
+Seat 1: IMALLINNOOB folded on the Pre-Flop and did not bet
+Seat 2: Wooderstein showed [7c 7h] and won $0.27 with two pair, Sevens and Threes [7h 7c 3h 3d 8s]
+Seat 3: kevconde999 (button) showed [Ks Tc] and lost with a pair of Threes [3h 3d Ks Tc 8s]
+Seat 4: MezcalMule (small blind) folded on the Pre-Flop
+Seat 5: Parzival2801 (big blind) folded on the Pre-Flop
+Seat 6: LARRYWALNUTS folded on the Flop
+
+Hand #994712182 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 03:25:55 UTC
+Buckhorn 6-max Seat #4 is the button
+Seat 1: IMALLINNOOB ($2.92)
+Seat 2: Wooderstein ($4.85)
+Seat 3: kevconde999 ($2.00)
+Seat 4: MezcalMule ($1.97)
+Seat 5: Parzival2801 ($2.05)
+Seat 6: LARRYWALNUTS ($2.06)
+Parzival2801 posts the small blind $0.01
+LARRYWALNUTS posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [2c 2s]
+IMALLINNOOB folds
+Wooderstein folds
+kevconde999 raises $0.06 to $0.06
+MezcalMule calls $0.06
+Parzival2801 folds
+LARRYWALNUTS calls $0.04
+*** FLOP *** [Kd Ts 5s]
+Main pot $0.19 | Rake $0.00
+LARRYWALNUTS checks
+kevconde999 checks
+MezcalMule checks
+*** TURN *** [Kd Ts 5s] [4d]
+Main pot $0.19 | Rake $0.00
+LARRYWALNUTS bets $0.06
+kevconde999 folds
+MezcalMule folds
+Uncalled bet ($0.06) returned to LARRYWALNUTS
+LARRYWALNUTS does not show
+*** SUMMARY ***
+Total pot $0.19
+Board [Kd Ts 5s 4d]
+Seat 1: IMALLINNOOB folded on the Pre-Flop and did not bet
+Seat 2: Wooderstein folded on the Pre-Flop and did not bet
+Seat 3: kevconde999 folded on the Turn
+Seat 4: MezcalMule (button) folded on the Turn
+Seat 5: Parzival2801 (small blind) folded on the Pre-Flop
+Seat 6: LARRYWALNUTS did not show and won $0.19
+
+Hand #994712980 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 03:26:44 UTC
+Buckhorn 6-max Seat #5 is the button
+Seat 1: IMALLINNOOB ($2.92)
+Seat 2: Wooderstein ($4.85)
+Seat 3: kevconde999 ($2.00)
+Seat 4: MezcalMule ($1.91)
+Seat 5: Parzival2801 ($2.04)
+Seat 6: LARRYWALNUTS ($2.19)
+LARRYWALNUTS posts the small blind $0.01
+IMALLINNOOB posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [2h Tc]
+Wooderstein raises $0.05 to $0.05
+kevconde999 folds
+MezcalMule folds
+Parzival2801 raises $0.18 to $0.18
+LARRYWALNUTS folds
+IMALLINNOOB folds
+Wooderstein calls $0.13
+*** FLOP *** [7d Qc 5s]
+Main pot $0.38 | Rake $0.01
+Wooderstein checks
+Parzival2801 bets $0.12
+Wooderstein calls $0.12
+*** TURN *** [7d Qc 5s] [8h]
+Main pot $0.60 | Rake $0.03
+Wooderstein checks
+Parzival2801 checks
+*** RIVER *** [7d Qc 5s 8h] [Qh]
+Main pot $0.60 | Rake $0.03
+Wooderstein bets $0.47
+Parzival2801 folds
+Uncalled bet ($0.47) returned to Wooderstein
+Wooderstein does not show
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03
+Board [7d Qc 5s 8h Qh]
+Seat 1: IMALLINNOOB (big blind) folded on the Pre-Flop
+Seat 2: Wooderstein did not show and won $0.60
+Seat 3: kevconde999 folded on the Pre-Flop and did not bet
+Seat 4: MezcalMule folded on the Pre-Flop and did not bet
+Seat 5: Parzival2801 (button) folded on the River
+Seat 6: LARRYWALNUTS (small blind) folded on the Pre-Flop
+
+Hand #994713800 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 03:27:34 UTC
+Buckhorn 6-max Seat #6 is the button
+Seat 1: IMALLINNOOB ($2.90)
+Seat 2: Wooderstein ($5.15)
+Seat 3: kevconde999 ($2.00)
+Seat 4: MezcalMule ($1.91)
+Seat 5: Parzival2801 ($2.00)
+Seat 6: LARRYWALNUTS ($2.18)
+IMALLINNOOB posts the small blind $0.01
+Wooderstein posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [7s 8c]
+kevconde999 folds
+MezcalMule raises $0.04 to $0.04
+Parzival2801 folds
+LARRYWALNUTS folds
+IMALLINNOOB folds
+Wooderstein folds
+Uncalled bet ($0.02) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: IMALLINNOOB (small blind) folded on the Pre-Flop
+Seat 2: Wooderstein (big blind) folded on the Pre-Flop
+Seat 3: kevconde999 folded on the Pre-Flop and did not bet
+Seat 4: MezcalMule did not show and won $0.05
+Seat 5: Parzival2801 folded on the Pre-Flop and did not bet
+Seat 6: LARRYWALNUTS (button) folded on the Pre-Flop
+
+Hand #994714621 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 03:28:23 UTC
+Buckhorn 6-max Seat #1 is the button
+Seat 1: IMALLINNOOB ($2.89)
+Seat 2: Wooderstein ($5.13)
+Seat 3: kevconde999 ($2.00)
+Seat 4: MezcalMule ($1.94)
+Seat 5: Parzival2801 ($2.00)
+Seat 6: LARRYWALNUTS ($2.18)
+Wooderstein posts the small blind $0.01
+kevconde999 sits out
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [4d Kc]
+Parzival2801 folds
+LARRYWALNUTS folds
+IMALLINNOOB raises $0.06 to $0.06
+Wooderstein raises $0.23 to $0.24
+MezcalMule folds
+IMALLINNOOB folds
+Uncalled bet ($0.18) returned to Wooderstein
+Wooderstein does not show
+*** SUMMARY ***
+Total pot $0.14
+Seat 1: IMALLINNOOB (button) folded on the Pre-Flop
+Seat 2: Wooderstein did not show and won $0.14
+Seat 4: MezcalMule (big blind) folded on the Pre-Flop
+Seat 5: Parzival2801 folded on the Pre-Flop and did not bet
+Seat 6: LARRYWALNUTS folded on the Pre-Flop and did not bet
+
+Hand #994715149 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 03:28:56 UTC
+Buckhorn 6-max Seat #2 is the button
+Seat 1: IMALLINNOOB ($2.83)
+Seat 2: Wooderstein ($5.21)
+Seat 3: kevconde999 ($2.00) is sitting out
+Seat 4: MezcalMule ($1.92)
+Seat 5: Parzival2801 ($2.00)
+Seat 6: LARRYWALNUTS ($2.18)
+MezcalMule posts the small blind $0.01
+Parzival2801 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [9c Ac]
+LARRYWALNUTS folds
+IMALLINNOOB raises $0.06 to $0.06
+Wooderstein folds
+MezcalMule calls $0.05
+Parzival2801 raises $0.28 to $0.30
+IMALLINNOOB folds
+MezcalMule folds
+Uncalled bet ($0.24) returned to Parzival2801
+Parzival2801 does not show
+*** SUMMARY ***
+Total pot $0.18
+Seat 1: IMALLINNOOB folded on the Pre-Flop and did not bet
+Seat 2: Wooderstein (button) folded on the Pre-Flop
+Seat 4: MezcalMule (small blind) folded on the Pre-Flop
+Seat 5: Parzival2801 did not show and won $0.18
+Seat 6: LARRYWALNUTS folded on the Pre-Flop and did not bet
+
+Hand #994715786 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 03:29:36 UTC
+Buckhorn 6-max Seat #4 is the button
+Seat 1: IMALLINNOOB ($2.77)
+Seat 2: Wooderstein ($5.21)
+Seat 3: kevconde999 ($2.00) is sitting out
+Seat 4: MezcalMule ($1.86)
+Seat 5: Parzival2801 ($2.12)
+Seat 6: LARRYWALNUTS ($2.18)
+Parzival2801 posts the small blind $0.01
+LARRYWALNUTS posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Jh Qd]
+IMALLINNOOB raises $0.06 to $0.06
+Wooderstein folds
+MezcalMule raises $0.10 to $0.10
+Parzival2801 folds
+LARRYWALNUTS folds
+IMALLINNOOB calls $0.04
+*** FLOP *** [Kh 7h 7d]
+Main pot $0.22 | Rake $0.01
+IMALLINNOOB bets $0.11
+MezcalMule folds
+Uncalled bet ($0.11) returned to IMALLINNOOB
+IMALLINNOOB does not show
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01
+Board [Kh 7h 7d]
+Seat 1: IMALLINNOOB did not show and won $0.22
+Seat 2: Wooderstein folded on the Pre-Flop and did not bet
+Seat 4: MezcalMule (button) folded on the Flop
+Seat 5: Parzival2801 (small blind) folded on the Pre-Flop
+Seat 6: LARRYWALNUTS (big blind) folded on the Pre-Flop
+
+Hand #994716845 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 03:30:41 UTC
+Buckhorn 6-max Seat #5 is the button
+Seat 1: IMALLINNOOB ($2.89)
+Seat 2: Wooderstein ($5.21)
+Seat 3: kevconde999 ($2.00) is sitting out
+Seat 4: MezcalMule ($1.76)
+Seat 5: Parzival2801 ($2.11)
+Seat 6: LARRYWALNUTS ($2.16)
+LARRYWALNUTS posts the small blind $0.01
+IMALLINNOOB posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [4s 7c]
+Wooderstein folds
+MezcalMule folds
+Parzival2801 folds
+LARRYWALNUTS folds
+IMALLINNOOB does not show
+*** SUMMARY ***
+Total pot $0.03
+Seat 1: IMALLINNOOB did not show and won $0.03
+Seat 2: Wooderstein folded on the Pre-Flop and did not bet
+Seat 4: MezcalMule folded on the Pre-Flop and did not bet
+Seat 5: Parzival2801 (button) folded on the Pre-Flop
+Seat 6: LARRYWALNUTS (small blind) folded on the Pre-Flop
+
+Hand #994717215 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 03:31:03 UTC
+Buckhorn 6-max Seat #6 is the button
+Seat 1: IMALLINNOOB ($2.90)
+Seat 2: Wooderstein ($5.21)
+Seat 3: kevconde999 ($2.00) is sitting out
+Seat 4: MezcalMule ($1.76)
+Seat 5: Parzival2801 ($2.11)
+Seat 6: LARRYWALNUTS ($2.15)
+IMALLINNOOB posts the small blind $0.01
+Wooderstein posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Th 5s]
+MezcalMule folds
+Parzival2801 folds
+LARRYWALNUTS folds
+IMALLINNOOB raises $0.05 to $0.06
+Wooderstein calls $0.04
+*** FLOP *** [Ks 7d Ah]
+Main pot $0.12 | Rake $0.00
+IMALLINNOOB bets $0.06
+Wooderstein calls $0.06
+*** TURN *** [Ks 7d Ah] [4c]
+Main pot $0.23 | Rake $0.01
+IMALLINNOOB bets $0.18
+Wooderstein calls $0.18
+*** RIVER *** [Ks 7d Ah 4c] [9s]
+Main pot $0.57 | Rake $0.03
+IMALLINNOOB bets $0.45
+Wooderstein calls $0.45
+*** SHOW DOWN ***
+Main pot $1.43 | Rake $0.07
+IMALLINNOOB shows [4s Ad] (two pair, Aces and Fours [Ah Ad 4s 4c Ks])
+Wooderstein shows [Kh 7h] (two pair, Kings and Sevens [Ks Kh 7h 7d Ah])
+IMALLINNOOB collected $1.43 from main pot
+*** SUMMARY ***
+Total pot $1.43 | Rake $0.05 | JP Fee $0.02
+Board [Ks 7d Ah 4c 9s]
+Seat 1: IMALLINNOOB (small blind) showed [4s Ad] and won $1.43 with two pair, Aces and Fours [Ah Ad 4s 4c Ks]
+Seat 2: Wooderstein (big blind) showed [Kh 7h] and lost with two pair, Kings and Sevens [Ks Kh 7h 7d Ah]
+Seat 4: MezcalMule folded on the Pre-Flop and did not bet
+Seat 5: Parzival2801 folded on the Pre-Flop and did not bet
+Seat 6: LARRYWALNUTS (button) folded on the Pre-Flop
+
+Hand #994718231 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 03:32:04 UTC
+Buckhorn 6-max Seat #1 is the button
+Seat 1: IMALLINNOOB ($3.58)
+Seat 2: Wooderstein ($4.46)
+Seat 3: kevconde999 ($2.00) is sitting out
+Seat 4: MezcalMule ($1.76)
+Seat 5: Parzival2801 ($2.11)
+Seat 6: LARRYWALNUTS ($2.15)
+Wooderstein posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [2d As]
+Parzival2801 folds
+LARRYWALNUTS folds
+IMALLINNOOB folds
+Wooderstein folds
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.03
+Seat 1: IMALLINNOOB (button) folded on the Pre-Flop
+Seat 2: Wooderstein (small blind) folded on the Pre-Flop
+Seat 4: MezcalMule did not show and won $0.03
+Seat 5: Parzival2801 folded on the Pre-Flop and did not bet
+Seat 6: LARRYWALNUTS folded on the Pre-Flop and did not bet
+
+Hand #994718382 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 03:32:14 UTC
+Buckhorn 6-max Seat #2 is the button
+Seat 1: IMALLINNOOB ($3.58)
+Seat 2: Wooderstein ($4.45)
+Seat 3: kevconde999 ($2.00) is sitting out
+Seat 4: MezcalMule ($1.77)
+Seat 5: Parzival2801 ($2.11)
+Seat 6: LARRYWALNUTS ($2.15)
+MezcalMule posts the small blind $0.01
+Parzival2801 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [7d Ts]
+LARRYWALNUTS folds
+IMALLINNOOB folds
+Wooderstein folds
+MezcalMule calls $0.01
+Parzival2801 raises $0.06 to $0.08
+MezcalMule folds
+Uncalled bet ($0.06) returned to Parzival2801
+Parzival2801 does not show
+*** SUMMARY ***
+Total pot $0.04
+Seat 1: IMALLINNOOB folded on the Pre-Flop and did not bet
+Seat 2: Wooderstein (button) folded on the Pre-Flop
+Seat 4: MezcalMule (small blind) folded on the Pre-Flop
+Seat 5: Parzival2801 did not show and won $0.04
+Seat 6: LARRYWALNUTS folded on the Pre-Flop and did not bet
+
+Hand #994719129 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 03:32:58 UTC
+Buckhorn 6-max Seat #4 is the button
+Seat 1: IMALLINNOOB ($3.58)
+Seat 2: Wooderstein ($4.45)
+Seat 3: kevconde999 ($2.00) is sitting out
+Seat 4: MezcalMule ($1.75)
+Seat 5: Parzival2801 ($2.13)
+Seat 6: LARRYWALNUTS ($2.15)
+Parzival2801 posts the small blind $0.01
+LARRYWALNUTS posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [6c 5s]
+IMALLINNOOB folds
+Wooderstein folds
+MezcalMule folds
+Parzival2801 folds
+LARRYWALNUTS does not show
+*** SUMMARY ***
+Total pot $0.03
+Seat 1: IMALLINNOOB folded on the Pre-Flop and did not bet
+Seat 2: Wooderstein folded on the Pre-Flop and did not bet
+Seat 4: MezcalMule (button) folded on the Pre-Flop
+Seat 5: Parzival2801 (small blind) folded on the Pre-Flop
+Seat 6: LARRYWALNUTS did not show and won $0.03
+
+Hand #994719645 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 03:33:29 UTC
+Buckhorn 6-max Seat #5 is the button
+Seat 1: IMALLINNOOB ($3.58)
+Seat 2: Wooderstein ($4.45)
+Seat 3: kevconde999 ($2.00) is sitting out
+Seat 4: MezcalMule ($1.75)
+Seat 5: Parzival2801 ($2.12)
+Seat 6: LARRYWALNUTS ($2.16)
+LARRYWALNUTS posts the small blind $0.01
+IMALLINNOOB posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [5d 4s]
+Wooderstein folds
+MezcalMule folds
+Parzival2801 raises $0.05 to $0.05
+LARRYWALNUTS folds
+IMALLINNOOB calls $0.03
+*** FLOP *** [3d Jh 3h]
+Main pot $0.11 | Rake $0.00
+IMALLINNOOB checks
+Parzival2801 bets $0.03
+IMALLINNOOB folds
+Uncalled bet ($0.03) returned to Parzival2801
+Parzival2801 does not show
+*** SUMMARY ***
+Total pot $0.11
+Board [3d Jh 3h]
+Seat 1: IMALLINNOOB (big blind) folded on the Flop
+Seat 2: Wooderstein folded on the Pre-Flop and did not bet
+Seat 4: MezcalMule folded on the Pre-Flop and did not bet
+Seat 5: Parzival2801 did not show and won $0.11
+Seat 6: LARRYWALNUTS (small blind) folded on the Pre-Flop
+
+Hand #994720457 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 03:34:19 UTC
+Buckhorn 6-max Seat #6 is the button
+Seat 1: IMALLINNOOB ($3.53)
+Seat 2: Wooderstein ($4.45)
+Seat 3: kevconde999 ($2.00) is sitting out
+Seat 4: MezcalMule ($1.75)
+Seat 5: Parzival2801 ($2.18)
+Seat 6: LARRYWALNUTS ($2.15)
+IMALLINNOOB posts the small blind $0.01
+Wooderstein posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [6d Qh]
+MezcalMule folds
+Parzival2801 folds
+LARRYWALNUTS folds
+IMALLINNOOB raises $0.05 to $0.06
+Wooderstein folds
+Uncalled bet ($0.04) returned to IMALLINNOOB
+IMALLINNOOB does not show
+*** SUMMARY ***
+Total pot $0.04
+Seat 1: IMALLINNOOB did not show and won $0.04
+Seat 2: Wooderstein (big blind) folded on the Pre-Flop
+Seat 4: MezcalMule folded on the Pre-Flop and did not bet
+Seat 5: Parzival2801 folded on the Pre-Flop and did not bet
+Seat 6: LARRYWALNUTS (button) folded on the Pre-Flop
+
+Hand #994720926 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 03:34:45 UTC
+Buckhorn 6-max Seat #1 is the button
+Seat 1: IMALLINNOOB ($3.55)
+Seat 2: Wooderstein ($4.43)
+Seat 3: kevconde999 ($2.00) is sitting out
+Seat 4: MezcalMule ($1.75)
+Seat 5: Parzival2801 ($2.18)
+Seat 6: LARRYWALNUTS ($2.15)
+Wooderstein posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [4s Qh]
+Parzival2801 raises $0.06 to $0.06
+LARRYWALNUTS raises $0.11 to $0.11
+IMALLINNOOB folds
+Wooderstein folds
+MezcalMule folds
+Parzival2801 calls $0.05
+*** FLOP *** [3s Kd Ad]
+Main pot $0.24 | Rake $0.01
+Parzival2801 checks
+LARRYWALNUTS bets $0.04
+Parzival2801 calls $0.04
+*** TURN *** [3s Kd Ad] [7c]
+Main pot $0.32 | Rake $0.01
+Parzival2801 checks
+LARRYWALNUTS checks
+*** RIVER *** [3s Kd Ad 7c] [9h]
+Main pot $0.32 | Rake $0.01
+Parzival2801 checks
+LARRYWALNUTS checks
+*** SHOW DOWN ***
+Main pot $0.32 | Rake $0.01
+Parzival2801 shows [8d 8s] (a pair of Eights [8s 8d Ad Kd 9h])
+LARRYWALNUTS shows [Ah 6d] (a pair of Aces [Ah Ad Kd 9h 7c])
+LARRYWALNUTS collected $0.32 from main pot
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01
+Board [3s Kd Ad 7c 9h]
+Seat 1: IMALLINNOOB (button) folded on the Pre-Flop
+Seat 2: Wooderstein (small blind) folded on the Pre-Flop
+Seat 4: MezcalMule (big blind) folded on the Pre-Flop
+Seat 5: Parzival2801 showed [8d 8s] and lost with a pair of Eights [8s 8d Ad Kd 9h]
+Seat 6: LARRYWALNUTS showed [Ah 6d] and won $0.32 with a pair of Aces [Ah Ad Kd 9h 7c]
+
+Hand #994721913 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 03:35:45 UTC
+Buckhorn 6-max Seat #2 is the button
+Seat 1: IMALLINNOOB ($3.55)
+Seat 2: Wooderstein ($4.42)
+Seat 3: kevconde999 ($2.00) is sitting out
+Seat 4: MezcalMule ($1.73)
+Seat 5: Parzival2801 ($2.03)
+Seat 6: LARRYWALNUTS ($2.32)
+MezcalMule posts the small blind $0.01
+Parzival2801 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Jc 6h]
+LARRYWALNUTS folds
+IMALLINNOOB folds
+Wooderstein folds
+MezcalMule calls $0.01
+Parzival2801 checks
+*** FLOP *** [8d 2h Js]
+Main pot $0.04 | Rake $0.00
+MezcalMule checks
+Parzival2801 bets $0.02
+MezcalMule calls $0.02
+*** TURN *** [8d 2h Js] [Kd]
+Main pot $0.08 | Rake $0.00
+MezcalMule checks
+Parzival2801 checks
+*** RIVER *** [8d 2h Js Kd] [4c]
+Main pot $0.08 | Rake $0.00
+MezcalMule bets $0.06
+Parzival2801 calls $0.06
+*** SHOW DOWN ***
+Main pot $0.19 | Rake $0.01
+MezcalMule shows [Jc 6h] (a pair of Jacks [Js Jc Kd 8d 6h])
+Parzival2801 shows [3d Jh] (a pair of Jacks [Js Jh Kd 8d 4c])
+MezcalMule collected $0.19 from main pot
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01
+Board [8d 2h Js Kd 4c]
+Seat 1: IMALLINNOOB folded on the Pre-Flop and did not bet
+Seat 2: Wooderstein (button) folded on the Pre-Flop
+Seat 4: MezcalMule (small blind) showed [Jc 6h] and won $0.19 with a pair of Jacks [Js Jc Kd 8d 6h] with the kicker Six
+Seat 5: Parzival2801 (big blind) showed [3d Jh] and lost with a pair of Jacks [Js Jh Kd 8d 4c]
+Seat 6: LARRYWALNUTS folded on the Pre-Flop and did not bet
+
+Hand #994723023 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 03:36:53 UTC
+Buckhorn 6-max Seat #4 is the button
+Seat 1: IMALLINNOOB ($3.55)
+Seat 2: Wooderstein ($4.42)
+Seat 3: kevconde999 ($2.00) is sitting out
+Seat 4: MezcalMule ($1.82)
+Seat 5: Parzival2801 ($2.00)
+Seat 6: LARRYWALNUTS ($2.32)
+Parzival2801 posts the small blind $0.01
+LARRYWALNUTS posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [5d Ts]
+IMALLINNOOB folds
+Wooderstein folds
+MezcalMule folds
+Parzival2801 folds
+LARRYWALNUTS does not show
+*** SUMMARY ***
+Total pot $0.03
+Seat 1: IMALLINNOOB folded on the Pre-Flop and did not bet
+Seat 2: Wooderstein folded on the Pre-Flop and did not bet
+Seat 4: MezcalMule (button) folded on the Pre-Flop
+Seat 5: Parzival2801 (small blind) folded on the Pre-Flop
+Seat 6: LARRYWALNUTS did not show and won $0.03
+
+Hand #994723372 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 03:37:14 UTC
+Buckhorn 6-max Seat #5 is the button
+Seat 1: IMALLINNOOB ($3.55)
+Seat 2: Wooderstein ($4.42)
+Seat 3: kevconde999 ($2.00) is sitting out
+Seat 4: MezcalMule ($1.82)
+Seat 5: Parzival2801 ($2.00)
+Seat 6: LARRYWALNUTS ($2.33)
+LARRYWALNUTS posts the small blind $0.01
+IMALLINNOOB posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [7c 5d]
+Wooderstein folds
+MezcalMule folds
+Parzival2801 folds
+LARRYWALNUTS folds
+IMALLINNOOB does not show
+*** SUMMARY ***
+Total pot $0.03
+Seat 1: IMALLINNOOB did not show and won $0.03
+Seat 2: Wooderstein folded on the Pre-Flop and did not bet
+Seat 4: MezcalMule folded on the Pre-Flop and did not bet
+Seat 5: Parzival2801 (button) folded on the Pre-Flop
+Seat 6: LARRYWALNUTS (small blind) folded on the Pre-Flop
+
+Hand #994723799 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 03:37:40 UTC
+Buckhorn 6-max Seat #6 is the button
+Seat 1: IMALLINNOOB ($3.56)
+Seat 2: Wooderstein ($4.42)
+Seat 3: kevconde999 ($2.00) is sitting out
+Seat 4: MezcalMule ($1.82)
+Seat 5: Parzival2801 ($2.00)
+Seat 6: LARRYWALNUTS ($2.32)
+IMALLINNOOB posts the small blind $0.01
+Wooderstein posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [7s 4s]
+MezcalMule folds
+Parzival2801 raises $0.06 to $0.06
+LARRYWALNUTS calls $0.06
+IMALLINNOOB folds
+Wooderstein folds
+*** FLOP *** [Ts 8c 3s]
+Main pot $0.15 | Rake $0.00
+Parzival2801 checks
+LARRYWALNUTS checks
+*** TURN *** [Ts 8c 3s] [7c]
+Main pot $0.15 | Rake $0.00
+Parzival2801 checks
+LARRYWALNUTS bets $0.06
+Parzival2801 calls $0.06
+*** RIVER *** [Ts 8c 3s 7c] [As]
+Main pot $0.26 | Rake $0.01
+Parzival2801 checks
+LARRYWALNUTS checks
+*** SHOW DOWN ***
+Main pot $0.26 | Rake $0.01
+Parzival2801 shows [9h Ad] (a pair of Aces [As Ad Ts 9h 8c])
+LARRYWALNUTS shows [9c 9s] (a pair of Nines [9s 9c As Ts 8c])
+Parzival2801 collected $0.26 from main pot
+*** SUMMARY ***
+Total pot $0.26 | Rake $0.01
+Board [Ts 8c 3s 7c As]
+Seat 1: IMALLINNOOB (small blind) folded on the Pre-Flop
+Seat 2: Wooderstein (big blind) folded on the Pre-Flop
+Seat 4: MezcalMule folded on the Pre-Flop and did not bet
+Seat 5: Parzival2801 showed [9h Ad] and won $0.26 with a pair of Aces [As Ad Ts 9h 8c]
+Seat 6: LARRYWALNUTS (button) showed [9c 9s] and lost with a pair of Nines [9s 9c As Ts 8c]
+
+Hand #994724637 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 03:38:31 UTC
+Buckhorn 6-max Seat #1 is the button
+Seat 1: IMALLINNOOB ($3.55)
+Seat 2: Wooderstein ($4.40)
+Seat 3: kevconde999 ($2.00) is sitting out
+Seat 4: MezcalMule ($1.82)
+Seat 5: Parzival2801 ($2.14)
+Seat 6: LARRYWALNUTS ($2.20)
+Wooderstein posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Ks 7s]
+Parzival2801 raises $0.06 to $0.06
+LARRYWALNUTS folds
+IMALLINNOOB folds
+Wooderstein folds
+MezcalMule calls $0.04
+*** FLOP *** [Jd As 8c]
+Main pot $0.13 | Rake $0.00
+MezcalMule checks
+Parzival2801 bets $0.05
+MezcalMule folds
+Uncalled bet ($0.05) returned to Parzival2801
+Parzival2801 does not show
+*** SUMMARY ***
+Total pot $0.13
+Board [Jd As 8c]
+Seat 1: IMALLINNOOB (button) folded on the Pre-Flop
+Seat 2: Wooderstein (small blind) folded on the Pre-Flop
+Seat 4: MezcalMule (big blind) folded on the Flop
+Seat 5: Parzival2801 did not show and won $0.13
+Seat 6: LARRYWALNUTS folded on the Pre-Flop and did not bet
+
+Hand #994725049 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 03:38:57 UTC
+Buckhorn 6-max Seat #2 is the button
+Seat 1: IMALLINNOOB ($3.55)
+Seat 2: Wooderstein ($4.39)
+Seat 3: kevconde999 ($2.00) is sitting out
+Seat 4: MezcalMule ($1.76)
+Seat 5: Parzival2801 ($2.21)
+Seat 6: LARRYWALNUTS ($2.20)
+MezcalMule posts the small blind $0.01
+Parzival2801 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [7h Kc]
+LARRYWALNUTS folds
+IMALLINNOOB raises $0.06 to $0.06
+Wooderstein folds
+MezcalMule folds
+Parzival2801 folds
+Uncalled bet ($0.04) returned to IMALLINNOOB
+IMALLINNOOB does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: IMALLINNOOB did not show and won $0.05
+Seat 2: Wooderstein (button) folded on the Pre-Flop
+Seat 4: MezcalMule (small blind) folded on the Pre-Flop
+Seat 5: Parzival2801 (big blind) folded on the Pre-Flop
+Seat 6: LARRYWALNUTS folded on the Pre-Flop and did not bet
+
+Hand #994725658 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 03:39:35 UTC
+Buckhorn 6-max Seat #4 is the button
+Seat 1: IMALLINNOOB ($3.58)
+Seat 2: Wooderstein ($4.39)
+Seat 3: kevconde999 ($2.00) is sitting out
+Seat 4: MezcalMule ($1.75)
+Seat 5: Parzival2801 ($2.19)
+Seat 6: LARRYWALNUTS ($2.20)
+Parzival2801 posts the small blind $0.01
+LARRYWALNUTS posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [7h Th]
+IMALLINNOOB folds
+Wooderstein folds
+MezcalMule calls $0.02
+Parzival2801 folds
+LARRYWALNUTS checks
+*** FLOP *** [8h 4s 5h]
+Main pot $0.05 | Rake $0.00
+LARRYWALNUTS checks
+MezcalMule bets $0.03
+LARRYWALNUTS calls $0.03
+*** TURN *** [8h 4s 5h] [Kh]
+Main pot $0.11 | Rake $0.00
+LARRYWALNUTS checks
+MezcalMule bets $0.06
+LARRYWALNUTS folds
+Uncalled bet ($0.06) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.11
+Board [8h 4s 5h Kh]
+Seat 1: IMALLINNOOB folded on the Pre-Flop and did not bet
+Seat 2: Wooderstein folded on the Pre-Flop and did not bet
+Seat 4: MezcalMule did not show and won $0.11
+Seat 5: Parzival2801 (small blind) folded on the Pre-Flop
+Seat 6: LARRYWALNUTS (big blind) folded on the Turn
+
+Hand #994726435 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 03:40:23 UTC
+Buckhorn 6-max Seat #5 is the button
+Seat 1: IMALLINNOOB ($3.58)
+Seat 2: Wooderstein ($4.39)
+Seat 3: kevconde999 ($2.00) is sitting out
+Seat 4: MezcalMule ($1.81)
+Seat 5: Parzival2801 ($2.18)
+Seat 6: LARRYWALNUTS ($2.15)
+LARRYWALNUTS posts the small blind $0.01
+IMALLINNOOB posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [6s 9c]
+Wooderstein folds
+MezcalMule raises $0.04 to $0.04
+Parzival2801 folds
+LARRYWALNUTS folds
+IMALLINNOOB folds
+Uncalled bet ($0.02) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: IMALLINNOOB (big blind) folded on the Pre-Flop
+Seat 2: Wooderstein folded on the Pre-Flop and did not bet
+Seat 4: MezcalMule did not show and won $0.05
+Seat 5: Parzival2801 (button) folded on the Pre-Flop
+Seat 6: LARRYWALNUTS (small blind) folded on the Pre-Flop
+
+Hand #994726870 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 03:40:49 UTC
+Buckhorn 6-max Seat #6 is the button
+Seat 1: IMALLINNOOB ($3.56)
+Seat 2: Wooderstein ($4.39)
+Seat 3: kevconde999 ($2.00) is sitting out
+Seat 4: MezcalMule ($1.84)
+Seat 5: Parzival2801 ($2.18)
+Seat 6: LARRYWALNUTS ($2.14)
+IMALLINNOOB posts the small blind $0.01
+Wooderstein posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [9d Js]
+MezcalMule raises $0.04 to $0.04
+Parzival2801 folds
+LARRYWALNUTS folds
+IMALLINNOOB folds
+Wooderstein folds
+Uncalled bet ($0.02) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: IMALLINNOOB (small blind) folded on the Pre-Flop
+Seat 2: Wooderstein (big blind) folded on the Pre-Flop
+Seat 4: MezcalMule did not show and won $0.05
+Seat 5: Parzival2801 folded on the Pre-Flop and did not bet
+Seat 6: LARRYWALNUTS (button) folded on the Pre-Flop
+
+Hand #994727265 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 03:41:13 UTC
+Buckhorn 6-max Seat #1 is the button
+Seat 1: IMALLINNOOB ($3.55)
+Seat 2: Wooderstein ($4.37)
+Seat 3: kevconde999 ($2.00) is sitting out
+Seat 4: MezcalMule ($1.87)
+Seat 5: Parzival2801 ($2.18)
+Seat 6: LARRYWALNUTS ($2.14)
+Wooderstein posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [8c Jh]
+Parzival2801 folds
+LARRYWALNUTS folds
+IMALLINNOOB folds
+Wooderstein folds
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.03
+Seat 1: IMALLINNOOB (button) folded on the Pre-Flop
+Seat 2: Wooderstein (small blind) folded on the Pre-Flop
+Seat 4: MezcalMule did not show and won $0.03
+Seat 5: Parzival2801 folded on the Pre-Flop and did not bet
+Seat 6: LARRYWALNUTS folded on the Pre-Flop and did not bet
+
+Hand #994727459 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 03:41:23 UTC
+Buckhorn 6-max Seat #2 is the button
+Seat 1: IMALLINNOOB ($3.55)
+Seat 2: Wooderstein ($4.36)
+Seat 3: kevconde999 ($2.00) is sitting out
+Seat 4: MezcalMule ($1.88)
+Seat 5: Parzival2801 ($2.18)
+Seat 6: LARRYWALNUTS ($2.14)
+MezcalMule posts the small blind $0.01
+Parzival2801 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [7s 9d]
+LARRYWALNUTS raises $0.05 to $0.05
+IMALLINNOOB calls $0.05
+Wooderstein folds
+MezcalMule folds
+Parzival2801 calls $0.03
+*** FLOP *** [5s 3h 4c]
+Main pot $0.16 | Rake $0.00
+Parzival2801 checks
+LARRYWALNUTS checks
+IMALLINNOOB checks
+*** TURN *** [5s 3h 4c] [4h]
+Main pot $0.16 | Rake $0.00
+Parzival2801 checks
+LARRYWALNUTS checks
+IMALLINNOOB bets $0.12
+Parzival2801 folds
+LARRYWALNUTS calls $0.12
+*** RIVER *** [5s 3h 4c 4h] [Ts]
+Main pot $0.38 | Rake $0.02
+LARRYWALNUTS checks
+IMALLINNOOB checks
+*** SHOW DOWN ***
+Main pot $0.38 | Rake $0.02
+IMALLINNOOB shows [2d 2s] (two pair, Fours and Deuces [4h 4c 2s 2d Ts])
+LARRYWALNUTS shows [Ad Jc] (a pair of Fours [4h 4c Ad Jc Ts])
+IMALLINNOOB collected $0.38 from main pot
+*** SUMMARY ***
+Total pot $0.38 | Rake $0.02
+Board [5s 3h 4c 4h Ts]
+Seat 1: IMALLINNOOB showed [2d 2s] and won $0.38 with two pair, Fours and Deuces [4h 4c 2s 2d Ts]
+Seat 2: Wooderstein (button) folded on the Pre-Flop
+Seat 4: MezcalMule (small blind) folded on the Pre-Flop
+Seat 5: Parzival2801 (big blind) folded on the Turn
+Seat 6: LARRYWALNUTS showed [Ad Jc] and lost with a pair of Fours [4h 4c Ad Jc Ts]
+
+Hand #994728320 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 03:42:15 UTC
+Buckhorn 6-max Seat #4 is the button
+Seat 1: IMALLINNOOB ($3.76)
+Seat 2: Wooderstein ($4.36)
+Seat 3: kevconde999 ($2.00) is sitting out
+Seat 4: MezcalMule ($1.87)
+Seat 5: Parzival2801 ($2.13)
+Seat 6: LARRYWALNUTS ($1.97)
+Parzival2801 posts the small blind $0.01
+LARRYWALNUTS posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [4h Ts]
+IMALLINNOOB folds
+Wooderstein raises $0.05 to $0.05
+MezcalMule folds
+Parzival2801 folds
+LARRYWALNUTS folds
+Uncalled bet ($0.03) returned to Wooderstein
+Wooderstein does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: IMALLINNOOB folded on the Pre-Flop and did not bet
+Seat 2: Wooderstein did not show and won $0.05
+Seat 4: MezcalMule (button) folded on the Pre-Flop
+Seat 5: Parzival2801 (small blind) folded on the Pre-Flop
+Seat 6: LARRYWALNUTS (big blind) folded on the Pre-Flop
+
+Hand #994728614 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 03:42:33 UTC
+Buckhorn 6-max Seat #5 is the button
+Seat 1: IMALLINNOOB ($3.76)
+Seat 2: Wooderstein ($4.39)
+Seat 3: kevconde999 ($2.00) is sitting out
+Seat 4: MezcalMule ($1.87)
+Seat 5: Parzival2801 ($2.12)
+Seat 6: LARRYWALNUTS ($1.95)
+LARRYWALNUTS posts the small blind $0.01
+IMALLINNOOB posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [2c Qd]
+Wooderstein folds
+MezcalMule folds
+Parzival2801 folds
+LARRYWALNUTS folds
+IMALLINNOOB does not show
+*** SUMMARY ***
+Total pot $0.03
+Seat 1: IMALLINNOOB did not show and won $0.03
+Seat 2: Wooderstein folded on the Pre-Flop and did not bet
+Seat 4: MezcalMule folded on the Pre-Flop and did not bet
+Seat 5: Parzival2801 (button) folded on the Pre-Flop
+Seat 6: LARRYWALNUTS (small blind) folded on the Pre-Flop
+
+Hand #994728892 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 03:42:51 UTC
+Buckhorn 6-max Seat #6 is the button
+Seat 1: IMALLINNOOB ($3.77)
+Seat 2: Wooderstein ($4.39)
+Seat 3: kevconde999 ($2.00) is sitting out
+Seat 4: MezcalMule ($1.87)
+Seat 5: Parzival2801 ($2.12)
+Seat 6: LARRYWALNUTS ($1.94)
+IMALLINNOOB posts the small blind $0.01
+Wooderstein posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [4c Qd]
+MezcalMule folds
+Parzival2801 folds
+LARRYWALNUTS folds
+IMALLINNOOB raises $0.05 to $0.06
+Wooderstein folds
+Uncalled bet ($0.04) returned to IMALLINNOOB
+IMALLINNOOB does not show
+*** SUMMARY ***
+Total pot $0.04
+Seat 1: IMALLINNOOB did not show and won $0.04
+Seat 2: Wooderstein (big blind) folded on the Pre-Flop
+Seat 4: MezcalMule folded on the Pre-Flop and did not bet
+Seat 5: Parzival2801 folded on the Pre-Flop and did not bet
+Seat 6: LARRYWALNUTS (button) folded on the Pre-Flop
+
+Hand #994729243 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 03:43:11 UTC
+Buckhorn 6-max Seat #1 is the button
+Seat 1: IMALLINNOOB ($3.79)
+Seat 2: Wooderstein ($4.37)
+Seat 3: kevconde999 ($2.00) is sitting out
+Seat 4: MezcalMule ($1.87)
+Seat 5: Parzival2801 ($2.12)
+Seat 6: LARRYWALNUTS ($1.94)
+Wooderstein posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Tc Jh]
+Parzival2801 folds
+LARRYWALNUTS raises $0.05 to $0.05
+IMALLINNOOB calls $0.05
+Wooderstein folds
+MezcalMule calls $0.03
+*** FLOP *** [Ah Qc 7s]
+Main pot $0.16 | Rake $0.00
+MezcalMule checks
+LARRYWALNUTS bets $0.07
+IMALLINNOOB calls $0.07
+MezcalMule calls $0.07
+*** TURN *** [Ah Qc 7s] [4h]
+Main pot $0.36 | Rake $0.01
+MezcalMule checks
+LARRYWALNUTS checks
+IMALLINNOOB checks
+*** RIVER *** [Ah Qc 7s 4h] [Kc]
+Main pot $0.36 | Rake $0.01
+MezcalMule bets $0.09
+LARRYWALNUTS folds
+IMALLINNOOB calls $0.09
+*** SHOW DOWN ***
+Main pot $0.53 | Rake $0.02
+IMALLINNOOB shows [Ad 2s] (a pair of Aces [Ah Ad Kc Qc 7s])
+MezcalMule shows [Tc Jh] (a straight, Ace high [Ah Kc Qc Jh Tc])
+MezcalMule collected $0.53 from main pot
+*** SUMMARY ***
+Total pot $0.53 | Rake $0.02
+Board [Ah Qc 7s 4h Kc]
+Seat 1: IMALLINNOOB (button) showed [Ad 2s] and lost with a pair of Aces [Ah Ad Kc Qc 7s]
+Seat 2: Wooderstein (small blind) folded on the Pre-Flop
+Seat 4: MezcalMule (big blind) showed [Tc Jh] and won $0.53 with a straight, Ace high [Ah Kc Qc Jh Tc]
+Seat 5: Parzival2801 folded on the Pre-Flop and did not bet
+Seat 6: LARRYWALNUTS folded on the River
+
+Hand #994730433 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 03:44:24 UTC
+Buckhorn 6-max Seat #2 is the button
+Seat 1: IMALLINNOOB ($3.58) is sitting out
+Seat 2: Wooderstein ($4.36)
+Seat 3: kevconde999 will be allowed to play after the button
+Seat 4: MezcalMule ($2.19)
+Seat 5: Parzival2801 ($2.12)
+Seat 6: LARRYWALNUTS ($1.82)
+MezcalMule posts the small blind $0.01
+Parzival2801 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [2s 8h]
+LARRYWALNUTS folds
+Wooderstein raises $0.05 to $0.05
+MezcalMule folds
+Parzival2801 calls $0.03
+*** FLOP *** [7h 9s 6s]
+Main pot $0.11 | Rake $0.00
+Parzival2801 checks
+Wooderstein checks
+*** TURN *** [7h 9s 6s] [7s]
+Main pot $0.11 | Rake $0.00
+Parzival2801 checks
+Wooderstein bets $0.08
+Parzival2801 folds
+Uncalled bet ($0.08) returned to Wooderstein
+Wooderstein does not show
+*** SUMMARY ***
+Total pot $0.11
+Board [7h 9s 6s 7s]
+Seat 2: Wooderstein did not show and won $0.11
+Seat 4: MezcalMule (small blind) folded on the Pre-Flop
+Seat 5: Parzival2801 (big blind) folded on the Turn
+Seat 6: LARRYWALNUTS folded on the Pre-Flop and did not bet
+
+Hand #994730960 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 03:44:56 UTC
+Buckhorn 6-max Seat #4 is the button
+Seat 2: Wooderstein ($4.42)
+Seat 3: kevconde999 ($2.00)
+Seat 4: MezcalMule ($2.18)
+Seat 5: Parzival2801 ($2.07)
+Seat 6: LARRYWALNUTS ($1.82)
+Parzival2801 posts the small blind $0.01
+LARRYWALNUTS posts the big blind $0.02
+kevconde999 waits for big blind
+*** HOLE CARDS ***
+Dealt to MezcalMule [Ts 6d]
+Wooderstein folds
+MezcalMule folds
+Parzival2801 folds
+LARRYWALNUTS does not show
+*** SUMMARY ***
+Total pot $0.03
+Seat 2: Wooderstein folded on the Pre-Flop and did not bet
+Seat 4: MezcalMule (button) folded on the Pre-Flop
+Seat 5: Parzival2801 (small blind) folded on the Pre-Flop
+Seat 6: LARRYWALNUTS did not show and won $0.03
+
+Hand #994731233 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 03:45:13 UTC
+Buckhorn 6-max Seat #5 is the button
+Seat 2: Wooderstein ($4.42)
+Seat 3: kevconde999 ($2.00)
+Seat 4: MezcalMule ($2.18)
+Seat 5: Parzival2801 ($2.06)
+Seat 6: LARRYWALNUTS ($1.83)
+LARRYWALNUTS posts the small blind $0.01
+Wooderstein posts the big blind $0.02
+kevconde999 waits for big blind
+*** HOLE CARDS ***
+Dealt to MezcalMule [Kh 2h]
+MezcalMule raises $0.04 to $0.04
+Parzival2801 folds
+LARRYWALNUTS calls $0.03
+Wooderstein folds
+*** FLOP *** [5c 5s Qs]
+Main pot $0.10 | Rake $0.00
+LARRYWALNUTS checks
+MezcalMule checks
+*** TURN *** [5c 5s Qs] [3d]
+Main pot $0.10 | Rake $0.00
+LARRYWALNUTS checks
+MezcalMule bets $0.07
+LARRYWALNUTS calls $0.07
+*** RIVER *** [5c 5s Qs 3d] [6s]
+Main pot $0.23 | Rake $0.01
+LARRYWALNUTS checks
+MezcalMule bets $0.30
+LARRYWALNUTS folds
+Uncalled bet ($0.30) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01
+Board [5c 5s Qs 3d 6s]
+Seat 2: Wooderstein (big blind) folded on the Pre-Flop
+Seat 4: MezcalMule did not show and won $0.23
+Seat 5: Parzival2801 (button) folded on the Pre-Flop
+Seat 6: LARRYWALNUTS (small blind) folded on the River
+
+Hand #994732182 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 03:46:15 UTC
+Buckhorn 6-max Seat #6 is the button
+Seat 3: kevconde999 ($2.00)
+Seat 4: MezcalMule ($2.30)
+Seat 5: Parzival2801 ($2.06)
+Seat 6: LARRYWALNUTS ($1.72)
+kevconde999 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [6d Td]
+MezcalMule calls $0.02
+Parzival2801 raises $0.10 to $0.10
+LARRYWALNUTS folds
+kevconde999 folds
+MezcalMule folds
+Uncalled bet ($0.08) returned to Parzival2801
+Parzival2801 does not show
+*** SUMMARY ***
+Total pot $0.06
+Seat 3: kevconde999 (big blind) folded on the Pre-Flop
+Seat 4: MezcalMule folded on the Pre-Flop and did not bet
+Seat 5: Parzival2801 did not show and won $0.06
+Seat 6: LARRYWALNUTS (button) folded on the Pre-Flop
+
+Hand #994732869 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/28 03:46:57 UTC
+Buckhorn 6-max Seat #2 is the button
+Seat 3: kevconde999 ($2.00)
+Seat 4: MezcalMule ($2.28)
+Seat 5: Parzival2801 ($2.10)
+kevconde999 posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Kh 9d]
+Parzival2801 folds
+kevconde999 folds
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.03
+Seat 3: kevconde999 (small blind) folded on the Pre-Flop
+Seat 4: MezcalMule did not show and won $0.03
+Seat 5: Parzival2801 folded on the Pre-Flop and did not bet
+

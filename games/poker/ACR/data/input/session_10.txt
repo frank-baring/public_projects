@@ -1,0 +1,692 @@
+Hand #1031016267 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/01 02:28:41 UTC
+Loretto 6-max Seat #3 is the button
+Seat 1: Burnt ($2.00)
+Seat 3: littlebri8 ($2.20)
+Seat 4: ulises1 ($2.42)
+Seat 5: MezcalMule ($1.43)
+ulises1 posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+Burnt waits for big blind
+*** HOLE CARDS ***
+Dealt to MezcalMule [5s 5h]
+littlebri8 folds
+ulises1 raises $0.03 to $0.04
+MezcalMule calls $0.02
+*** FLOP *** [8c 6c 4c]
+Main pot $0.08 | Rake $0.00
+ulises1 checks
+MezcalMule bets $0.06
+ulises1 folds
+Uncalled bet ($0.06) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.08
+Board [8c 6c 4c]
+Seat 3: littlebri8 (button) folded on the Pre-Flop
+Seat 4: ulises1 (small blind) folded on the Flop
+Seat 5: MezcalMule did not show and won $0.08
+
+Hand #1031017419 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/01 02:29:31 UTC
+Loretto 6-max Seat #4 is the button
+Seat 1: Burnt ($2.00)
+Seat 2: Ken47 ($2.00)
+Seat 3: littlebri8 ($2.20)
+Seat 4: ulises1 ($2.38)
+Seat 5: MezcalMule ($1.47)
+MezcalMule posts the small blind $0.01
+Burnt posts the big blind $0.02
+Ken47 waits for big blind
+*** HOLE CARDS ***
+Dealt to MezcalMule [Qc Jd]
+littlebri8 folds
+ulises1 folds
+MezcalMule calls $0.01
+Burnt checks
+*** FLOP *** [Ac 9h 7h]
+Main pot $0.04 | Rake $0.00
+MezcalMule checks
+Burnt checks
+*** TURN *** [Ac 9h 7h] [Jh]
+Main pot $0.04 | Rake $0.00
+MezcalMule checks
+Burnt checks
+*** RIVER *** [Ac 9h 7h Jh] [Td]
+Main pot $0.04 | Rake $0.00
+MezcalMule bets $0.03
+Burnt raises $0.09 to $0.09
+MezcalMule folds
+Uncalled bet ($0.06) returned to Burnt
+Burnt does not show
+*** SUMMARY ***
+Total pot $0.10
+Board [Ac 9h 7h Jh Td]
+Seat 1: Burnt did not show and won $0.10
+Seat 3: littlebri8 folded on the Pre-Flop and did not bet
+Seat 4: ulises1 (button) folded on the Pre-Flop
+Seat 5: MezcalMule (small blind) folded on the River
+
+Hand #1031019658 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/01 02:31:08 UTC
+Loretto 6-max Seat #5 is the button
+Seat 1: Burnt ($2.05)
+Seat 2: Ken47 ($2.00)
+Seat 3: littlebri8 ($2.20)
+Seat 4: ulises1 ($2.38)
+Seat 5: MezcalMule ($1.42)
+Burnt posts the small blind $0.01
+Ken47 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Js 9h]
+littlebri8 raises $0.04 to $0.04
+ulises1 folds
+MezcalMule folds
+Burnt folds
+Ken47 folds
+Uncalled bet ($0.02) returned to littlebri8
+littlebri8 does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: Burnt (small blind) folded on the Pre-Flop
+Seat 2: Ken47 (big blind) folded on the Pre-Flop
+Seat 3: littlebri8 did not show and won $0.05
+Seat 4: ulises1 folded on the Pre-Flop and did not bet
+Seat 5: MezcalMule (button) folded on the Pre-Flop
+
+Hand #1031020272 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/01 02:31:36 UTC
+Loretto 6-max Seat #1 is the button
+Seat 1: Burnt ($2.04)
+Seat 2: Ken47 ($2.00)
+Seat 3: littlebri8 ($2.23)
+Seat 4: ulises1 ($2.38)
+Seat 5: MezcalMule ($1.42)
+Ken47 posts the small blind $0.01
+littlebri8 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Kh As]
+ulises1 folds
+MezcalMule raises $0.05 to $0.05
+Burnt folds
+Ken47 folds
+littlebri8 calls $0.03
+*** FLOP *** [Qc 9c 8c]
+Main pot $0.11 | Rake $0.00
+littlebri8 checks
+MezcalMule checks
+*** TURN *** [Qc 9c 8c] [Kc]
+Main pot $0.11 | Rake $0.00
+littlebri8 checks
+MezcalMule checks
+*** RIVER *** [Qc 9c 8c Kc] [Qh]
+Main pot $0.11 | Rake $0.00
+littlebri8 bets $0.11
+MezcalMule folds
+Uncalled bet ($0.11) returned to littlebri8
+littlebri8 does not show
+*** SUMMARY ***
+Total pot $0.11
+Board [Qc 9c 8c Kc Qh]
+Seat 1: Burnt (button) folded on the Pre-Flop
+Seat 2: Ken47 (small blind) folded on the Pre-Flop
+Seat 3: littlebri8 did not show and won $0.11
+Seat 4: ulises1 folded on the Pre-Flop and did not bet
+Seat 5: MezcalMule folded on the River
+
+Hand #1031021830 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/01 02:32:44 UTC
+Loretto 6-max Seat #2 is the button
+Seat 1: Burnt ($2.04)
+Seat 2: Ken47 ($2.00)
+Seat 3: littlebri8 ($2.29) is sitting out
+Seat 4: ulises1 ($2.38)
+Seat 5: MezcalMule ($1.37)
+Seat 6: XX MUCKY XX ($0.99)
+ulises1 posts the big blind $0.02
+XX MUCKY XX waits for big blind
+*** HOLE CARDS ***
+Dealt to MezcalMule [5s 8s]
+MezcalMule calls $0.02
+Burnt raises $0.06 to $0.06
+Ken47 folds
+ulises1 folds
+MezcalMule folds
+Uncalled bet ($0.04) returned to Burnt
+Burnt does not show
+*** SUMMARY ***
+Total pot $0.06
+Seat 1: Burnt did not show and won $0.06
+Seat 2: Ken47 (button) folded on the Pre-Flop
+Seat 4: ulises1 (big blind) folded on the Pre-Flop
+Seat 5: MezcalMule folded on the Pre-Flop and did not bet
+
+Hand #1031022604 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/01 02:33:17 UTC
+Loretto 6-max Seat #3 is the button
+Seat 1: Burnt ($2.08)
+Seat 2: Ken47 ($2.00)
+Seat 3: littlebri8 ($2.29) is sitting out
+Seat 4: ulises1 ($2.36)
+Seat 5: MezcalMule ($1.35)
+Seat 6: XX MUCKY XX ($0.99)
+ulises1 posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+XX MUCKY XX waits for big blind
+*** HOLE CARDS ***
+Dealt to MezcalMule [Kc 4c]
+Burnt folds
+Ken47 raises $0.07 to $0.07
+ulises1 folds
+MezcalMule folds
+Uncalled bet ($0.05) returned to Ken47
+Ken47 does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: Burnt folded on the Pre-Flop and did not bet
+Seat 2: Ken47 did not show and won $0.05
+Seat 4: ulises1 (small blind) folded on the Pre-Flop
+Seat 5: MezcalMule (big blind) folded on the Pre-Flop
+
+Hand #1031023450 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/01 02:33:55 UTC
+Loretto 6-max Seat #4 is the button
+Seat 1: Burnt ($2.08)
+Seat 2: Ken47 ($2.03)
+Seat 3: littlebri8 ($2.29) is sitting out
+Seat 4: ulises1 ($2.35)
+Seat 5: MezcalMule ($1.33)
+Seat 6: XX MUCKY XX ($0.99)
+MezcalMule posts the small blind $0.01
+XX MUCKY XX posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Ad 5c]
+Burnt folds
+Ken47 folds
+ulises1 raises $0.04 to $0.04
+MezcalMule folds
+XX MUCKY XX raises $0.13 to $0.15
+ulises1 folds
+Uncalled bet ($0.11) returned to XX MUCKY XX
+XX MUCKY XX shows [Jc Jd]
+*** SUMMARY ***
+Total pot $0.09
+Seat 1: Burnt folded on the Pre-Flop and did not bet
+Seat 2: Ken47 folded on the Pre-Flop and did not bet
+Seat 4: ulises1 (button) folded on the Pre-Flop
+Seat 5: MezcalMule (small blind) folded on the Pre-Flop
+Seat 6: XX MUCKY XX (big blind) showed [Jc Jd] and won $0.09
+
+Hand #1031024651 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/01 02:34:47 UTC
+Loretto 6-max Seat #5 is the button
+Seat 1: Burnt ($2.08)
+Seat 2: Ken47 ($2.03)
+Seat 3: littlebri8 ($2.29) is sitting out
+Seat 4: ulises1 ($2.31)
+Seat 5: MezcalMule ($1.32)
+Seat 6: XX MUCKY XX ($1.04)
+XX MUCKY XX posts the small blind $0.01
+Burnt posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Kh 2h]
+Ken47 raises $0.07 to $0.07
+ulises1 folds
+MezcalMule calls $0.07
+XX MUCKY XX calls $0.06
+Burnt calls $0.05
+*** FLOP *** [8d 3s Js]
+Main pot $0.27 | Rake $0.01
+XX MUCKY XX checks
+Burnt checks
+Ken47 bets $0.07
+MezcalMule folds
+XX MUCKY XX folds
+Burnt calls $0.07
+*** TURN *** [8d 3s Js] [Qc]
+Main pot $0.40 | Rake $0.02
+Burnt checks
+Ken47 bets $0.21
+Burnt calls $0.21
+*** RIVER *** [8d 3s Js Qc] [Ks]
+Main pot $0.80 | Rake $0.04
+Burnt checks
+Ken47 checks
+*** SHOW DOWN ***
+Main pot $0.80 | Rake $0.04
+Burnt shows [Ah 8s] (a pair of Eights [8s 8d Ah Ks Qc])
+Ken47 shows [Ad Jd] (a pair of Jacks [Js Jd Ad Ks Qc])
+Ken47 collected $0.80 from main pot
+*** SUMMARY ***
+Total pot $0.80 | Rake $0.04
+Board [8d 3s Js Qc Ks]
+Seat 1: Burnt (big blind) showed [Ah 8s] and lost with a pair of Eights [8s 8d Ah Ks Qc]
+Seat 2: Ken47 showed [Ad Jd] and won $0.80 with a pair of Jacks [Js Jd Ad Ks Qc]
+Seat 4: ulises1 folded on the Pre-Flop and did not bet
+Seat 5: MezcalMule (button) folded on the Flop
+Seat 6: XX MUCKY XX (small blind) folded on the Flop
+
+Hand #1031026288 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/01 02:36:02 UTC
+Loretto 6-max Seat #6 is the button
+Seat 1: Burnt ($1.73)
+Seat 2: Ken47 ($2.48)
+Seat 3: littlebri8 ($2.29) is sitting out
+Seat 4: ulises1 ($2.31)
+Seat 5: MezcalMule ($1.25)
+Seat 6: XX MUCKY XX ($0.97)
+Burnt posts the small blind $0.01
+Ken47 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [9d Jc]
+ulises1 raises $0.04 to $0.04
+MezcalMule folds
+XX MUCKY XX calls $0.04
+Burnt folds
+Ken47 raises $0.15 to $0.17
+ulises1 folds
+XX MUCKY XX folds
+Uncalled bet ($0.13) returned to Ken47
+Ken47 does not show
+*** SUMMARY ***
+Total pot $0.13
+Seat 1: Burnt (small blind) folded on the Pre-Flop
+Seat 2: Ken47 did not show and won $0.13
+Seat 4: ulises1 folded on the Pre-Flop and did not bet
+Seat 5: MezcalMule folded on the Pre-Flop and did not bet
+Seat 6: XX MUCKY XX (button) folded on the Pre-Flop
+
+Hand #1031027272 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/01 02:36:46 UTC
+Loretto 6-max Seat #1 is the button
+Seat 1: Burnt ($1.72)
+Seat 2: Ken47 ($2.57)
+Seat 3: littlebri8 ($2.29)
+Seat 4: ulises1 ($2.27)
+Seat 5: MezcalMule ($1.25)
+Seat 6: XX MUCKY XX ($0.93)
+Ken47 posts the small blind $0.01
+littlebri8 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Qs 9d]
+ulises1 folds
+MezcalMule folds
+XX MUCKY XX calls $0.02
+Burnt folds
+Ken47 calls $0.01
+littlebri8 checks
+*** FLOP *** [8h 6h Ac]
+Main pot $0.06 | Rake $0.00
+Ken47 checks
+littlebri8 checks
+XX MUCKY XX bets $0.03
+Ken47 folds
+littlebri8 folds
+Uncalled bet ($0.03) returned to XX MUCKY XX
+XX MUCKY XX does not show
+*** SUMMARY ***
+Total pot $0.06
+Board [8h 6h Ac]
+Seat 1: Burnt (button) folded on the Pre-Flop
+Seat 2: Ken47 (small blind) folded on the Flop
+Seat 3: littlebri8 (big blind) folded on the Flop
+Seat 4: ulises1 folded on the Pre-Flop and did not bet
+Seat 5: MezcalMule folded on the Pre-Flop and did not bet
+Seat 6: XX MUCKY XX did not show and won $0.06
+
+Hand #1031028816 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/01 02:37:54 UTC
+Loretto 6-max Seat #3 is the button
+Seat 1: Burnt ($1.72)
+Seat 2: Ken47 ($2.58)
+Seat 3: littlebri8 ($2.26)
+Seat 4: ulises1 ($2.25)
+Seat 5: MezcalMule ($1.25)
+Seat 6: XX MUCKY XX ($0.97)
+ulises1 posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Jh Ad]
+XX MUCKY XX calls $0.02
+Burnt folds
+Ken47 folds
+littlebri8 raises $0.07 to $0.07
+ulises1 folds
+MezcalMule calls $0.05
+XX MUCKY XX calls $0.05
+*** FLOP *** [Kd 7s Ks]
+Main pot $0.21 | Rake $0.01
+MezcalMule checks
+XX MUCKY XX checks
+littlebri8 bets $0.11
+MezcalMule folds
+XX MUCKY XX raises $0.23 to $0.23
+littlebri8 raises $2.08 to $2.19 and is all-in
+XX MUCKY XX folds
+Uncalled bet ($1.96) returned to littlebri8
+littlebri8 does not show
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03
+Board [Kd 7s Ks]
+Seat 1: Burnt folded on the Pre-Flop and did not bet
+Seat 2: Ken47 folded on the Pre-Flop and did not bet
+Seat 3: littlebri8 did not show and won $0.65
+Seat 4: ulises1 (small blind) folded on the Pre-Flop
+Seat 5: MezcalMule (big blind) folded on the Flop
+Seat 6: XX MUCKY XX folded on the Flop
+
+Hand #1031031042 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/01 02:39:33 UTC
+Loretto 6-max Seat #4 is the button
+Seat 1: Burnt ($1.72)
+Seat 2: Ken47 ($2.58)
+Seat 3: littlebri8 ($2.61)
+Seat 4: ulises1 ($2.24)
+Seat 5: MezcalMule ($1.18)
+Seat 6: XX MUCKY XX ($0.67)
+MezcalMule posts the small blind $0.01
+XX MUCKY XX posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [5c 3s]
+Burnt folds
+Ken47 raises $0.07 to $0.07
+littlebri8 folds
+ulises1 folds
+MezcalMule folds
+XX MUCKY XX calls $0.05
+*** FLOP *** [Ks Qc 7h]
+Main pot $0.15 | Rake $0.00
+XX MUCKY XX checks
+Ken47 checks
+*** TURN *** [Ks Qc 7h] [8c]
+Main pot $0.15 | Rake $0.00
+XX MUCKY XX checks
+Ken47 checks
+*** RIVER *** [Ks Qc 7h 8c] [Jh]
+Main pot $0.15 | Rake $0.00
+XX MUCKY XX checks
+Ken47 checks
+*** SHOW DOWN ***
+Main pot $0.15 | Rake $0.00
+Ken47 shows [Ts Td] (a pair of Tens [Ts Td Ks Qc Jh])
+XX MUCKY XX shows [9h As] (a high card, Ace high [As Ks Qc Jh 9h])
+Ken47 collected $0.15 from main pot
+*** SUMMARY ***
+Total pot $0.15
+Board [Ks Qc 7h 8c Jh]
+Seat 1: Burnt folded on the Pre-Flop and did not bet
+Seat 2: Ken47 showed [Ts Td] and won $0.15 with a pair of Tens [Ts Td Ks Qc Jh]
+Seat 3: littlebri8 folded on the Pre-Flop and did not bet
+Seat 4: ulises1 (button) folded on the Pre-Flop
+Seat 5: MezcalMule (small blind) folded on the Pre-Flop
+Seat 6: XX MUCKY XX (big blind) showed [9h As] and lost with a high card, Ace high [As Ks Qc Jh 9h]
+
+Hand #1031032155 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/01 02:40:22 UTC
+Loretto 6-max Seat #5 is the button
+Seat 1: Burnt ($1.72)
+Seat 2: Ken47 ($2.66)
+Seat 3: littlebri8 ($2.61)
+Seat 4: ulises1 ($2.24)
+Seat 5: MezcalMule ($1.17)
+Seat 6: XX MUCKY XX ($0.60)
+XX MUCKY XX posts the small blind $0.01
+Burnt posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [3h Kd]
+Ken47 folds
+littlebri8 folds
+ulises1 folds
+MezcalMule folds
+XX MUCKY XX raises $0.03 to $0.04
+Burnt calls $0.02
+*** FLOP *** [6c Kc 8d]
+Main pot $0.08 | Rake $0.00
+XX MUCKY XX bets $0.02
+Burnt calls $0.02
+*** TURN *** [6c Kc 8d] [Js]
+Main pot $0.12 | Rake $0.00
+XX MUCKY XX checks
+Burnt bets $0.06
+XX MUCKY XX calls $0.06
+*** RIVER *** [6c Kc 8d Js] [7h]
+Main pot $0.23 | Rake $0.01
+XX MUCKY XX checks
+Burnt bets $0.12
+XX MUCKY XX folds
+Uncalled bet ($0.12) returned to Burnt
+Burnt does not show
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01
+Board [6c Kc 8d Js 7h]
+Seat 1: Burnt did not show and won $0.23
+Seat 2: Ken47 folded on the Pre-Flop and did not bet
+Seat 3: littlebri8 folded on the Pre-Flop and did not bet
+Seat 4: ulises1 folded on the Pre-Flop and did not bet
+Seat 5: MezcalMule (button) folded on the Pre-Flop
+Seat 6: XX MUCKY XX (small blind) folded on the River
+
+Hand #1031034233 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/01 02:41:55 UTC
+Loretto 6-max Seat #6 is the button
+Seat 1: Burnt ($1.83)
+Seat 2: Ken47 ($2.66)
+Seat 3: littlebri8 ($2.61)
+Seat 4: ulises1 ($2.24)
+Seat 5: MezcalMule ($1.17)
+Seat 6: XX MUCKY XX ($0.48)
+Burnt posts the small blind $0.01
+Ken47 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [5h 6c]
+littlebri8 folds
+ulises1 folds
+MezcalMule folds
+XX MUCKY XX raises $0.05 to $0.05
+Burnt calls $0.04
+Ken47 folds
+*** FLOP *** [5c 7h 6s]
+Main pot $0.12 | Rake $0.00
+Burnt checks
+XX MUCKY XX bets $0.06
+Burnt calls $0.06
+*** TURN *** [5c 7h 6s] [Qd]
+Main pot $0.23 | Rake $0.01
+Burnt checks
+XX MUCKY XX bets $0.24
+Burnt folds
+Uncalled bet ($0.24) returned to XX MUCKY XX
+XX MUCKY XX does not show
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01
+Board [5c 7h 6s Qd]
+Seat 1: Burnt (small blind) folded on the Turn
+Seat 2: Ken47 (big blind) folded on the Pre-Flop
+Seat 3: littlebri8 folded on the Pre-Flop and did not bet
+Seat 4: ulises1 folded on the Pre-Flop and did not bet
+Seat 5: MezcalMule folded on the Pre-Flop and did not bet
+Seat 6: XX MUCKY XX did not show and won $0.23
+
+Hand #1031035413 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/01 02:42:50 UTC
+Loretto 6-max Seat #1 is the button
+Seat 1: Burnt ($1.72)
+Seat 2: Ken47 ($2.64)
+Seat 3: littlebri8 ($2.61)
+Seat 4: ulises1 ($2.24)
+Seat 5: MezcalMule ($1.17)
+Seat 6: XX MUCKY XX ($0.60)
+Ken47 posts the small blind $0.01
+littlebri8 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Jh 3c]
+ulises1 folds
+MezcalMule folds
+XX MUCKY XX calls $0.02
+Burnt raises $0.08 to $0.08
+Ken47 folds
+littlebri8 folds
+XX MUCKY XX calls $0.06
+*** FLOP *** [Jc 2d Ac]
+Main pot $0.19 | Rake $0.00
+XX MUCKY XX checks
+Burnt bets $0.11
+XX MUCKY XX calls $0.11
+*** TURN *** [Jc 2d Ac] [5c]
+Main pot $0.39 | Rake $0.02
+XX MUCKY XX bets $0.41 and is all-in
+Burnt folds
+Uncalled bet ($0.41) returned to XX MUCKY XX
+XX MUCKY XX does not show
+*** SUMMARY ***
+Total pot $0.39 | Rake $0.02
+Board [Jc 2d Ac 5c]
+Seat 1: Burnt (button) folded on the Turn
+Seat 2: Ken47 (small blind) folded on the Pre-Flop
+Seat 3: littlebri8 (big blind) folded on the Pre-Flop
+Seat 4: ulises1 folded on the Pre-Flop and did not bet
+Seat 5: MezcalMule folded on the Pre-Flop and did not bet
+Seat 6: XX MUCKY XX did not show and won $0.39
+
+Hand #1031037042 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/01 02:44:03 UTC
+Loretto 6-max Seat #2 is the button
+Seat 1: Burnt ($1.53)
+Seat 2: Ken47 ($2.63)
+Seat 3: littlebri8 ($2.59)
+Seat 4: ulises1 ($2.24)
+Seat 5: MezcalMule ($1.17)
+Seat 6: XX MUCKY XX ($0.80)
+littlebri8 posts the small blind $0.01
+ulises1 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Qc 6s]
+MezcalMule folds
+XX MUCKY XX folds
+Burnt folds
+Ken47 raises $0.07 to $0.07
+littlebri8 folds
+ulises1 calls $0.05
+*** FLOP *** [Tc Ts 7d]
+Main pot $0.15 | Rake $0.00
+ulises1 bets $0.04
+Ken47 folds
+Uncalled bet ($0.04) returned to ulises1
+ulises1 does not show
+*** SUMMARY ***
+Total pot $0.15
+Board [Tc Ts 7d]
+Seat 1: Burnt folded on the Pre-Flop and did not bet
+Seat 2: Ken47 (button) folded on the Flop
+Seat 3: littlebri8 (small blind) folded on the Pre-Flop
+Seat 4: ulises1 did not show and won $0.15
+Seat 5: MezcalMule folded on the Pre-Flop and did not bet
+Seat 6: XX MUCKY XX folded on the Pre-Flop and did not bet
+
+Hand #1031038017 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/01 02:44:48 UTC
+Loretto 6-max Seat #3 is the button
+Seat 1: Burnt ($1.53)
+Seat 2: Ken47 ($2.56)
+Seat 3: littlebri8 ($2.58)
+Seat 4: ulises1 ($2.32)
+Seat 5: MezcalMule ($1.17)
+Seat 6: XX MUCKY XX ($0.80)
+ulises1 posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [8s 3c]
+XX MUCKY XX folds
+Burnt raises $0.06 to $0.06
+Ken47 folds
+littlebri8 folds
+ulises1 calls $0.05
+MezcalMule folds
+*** FLOP *** [Jc 8d Kc]
+Main pot $0.14 | Rake $0.00
+ulises1 checks
+Burnt bets $0.11
+ulises1 calls $0.11
+*** TURN *** [Jc 8d Kc] [7c]
+Main pot $0.35 | Rake $0.01
+ulises1 checks
+Burnt checks
+*** RIVER *** [Jc 8d Kc 7c] [3s]
+Main pot $0.35 | Rake $0.01
+ulises1 bets $0.04
+Burnt folds
+Uncalled bet ($0.04) returned to ulises1
+ulises1 does not show
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.01
+Board [Jc 8d Kc 7c 3s]
+Seat 1: Burnt folded on the River
+Seat 2: Ken47 folded on the Pre-Flop and did not bet
+Seat 3: littlebri8 (button) folded on the Pre-Flop
+Seat 4: ulises1 did not show and won $0.35
+Seat 5: MezcalMule (big blind) folded on the Pre-Flop
+Seat 6: XX MUCKY XX folded on the Pre-Flop and did not bet
+
+Hand #1031039272 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/01 02:45:45 UTC
+Loretto 6-max Seat #4 is the button
+Seat 1: Burnt ($1.36)
+Seat 2: Ken47 ($2.56)
+Seat 3: littlebri8 ($2.58)
+Seat 4: ulises1 ($2.50)
+Seat 5: MezcalMule ($1.15)
+Seat 6: XX MUCKY XX ($0.80)
+MezcalMule posts the small blind $0.01
+XX MUCKY XX posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [9c 6c]
+Burnt folds
+Ken47 raises $0.07 to $0.07
+littlebri8 folds
+ulises1 folds
+MezcalMule calls $0.06
+XX MUCKY XX folds
+*** FLOP *** [3d 2c Kd]
+Main pot $0.16 | Rake $0.00
+MezcalMule checks
+Ken47 bets $0.04
+MezcalMule raises $0.28 to $0.28
+Ken47 calls $0.24
+*** TURN *** [3d 2c Kd] [6s]
+Main pot $0.69 | Rake $0.03
+MezcalMule checks
+Ken47 bets $2.21 and is all-in
+MezcalMule folds
+Uncalled bet ($2.21) returned to Ken47
+Ken47 does not show
+*** SUMMARY ***
+Total pot $0.69 | Rake $0.03
+Board [3d 2c Kd 6s]
+Seat 1: Burnt folded on the Pre-Flop and did not bet
+Seat 2: Ken47 did not show and won $0.69
+Seat 3: littlebri8 folded on the Pre-Flop and did not bet
+Seat 4: ulises1 (button) folded on the Pre-Flop
+Seat 5: MezcalMule (small blind) folded on the Turn
+Seat 6: XX MUCKY XX (big blind) folded on the Pre-Flop
+
+Hand #1031040919 - Holdem(No Limit) - $0.01/$0.02 - 2021/12/01 02:47:02 UTC
+Loretto 6-max Seat #5 is the button
+Seat 1: Burnt ($1.36)
+Seat 2: Ken47 ($2.90)
+Seat 3: littlebri8 ($2.58)
+Seat 4: ulises1 ($2.50)
+Seat 5: MezcalMule ($0.80)
+Seat 6: XX MUCKY XX ($0.78)
+XX MUCKY XX posts the small blind $0.01
+Burnt posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Jc Ac]
+Ken47 folds
+littlebri8 folds
+ulises1 folds
+MezcalMule raises $0.80 to $0.80 and is all-in
+XX MUCKY XX folds
+Burnt calls $0.78
+*** FLOP *** [4d 6c 9d]
+Main pot $1.53 | Rake $0.08
+*** TURN *** [4d 6c 9d] [3s]
+Main pot $1.53 | Rake $0.08
+*** RIVER *** [4d 6c 9d 3s] [6h]
+Main pot $1.53 | Rake $0.08
+*** SHOW DOWN ***
+Main pot $1.53 | Rake $0.08
+Burnt shows [Kd Kh] (two pair, Kings and Sixs [Kh Kd 6h 6c 9d])
+MezcalMule shows [Jc Ac] (a pair of Sixs [6h 6c Ac Jc 9d])
+Burnt collected $1.53 from main pot
+*** SUMMARY ***
+Total pot $1.53 | Rake $0.06 | JP Fee $0.02
+Board [4d 6c 9d 3s 6h]
+Seat 1: Burnt (big blind) showed [Kd Kh] and won $1.53 with two pair, Kings and Sixs [Kh Kd 6h 6c 9d]
+Seat 2: Ken47 folded on the Pre-Flop and did not bet
+Seat 3: littlebri8 folded on the Pre-Flop and did not bet
+Seat 4: ulises1 folded on the Pre-Flop and did not bet
+Seat 5: MezcalMule (button) showed [Jc Ac] and lost with a pair of Sixs [6h 6c Ac Jc 9d]
+Seat 6: XX MUCKY XX (small blind) folded on the Pre-Flop
+

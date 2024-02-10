@@ -48,15 +48,15 @@ strcpy(session_num,strstr(session_num,"_"));
 session_num_pt = strtok(session_num,".");
 
 //CHECK IF RAW DATA FILE EXISTS
-if(access("session_summaries_raw.csv", F_OK) == 0) {
+if(access("../data/output/session_summaries_raw.csv", F_OK) == 0) {
 	file_check++;
 }
 
 //OPEN SESSION FILE
 char *filename = argv[1];
 FILE *fp = fopen(filename, "r");//session file (read)
-FILE *fp2 = fopen("session_summaries.csv","a");//output file (append)
-FILE *fp3 = fopen("session_summaries_raw.csv", "a+");//output file (append and read)
+FILE *fp2 = fopen("../data/output/session_summaries.csv","a");//output file (append)
+FILE *fp3 = fopen("../data/output/session_summaries_raw.csv", "a+");//output file (append and read)
 if (fp == NULL) {//check fp exists
         perror(filename);
         exit(1);

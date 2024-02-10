@@ -1,0 +1,1497 @@
+Hand #991107686 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/24 20:04:58 UTC
+Bluffton 6-max Seat #5 is the button
+Seat 1: MezcalMule ($2.00)
+Seat 2: Ronnieaakk ($0.88)
+Seat 3: dreamsicle666 ($2.01)
+Seat 4: trifonicd ($2.00)
+Seat 5: StaplegunKing ($3.06)
+Seat 6: speider76 ($2.34)
+speider76 posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [5d 6s]
+Ronnieaakk folds
+dreamsicle666 folds
+trifonicd folds
+StaplegunKing raises $0.07 to $0.07
+speider76 folds
+MezcalMule calls $0.05
+*** FLOP *** [4h Qc 5h]
+Main pot $0.15 | Rake $0.00
+MezcalMule checks
+StaplegunKing bets $0.08
+MezcalMule calls $0.08
+*** TURN *** [4h Qc 5h] [2d]
+Main pot $0.30 | Rake $0.01
+MezcalMule checks
+StaplegunKing bets $0.20
+MezcalMule raises $0.60 to $0.60
+StaplegunKing folds
+Uncalled bet ($0.40) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.68 | Rake $0.03
+Board [4h Qc 5h 2d]
+Seat 1: MezcalMule did not show and won $0.68
+Seat 2: Ronnieaakk folded on the Pre-Flop and did not bet
+Seat 3: dreamsicle666 folded on the Pre-Flop and did not bet
+Seat 4: trifonicd folded on the Pre-Flop and did not bet
+Seat 5: StaplegunKing (button) folded on the Turn
+Seat 6: speider76 (small blind) folded on the Pre-Flop
+
+Hand #991110736 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/24 20:06:36 UTC
+Bluffton 6-max Seat #6 is the button
+Seat 1: MezcalMule ($2.33)
+Seat 3: dreamsicle666 ($2.01)
+Seat 4: trifonicd ($2.00)
+Seat 5: StaplegunKing ($2.71)
+Seat 6: speider76 ($2.33)
+MezcalMule posts the small blind $0.01
+dreamsicle666 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Ac 2h]
+trifonicd raises $0.08 to $0.08
+StaplegunKing folds
+speider76 folds
+MezcalMule folds
+dreamsicle666 folds
+Uncalled bet ($0.06) returned to trifonicd
+trifonicd does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: MezcalMule (small blind) folded on the Pre-Flop
+Seat 3: dreamsicle666 (big blind) folded on the Pre-Flop
+Seat 4: trifonicd did not show and won $0.05
+Seat 5: StaplegunKing folded on the Pre-Flop and did not bet
+Seat 6: speider76 (button) folded on the Pre-Flop
+
+Hand #991111588 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/24 20:07:04 UTC
+Bluffton 6-max Seat #1 is the button
+Seat 1: MezcalMule ($2.32)
+Seat 3: dreamsicle666 ($2.00)
+Seat 4: trifonicd ($2.03)
+Seat 5: StaplegunKing ($2.71)
+Seat 6: speider76 ($2.33)
+dreamsicle666 posts the small blind $0.01
+trifonicd posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [3s 9h]
+StaplegunKing raises $0.06 to $0.06
+speider76 folds
+MezcalMule folds
+dreamsicle666 folds
+trifonicd calls $0.04
+*** FLOP *** [2d 5s 3h]
+Main pot $0.13 | Rake $0.00
+trifonicd checks
+StaplegunKing bets $0.10
+trifonicd folds
+Uncalled bet ($0.10) returned to StaplegunKing
+StaplegunKing does not show
+*** SUMMARY ***
+Total pot $0.13
+Board [2d 5s 3h]
+Seat 1: MezcalMule (button) folded on the Pre-Flop
+Seat 3: dreamsicle666 (small blind) folded on the Pre-Flop
+Seat 4: trifonicd (big blind) folded on the Flop
+Seat 5: StaplegunKing did not show and won $0.13
+Seat 6: speider76 folded on the Pre-Flop and did not bet
+
+Hand #991114301 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/24 20:08:33 UTC
+Bluffton 6-max Seat #5 is the button
+Seat 1: MezcalMule ($2.32)
+Seat 2: Smallsenberg ($2.00)
+Seat 3: dreamsicle666 ($2.03)
+Seat 4: trifonicd ($2.00)
+Seat 5: StaplegunKing ($2.78)
+Seat 6: speider76 ($2.31)
+speider76 posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+Smallsenberg waits for big blind
+*** HOLE CARDS ***
+Dealt to MezcalMule [Qs Kd]
+dreamsicle666 folds
+trifonicd folds
+StaplegunKing folds
+speider76 folds
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.03
+Seat 1: MezcalMule did not show and won $0.03
+Seat 3: dreamsicle666 folded on the Pre-Flop and did not bet
+Seat 4: trifonicd folded on the Pre-Flop and did not bet
+Seat 5: StaplegunKing (button) folded on the Pre-Flop
+Seat 6: speider76 (small blind) folded on the Pre-Flop
+
+Hand #991114774 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/24 20:08:48 UTC
+Bluffton 6-max Seat #6 is the button
+Seat 1: MezcalMule ($2.33)
+Seat 2: Smallsenberg ($2.00)
+Seat 3: dreamsicle666 ($2.03)
+Seat 4: trifonicd ($2.00)
+Seat 5: StaplegunKing ($2.78)
+Seat 6: speider76 ($2.30)
+MezcalMule posts the small blind $0.01
+Smallsenberg posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [7d Jc]
+dreamsicle666 folds
+trifonicd raises $0.08 to $0.08
+StaplegunKing folds
+speider76 folds
+MezcalMule folds
+Smallsenberg folds
+Uncalled bet ($0.06) returned to trifonicd
+trifonicd does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: MezcalMule (small blind) folded on the Pre-Flop
+Seat 2: Smallsenberg (big blind) folded on the Pre-Flop
+Seat 3: dreamsicle666 folded on the Pre-Flop and did not bet
+Seat 4: trifonicd did not show and won $0.05
+Seat 5: StaplegunKing folded on the Pre-Flop and did not bet
+Seat 6: speider76 (button) folded on the Pre-Flop
+
+Hand #991115616 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/24 20:09:15 UTC
+Bluffton 6-max Seat #1 is the button
+Seat 1: MezcalMule ($2.32)
+Seat 2: Smallsenberg ($2.00)
+Seat 3: dreamsicle666 ($2.03)
+Seat 4: trifonicd ($2.03)
+Seat 5: StaplegunKing ($2.78)
+Seat 6: speider76 ($2.30)
+Smallsenberg posts the small blind $0.01
+dreamsicle666 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [9d Tc]
+trifonicd raises $0.08 to $0.08
+StaplegunKing folds
+speider76 folds
+MezcalMule raises $0.14 to $0.14
+Smallsenberg folds
+dreamsicle666 folds
+trifonicd calls $0.06
+*** FLOP *** [Th 6d 4s]
+Main pot $0.30 | Rake $0.01
+trifonicd checks
+MezcalMule bets $0.20
+trifonicd folds
+Uncalled bet ($0.20) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01
+Board [Th 6d 4s]
+Seat 1: MezcalMule did not show and won $0.30
+Seat 2: Smallsenberg (small blind) folded on the Pre-Flop
+Seat 3: dreamsicle666 (big blind) folded on the Pre-Flop
+Seat 4: trifonicd folded on the Flop
+Seat 5: StaplegunKing folded on the Pre-Flop and did not bet
+Seat 6: speider76 folded on the Pre-Flop and did not bet
+
+Hand #991117512 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/24 20:10:17 UTC
+Bluffton 6-max Seat #2 is the button
+Seat 1: MezcalMule ($2.48)
+Seat 2: Smallsenberg ($2.00)
+Seat 3: dreamsicle666 ($2.01)
+Seat 4: trifonicd ($2.00)
+Seat 5: StaplegunKing ($2.78)
+Seat 6: speider76 ($2.30)
+dreamsicle666 posts the small blind $0.01
+trifonicd posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Ac 5c]
+StaplegunKing folds
+speider76 raises $0.07 to $0.07
+MezcalMule raises $0.12 to $0.12
+Smallsenberg folds
+dreamsicle666 folds
+trifonicd folds
+speider76 raises $0.32 to $0.39
+MezcalMule folds
+Uncalled bet ($0.27) returned to speider76
+speider76 does not show
+*** SUMMARY ***
+Total pot $0.27
+Seat 1: MezcalMule folded on the Pre-Flop and did not bet
+Seat 2: Smallsenberg (button) folded on the Pre-Flop
+Seat 3: dreamsicle666 (small blind) folded on the Pre-Flop
+Seat 4: trifonicd (big blind) folded on the Pre-Flop
+Seat 5: StaplegunKing folded on the Pre-Flop and did not bet
+Seat 6: speider76 did not show and won $0.27
+
+Hand #991118597 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/24 20:10:53 UTC
+Bluffton 6-max Seat #3 is the button
+Seat 1: MezcalMule ($2.36)
+Seat 2: Smallsenberg ($2.00)
+Seat 3: dreamsicle666 ($2.00)
+Seat 4: trifonicd ($2.00)
+Seat 5: StaplegunKing ($2.78)
+Seat 6: speider76 ($2.45)
+trifonicd posts the small blind $0.01
+StaplegunKing posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [4c Th]
+speider76 raises $0.05 to $0.05
+MezcalMule folds
+Smallsenberg folds
+dreamsicle666 folds
+trifonicd folds
+StaplegunKing folds
+Uncalled bet ($0.03) returned to speider76
+speider76 does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: MezcalMule folded on the Pre-Flop and did not bet
+Seat 2: Smallsenberg folded on the Pre-Flop and did not bet
+Seat 3: dreamsicle666 (button) folded on the Pre-Flop
+Seat 4: trifonicd (small blind) folded on the Pre-Flop
+Seat 5: StaplegunKing (big blind) folded on the Pre-Flop
+Seat 6: speider76 did not show and won $0.05
+
+Hand #991119296 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/24 20:11:14 UTC
+Bluffton 6-max Seat #4 is the button
+Seat 1: MezcalMule ($2.36)
+Seat 2: Smallsenberg ($2.00)
+Seat 3: dreamsicle666 ($2.00)
+Seat 4: trifonicd ($2.00)
+Seat 5: StaplegunKing ($2.76)
+Seat 6: speider76 ($2.48)
+StaplegunKing posts the small blind $0.01
+speider76 sits out
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Jc Kc]
+Smallsenberg folds
+dreamsicle666 raises $0.06 to $0.06
+trifonicd raises $0.22 to $0.22
+StaplegunKing folds
+MezcalMule calls $0.20
+dreamsicle666 raises $0.74 to $0.80
+trifonicd folds
+MezcalMule calls $0.58
+*** FLOP *** [2d 6c 6h]
+Main pot $1.74 | Rake $0.09
+MezcalMule checks
+dreamsicle666 bets $1.20 and is all-in
+MezcalMule folds
+Uncalled bet ($1.20) returned to dreamsicle666
+dreamsicle666 does not show
+*** SUMMARY ***
+Total pot $1.74 | Rake $0.07 | JP Fee $0.02
+Board [2d 6c 6h]
+Seat 1: MezcalMule (big blind) folded on the Flop
+Seat 2: Smallsenberg folded on the Pre-Flop and did not bet
+Seat 3: dreamsicle666 did not show and won $1.74
+Seat 4: trifonicd (button) folded on the Pre-Flop
+Seat 5: StaplegunKing (small blind) folded on the Pre-Flop
+
+Hand #991121271 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/24 20:12:18 UTC
+Bluffton 6-max Seat #5 is the button
+Seat 1: MezcalMule ($1.56)
+Seat 2: Smallsenberg ($2.00)
+Seat 3: dreamsicle666 ($2.94)
+Seat 4: trifonicd ($2.00)
+Seat 5: StaplegunKing ($2.75)
+MezcalMule posts the small blind $0.01
+Smallsenberg posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [9c 5h]
+dreamsicle666 folds
+trifonicd raises $0.07 to $0.07
+StaplegunKing folds
+MezcalMule folds
+Smallsenberg calls $0.05
+*** FLOP *** [4h 3d Kc]
+Main pot $0.15 | Rake $0.00
+Smallsenberg checks
+trifonicd bets $0.09
+Smallsenberg folds
+Uncalled bet ($0.09) returned to trifonicd
+trifonicd does not show
+*** SUMMARY ***
+Total pot $0.15
+Board [4h 3d Kc]
+Seat 1: MezcalMule (small blind) folded on the Pre-Flop
+Seat 2: Smallsenberg (big blind) folded on the Flop
+Seat 3: dreamsicle666 folded on the Pre-Flop and did not bet
+Seat 4: trifonicd did not show and won $0.15
+Seat 5: StaplegunKing (button) folded on the Pre-Flop
+
+Hand #991122397 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/24 20:12:55 UTC
+Bluffton 6-max Seat #1 is the button
+Seat 1: MezcalMule ($1.55)
+Seat 2: Smallsenberg ($2.00)
+Seat 3: dreamsicle666 ($2.94)
+Seat 4: trifonicd ($2.08)
+Seat 5: StaplegunKing ($2.75)
+Seat 6: GeoScapin ($0.80)
+Smallsenberg posts the small blind $0.01
+dreamsicle666 posts the big blind $0.02
+GeoScapin waits for big blind
+*** HOLE CARDS ***
+Dealt to MezcalMule [4h 9s]
+trifonicd raises $0.08 to $0.08
+StaplegunKing folds
+MezcalMule folds
+Smallsenberg folds
+dreamsicle666 folds
+Uncalled bet ($0.06) returned to trifonicd
+trifonicd does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: MezcalMule (button) folded on the Pre-Flop
+Seat 2: Smallsenberg (small blind) folded on the Pre-Flop
+Seat 3: dreamsicle666 (big blind) folded on the Pre-Flop
+Seat 4: trifonicd did not show and won $0.05
+Seat 5: StaplegunKing folded on the Pre-Flop and did not bet
+
+Hand #991122917 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/24 20:13:12 UTC
+Bluffton 6-max Seat #2 is the button
+Seat 1: MezcalMule ($1.55)
+Seat 2: Smallsenberg ($2.00)
+Seat 3: dreamsicle666 ($2.92)
+Seat 4: trifonicd ($2.11)
+Seat 5: StaplegunKing ($2.75)
+Seat 6: GeoScapin ($0.80)
+dreamsicle666 posts the small blind $0.01
+trifonicd posts the big blind $0.02
+GeoScapin posts $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [2h 2d]
+StaplegunKing folds
+GeoScapin checks
+MezcalMule raises $0.04 to $0.04
+Smallsenberg calls $0.04
+dreamsicle666 raises $0.17 to $0.18
+trifonicd folds
+GeoScapin folds
+MezcalMule folds
+Smallsenberg calls $0.14
+*** FLOP *** [8c Ac 2c]
+Main pot $0.42 | Rake $0.02
+dreamsicle666 bets $0.24
+Smallsenberg calls $0.24
+*** TURN *** [8c Ac 2c] [Kc]
+Main pot $0.88 | Rake $0.04
+dreamsicle666 checks
+Smallsenberg bets $0.23
+dreamsicle666 folds
+Uncalled bet ($0.23) returned to Smallsenberg
+Smallsenberg does not show
+*** SUMMARY ***
+Total pot $0.88 | Rake $0.04
+Board [8c Ac 2c Kc]
+Seat 1: MezcalMule folded on the Pre-Flop and did not bet
+Seat 2: Smallsenberg did not show and won $0.88
+Seat 3: dreamsicle666 (small blind) folded on the Turn
+Seat 4: trifonicd (big blind) folded on the Pre-Flop
+Seat 5: StaplegunKing folded on the Pre-Flop and did not bet
+Seat 6: GeoScapin folded on the Pre-Flop and did not bet
+
+Hand #991125332 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/24 20:14:32 UTC
+Bluffton 6-max Seat #3 is the button
+Seat 1: MezcalMule ($1.51)
+Seat 2: Smallsenberg ($2.46)
+Seat 3: dreamsicle666 ($2.50)
+Seat 4: trifonicd ($2.09)
+Seat 5: StaplegunKing ($2.75)
+Seat 6: GeoScapin ($0.78)
+trifonicd posts the small blind $0.01
+StaplegunKing posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Ks 5c]
+GeoScapin folds
+MezcalMule folds
+Smallsenberg folds
+dreamsicle666 folds
+trifonicd folds
+StaplegunKing does not show
+*** SUMMARY ***
+Total pot $0.03
+Seat 1: MezcalMule folded on the Pre-Flop and did not bet
+Seat 2: Smallsenberg folded on the Pre-Flop and did not bet
+Seat 3: dreamsicle666 (button) folded on the Pre-Flop
+Seat 4: trifonicd (small blind) folded on the Pre-Flop
+Seat 5: StaplegunKing did not show and won $0.03
+Seat 6: GeoScapin folded on the Pre-Flop and did not bet
+
+Hand #991125700 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/24 20:14:44 UTC
+Bluffton 6-max Seat #4 is the button
+Seat 1: MezcalMule ($1.51)
+Seat 2: Smallsenberg ($2.46)
+Seat 3: dreamsicle666 ($2.50)
+Seat 4: trifonicd ($2.08)
+Seat 5: StaplegunKing ($2.76)
+Seat 6: GeoScapin ($0.78)
+StaplegunKing posts the small blind $0.01
+GeoScapin posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Kc 8s]
+MezcalMule folds
+Smallsenberg folds
+dreamsicle666 folds
+trifonicd raises $0.06 to $0.06
+StaplegunKing raises $0.18 to $0.19
+GeoScapin calls $0.17
+trifonicd folds
+*** FLOP *** [6s 3s 9s]
+Main pot $0.42 | Rake $0.02
+StaplegunKing checks
+GeoScapin bets $0.59 and is all-in
+StaplegunKing folds
+Uncalled bet ($0.59) returned to GeoScapin
+GeoScapin does not show
+*** SUMMARY ***
+Total pot $0.42 | Rake $0.02
+Board [6s 3s 9s]
+Seat 1: MezcalMule folded on the Pre-Flop and did not bet
+Seat 2: Smallsenberg folded on the Pre-Flop and did not bet
+Seat 3: dreamsicle666 folded on the Pre-Flop and did not bet
+Seat 4: trifonicd (button) folded on the Pre-Flop
+Seat 5: StaplegunKing (small blind) folded on the Flop
+Seat 6: GeoScapin did not show and won $0.42
+
+Hand #991151352 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/24 20:28:48 UTC
+Bluffton 6-max Seat #5 is the button
+Seat 1: MezcalMule ($1.51)
+Seat 2: Smallsenberg ($2.00)
+Seat 3: dreamsicle666 ($3.84)
+Seat 4: trifonicd ($2.03)
+Seat 5: StaplegunKing ($5.10)
+Seat 6: CreativeNameHere ($2.00)
+CreativeNameHere posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [6c 3s]
+Smallsenberg raises $0.05 to $0.05
+dreamsicle666 folds
+trifonicd folds
+StaplegunKing folds
+CreativeNameHere folds
+MezcalMule folds
+Uncalled bet ($0.03) returned to Smallsenberg
+Smallsenberg does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: MezcalMule (big blind) folded on the Pre-Flop
+Seat 2: Smallsenberg did not show and won $0.05
+Seat 3: dreamsicle666 folded on the Pre-Flop and did not bet
+Seat 4: trifonicd folded on the Pre-Flop and did not bet
+Seat 5: StaplegunKing (button) folded on the Pre-Flop
+Seat 6: CreativeNameHere (small blind) folded on the Pre-Flop
+
+Hand #991152270 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/24 20:29:18 UTC
+Bluffton 6-max Seat #6 is the button
+Seat 1: MezcalMule ($1.49)
+Seat 2: Smallsenberg ($2.03)
+Seat 3: dreamsicle666 ($3.84)
+Seat 4: trifonicd ($2.03)
+Seat 5: StaplegunKing ($5.10)
+Seat 6: CreativeNameHere ($2.00)
+MezcalMule posts the small blind $0.01
+Smallsenberg posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Tc Ac]
+dreamsicle666 folds
+trifonicd folds
+StaplegunKing folds
+CreativeNameHere folds
+MezcalMule calls $0.01
+Smallsenberg checks
+*** FLOP *** [8h 4h Ad]
+Main pot $0.04 | Rake $0.00
+MezcalMule checks
+Smallsenberg checks
+*** TURN *** [8h 4h Ad] [2h]
+Main pot $0.04 | Rake $0.00
+MezcalMule checks
+Smallsenberg checks
+*** RIVER *** [8h 4h Ad 2h] [6s]
+Main pot $0.04 | Rake $0.00
+MezcalMule bets $0.03
+Smallsenberg folds
+Uncalled bet ($0.03) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.04
+Board [8h 4h Ad 2h 6s]
+Seat 1: MezcalMule did not show and won $0.04
+Seat 2: Smallsenberg (big blind) folded on the River
+Seat 3: dreamsicle666 folded on the Pre-Flop and did not bet
+Seat 4: trifonicd folded on the Pre-Flop and did not bet
+Seat 5: StaplegunKing folded on the Pre-Flop and did not bet
+Seat 6: CreativeNameHere (button) folded on the Pre-Flop
+
+Hand #991153923 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/24 20:30:13 UTC
+Bluffton 6-max Seat #1 is the button
+Seat 1: MezcalMule ($1.51)
+Seat 2: Smallsenberg ($2.01)
+Seat 3: dreamsicle666 ($3.84)
+Seat 4: trifonicd ($2.03)
+Seat 5: StaplegunKing ($5.10)
+Seat 6: CreativeNameHere ($2.00)
+Smallsenberg posts the small blind $0.01
+dreamsicle666 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Jc 5c]
+trifonicd folds
+StaplegunKing folds
+CreativeNameHere raises $0.06 to $0.06
+MezcalMule calls $0.06
+Smallsenberg folds
+dreamsicle666 folds
+*** FLOP *** [As Td 7h]
+Main pot $0.15 | Rake $0.00
+CreativeNameHere bets $0.07
+MezcalMule folds
+Uncalled bet ($0.07) returned to CreativeNameHere
+CreativeNameHere does not show
+*** SUMMARY ***
+Total pot $0.15
+Board [As Td 7h]
+Seat 1: MezcalMule (button) folded on the Flop
+Seat 2: Smallsenberg (small blind) folded on the Pre-Flop
+Seat 3: dreamsicle666 (big blind) folded on the Pre-Flop
+Seat 4: trifonicd folded on the Pre-Flop and did not bet
+Seat 5: StaplegunKing folded on the Pre-Flop and did not bet
+Seat 6: CreativeNameHere did not show and won $0.15
+
+Hand #991155488 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/24 20:31:03 UTC
+Bluffton 6-max Seat #2 is the button
+Seat 1: MezcalMule ($1.45)
+Seat 2: Smallsenberg ($2.00)
+Seat 3: dreamsicle666 ($3.82)
+Seat 4: trifonicd ($2.03)
+Seat 5: StaplegunKing ($5.10)
+Seat 6: CreativeNameHere ($2.09)
+dreamsicle666 posts the small blind $0.01
+trifonicd posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [9d 9s]
+StaplegunKing folds
+CreativeNameHere raises $0.06 to $0.06
+MezcalMule calls $0.06
+Smallsenberg folds
+dreamsicle666 folds
+trifonicd folds
+*** FLOP *** [3h Jd Ad]
+Main pot $0.15 | Rake $0.00
+CreativeNameHere bets $0.10
+MezcalMule calls $0.10
+*** TURN *** [3h Jd Ad] [Kd]
+Main pot $0.34 | Rake $0.01
+CreativeNameHere checks
+MezcalMule bets $0.35
+CreativeNameHere folds
+Uncalled bet ($0.35) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.34 | Rake $0.01
+Board [3h Jd Ad Kd]
+Seat 1: MezcalMule did not show and won $0.34
+Seat 2: Smallsenberg (button) folded on the Pre-Flop
+Seat 3: dreamsicle666 (small blind) folded on the Pre-Flop
+Seat 4: trifonicd (big blind) folded on the Pre-Flop
+Seat 5: StaplegunKing folded on the Pre-Flop and did not bet
+Seat 6: CreativeNameHere folded on the Turn
+
+Hand #991157855 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/24 20:32:22 UTC
+Bluffton 6-max Seat #3 is the button
+Seat 1: MezcalMule ($1.63)
+Seat 2: Smallsenberg ($2.00)
+Seat 3: dreamsicle666 ($3.81)
+Seat 4: trifonicd ($2.01)
+Seat 5: StaplegunKing ($5.10)
+Seat 6: CreativeNameHere ($2.00)
+trifonicd posts the small blind $0.01
+StaplegunKing posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Js Kh]
+CreativeNameHere folds
+MezcalMule calls $0.02
+Smallsenberg raises $0.05 to $0.05
+dreamsicle666 folds
+trifonicd folds
+StaplegunKing calls $0.03
+MezcalMule calls $0.03
+*** FLOP *** [9h 6s 3s]
+Main pot $0.16 | Rake $0.00
+StaplegunKing checks
+MezcalMule checks
+Smallsenberg bets $0.12
+StaplegunKing folds
+MezcalMule folds
+Uncalled bet ($0.12) returned to Smallsenberg
+Smallsenberg does not show
+*** SUMMARY ***
+Total pot $0.16
+Board [9h 6s 3s]
+Seat 1: MezcalMule folded on the Flop
+Seat 2: Smallsenberg did not show and won $0.16
+Seat 3: dreamsicle666 (button) folded on the Pre-Flop
+Seat 4: trifonicd (small blind) folded on the Pre-Flop
+Seat 5: StaplegunKing (big blind) folded on the Flop
+Seat 6: CreativeNameHere folded on the Pre-Flop and did not bet
+
+Hand #991159804 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/24 20:33:25 UTC
+Bluffton 6-max Seat #4 is the button
+Seat 1: MezcalMule ($1.58)
+Seat 2: Smallsenberg ($2.11)
+Seat 3: dreamsicle666 ($3.81)
+Seat 4: trifonicd ($2.00)
+Seat 5: StaplegunKing ($5.05)
+Seat 6: CreativeNameHere ($2.00)
+StaplegunKing posts the small blind $0.01
+CreativeNameHere posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [4c 5s]
+MezcalMule folds
+Smallsenberg folds
+dreamsicle666 folds
+trifonicd folds
+StaplegunKing folds
+CreativeNameHere does not show
+*** SUMMARY ***
+Total pot $0.03
+Seat 1: MezcalMule folded on the Pre-Flop and did not bet
+Seat 2: Smallsenberg folded on the Pre-Flop and did not bet
+Seat 3: dreamsicle666 folded on the Pre-Flop and did not bet
+Seat 4: trifonicd (button) folded on the Pre-Flop
+Seat 5: StaplegunKing (small blind) folded on the Pre-Flop
+Seat 6: CreativeNameHere did not show and won $0.03
+
+Hand #991160878 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/24 20:34:01 UTC
+Bluffton 6-max Seat #5 is the button
+Seat 1: MezcalMule ($1.58)
+Seat 2: Smallsenberg ($2.11)
+Seat 3: dreamsicle666 ($3.81)
+Seat 4: trifonicd ($2.00)
+Seat 5: StaplegunKing ($5.04)
+Seat 6: CreativeNameHere ($2.01)
+CreativeNameHere posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [3c 5h]
+Smallsenberg folds
+dreamsicle666 folds
+trifonicd folds
+StaplegunKing raises $0.06 to $0.06
+CreativeNameHere folds
+MezcalMule folds
+Uncalled bet ($0.04) returned to StaplegunKing
+StaplegunKing does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: MezcalMule (big blind) folded on the Pre-Flop
+Seat 2: Smallsenberg folded on the Pre-Flop and did not bet
+Seat 3: dreamsicle666 folded on the Pre-Flop and did not bet
+Seat 4: trifonicd folded on the Pre-Flop and did not bet
+Seat 5: StaplegunKing did not show and won $0.05
+Seat 6: CreativeNameHere (small blind) folded on the Pre-Flop
+
+Hand #991161672 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/24 20:34:27 UTC
+Bluffton 6-max Seat #6 is the button
+Seat 1: MezcalMule ($1.56)
+Seat 2: Smallsenberg ($2.11)
+Seat 3: dreamsicle666 ($3.81)
+Seat 4: trifonicd ($2.00)
+Seat 5: StaplegunKing ($5.07)
+Seat 6: CreativeNameHere ($2.00)
+MezcalMule posts the small blind $0.01
+Smallsenberg posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Qc Js]
+dreamsicle666 folds
+trifonicd folds
+StaplegunKing raises $0.06 to $0.06
+CreativeNameHere folds
+MezcalMule calls $0.05
+Smallsenberg folds
+*** FLOP *** [3c Ah Jd]
+Main pot $0.14 | Rake $0.00
+MezcalMule checks
+StaplegunKing bets $0.08
+MezcalMule folds
+Uncalled bet ($0.08) returned to StaplegunKing
+StaplegunKing does not show
+*** SUMMARY ***
+Total pot $0.14
+Board [3c Ah Jd]
+Seat 1: MezcalMule (small blind) folded on the Flop
+Seat 2: Smallsenberg (big blind) folded on the Pre-Flop
+Seat 3: dreamsicle666 folded on the Pre-Flop and did not bet
+Seat 4: trifonicd folded on the Pre-Flop and did not bet
+Seat 5: StaplegunKing did not show and won $0.14
+Seat 6: CreativeNameHere (button) folded on the Pre-Flop
+
+Hand #991163284 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/24 20:35:21 UTC
+Bluffton 6-max Seat #1 is the button
+Seat 1: MezcalMule ($1.50)
+Seat 2: Smallsenberg ($2.09)
+Seat 3: dreamsicle666 ($3.81)
+Seat 4: trifonicd ($2.00)
+Seat 5: StaplegunKing ($5.15)
+Seat 6: CreativeNameHere ($2.00)
+Smallsenberg posts the small blind $0.01
+dreamsicle666 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [8s 5h]
+trifonicd folds
+StaplegunKing folds
+CreativeNameHere folds
+MezcalMule folds
+Smallsenberg folds
+dreamsicle666 does not show
+*** SUMMARY ***
+Total pot $0.03
+Seat 1: MezcalMule (button) folded on the Pre-Flop
+Seat 2: Smallsenberg (small blind) folded on the Pre-Flop
+Seat 3: dreamsicle666 did not show and won $0.03
+Seat 4: trifonicd folded on the Pre-Flop and did not bet
+Seat 5: StaplegunKing folded on the Pre-Flop and did not bet
+Seat 6: CreativeNameHere folded on the Pre-Flop and did not bet
+
+Hand #991163724 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/24 20:35:36 UTC
+Bluffton 6-max Seat #2 is the button
+Seat 1: MezcalMule ($1.50)
+Seat 2: Smallsenberg ($2.08)
+Seat 3: dreamsicle666 ($3.82)
+Seat 4: trifonicd ($2.00)
+Seat 5: StaplegunKing ($5.15)
+Seat 6: CreativeNameHere ($2.00)
+dreamsicle666 posts the small blind $0.01
+trifonicd posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [5h 8d]
+StaplegunKing raises $0.07 to $0.07
+CreativeNameHere folds
+MezcalMule folds
+Smallsenberg calls $0.07
+dreamsicle666 folds
+trifonicd folds
+*** FLOP *** [7c Ad 5s]
+Main pot $0.17 | Rake $0.00
+StaplegunKing bets $0.09
+Smallsenberg calls $0.09
+*** TURN *** [7c Ad 5s] [Th]
+Main pot $0.34 | Rake $0.01
+StaplegunKing bets $0.15
+Smallsenberg folds
+Uncalled bet ($0.15) returned to StaplegunKing
+StaplegunKing shows [Ah -]
+*** SUMMARY ***
+Total pot $0.34 | Rake $0.01
+Board [7c Ad 5s Th]
+Seat 1: MezcalMule folded on the Pre-Flop and did not bet
+Seat 2: Smallsenberg (button) folded on the Turn
+Seat 3: dreamsicle666 (small blind) folded on the Pre-Flop
+Seat 4: trifonicd (big blind) folded on the Pre-Flop
+Seat 5: StaplegunKing showed [Ah -] and won $0.34
+Seat 6: CreativeNameHere folded on the Pre-Flop and did not bet
+
+Hand #991165002 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/24 20:36:18 UTC
+Bluffton 6-max Seat #3 is the button
+Seat 1: MezcalMule ($1.50)
+Seat 2: Smallsenberg ($2.00)
+Seat 3: dreamsicle666 ($3.81)
+Seat 4: trifonicd ($2.00)
+Seat 5: StaplegunKing ($5.33)
+Seat 6: CreativeNameHere ($2.00)
+trifonicd posts the small blind $0.01
+StaplegunKing posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [8d Ac]
+CreativeNameHere folds
+MezcalMule raises $0.04 to $0.04
+Smallsenberg folds
+dreamsicle666 folds
+trifonicd folds
+StaplegunKing calls $0.02
+*** FLOP *** [6h As 6d]
+Main pot $0.09 | Rake $0.00
+StaplegunKing checks
+MezcalMule checks
+*** TURN *** [6h As 6d] [6s]
+Main pot $0.09 | Rake $0.00
+StaplegunKing bets $0.04
+MezcalMule calls $0.04
+*** RIVER *** [6h As 6d 6s] [Qh]
+Main pot $0.17 | Rake $0.00
+StaplegunKing checks
+MezcalMule bets $0.17
+StaplegunKing folds
+Uncalled bet ($0.17) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.17
+Board [6h As 6d 6s Qh]
+Seat 1: MezcalMule did not show and won $0.17
+Seat 2: Smallsenberg folded on the Pre-Flop and did not bet
+Seat 3: dreamsicle666 (button) folded on the Pre-Flop
+Seat 4: trifonicd (small blind) folded on the Pre-Flop
+Seat 5: StaplegunKing (big blind) folded on the River
+Seat 6: CreativeNameHere folded on the Pre-Flop and did not bet
+
+Hand #991167046 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/24 20:37:27 UTC
+Bluffton 6-max Seat #4 is the button
+Seat 1: MezcalMule ($1.59)
+Seat 2: Smallsenberg ($2.00)
+Seat 3: dreamsicle666 ($3.81)
+Seat 4: trifonicd ($2.00)
+Seat 5: StaplegunKing ($5.25)
+Seat 6: CreativeNameHere ($2.00)
+StaplegunKing posts the small blind $0.01
+CreativeNameHere posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [4d Kh]
+MezcalMule folds
+Smallsenberg folds
+dreamsicle666 folds
+trifonicd raises $0.06 to $0.06
+StaplegunKing folds
+CreativeNameHere calls $0.04
+*** FLOP *** [8c Ac 6h]
+Main pot $0.13 | Rake $0.00
+CreativeNameHere checks
+trifonicd bets $0.06
+CreativeNameHere folds
+Uncalled bet ($0.06) returned to trifonicd
+trifonicd does not show
+*** SUMMARY ***
+Total pot $0.13
+Board [8c Ac 6h]
+Seat 1: MezcalMule folded on the Pre-Flop and did not bet
+Seat 2: Smallsenberg folded on the Pre-Flop and did not bet
+Seat 3: dreamsicle666 folded on the Pre-Flop and did not bet
+Seat 4: trifonicd did not show and won $0.13
+Seat 5: StaplegunKing (small blind) folded on the Pre-Flop
+Seat 6: CreativeNameHere (big blind) folded on the Flop
+
+Hand #991168544 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/24 20:38:19 UTC
+Bluffton 6-max Seat #5 is the button
+Seat 1: MezcalMule ($1.59)
+Seat 2: Smallsenberg ($2.00)
+Seat 3: dreamsicle666 ($3.81)
+Seat 4: trifonicd ($2.07)
+Seat 5: StaplegunKing ($5.24)
+Seat 6: CreativeNameHere ($2.00)
+CreativeNameHere posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [3d Kh]
+Smallsenberg folds
+dreamsicle666 folds
+trifonicd folds
+StaplegunKing folds
+CreativeNameHere folds
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.03
+Seat 1: MezcalMule did not show and won $0.03
+Seat 2: Smallsenberg folded on the Pre-Flop and did not bet
+Seat 3: dreamsicle666 folded on the Pre-Flop and did not bet
+Seat 4: trifonicd folded on the Pre-Flop and did not bet
+Seat 5: StaplegunKing (button) folded on the Pre-Flop
+Seat 6: CreativeNameHere (small blind) folded on the Pre-Flop
+
+Hand #991169260 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/24 20:38:43 UTC
+Bluffton 6-max Seat #6 is the button
+Seat 1: MezcalMule ($1.60)
+Seat 2: Smallsenberg ($2.00)
+Seat 3: dreamsicle666 ($3.81)
+Seat 4: trifonicd ($2.07)
+Seat 5: StaplegunKing ($5.24)
+Seat 6: CreativeNameHere ($2.00)
+MezcalMule posts the small blind $0.01
+Smallsenberg posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [2d Ts]
+dreamsicle666 folds
+trifonicd folds
+StaplegunKing raises $0.07 to $0.07
+CreativeNameHere folds
+MezcalMule folds
+Smallsenberg raises $0.12 to $0.14
+StaplegunKing raises $0.34 to $0.41
+Smallsenberg raises $0.72 to $0.86
+StaplegunKing raises $4.83 to $5.24 and is all-in
+Smallsenberg calls $1.14 and is all-in
+Uncalled bet ($3.24) returned to StaplegunKing
+*** FLOP *** [Kd Jc As]
+Main pot $3.81 | Rake $0.20
+*** TURN *** [Kd Jc As] [6d]
+Main pot $3.81 | Rake $0.20
+*** RIVER *** [Kd Jc As 6d] [4d]
+Main pot $3.81 | Rake $0.20
+*** SHOW DOWN ***
+Main pot $3.81 | Rake $0.20
+Smallsenberg shows [Ad Ah] (three of a kind, Set of Aces [As Ah Ad Kd Jc])
+StaplegunKing shows [Qc Qd] (a pair of Queens [Qd Qc As Kd Jc])
+Smallsenberg collected $3.81 from main pot
+*** SUMMARY ***
+Total pot $3.81 | Rake $0.14 | JP Fee $0.06
+Board [Kd Jc As 6d 4d]
+Seat 1: MezcalMule (small blind) folded on the Pre-Flop
+Seat 2: Smallsenberg (big blind) showed [Ad Ah] and won $3.81 with three of a kind, Set of Aces [As Ah Ad Kd Jc]
+Seat 3: dreamsicle666 folded on the Pre-Flop and did not bet
+Seat 4: trifonicd folded on the Pre-Flop and did not bet
+Seat 5: StaplegunKing showed [Qc Qd] and lost with a pair of Queens [Qd Qc As Kd Jc]
+Seat 6: CreativeNameHere (button) folded on the Pre-Flop
+
+Hand #991171507 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/24 20:39:58 UTC
+Bluffton 6-max Seat #1 is the button
+Seat 1: MezcalMule ($1.59)
+Seat 2: Smallsenberg ($3.81)
+Seat 3: dreamsicle666 ($3.81)
+Seat 4: trifonicd ($2.07)
+Seat 5: StaplegunKing ($3.24)
+Seat 6: CreativeNameHere ($2.00)
+Smallsenberg posts the small blind $0.01
+dreamsicle666 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [3d Ad]
+trifonicd folds
+StaplegunKing folds
+CreativeNameHere folds
+MezcalMule raises $0.04 to $0.04
+Smallsenberg folds
+dreamsicle666 folds
+Uncalled bet ($0.02) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: MezcalMule did not show and won $0.05
+Seat 2: Smallsenberg (small blind) folded on the Pre-Flop
+Seat 3: dreamsicle666 (big blind) folded on the Pre-Flop
+Seat 4: trifonicd folded on the Pre-Flop and did not bet
+Seat 5: StaplegunKing folded on the Pre-Flop and did not bet
+Seat 6: CreativeNameHere folded on the Pre-Flop and did not bet
+
+Hand #991172646 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/24 20:40:37 UTC
+Bluffton 6-max Seat #2 is the button
+Seat 1: MezcalMule ($1.62)
+Seat 2: Smallsenberg ($3.80)
+Seat 3: dreamsicle666 ($3.79)
+Seat 4: trifonicd ($2.07)
+Seat 5: StaplegunKing ($3.24) is sitting out
+Seat 6: CreativeNameHere ($2.00)
+dreamsicle666 posts the small blind $0.01
+trifonicd sits out
+CreativeNameHere posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Js 4s]
+MezcalMule folds
+Smallsenberg raises $0.05 to $0.05
+dreamsicle666 folds
+CreativeNameHere folds
+Uncalled bet ($0.03) returned to Smallsenberg
+Smallsenberg does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: MezcalMule folded on the Pre-Flop and did not bet
+Seat 2: Smallsenberg did not show and won $0.05
+Seat 3: dreamsicle666 (small blind) folded on the Pre-Flop
+Seat 6: CreativeNameHere (big blind) folded on the Pre-Flop
+
+Hand #991173591 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/24 20:41:09 UTC
+Bluffton 6-max Seat #3 is the button
+Seat 1: MezcalMule ($1.62)
+Seat 2: Smallsenberg ($3.83)
+Seat 3: dreamsicle666 ($3.78)
+Seat 4: trifonicd ($2.07) is sitting out
+Seat 5: StackedMaverick will be allowed to play after the button
+Seat 6: CreativeNameHere ($2.00)
+CreativeNameHere posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [6c 2s]
+Smallsenberg folds
+dreamsicle666 raises $0.06 to $0.06
+CreativeNameHere folds
+MezcalMule folds
+Uncalled bet ($0.04) returned to dreamsicle666
+dreamsicle666 does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: MezcalMule (big blind) folded on the Pre-Flop
+Seat 2: Smallsenberg folded on the Pre-Flop and did not bet
+Seat 3: dreamsicle666 did not show and won $0.05
+Seat 6: CreativeNameHere (small blind) folded on the Pre-Flop
+
+Hand #991174163 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/24 20:41:27 UTC
+Bluffton 6-max Seat #6 is the button
+Seat 1: MezcalMule ($1.60)
+Seat 2: Smallsenberg ($3.83)
+Seat 3: dreamsicle666 ($3.81)
+Seat 4: trifonicd ($2.07) is sitting out
+Seat 5: StackedMaverick ($2.00)
+Seat 6: CreativeNameHere ($2.00)
+MezcalMule posts the small blind $0.01
+Smallsenberg posts the big blind $0.02
+StackedMaverick waits for big blind
+*** HOLE CARDS ***
+Dealt to MezcalMule [Qd 3s]
+dreamsicle666 folds
+CreativeNameHere raises $0.06 to $0.06
+MezcalMule folds
+Smallsenberg calls $0.04
+*** FLOP *** [As 2h Ts]
+Main pot $0.13 | Rake $0.00
+Smallsenberg checks
+CreativeNameHere bets $0.08
+Smallsenberg calls $0.08
+*** TURN *** [As 2h Ts] [5c]
+Main pot $0.28 | Rake $0.01
+Smallsenberg checks
+CreativeNameHere bets $0.19
+Smallsenberg folds
+Uncalled bet ($0.19) returned to CreativeNameHere
+CreativeNameHere does not show
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01
+Board [As 2h Ts 5c]
+Seat 1: MezcalMule (small blind) folded on the Pre-Flop
+Seat 2: Smallsenberg (big blind) folded on the Turn
+Seat 3: dreamsicle666 folded on the Pre-Flop and did not bet
+Seat 6: CreativeNameHere did not show and won $0.28
+
+Hand #991175527 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/24 20:42:13 UTC
+Bluffton 6-max Seat #1 is the button
+Seat 1: MezcalMule ($1.59)
+Seat 2: Smallsenberg ($3.69)
+Seat 3: dreamsicle666 ($3.81)
+Seat 5: StackedMaverick ($2.00)
+Seat 6: CreativeNameHere ($2.14)
+Smallsenberg posts the small blind $0.01
+dreamsicle666 posts the big blind $0.02
+StackedMaverick waits for big blind
+*** HOLE CARDS ***
+Dealt to MezcalMule [5c Ts]
+CreativeNameHere folds
+MezcalMule folds
+Smallsenberg folds
+dreamsicle666 does not show
+*** SUMMARY ***
+Total pot $0.03
+Seat 1: MezcalMule (button) folded on the Pre-Flop
+Seat 2: Smallsenberg (small blind) folded on the Pre-Flop
+Seat 3: dreamsicle666 did not show and won $0.03
+Seat 6: CreativeNameHere folded on the Pre-Flop and did not bet
+
+Hand #991175878 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/24 20:42:24 UTC
+Bluffton 6-max Seat #2 is the button
+Seat 1: MezcalMule ($1.59)
+Seat 2: Smallsenberg ($3.68)
+Seat 3: dreamsicle666 ($3.82)
+Seat 5: StackedMaverick ($2.00)
+Seat 6: CreativeNameHere ($2.14)
+dreamsicle666 posts the small blind $0.01
+StackedMaverick posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Qc 8c]
+CreativeNameHere folds
+MezcalMule raises $0.04 to $0.04
+Smallsenberg folds
+dreamsicle666 folds
+StackedMaverick folds
+Uncalled bet ($0.02) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: MezcalMule did not show and won $0.05
+Seat 2: Smallsenberg (button) folded on the Pre-Flop
+Seat 3: dreamsicle666 (small blind) folded on the Pre-Flop
+Seat 5: StackedMaverick (big blind) folded on the Pre-Flop
+Seat 6: CreativeNameHere folded on the Pre-Flop and did not bet
+
+Hand #991176301 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/24 20:42:39 UTC
+Bluffton 6-max Seat #3 is the button
+Seat 1: MezcalMule ($1.62)
+Seat 2: Smallsenberg ($3.68)
+Seat 3: dreamsicle666 ($3.81)
+Seat 5: StackedMaverick ($2.00)
+Seat 6: CreativeNameHere ($2.14)
+StackedMaverick posts the small blind $0.01
+CreativeNameHere posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Qd Kd]
+MezcalMule raises $0.04 to $0.04
+Smallsenberg calls $0.04
+dreamsicle666 folds
+StackedMaverick folds
+CreativeNameHere raises $0.18 to $0.20
+MezcalMule calls $0.16
+Smallsenberg calls $0.16
+*** FLOP *** [Jc 8c 6s]
+Main pot $0.58 | Rake $0.03
+CreativeNameHere bets $0.30
+MezcalMule folds
+Smallsenberg raises $0.74 to $0.74
+CreativeNameHere calls $0.44
+*** TURN *** [Jc 8c 6s] [Tc]
+Main pot $1.99 | Rake $0.10
+CreativeNameHere checks
+Smallsenberg bets $2.74 and is all-in
+CreativeNameHere calls $1.20 and is all-in
+Uncalled bet ($1.54) returned to Smallsenberg
+*** RUN IT TWICE ***
+*** RIVER 1 *** [Jc 8c 6s Tc] [4c]
+Main pot 1 $2.14 | Rake $0.11
+*** SHOW DOWN 1 ***
+Main pot 1 $2.14 | Rake $0.11
+Smallsenberg shows [Qs Jd] (a pair of Jacks [Jd Jc Qs Tc 8c])
+CreativeNameHere shows [Ac Ad] (a flush, Ace high [Ac Jc Tc 8c 4c])
+CreativeNameHere collected $2.14 from main pot 1
+*** RIVER 2 *** [Jc 8c 6s Tc] [8h]
+Main pot 2 $2.13 | Rake $0.11
+*** SHOW DOWN 2 ***
+Main pot 2 $2.13 | Rake $0.11
+Smallsenberg shows [Qs Jd] (two pair, Jacks and Eights [Jd Jc 8h 8c Qs])
+CreativeNameHere shows [Ac Ad] (two pair, Aces and Eights [Ad Ac 8h 8c Jc])
+CreativeNameHere collected $2.13 from main pot 2
+*** SUMMARY ***
+Total pot $4.27 | Rake $0.16 | JP Fee $0.06
+Board 1 [Jc 8c 6s Tc 4c]
+Seat 1: MezcalMule folded on the Flop
+Seat 2: Smallsenberg showed [Qs Jd] and lost with a pair of Jacks [Jd Jc Qs Tc 8c]
+Seat 3: dreamsicle666 (button) folded on the Pre-Flop
+Seat 5: StackedMaverick (small blind) folded on the Pre-Flop
+Seat 6: CreativeNameHere (big blind) showed [Ac Ad] and won $2.14 with a flush, Ace high [Ac Jc Tc 8c 4c]
+Board 2 [Jc 8c 6s Tc 8h]
+Seat 1: MezcalMule folded on the Flop
+Seat 2: Smallsenberg showed [Qs Jd] and lost with two pair, Jacks and Eights [Jd Jc 8h 8c Qs]
+Seat 3: dreamsicle666 (button) folded on the Pre-Flop
+Seat 5: StackedMaverick (small blind) folded on the Pre-Flop
+Seat 6: CreativeNameHere (big blind) showed [Ac Ad] and won $2.13 with two pair, Aces and Eights [Ad Ac 8h 8c Jc]
+
+Hand #991179262 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/24 20:44:20 UTC
+Bluffton 6-max Seat #5 is the button
+Seat 1: MezcalMule ($1.42)
+Seat 2: Smallsenberg ($2.00)
+Seat 3: dreamsicle666 ($3.81)
+Seat 4: om3_ ($2.00)
+Seat 5: StackedMaverick ($2.00)
+Seat 6: CreativeNameHere ($4.27)
+CreativeNameHere posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+om3_ waits for big blind
+*** HOLE CARDS ***
+Dealt to MezcalMule [Qd 7s]
+Smallsenberg folds
+dreamsicle666 raises $0.06 to $0.06
+StackedMaverick folds
+CreativeNameHere folds
+MezcalMule folds
+Uncalled bet ($0.04) returned to dreamsicle666
+dreamsicle666 does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: MezcalMule (big blind) folded on the Pre-Flop
+Seat 2: Smallsenberg folded on the Pre-Flop and did not bet
+Seat 3: dreamsicle666 did not show and won $0.05
+Seat 5: StackedMaverick (button) folded on the Pre-Flop
+Seat 6: CreativeNameHere (small blind) folded on the Pre-Flop
+
+Hand #991179830 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/24 20:44:40 UTC
+Bluffton 6-max Seat #6 is the button
+Seat 1: MezcalMule ($1.40)
+Seat 2: Smallsenberg ($2.00)
+Seat 3: dreamsicle666 ($3.84)
+Seat 4: om3_ ($2.00)
+Seat 5: StackedMaverick ($2.00)
+Seat 6: CreativeNameHere ($4.26)
+MezcalMule posts the small blind $0.01
+Smallsenberg posts the big blind $0.02
+om3_ waits for big blind
+*** HOLE CARDS ***
+Dealt to MezcalMule [6c 5d]
+dreamsicle666 folds
+StackedMaverick raises $0.06 to $0.06
+CreativeNameHere folds
+MezcalMule folds
+Smallsenberg folds
+Uncalled bet ($0.04) returned to StackedMaverick
+StackedMaverick does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: MezcalMule (small blind) folded on the Pre-Flop
+Seat 2: Smallsenberg (big blind) folded on the Pre-Flop
+Seat 3: dreamsicle666 folded on the Pre-Flop and did not bet
+Seat 5: StackedMaverick did not show and won $0.05
+Seat 6: CreativeNameHere (button) folded on the Pre-Flop
+
+Hand #991180609 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/24 20:45:06 UTC
+Bluffton 6-max Seat #1 is the button
+Seat 1: MezcalMule ($1.39)
+Seat 2: Smallsenberg ($2.00)
+Seat 3: dreamsicle666 ($3.84)
+Seat 4: om3_ ($2.00)
+Seat 5: StackedMaverick ($2.03)
+Seat 6: CreativeNameHere ($4.26)
+Smallsenberg posts the small blind $0.01
+dreamsicle666 posts the big blind $0.02
+om3_ waits for big blind
+*** HOLE CARDS ***
+Dealt to MezcalMule [5c Ah]
+StackedMaverick folds
+CreativeNameHere folds
+MezcalMule calls $0.02
+Smallsenberg folds
+dreamsicle666 raises $0.08 to $0.10
+MezcalMule calls $0.08
+*** FLOP *** [5d Kd 4d]
+Main pot $0.20 | Rake $0.01
+dreamsicle666 bets $0.12
+MezcalMule folds
+Uncalled bet ($0.12) returned to dreamsicle666
+dreamsicle666 does not show
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01
+Board [5d Kd 4d]
+Seat 1: MezcalMule (button) folded on the Flop
+Seat 2: Smallsenberg (small blind) folded on the Pre-Flop
+Seat 3: dreamsicle666 did not show and won $0.20
+Seat 5: StackedMaverick folded on the Pre-Flop and did not bet
+Seat 6: CreativeNameHere folded on the Pre-Flop and did not bet
+
+Hand #991182030 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/24 20:45:55 UTC
+Bluffton 6-max Seat #2 is the button
+Seat 1: MezcalMule ($1.29)
+Seat 2: Smallsenberg ($2.00)
+Seat 3: dreamsicle666 ($3.94)
+Seat 4: om3_ ($2.00)
+Seat 5: StackedMaverick ($2.03)
+Seat 6: CreativeNameHere ($4.26)
+dreamsicle666 posts the small blind $0.01
+om3_ posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Ac Ad]
+StackedMaverick folds
+CreativeNameHere raises $0.06 to $0.06
+MezcalMule raises $0.15 to $0.15
+Smallsenberg folds
+dreamsicle666 folds
+om3_ folds
+CreativeNameHere folds
+Uncalled bet ($0.09) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.15
+Seat 1: MezcalMule did not show and won $0.15
+Seat 2: Smallsenberg (button) folded on the Pre-Flop
+Seat 3: dreamsicle666 (small blind) folded on the Pre-Flop
+Seat 4: om3_ (big blind) folded on the Pre-Flop
+Seat 5: StackedMaverick folded on the Pre-Flop and did not bet
+Seat 6: CreativeNameHere folded on the Pre-Flop and did not bet
+
+Hand #991183326 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/24 20:46:40 UTC
+Bluffton 6-max Seat #3 is the button
+Seat 1: MezcalMule ($1.38)
+Seat 2: Smallsenberg ($2.00)
+Seat 3: dreamsicle666 ($3.93)
+Seat 4: om3_ ($1.98)
+Seat 5: StackedMaverick ($2.03)
+Seat 6: CreativeNameHere ($4.20)
+om3_ posts the small blind $0.01
+StackedMaverick posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [9c Jh]
+CreativeNameHere raises $0.06 to $0.06
+MezcalMule folds
+Smallsenberg folds
+dreamsicle666 raises $0.18 to $0.18
+om3_ folds
+StackedMaverick raises $0.56 to $0.58
+CreativeNameHere folds
+dreamsicle666 folds
+Uncalled bet ($0.40) returned to StackedMaverick
+StackedMaverick does not show
+*** SUMMARY ***
+Total pot $0.43
+Seat 1: MezcalMule folded on the Pre-Flop and did not bet
+Seat 2: Smallsenberg folded on the Pre-Flop and did not bet
+Seat 3: dreamsicle666 (button) folded on the Pre-Flop
+Seat 4: om3_ (small blind) folded on the Pre-Flop
+Seat 5: StackedMaverick did not show and won $0.43
+Seat 6: CreativeNameHere folded on the Pre-Flop and did not bet
+
+Hand #991184823 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/24 20:47:30 UTC
+Bluffton 6-max Seat #4 is the button
+Seat 1: MezcalMule ($1.38)
+Seat 2: Smallsenberg ($2.00)
+Seat 3: dreamsicle666 ($3.75)
+Seat 4: om3_ ($1.97)
+Seat 5: StackedMaverick ($2.28)
+Seat 6: CreativeNameHere ($4.14)
+StackedMaverick posts the small blind $0.01
+CreativeNameHere posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [As 9d]
+MezcalMule raises $0.04 to $0.04
+Smallsenberg calls $0.04
+dreamsicle666 folds
+om3_ folds
+StackedMaverick calls $0.03
+CreativeNameHere folds
+*** FLOP *** [7s 4h Th]
+Main pot $0.14 | Rake $0.00
+StackedMaverick checks
+MezcalMule checks
+Smallsenberg bets $0.08
+StackedMaverick folds
+MezcalMule folds
+Uncalled bet ($0.08) returned to Smallsenberg
+Smallsenberg does not show
+*** SUMMARY ***
+Total pot $0.14
+Board [7s 4h Th]
+Seat 1: MezcalMule folded on the Flop
+Seat 2: Smallsenberg did not show and won $0.14
+Seat 3: dreamsicle666 folded on the Pre-Flop and did not bet
+Seat 4: om3_ (button) folded on the Pre-Flop
+Seat 5: StackedMaverick (small blind) folded on the Flop
+Seat 6: CreativeNameHere (big blind) folded on the Pre-Flop
+
+Hand #991186527 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/24 20:48:29 UTC
+Bluffton 6-max Seat #5 is the button
+Seat 1: MezcalMule ($1.34)
+Seat 2: Smallsenberg ($2.10)
+Seat 3: machinesavage1 ($0.98)
+Seat 4: om3_ ($1.97)
+Seat 5: StackedMaverick ($2.24)
+Seat 6: CreativeNameHere ($4.12)
+CreativeNameHere posts the small blind $0.01
+MezcalMule posts the big blind $0.02
+machinesavage1 posts $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Jh 6c]
+Smallsenberg folds
+machinesavage1 checks
+om3_ folds
+StackedMaverick folds
+CreativeNameHere folds
+MezcalMule checks
+*** FLOP *** [9h Qc 2d]
+Main pot $0.05 | Rake $0.00
+MezcalMule checks
+machinesavage1 bets $0.03
+MezcalMule folds
+Uncalled bet ($0.03) returned to machinesavage1
+machinesavage1 does not show
+*** SUMMARY ***
+Total pot $0.05
+Board [9h Qc 2d]
+Seat 1: MezcalMule (big blind) folded on the Flop
+Seat 2: Smallsenberg folded on the Pre-Flop and did not bet
+Seat 3: machinesavage1 did not show and won $0.05
+Seat 4: om3_ folded on the Pre-Flop and did not bet
+Seat 5: StackedMaverick (button) folded on the Pre-Flop
+Seat 6: CreativeNameHere (small blind) folded on the Pre-Flop
+
+Hand #991188060 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/24 20:49:22 UTC
+Bluffton 6-max Seat #6 is the button
+Seat 1: MezcalMule ($1.32)
+Seat 2: Smallsenberg ($2.10)
+Seat 3: machinesavage1 ($1.01)
+Seat 4: om3_ ($1.97)
+Seat 5: StackedMaverick ($2.24)
+Seat 6: CreativeNameHere ($4.11)
+MezcalMule posts the small blind $0.01
+Smallsenberg posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [Td Kd]
+machinesavage1 folds
+om3_ folds
+StackedMaverick raises $0.05 to $0.05
+CreativeNameHere folds
+MezcalMule raises $0.07 to $0.08
+Smallsenberg folds
+StackedMaverick calls $0.03
+*** FLOP *** [4c Ts 4s]
+Main pot $0.18 | Rake $0.00
+MezcalMule bets $0.13
+StackedMaverick folds
+Uncalled bet ($0.13) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.18
+Board [4c Ts 4s]
+Seat 1: MezcalMule did not show and won $0.18
+Seat 2: Smallsenberg (big blind) folded on the Pre-Flop
+Seat 3: machinesavage1 folded on the Pre-Flop and did not bet
+Seat 4: om3_ folded on the Pre-Flop and did not bet
+Seat 5: StackedMaverick folded on the Flop
+Seat 6: CreativeNameHere (button) folded on the Pre-Flop
+
+Hand #991189393 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/24 20:50:08 UTC
+Bluffton 6-max Seat #1 is the button
+Seat 1: MezcalMule ($1.42)
+Seat 2: Smallsenberg ($2.08)
+Seat 3: machinesavage1 ($1.01)
+Seat 4: om3_ ($1.97)
+Seat 5: StackedMaverick ($2.16)
+Seat 6: CreativeNameHere ($4.11)
+Smallsenberg posts the small blind $0.01
+machinesavage1 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [5c Qh]
+om3_ folds
+StackedMaverick folds
+CreativeNameHere folds
+MezcalMule folds
+Smallsenberg folds
+machinesavage1 does not show
+*** SUMMARY ***
+Total pot $0.03
+Seat 1: MezcalMule (button) folded on the Pre-Flop
+Seat 2: Smallsenberg (small blind) folded on the Pre-Flop
+Seat 3: machinesavage1 did not show and won $0.03
+Seat 4: om3_ folded on the Pre-Flop and did not bet
+Seat 5: StackedMaverick folded on the Pre-Flop and did not bet
+Seat 6: CreativeNameHere folded on the Pre-Flop and did not bet
+
+Hand #991190058 - Holdem(No Limit) - $0.01/$0.02 - 2021/10/24 20:50:31 UTC
+Bluffton 6-max Seat #2 is the button
+Seat 1: MezcalMule ($1.42)
+Seat 2: Smallsenberg ($2.07)
+Seat 3: machinesavage1 ($1.02)
+Seat 4: om3_ ($1.97)
+Seat 5: StackedMaverick ($2.16)
+Seat 6: CreativeNameHere ($4.11)
+machinesavage1 posts the small blind $0.01
+om3_ posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to MezcalMule [7s 6s]
+StackedMaverick folds
+CreativeNameHere folds
+MezcalMule raises $0.04 to $0.04
+Smallsenberg folds
+machinesavage1 folds
+om3_ raises $0.12 to $0.14
+MezcalMule calls $0.10
+*** FLOP *** [6h 9d 3c]
+Main pot $0.28 | Rake $0.01
+om3_ bets $0.15
+MezcalMule raises $0.40 to $0.40
+om3_ raises $1.68 to $1.83 and is all-in
+MezcalMule calls $0.88 and is all-in
+Uncalled bet ($0.55) returned to om3_
+*** TURN *** [6h 9d 3c] [Kc]
+Main pot $2.71 | Rake $0.14
+*** RIVER *** [6h 9d 3c Kc] [7c]
+Main pot $2.71 | Rake $0.14
+*** SHOW DOWN ***
+Main pot $2.71 | Rake $0.14
+MezcalMule shows [7s 6s] (two pair, Sevens and Sixs [7s 7c 6s 6h Kc])
+om3_ shows [Ad Ac] (a pair of Aces [Ad Ac Kc 9d 7c])
+MezcalMule collected $2.71 from main pot
+*** SUMMARY ***
+Total pot $2.71 | Rake $0.10 | JP Fee $0.04
+Board [6h 9d 3c Kc 7c]
+Seat 1: MezcalMule showed [7s 6s] and won $2.71 with two pair, Sevens and Sixs [7s 7c 6s 6h Kc]
+Seat 2: Smallsenberg (button) folded on the Pre-Flop
+Seat 3: machinesavage1 (small blind) folded on the Pre-Flop
+Seat 4: om3_ (big blind) showed [Ad Ac] and lost with a pair of Aces [Ad Ac Kc 9d 7c]
+Seat 5: StackedMaverick folded on the Pre-Flop and did not bet
+Seat 6: CreativeNameHere folded on the Pre-Flop and did not bet
+

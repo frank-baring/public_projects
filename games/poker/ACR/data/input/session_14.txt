@@ -1,0 +1,637 @@
+Hand #1097916120 - Holdem(No Limit) - $0.02/$0.05 - 2022/01/25 03:09:09 UTC
+Citrus Heights 6-max Seat #3 is the button
+Seat 1: MezcalMule ($5.00)
+Seat 3: Brucifer33 ($3.84)
+Seat 6: uplayedurself ($6.19)
+uplayedurself posts the small blind $0.02
+MezcalMule posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to MezcalMule [Qd 2s]
+Brucifer33 calls $0.05
+uplayedurself raises $0.14 to $0.16
+MezcalMule folds
+Brucifer33 calls $0.11
+*** FLOP *** [8d Qc 2d]
+Main pot $0.36 | Rake $0.01
+uplayedurself checks
+Brucifer33 checks
+*** TURN *** [8d Qc 2d] [3s]
+Main pot $0.36 | Rake $0.01
+uplayedurself bets $0.18
+Brucifer33 calls $0.18
+*** RIVER *** [8d Qc 2d 3s] [4c]
+Main pot $0.70 | Rake $0.03
+uplayedurself checks
+Brucifer33 bets $0.54
+uplayedurself folds
+Uncalled bet ($0.54) returned to Brucifer33
+Brucifer33 does not show
+*** SUMMARY ***
+Total pot $0.70 | Rake $0.03
+Board [8d Qc 2d 3s 4c]
+Seat 1: MezcalMule (big blind) folded on the Pre-Flop
+Seat 3: Brucifer33 did not show and won $0.70
+Seat 6: uplayedurself (small blind) folded on the River
+
+Hand #1097917709 - Holdem(No Limit) - $0.02/$0.05 - 2022/01/25 03:10:17 UTC
+Citrus Heights 6-max Seat #6 is the button
+Seat 1: MezcalMule ($4.95)
+Seat 3: Brucifer33 ($4.20)
+Seat 6: uplayedurself ($5.85)
+MezcalMule posts the small blind $0.02
+Brucifer33 posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to MezcalMule [Ah 6d]
+uplayedurself folds
+MezcalMule calls $0.03
+Brucifer33 raises $0.15 to $0.20
+MezcalMule folds
+Uncalled bet ($0.15) returned to Brucifer33
+Brucifer33 does not show
+*** SUMMARY ***
+Total pot $0.10
+Seat 1: MezcalMule (small blind) folded on the Pre-Flop
+Seat 3: Brucifer33 did not show and won $0.10
+Seat 6: uplayedurself (button) folded on the Pre-Flop
+
+Hand #1097918511 - Holdem(No Limit) - $0.02/$0.05 - 2022/01/25 03:10:49 UTC
+Citrus Heights 6-max Seat #1 is the button
+Seat 1: MezcalMule ($4.90)
+Seat 3: Brucifer33 ($4.25)
+Seat 6: uplayedurself ($5.85)
+Brucifer33 posts the small blind $0.02
+uplayedurself posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to MezcalMule [6c Kd]
+MezcalMule folds
+Brucifer33 folds
+uplayedurself does not show
+*** SUMMARY ***
+Total pot $0.07
+Seat 1: MezcalMule (button) folded on the Pre-Flop
+Seat 3: Brucifer33 (small blind) folded on the Pre-Flop
+Seat 6: uplayedurself did not show and won $0.07
+
+Hand #1097918789 - Holdem(No Limit) - $0.02/$0.05 - 2022/01/25 03:11:01 UTC
+Citrus Heights 6-max Seat #3 is the button
+Seat 1: MezcalMule ($4.90)
+Seat 3: Brucifer33 ($4.23)
+Seat 6: uplayedurself ($5.87)
+uplayedurself posts the small blind $0.02
+MezcalMule posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to MezcalMule [6h 3h]
+Brucifer33 calls $0.05
+uplayedurself raises $0.14 to $0.16
+MezcalMule folds
+Brucifer33 calls $0.11
+*** FLOP *** [3c 2h As]
+Main pot $0.36 | Rake $0.01
+uplayedurself bets $0.27
+Brucifer33 folds
+Uncalled bet ($0.27) returned to uplayedurself
+uplayedurself does not show
+*** SUMMARY ***
+Total pot $0.36 | Rake $0.01
+Board [3c 2h As]
+Seat 1: MezcalMule (big blind) folded on the Pre-Flop
+Seat 3: Brucifer33 (button) folded on the Flop
+Seat 6: uplayedurself did not show and won $0.36
+
+Hand #1097919623 - Holdem(No Limit) - $0.02/$0.05 - 2022/01/25 03:11:36 UTC
+Citrus Heights 6-max Seat #6 is the button
+Seat 1: MezcalMule ($4.85)
+Seat 3: Brucifer33 ($4.07)
+Seat 6: uplayedurself ($6.07)
+MezcalMule posts the small blind $0.02
+Brucifer33 posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to MezcalMule [4s 2d]
+uplayedurself raises $0.12 to $0.12
+MezcalMule folds
+Brucifer33 raises $0.35 to $0.40
+uplayedurself folds
+Uncalled bet ($0.28) returned to Brucifer33
+Brucifer33 shows [5h 4h]
+*** SUMMARY ***
+Total pot $0.26
+Seat 1: MezcalMule (small blind) folded on the Pre-Flop
+Seat 3: Brucifer33 (big blind) showed [5h 4h] and won $0.26
+Seat 6: uplayedurself (button) folded on the Pre-Flop
+
+Hand #1097920141 - Holdem(No Limit) - $0.02/$0.05 - 2022/01/25 03:11:59 UTC
+Citrus Heights 6-max Seat #1 is the button
+Seat 1: MezcalMule ($4.83)
+Seat 3: Brucifer33 ($4.21)
+Seat 6: uplayedurself ($5.95)
+Brucifer33 posts the small blind $0.02
+uplayedurself posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to MezcalMule [Ad 4s]
+MezcalMule raises $0.11 to $0.11
+Brucifer33 folds
+uplayedurself folds
+Uncalled bet ($0.06) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.12
+Seat 1: MezcalMule did not show and won $0.12
+Seat 3: Brucifer33 (small blind) folded on the Pre-Flop
+Seat 6: uplayedurself (big blind) folded on the Pre-Flop
+
+Hand #1097920375 - Holdem(No Limit) - $0.02/$0.05 - 2022/01/25 03:12:09 UTC
+Citrus Heights 6-max Seat #3 is the button
+Seat 1: MezcalMule ($4.90)
+Seat 3: Brucifer33 ($4.19)
+Seat 6: uplayedurself ($5.90)
+uplayedurself posts the small blind $0.02
+MezcalMule posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to MezcalMule [6d 3s]
+Brucifer33 folds
+uplayedurself raises $0.12 to $0.14
+MezcalMule folds
+Uncalled bet ($0.09) returned to uplayedurself
+uplayedurself does not show
+*** SUMMARY ***
+Total pot $0.10
+Seat 1: MezcalMule (big blind) folded on the Pre-Flop
+Seat 3: Brucifer33 (button) folded on the Pre-Flop
+Seat 6: uplayedurself did not show and won $0.10
+
+Hand #1097920775 - Holdem(No Limit) - $0.02/$0.05 - 2022/01/25 03:12:25 UTC
+Citrus Heights 6-max Seat #6 is the button
+Seat 1: MezcalMule ($4.85)
+Seat 3: Brucifer33 ($4.19)
+Seat 6: uplayedurself ($5.95)
+MezcalMule posts the small blind $0.02
+Brucifer33 posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to MezcalMule [Jc 4c]
+uplayedurself raises $0.12 to $0.12
+MezcalMule calls $0.10
+Brucifer33 raises $0.45 to $0.50
+uplayedurself calls $0.38
+MezcalMule folds
+*** FLOP *** [Js 6h 8s]
+Main pot $1.07 | Rake $0.05
+Brucifer33 bets $0.75
+uplayedurself raises $5.45 to $5.45 and is all-in
+Brucifer33 folds
+Uncalled bet ($4.70) returned to uplayedurself
+uplayedurself does not show
+*** SUMMARY ***
+Total pot $2.49 | Rake $0.09 | JP Fee $0.04
+Board [Js 6h 8s]
+Seat 1: MezcalMule (small blind) folded on the Pre-Flop
+Seat 3: Brucifer33 (big blind) folded on the Flop
+Seat 6: uplayedurself did not show and won $2.49
+
+Hand #1097921654 - Holdem(No Limit) - $0.02/$0.05 - 2022/01/25 03:13:04 UTC
+Citrus Heights 6-max Seat #1 is the button
+Seat 1: MezcalMule ($4.73)
+Seat 3: Brucifer33 ($2.94)
+Seat 6: uplayedurself ($7.19)
+Brucifer33 posts the small blind $0.02
+uplayedurself posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to MezcalMule [5h Ks]
+MezcalMule folds
+Brucifer33 folds
+uplayedurself does not show
+*** SUMMARY ***
+Total pot $0.07
+Seat 1: MezcalMule (button) folded on the Pre-Flop
+Seat 3: Brucifer33 (small blind) folded on the Pre-Flop
+Seat 6: uplayedurself did not show and won $0.07
+
+Hand #1097921858 - Holdem(No Limit) - $0.02/$0.05 - 2022/01/25 03:13:13 UTC
+Citrus Heights 6-max Seat #3 is the button
+Seat 1: MezcalMule ($4.73)
+Seat 3: Brucifer33 ($2.92)
+Seat 6: uplayedurself ($7.21)
+uplayedurself posts the small blind $0.02
+MezcalMule posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to MezcalMule [8s Td]
+Brucifer33 calls $0.05
+uplayedurself folds
+MezcalMule checks
+*** FLOP *** [8d 9s 7c]
+Main pot $0.12 | Rake $0.00
+MezcalMule checks
+Brucifer33 checks
+*** TURN *** [8d 9s 7c] [2d]
+Main pot $0.12 | Rake $0.00
+MezcalMule bets $0.09
+Brucifer33 calls $0.09
+*** RIVER *** [8d 9s 7c 2d] [Jh]
+Main pot $0.29 | Rake $0.01
+MezcalMule bets $0.22
+Brucifer33 raises $0.96 to $0.96
+MezcalMule calls $0.74
+*** SHOW DOWN ***
+Main pot $2.11 | Rake $0.11
+MezcalMule shows [8s Td] (a straight, Jack high [Jh Td 9s 8s 7c])
+Brucifer33 shows [3s Ts] (a straight, Jack high [Jh Ts 9s 8d 7c])
+MezcalMule collected $1.06 from main pot
+Brucifer33 collected $1.05 from main pot
+*** SUMMARY ***
+Total pot $2.11 | Rake $0.09 | JP Fee $0.02
+Board [8d 9s 7c 2d Jh]
+Seat 1: MezcalMule (big blind) showed [8s Td] and won $1.06 with a straight, Jack high [Jh Td 9s 8s 7c]
+Seat 3: Brucifer33 (button) showed [3s Ts] and won $1.05 with a straight, Jack high [Jh Ts 9s 8d 7c]
+Seat 6: uplayedurself (small blind) folded on the Pre-Flop
+
+Hand #1097923233 - Holdem(No Limit) - $0.02/$0.05 - 2022/01/25 03:14:13 UTC
+Citrus Heights 6-max Seat #6 is the button
+Seat 1: MezcalMule ($4.69)
+Seat 2: RoastBeefSteak ($5.00)
+Seat 3: Brucifer33 ($2.87)
+Seat 6: uplayedurself ($7.19)
+MezcalMule posts the small blind $0.02
+RoastBeefSteak posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to MezcalMule [Js 9h]
+Brucifer33 folds
+uplayedurself folds
+MezcalMule calls $0.03
+RoastBeefSteak raises $0.10 to $0.15
+MezcalMule raises $0.65 to $0.70
+RoastBeefSteak folds
+Uncalled bet ($0.55) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.30
+Seat 1: MezcalMule did not show and won $0.30
+Seat 2: RoastBeefSteak (big blind) folded on the Pre-Flop
+Seat 3: Brucifer33 folded on the Pre-Flop and did not bet
+Seat 6: uplayedurself (button) folded on the Pre-Flop
+
+Hand #1097924296 - Holdem(No Limit) - $0.02/$0.05 - 2022/01/25 03:14:59 UTC
+Citrus Heights 6-max Seat #1 is the button
+Seat 1: MezcalMule ($4.84)
+Seat 2: RoastBeefSteak ($5.00)
+Seat 3: Brucifer33 ($2.87)
+Seat 6: uplayedurself ($7.19)
+RoastBeefSteak posts the small blind $0.02
+Brucifer33 posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to MezcalMule [Ks Ts]
+uplayedurself raises $0.14 to $0.14
+MezcalMule calls $0.14
+RoastBeefSteak folds
+Brucifer33 folds
+*** FLOP *** [2c Td Jd]
+Main pot $0.34 | Rake $0.01
+uplayedurself bets $0.17
+MezcalMule calls $0.17
+*** TURN *** [2c Td Jd] [Ad]
+Main pot $0.66 | Rake $0.03
+uplayedurself bets $0.34
+MezcalMule folds
+Uncalled bet ($0.34) returned to uplayedurself
+uplayedurself does not show
+*** SUMMARY ***
+Total pot $0.66 | Rake $0.03
+Board [2c Td Jd Ad]
+Seat 1: MezcalMule (button) folded on the Turn
+Seat 2: RoastBeefSteak (small blind) folded on the Pre-Flop
+Seat 3: Brucifer33 (big blind) folded on the Pre-Flop
+Seat 6: uplayedurself did not show and won $0.66
+
+Hand #1097925377 - Holdem(No Limit) - $0.02/$0.05 - 2022/01/25 03:15:47 UTC
+Citrus Heights 6-max Seat #2 is the button
+Seat 1: MezcalMule ($4.53)
+Seat 2: RoastBeefSteak ($5.00)
+Seat 3: Brucifer33 ($2.82)
+Seat 5: Bjohnson56 ($2.50)
+Seat 6: uplayedurself ($7.54)
+Brucifer33 posts the small blind $0.02
+Bjohnson56 posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to MezcalMule [4c Ks]
+uplayedurself folds
+MezcalMule folds
+RoastBeefSteak folds
+Brucifer33 folds
+Bjohnson56 does not show
+*** SUMMARY ***
+Total pot $0.07
+Seat 1: MezcalMule folded on the Pre-Flop and did not bet
+Seat 2: RoastBeefSteak (button) folded on the Pre-Flop
+Seat 3: Brucifer33 (small blind) folded on the Pre-Flop
+Seat 5: Bjohnson56 did not show and won $0.07
+Seat 6: uplayedurself folded on the Pre-Flop and did not bet
+
+Hand #1097926195 - Holdem(No Limit) - $0.02/$0.05 - 2022/01/25 03:16:22 UTC
+Citrus Heights 6-max Seat #3 is the button
+Seat 1: MezcalMule ($4.53)
+Seat 2: RoastBeefSteak ($5.00)
+Seat 3: Brucifer33 ($2.80)
+Seat 5: Bjohnson56 ($2.52)
+Seat 6: uplayedurself ($7.54)
+Bjohnson56 posts the small blind $0.02
+uplayedurself posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to MezcalMule [8d Kh]
+MezcalMule folds
+RoastBeefSteak folds
+Brucifer33 raises $0.12 to $0.12
+Bjohnson56 folds
+uplayedurself folds
+Uncalled bet ($0.07) returned to Brucifer33
+Brucifer33 shows [Js As]
+*** SUMMARY ***
+Total pot $0.12
+Seat 1: MezcalMule folded on the Pre-Flop and did not bet
+Seat 2: RoastBeefSteak folded on the Pre-Flop and did not bet
+Seat 3: Brucifer33 (button) showed [Js As] and won $0.12
+Seat 5: Bjohnson56 (small blind) folded on the Pre-Flop
+Seat 6: uplayedurself (big blind) folded on the Pre-Flop
+
+Hand #1097926714 - Holdem(No Limit) - $0.02/$0.05 - 2022/01/25 03:16:43 UTC
+Citrus Heights 6-max Seat #5 is the button
+Seat 1: MezcalMule ($4.53)
+Seat 2: RoastBeefSteak ($5.00)
+Seat 3: Brucifer33 ($2.87)
+Seat 5: Bjohnson56 ($2.50)
+Seat 6: uplayedurself ($7.49)
+uplayedurself posts the small blind $0.02
+MezcalMule posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to MezcalMule [7h 9h]
+RoastBeefSteak folds
+Brucifer33 folds
+Bjohnson56 folds
+uplayedurself raises $0.12 to $0.14
+MezcalMule calls $0.09
+*** FLOP *** [9s 5h Qs]
+Main pot $0.27 | Rake $0.01
+uplayedurself bets $0.21
+MezcalMule calls $0.21
+*** TURN *** [9s 5h Qs] [4d]
+Main pot $0.67 | Rake $0.03
+uplayedurself bets $0.52
+MezcalMule folds
+Uncalled bet ($0.52) returned to uplayedurself
+uplayedurself does not show
+*** SUMMARY ***
+Total pot $0.67 | Rake $0.03
+Board [9s 5h Qs 4d]
+Seat 1: MezcalMule (big blind) folded on the Turn
+Seat 2: RoastBeefSteak folded on the Pre-Flop and did not bet
+Seat 3: Brucifer33 folded on the Pre-Flop and did not bet
+Seat 5: Bjohnson56 (button) folded on the Pre-Flop
+Seat 6: uplayedurself did not show and won $0.67
+
+Hand #1097927951 - Holdem(No Limit) - $0.02/$0.05 - 2022/01/25 03:17:38 UTC
+Citrus Heights 6-max Seat #6 is the button
+Seat 1: MezcalMule ($4.18)
+Seat 2: RoastBeefSteak ($5.00)
+Seat 4: Durbinjag ($5.00)
+Seat 5: Bjohnson56 ($2.50)
+Seat 6: uplayedurself ($7.81)
+MezcalMule posts the small blind $0.02
+RoastBeefSteak posts the big blind $0.05
+Durbinjag waits for big blind
+*** HOLE CARDS ***
+Dealt to MezcalMule [As Kd]
+Bjohnson56 folds
+uplayedurself raises $0.12 to $0.12
+MezcalMule raises $0.31 to $0.33
+RoastBeefSteak folds
+uplayedurself folds
+Uncalled bet ($0.21) returned to MezcalMule
+MezcalMule does not show
+*** SUMMARY ***
+Total pot $0.29
+Seat 1: MezcalMule did not show and won $0.29
+Seat 2: RoastBeefSteak (big blind) folded on the Pre-Flop
+Seat 5: Bjohnson56 folded on the Pre-Flop and did not bet
+Seat 6: uplayedurself (button) folded on the Pre-Flop
+
+Hand #1097928570 - Holdem(No Limit) - $0.02/$0.05 - 2022/01/25 03:18:04 UTC
+Citrus Heights 6-max Seat #1 is the button
+Seat 1: MezcalMule ($4.35)
+Seat 2: RoastBeefSteak ($5.00)
+Seat 4: Durbinjag ($5.00)
+Seat 5: Bjohnson56 ($2.50)
+Seat 6: uplayedurself ($7.69)
+RoastBeefSteak posts the small blind $0.02
+Durbinjag posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to MezcalMule [Qh 3h]
+Bjohnson56 folds
+uplayedurself raises $0.14 to $0.14
+MezcalMule folds
+RoastBeefSteak folds
+Durbinjag folds
+Uncalled bet ($0.09) returned to uplayedurself
+uplayedurself does not show
+*** SUMMARY ***
+Total pot $0.12
+Seat 1: MezcalMule (button) folded on the Pre-Flop
+Seat 2: RoastBeefSteak (small blind) folded on the Pre-Flop
+Seat 4: Durbinjag (big blind) folded on the Pre-Flop
+Seat 5: Bjohnson56 folded on the Pre-Flop and did not bet
+Seat 6: uplayedurself did not show and won $0.12
+
+Hand #1097929030 - Holdem(No Limit) - $0.02/$0.05 - 2022/01/25 03:18:26 UTC
+Citrus Heights 6-max Seat #2 is the button
+Seat 1: MezcalMule ($4.35)
+Seat 2: RoastBeefSteak ($5.00)
+Seat 3: NuChoTam will be allowed to play after the button
+Seat 4: Durbinjag ($4.95)
+Seat 5: Bjohnson56 ($2.50)
+Seat 6: uplayedurself ($7.76)
+Durbinjag posts the small blind $0.02
+Bjohnson56 posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to MezcalMule [7h 5d]
+uplayedurself folds
+MezcalMule folds
+RoastBeefSteak folds
+Durbinjag raises $0.13 to $0.15
+Bjohnson56 folds
+Uncalled bet ($0.10) returned to Durbinjag
+Durbinjag does not show
+*** SUMMARY ***
+Total pot $0.10
+Seat 1: MezcalMule folded on the Pre-Flop and did not bet
+Seat 2: RoastBeefSteak (button) folded on the Pre-Flop
+Seat 4: Durbinjag did not show and won $0.10
+Seat 5: Bjohnson56 (big blind) folded on the Pre-Flop
+Seat 6: uplayedurself folded on the Pre-Flop and did not bet
+
+Hand #1097929651 - Holdem(No Limit) - $0.02/$0.05 - 2022/01/25 03:18:53 UTC
+Citrus Heights 6-max Seat #4 is the button
+Seat 1: MezcalMule ($4.35)
+Seat 2: RoastBeefSteak ($5.00)
+Seat 3: NuChoTam ($4.48)
+Seat 4: Durbinjag ($5.00)
+Seat 5: Bjohnson56 ($2.50)
+Seat 6: uplayedurself ($7.76)
+Bjohnson56 posts the small blind $0.02
+uplayedurself posts the big blind $0.05
+NuChoTam posts $0.05
+*** HOLE CARDS ***
+Dealt to MezcalMule [5c Tc]
+MezcalMule folds
+RoastBeefSteak folds
+NuChoTam checks
+Durbinjag folds
+Bjohnson56 raises $0.23 to $0.25
+uplayedurself folds
+NuChoTam calls $0.20
+*** FLOP *** [2c 9h Ac]
+Main pot $0.53 | Rake $0.02
+Bjohnson56 bets $0.30
+NuChoTam calls $0.30
+*** TURN *** [2c 9h Ac] [Js]
+Main pot $1.10 | Rake $0.05
+Bjohnson56 bets $0.60
+NuChoTam calls $0.60
+*** RIVER *** [2c 9h Ac Js] [4c]
+Main pot $2.24 | Rake $0.11
+Bjohnson56 checks
+NuChoTam bets $1.76
+Bjohnson56 calls $1.35 and is all-in
+Uncalled bet ($0.41) returned to NuChoTam
+*** SHOW DOWN ***
+Main pot $4.80 | Rake $0.25
+NuChoTam shows [9c Jd] (two pair, Jacks and Nines [Js Jd 9h 9c Ac])
+Bjohnson56 shows [Kc Ad] (a pair of Aces [Ad Ac Kc Js 9h])
+NuChoTam collected $4.80 from main pot
+*** SUMMARY ***
+Total pot $4.80 | Rake $0.17 | JP Fee $0.08
+Board [2c 9h Ac Js 4c]
+Seat 1: MezcalMule folded on the Pre-Flop and did not bet
+Seat 2: RoastBeefSteak folded on the Pre-Flop and did not bet
+Seat 3: NuChoTam showed [9c Jd] and won $4.80 with two pair, Jacks and Nines [Js Jd 9h 9c Ac]
+Seat 4: Durbinjag (button) folded on the Pre-Flop
+Seat 5: Bjohnson56 (small blind) showed [Kc Ad] and lost with a pair of Aces [Ad Ac Kc Js 9h]
+Seat 6: uplayedurself (big blind) folded on the Pre-Flop
+
+Hand #1097931547 - Holdem(No Limit) - $0.02/$0.05 - 2022/01/25 03:20:16 UTC
+Citrus Heights 6-max Seat #5 is the button
+Seat 1: MezcalMule ($4.35)
+Seat 2: RoastBeefSteak ($5.00)
+Seat 3: NuChoTam ($6.78)
+Seat 4: Durbinjag ($5.00)
+Seat 5: Bjohnson56 ($2.50)
+Seat 6: uplayedurself ($7.71)
+uplayedurself posts the small blind $0.02
+MezcalMule posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to MezcalMule [Ac Kd]
+RoastBeefSteak raises $0.14 to $0.14
+NuChoTam calls $0.14
+Durbinjag raises $0.63 to $0.63
+Bjohnson56 folds
+uplayedurself folds
+MezcalMule calls $0.58
+RoastBeefSteak folds
+NuChoTam calls $0.49
+*** FLOP *** [3h Kh Qd]
+Main pot $1.95 | Rake $0.10
+MezcalMule checks
+NuChoTam checks
+Durbinjag bets $2.05
+MezcalMule raises $3.72 to $3.72 and is all-in
+NuChoTam raises $6.15 to $6.15 and is all-in
+Durbinjag calls $2.32 and is all-in
+Uncalled bet ($1.78) returned to NuChoTam
+*** TURN *** [3h Kh Qd] [6c]
+Main pot $12.55 | Rake $0.66
+Side pot(1) $1.24 | Rake $0.06
+*** RIVER *** [3h Kh Qd 6c] [8h]
+Main pot $12.55 | Rake $0.66
+Side pot(1) $1.24 | Rake $0.06
+*** SHOW DOWN ***
+Main pot $12.55 | Rake $0.66
+Side pot(1) $1.24 | Rake $0.06
+MezcalMule shows [Ac Kd] (a pair of Kings [Kh Kd Ac Qd 8h])
+NuChoTam shows [Jh Td] (a high card, King high [Kh Qd Jh Td 8h])
+Durbinjag shows [Jd Js] (a pair of Jacks [Js Jd Kh Qd 8h])
+MezcalMule collected $12.55 from main pot
+Durbinjag collected $1.24 from side pot-1
+*** SUMMARY ***
+Total pot $13.79 | Rake $0.48 | JP Fee $0.24
+Board [3h Kh Qd 6c 8h]
+Seat 1: MezcalMule (big blind) showed [Ac Kd] and won $12.55 with a pair of Kings [Kh Kd Ac Qd 8h]
+Seat 2: RoastBeefSteak folded on the Pre-Flop and did not bet
+Seat 3: NuChoTam showed [Jh Td] and lost with a high card, King high [Kh Qd Jh Td 8h]
+Seat 4: Durbinjag showed [Jd Js] and won $1.24 with a pair of Jacks [Js Jd Kh Qd 8h]
+Seat 5: Bjohnson56 (button) folded on the Pre-Flop
+Seat 6: uplayedurself (small blind) folded on the Pre-Flop
+
+Hand #1097933597 - Holdem(No Limit) - $0.02/$0.05 - 2022/01/25 03:21:47 UTC
+Citrus Heights 6-max Seat #6 is the button
+Seat 1: MezcalMule ($12.55)
+Seat 2: RoastBeefSteak ($5.00)
+Seat 3: NuChoTam ($1.78)
+Seat 4: Durbinjag ($1.24)
+Seat 5: Bjohnson56 ($2.50)
+Seat 6: uplayedurself ($7.69)
+MezcalMule posts the small blind $0.02
+RoastBeefSteak posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to MezcalMule [8d Js]
+NuChoTam raises $0.11 to $0.11
+Durbinjag folds
+Bjohnson56 folds
+uplayedurself folds
+MezcalMule folds
+RoastBeefSteak folds
+Uncalled bet ($0.06) returned to NuChoTam
+NuChoTam does not show
+*** SUMMARY ***
+Total pot $0.12
+Seat 1: MezcalMule (small blind) folded on the Pre-Flop
+Seat 2: RoastBeefSteak (big blind) folded on the Pre-Flop
+Seat 3: NuChoTam did not show and won $0.12
+Seat 4: Durbinjag folded on the Pre-Flop and did not bet
+Seat 5: Bjohnson56 folded on the Pre-Flop and did not bet
+Seat 6: uplayedurself (button) folded on the Pre-Flop
+
+Hand #1097934231 - Holdem(No Limit) - $0.02/$0.05 - 2022/01/25 03:22:15 UTC
+Citrus Heights 6-max Seat #1 is the button
+Seat 1: MezcalMule ($12.53)
+Seat 2: RoastBeefSteak ($5.00)
+Seat 3: NuChoTam ($1.85)
+Seat 4: Durbinjag ($1.24)
+Seat 5: Bjohnson56 ($2.50)
+Seat 6: uplayedurself ($7.69)
+RoastBeefSteak posts the small blind $0.02
+NuChoTam posts the big blind $0.05
+*** HOLE CARDS ***
+Dealt to MezcalMule [As 5s]
+Durbinjag folds
+Bjohnson56 folds
+uplayedurself folds
+MezcalMule raises $0.11 to $0.11
+RoastBeefSteak folds
+NuChoTam raises $1.80 to $1.85 and is all-in
+MezcalMule calls $1.74
+*** FLOP *** [8d Th Qs]
+Main pot $3.54 | Rake $0.18
+*** TURN *** [8d Th Qs] [2c]
+Main pot $3.54 | Rake $0.18
+*** RIVER *** [8d Th Qs 2c] [8h]
+Main pot $3.54 | Rake $0.18
+*** SHOW DOWN ***
+Main pot $3.54 | Rake $0.18
+MezcalMule shows [As 5s] (a pair of Eights [8h 8d As Qs Th])
+NuChoTam shows [Kc Ah] (a pair of Eights [8h 8d Ah Kc Qs])
+NuChoTam collected $3.54 from main pot
+*** SUMMARY ***
+Total pot $3.54 | Rake $0.12 | JP Fee $0.06
+Board [8d Th Qs 2c 8h]
+Seat 1: MezcalMule (button) showed [As 5s] and lost with a pair of Eights [8h 8d As Qs Th]
+Seat 2: RoastBeefSteak (small blind) folded on the Pre-Flop
+Seat 3: NuChoTam (big blind) showed [Kc Ah] and won $3.54 with a pair of Eights [8h 8d Ah Kc Qs] with the kicker King
+Seat 4: Durbinjag folded on the Pre-Flop and did not bet
+Seat 5: Bjohnson56 folded on the Pre-Flop and did not bet
+Seat 6: uplayedurself folded on the Pre-Flop and did not bet
+
